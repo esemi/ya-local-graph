@@ -1,0 +1,5 @@
+.idea
+*.pyc
+venv
+build
+app/config_local.py
