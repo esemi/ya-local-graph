@@ -1,0 +1,6 @@
+pip
+Flask
+Fabric
+gunicorn
+lxml
+requests
