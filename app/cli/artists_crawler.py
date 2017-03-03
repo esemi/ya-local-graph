@@ -36,7 +36,6 @@ class Manager(object):
         new_artists_count = 0
         while True:
             logging.info('parse %s url' % self.driver.current_url)
-            next_button = self.driver.find_element_by_xpath('//div[@class="pager"]//a[contains(@class, "button_pin_left")]')
             new_artists = self.__fetch_all_artists()
             logging.info('found %d artists' % len(new_artists))
             if not new_artists:
@@ -48,7 +47,14 @@ class Manager(object):
             logging.info('new %d artists' % new_artists_count)
 
             self.driver.execute_script("window.scrollTo(0,document.body.scrollHeight);")
-            next_button.click()
+            try:
+                next_e = self.driver.find_element_by_xpath('//div[@class="pager"]'
+                                                           '//a[contains(@class, "button_pin_left") and '
+                                                           'not(contains(@class, "button_checked"))]')
+            except NoSuchElementException:
+                break
+
+            next_e.click()
             custom_wait()
 
         logging.info('found %d new artists total' % new_artists_count)
