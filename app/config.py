@@ -2,7 +2,11 @@
 
 import os
 
-DEBUG = True
+DB_USER = 'ya'
+DB_PSWD = 'ya'
+DB_NAME = 'ya'
+
+DEBUG = False
 CUSTOM_WAIT_TIMEOUT = (5, 15)
 FIND_TIMEOUT = 15
 REQUEST_TIMEOUT = 15

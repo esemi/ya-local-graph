@@ -1,3 +1,5 @@
 selenium
 lxml
 requests
+peewee
+psycopg2
