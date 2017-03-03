@@ -1,6 +1,3 @@
-pip
-Flask
-Fabric
-gunicorn
+selenium
 lxml
 requests
