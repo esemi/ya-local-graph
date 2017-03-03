@@ -13,5 +13,5 @@
 $ virtualenv -p python3 venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
-$ ./cli-run.py artists_crawl 'Rock'
+$ ./cli-run.py artists_crawl 'rock'
 ```
