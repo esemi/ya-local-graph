@@ -3,3 +3,4 @@ lxml
 requests
 peewee
 psycopg2
+python-igraph

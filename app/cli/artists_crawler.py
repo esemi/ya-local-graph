@@ -22,6 +22,9 @@ class Manager(object):
 
     def __init__(self):
         os.environ["webdriver.chrome.driver"] = config.CHROME_DRIVER_PATH
+        self._start()
+
+    def _start(self):
         self.driver = webdriver.Chrome(executable_path=config.CHROME_DRIVER_PATH)
         self.driver.set_page_load_timeout(config.REQUEST_TIMEOUT)
         self.driver.implicitly_wait(config.FIND_TIMEOUT)
@@ -29,6 +32,10 @@ class Manager(object):
     def close(self):
         if self.driver:
             self.driver.quit()
+
+    def restart(self):
+        self.close()
+        self._start()
 
     def similar_crawling(self):
         logging.info('run similar crawling')
@@ -66,6 +73,9 @@ class Manager(object):
             finally:
                 if cnt['nodes_total'] % 10 == 0:
                     logging.info('loop %s | v=%.2f artist/sec', cnt, cnt['nodes_total'] / (time.time() - start_time))
+
+                if cnt['nodes_total'] % 200 == 0:
+                    self.restart()
 
         logging.info('end %s', cnt)
 

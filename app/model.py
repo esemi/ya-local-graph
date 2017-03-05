@@ -13,6 +13,8 @@ class Artist(Model):
     name = CharField()
     is_main_node = BooleanField(index=True)
     need_crawl_similar = BooleanField(index=True)
+    degree_input = IntegerField()
+    degree_output = IntegerField()
 
     class Meta:
         database = db
@@ -52,3 +54,6 @@ def update_need_crawl_similar(id, state):
     q = Artist.update(need_crawl_similar=state).where(Artist.id == id)
     q.execute()
 
+
+def fetch_graph():
+    pass

@@ -25,3 +25,12 @@ CREATE TABLE "similar" (
 ALTER TABLE "similar" ADD CONSTRAINT "similar_from_to" PRIMARY KEY ("from_id", "to_id");
 ALTER TABLE "similar" ADD FOREIGN KEY ("from_id") REFERENCES "artist" ("id") ON DELETE CASCADE ON UPDATE CASCADE;
 ALTER TABLE "similar" ADD FOREIGN KEY ("to_id") REFERENCES "artist" ("id") ON DELETE CASCADE ON UPDATE CASCADE;
+
+ALTER TABLE "artist" ADD "degree" integer NOT NULL DEFAULT '0';
+ALTER TABLE "artist"
+ALTER "degree" TYPE integer,
+ALTER "degree" SET DEFAULT '0',
+ALTER "degree" SET NOT NULL,
+ADD "degree_output" integer NOT NULL DEFAULT '0';
+ALTER TABLE "artist" RENAME "degree" TO "degree_input";
+UPDATE "artist" SET degree_output = (SELECT COUNT(*) FROM "similar" WHERE from_id = id), degree_input = (SELECT COUNT(*) FROM "similar" WHERE to_id = id);
