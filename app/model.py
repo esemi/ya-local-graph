@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
-from peewee import PostgresqlDatabase, Model, CharField, IntegerField, IntegrityError, BooleanField, CompositeKey
+from peewee import PostgresqlDatabase, Model, CharField, IntegerField, IntegrityError, BooleanField, CompositeKey, \
+    RawQuery
 
 from app.config import DB_USER, DB_PSWD, DB_NAME
 
@@ -55,5 +56,17 @@ def update_need_crawl_similar(id, state):
     q.execute()
 
 
-def fetch_graph():
-    pass
+def fetch_graph_genre_short():
+    """Return main genre graph w/o single nodes"""
+    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label '
+                           'FROM "similar" '
+                           'JOIN "artist" a1 ON (from_id = a1.id) '
+                           'JOIN "artist" a2 ON (to_id = a2.id) '
+                           'WHERE a1.is_main_node = True AND a2.is_main_node = True')
+    nodes = {}
+    edges = []
+    for obj in rq.execute():
+        nodes[obj.from_id] = obj.from_label
+        nodes[obj.to_id] = obj.to_label
+        edges.append((obj.from_id, obj.to_id))
+    return nodes, edges
