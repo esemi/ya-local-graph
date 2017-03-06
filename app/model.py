@@ -3,7 +3,7 @@
 from peewee import PostgresqlDatabase, Model, CharField, IntegerField, IntegrityError, BooleanField, CompositeKey, \
     RawQuery
 
-from app.config import DB_USER, DB_PSWD, DB_NAME
+from app.config import DB_USER, DB_PSWD, DB_NAME, GRAPH_EXPORT_LIMIT
 
 db = PostgresqlDatabase(DB_NAME, user=DB_USER, password=DB_PSWD, autorollback=True)
 db.connect()
@@ -56,17 +56,34 @@ def update_need_crawl_similar(id, state):
     q.execute()
 
 
-def fetch_graph_genre_short():
-    """Return main genre graph w/o single nodes"""
+def fetch_graph_short():
+    """Return genre graph w/o single nodes"""
     rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label '
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
-                           'WHERE a1.is_main_node = True AND a2.is_main_node = True')
+                           'WHERE a1.is_main_node = True AND a2.is_main_node = True LIMIT %d' % GRAPH_EXPORT_LIMIT)
     nodes = {}
     edges = []
     for obj in rq.execute():
-        nodes[obj.from_id] = obj.from_label
-        nodes[obj.to_id] = obj.to_label
+        nodes[obj.from_id] = {'label': obj.from_label, 'color': 'red'}
+        nodes[obj.to_id] = {'label': obj.to_label, 'color': 'red'}
+        edges.append((obj.from_id, obj.to_id))
+    return nodes, edges
+
+
+def fetch_graph_full():
+    """Return full graph w/o single nodes"""
+    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, '
+                           'a1.is_main_node as from_main, a2.is_main_node as to_main '
+                           'FROM "similar" '
+                           'JOIN "artist" a1 ON (from_id = a1.id) '
+                           'JOIN "artist" a2 ON (to_id = a2.id) '
+                           'LIMIT %d' % GRAPH_EXPORT_LIMIT)
+    nodes = {}
+    edges = []
+    for obj in rq.execute():
+        nodes[obj.from_id] = {'label': obj.from_label, 'color': 'red' if obj.from_main else 'blue'}
+        nodes[obj.to_id] = {'label': obj.to_label, 'color': 'red' if obj.to_main else 'blue'}
         edges.append((obj.from_id, obj.to_id))
     return nodes, edges
