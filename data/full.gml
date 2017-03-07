@@ -2,4213 +2,4213 @@ graph [
     directed 1
     node [
         id 487424
+        color "blue"
         label "Instrumental Champions"
-        color "green"
     ]
     node [
         id 13312
-        label "Wayne Fontana"
         color "red"
+        label "Wayne Fontana"
     ]
     node [
         id 26628
+        color "blue"
         label "Alanis Morissette"
-        color "green"
     ]
     node [
         id 16389
+        color "blue"
         label "Wray"
-        color "green"
     ]
     node [
         id 7
-        label "Francis Rossi"
         color "red"
+        label "Francis Rossi"
     ]
     node [
         id 8
+        color "blue"
         label "Bob Young"
-        color "green"
     ]
     node [
         id 9
-        label "Status Quo"
         color "red"
+        label "Status Quo"
     ]
     node [
         id 6154
+        color "blue"
         label "Jeff Barry"
-        color "green"
     ]
     node [
         id 36875
-        label "The Byrds"
         color "red"
+        label "The Byrds"
     ]
     node [
         id 14
-        label "Carole King"
         color "red"
+        label "Carole King"
     ]
     node [
         id 15
+        color "blue"
         label "Sharon Robinson"
-        color "green"
     ]
     node [
         id 2066
-        label "Bloc Party"
         color "red"
+        label "Bloc Party"
     ]
     node [
         id 21
-        label "Gerry Goffin"
         color "red"
+        label "Gerry Goffin"
     ]
     node [
         id 22
-        label "Leonard Cohen"
         color "red"
+        label "Leonard Cohen"
     ]
     node [
         id 2072
+        color "blue"
         label "Tyson Ritter"
-        color "green"
     ]
     node [
         id 149530
+        color "blue"
         label "De/Vision"
-        color "green"
     ]
     node [
         id 167964
+        color "blue"
         label "The Ettes"
-        color "green"
     ]
     node [
         id 2078
+        color "blue"
         label "Lara Fabian"
-        color "green"
     ]
     node [
         id 33
+        color "blue"
         label "John Coltrane"
-        color "green"
     ]
     node [
         id 34
+        color "blue"
         label "Miles Davis"
-        color "green"
     ]
     node [
         id 2090
-        label "Peter Gabriel"
         color "red"
+        label "Peter Gabriel"
     ]
     node [
         id 294961
-        label "VNV Nation"
         color "red"
+        label "VNV Nation"
     ]
     node [
         id 7859
+        color "blue"
         label "Don Williams"
-        color "green"
     ]
     node [
         id 32822
+        color "blue"
         label "Brian Wheat"
-        color "green"
     ]
     node [
         id 32823
+        color "blue"
         label "Jeff Keith"
-        color "green"
     ]
     node [
         id 32824
+        color "blue"
         label "Frank Hannon"
-        color "green"
     ]
     node [
         id 49209
-        label "Beth Hart"
         color "red"
+        label "Beth Hart"
     ]
     node [
         id 4447
-        label "Robert Plant"
         color "red"
+        label "Robert Plant"
     ]
     node [
         id 90122
+        color "blue"
         label "Telex"
-        color "green"
     ]
     node [
         id 167998
+        color "blue"
         label "Al Green"
-        color "green"
     ]
     node [
         id 238261
+        color "blue"
         label "Robert Knight"
-        color "green"
     ]
     node [
         id 81985
-        label "Fruit Bats"
         color "red"
+        label "Fruit Bats"
     ]
     node [
         id 12357
-        label "Keane"
         color "red"
+        label "Keane"
     ]
     node [
         id 81990
-        label "Blues Traveler"
         color "red"
+        label "Blues Traveler"
     ]
     node [
         id 1243209
+        color "blue"
         label "Mavericks"
-        color "green"
     ]
     node [
         id 12362
-        label "Wolfmother"
         color "red"
+        label "Wolfmother"
     ]
     node [
         id 6226
+        color "blue"
         label "Tom Paxton"
-        color "green"
     ]
     node [
         id 26979
+        color "blue"
         label "Blaqk Audio"
-        color "green"
     ]
     node [
         id 87
-        label "Michael Schenker"
         color "red"
+        label "Michael Schenker"
     ]
     node [
         id 90
-        label "Scorpions"
         color "red"
+        label "Scorpions"
     ]
     node [
         id 235194
-        label "Gotthard"
         color "red"
+        label "Gotthard"
     ]
     node [
         id 94
-        label "Brett Dennen"
         color "red"
+        label "Brett Dennen"
     ]
     node [
         id 835684
+        color "blue"
         label "Geoff Whitehorn"
-        color "green"
     ]
     node [
         id 835685
-        label "Siggi Schwarz"
         color "red"
+        label "Siggi Schwarz"
     ]
     node [
         id 295014
-        label "Korpiklaani"
         color "red"
+        label "Korpiklaani"
     ]
     node [
         id 200811
+        color "blue"
         label "Milow"
-        color "green"
     ]
     node [
         id 20588
-        label "Steve Hackett"
         color "red"
+        label "Steve Hackett"
     ]
     node [
         id 92269
-        label "Freddie & The Dreamers"
         color "red"
+        label "Freddie & The Dreamers"
     ]
     node [
         id 8306
+        color "blue"
         label "Wayne Shorter"
-        color "green"
     ]
     node [
         id 39273
+        color "blue"
         label "Drake"
-        color "green"
     ]
     node [
         id 47228
-        label "Girlschool"
         color "red"
+        label "Girlschool"
     ]
     node [
         id 3093
-        label "The Edge"
         color "red"
+        label "The Edge"
     ]
     node [
         id 30400
+        color "blue"
         label "Carl Smith"
-        color "green"
     ]
     node [
         id 2070
-        label "The All-American Rejects"
         color "red"
+        label "The All-American Rejects"
     ]
     node [
         id 32903
+        color "blue"
         label "Connect-R"
-        color "green"
     ]
     node [
         id 20616
-        label "Dave Edmunds"
         color "red"
+        label "Dave Edmunds"
     ]
     node [
         id 381067
+        color "blue"
         label "Ed Sheeran"
-        color "green"
     ]
     node [
         id 32909
+        color "blue"
         label "Smiley"
-        color "green"
     ]
     node [
         id 6290
-        label "Linda McCartney"
         color "red"
+        label "Linda McCartney"
     ]
     node [
         id 1200277
-        label "The Raconteurs"
         color "red"
+        label "The Raconteurs"
     ]
     node [
         id 8343
-        label "Tony Banks"
         color "red"
+        label "Tony Banks"
     ]
     node [
         id 59546
-        label "Poison"
         color "red"
+        label "Poison"
     ]
     node [
         id 79215
-        label "Queen"
         color "red"
+        label "Queen"
     ]
     node [
         id 1650844
-        label "Turbowolf"
         color "red"
+        label "Turbowolf"
     ]
     node [
         id 16546
+        color "blue"
         label "Sophie Ellis-Bextor"
-        color "green"
     ]
     node [
         id 12453
-        label "Waylon Jennings"
         color "red"
+        label "Waylon Jennings"
     ]
     node [
         id 417958
-        label "Schandmaul"
         color "red"
+        label "Schandmaul"
     ]
     node [
         id 37031
+        color "blue"
         label "Sinéad O'Connor"
-        color "green"
     ]
     node [
         id 47272
+        color "blue"
         label "Alphaville"
-        color "green"
     ]
     node [
         id 1265837
+        color "blue"
         label "Dananananaykroyd"
-        color "green"
     ]
     node [
         id 176
+        color "blue"
         label "Four Tops"
-        color "green"
     ]
     node [
         id 2760
+        color "blue"
         label "Robert Smith"
-        color "green"
     ]
     node [
         id 51382
+        color "blue"
         label "Mark Farner"
-        color "green"
     ]
     node [
         id 183
-        label "Simple Minds"
         color "red"
+        label "Simple Minds"
     ]
     node [
         id 2232
-        label "Jeff Timmons"
         color "red"
+        label "Jeff Timmons"
     ]
     node [
         id 29044
+        color "blue"
         label "Ace of Base"
-        color "green"
     ]
     node [
         id 81909
-        label "Charlie Musselwhite"
         color "red"
+        label "Charlie Musselwhite"
     ]
     node [
         id 188
-        label "Neil Young"
         color "red"
+        label "Neil Young"
     ]
     node [
         id 2237
+        color "blue"
         label "Isaac Hayes"
-        color "green"
     ]
     node [
         id 800959
+        color "blue"
         label "WhoMadeWho"
-        color "green"
     ]
     node [
         id 87072
+        color "blue"
         label "Interpol"
-        color "green"
     ]
     node [
         id 194
+        color "blue"
         label "Steven Severin"
-        color "green"
     ]
     node [
         id 86211
+        color "blue"
         label "Brinsley Schwarz"
-        color "green"
     ]
     node [
         id 37060
-        label "Huey Lewis & The News"
         color "red"
+        label "Huey Lewis & The News"
     ]
     node [
         id 12662
+        color "blue"
         label "Massive Attack"
-        color "green"
     ]
     node [
         id 9249
+        color "blue"
         label "Charlie Haden"
-        color "green"
     ]
     node [
         id 1423560
-        label "Reuben"
         color "red"
+        label "Reuben"
     ]
     node [
         id 164043
+        color "blue"
         label "Resorte"
-        color "green"
     ]
     node [
         id 184529
-        label "Good Charlotte"
         color "red"
+        label "Good Charlotte"
     ]
     node [
         id 133330
+        color "blue"
         label "The Squires"
-        color "green"
     ]
     node [
         id 2259
+        color "blue"
         label "98º"
-        color "green"
     ]
     node [
         id 59604
+        color "blue"
         label "Vinicio Capossela"
-        color "green"
     ]
     node [
         id 185233
+        color "blue"
         label "Black Kids"
-        color "green"
     ]
     node [
         id 45698
+        color "blue"
         label "Mystery Jets"
-        color "green"
     ]
     node [
         id 4473
-        label "Pete Townshend"
         color "red"
+        label "Pete Townshend"
     ]
     node [
         id 379
-        label "We Have Band"
         color "red"
+        label "We Have Band"
     ]
     node [
         id 227559
+        color "blue"
         label "Grinspoon"
-        color "green"
     ]
     node [
         id 4329
-        label "Peter Cetera"
         color "red"
+        label "Peter Cetera"
     ]
     node [
         id 323819
-        label "The Cinematics"
         color "red"
+        label "The Cinematics"
     ]
     node [
         id 215276
-        label "Uli Jon Roth"
         color "red"
+        label "Uli Jon Roth"
     ]
     node [
         id 22766
-        label "Fiona Apple"
         color "red"
+        label "Fiona Apple"
     ]
     node [
         id 4336
+        color "blue"
         label "Kit Hain"
-        color "green"
     ]
     node [
         id 84210
-        label "The Ventures"
         color "red"
+        label "The Ventures"
     ]
     node [
         id 762101
+        color "blue"
         label "Shovels & Rope"
-        color "green"
     ]
     node [
         id 2953463
+        color "blue"
         label "Tina Turner & Ike Turner"
-        color "green"
     ]
     node [
         id 6394
-        label "Lou Reed"
         color "red"
+        label "Lou Reed"
     ]
     node [
         id 10495
+        color "blue"
         label "Mark Everett"
-        color "green"
     ]
     node [
         id 12544
+        color "blue"
         label "Peter Tosh"
-        color "green"
     ]
     node [
         id 258
-        label "Iris"
         color "red"
+        label "Iris"
     ]
     node [
         id 259
-        label "Phil Lynott"
         color "red"
+        label "Phil Lynott"
     ]
     node [
         id 4481
-        label "The Who"
         color "red"
+        label "The Who"
     ]
     node [
         id 14606
-        label "Aerosmith"
         color "red"
+        label "Aerosmith"
     ]
     node [
         id 28376
-        label "David Coverdale"
         color "red"
+        label "David Coverdale"
     ]
     node [
         id 2128942
+        color "blue"
         label "Carl Man"
-        color "green"
     ]
     node [
         id 606486
+        color "blue"
         label "Deer Tick"
-        color "green"
     ]
     node [
         id 279
-        label "Cinderella"
         color "red"
+        label "Cinderella"
     ]
     node [
         id 604441
-        label "Electro Mode Inc."
         color "red"
+        label "Electro Mode Inc."
     ]
     node [
         id 1175840
+        color "blue"
         label "Mason Ruffner"
-        color "green"
     ]
     node [
         id 291
-        label "a-ha"
         color "red"
+        label "a-ha"
     ]
     node [
         id 6439
-        label "Claude François"
         color "red"
+        label "Claude François"
     ]
     node [
         id 307496
+        color "blue"
         label "Grasu XXL"
-        color "green"
     ]
     node [
         id 298
-        label "Chris Thompson"
         color "red"
+        label "Chris Thompson"
     ]
     node [
         id 15410
+        color "blue"
         label "Stephen Marley"
-        color "green"
     ]
     node [
         id 28977
+        color "blue"
         label "Kele Okereke"
-        color "green"
     ]
     node [
         id 8498
-        label "Blink-182"
         color "red"
+        label "Blink-182"
     ]
     node [
         id 45363
-        label "Little Feat"
         color "red"
+        label "Little Feat"
     ]
     node [
         id 57652
-        label "Neil Young & Crazy Horse"
         color "red"
+        label "Neil Young & Crazy Horse"
     ]
     node [
         id 322270
+        color "blue"
         label "Lee Morgan Sextet"
-        color "green"
     ]
     node [
         id 2358
-        label "September"
         color "red"
+        label "September"
     ]
     node [
         id 102712
-        label "Warren Smith"
         color "red"
+        label "Warren Smith"
     ]
     node [
         id 2046265
-        label "Arcane Roots"
         color "red"
+        label "Arcane Roots"
     ]
     node [
         id 102714
-        label "Hasil Adkins"
         color "red"
+        label "Hasil Adkins"
     ]
     node [
         id 315
-        label "Richard Marx"
         color "red"
+        label "Richard Marx"
     ]
     node [
         id 316
-        label "Felix Martin"
         color "red"
+        label "Felix Martin"
     ]
     node [
         id 80192
+        color "blue"
         label "Alex Conti"
-        color "green"
     ]
     node [
         id 22240
+        color "blue"
         label "Bob Neuwirth"
-        color "green"
     ]
     node [
         id 322
+        color "blue"
         label "Joe Goddard"
-        color "green"
     ]
     node [
         id 166215
+        color "blue"
         label "Rob Lee"
-        color "green"
     ]
     node [
         id 2875
-        label "Lee Hazlewood"
         color "red"
+        label "Lee Hazlewood"
     ]
     node [
         id 2378
-        label "Freddie King"
         color "red"
+        label "Freddie King"
     ]
     node [
         id 4428
+        color "blue"
         label "Charles Aznavour"
-        color "green"
     ]
     node [
         id 2381
+        color "blue"
         label "Sonny Thompson"
-        color "green"
     ]
     node [
         id 93581
+        color "blue"
         label "Metropole Orkest"
-        color "green"
     ]
     node [
         id 1974608
+        color "blue"
         label "Parazitii"
-        color "green"
     ]
     node [
         id 616793
+        color "blue"
         label "J Roddy Walston & The Business"
-        color "green"
     ]
     node [
         id 2689
-        label "Caesar Palace"
         color "red"
+        label "Caesar Palace"
     ]
     node [
         id 349
+        color "blue"
         label "Willie Dixon"
-        color "green"
     ]
     node [
         id 351
-        label "Muddy Waters"
         color "red"
+        label "Muddy Waters"
     ]
     node [
         id 246115
+        color "blue"
         label "Magic Sam"
-        color "green"
     ]
     node [
         id 4454
-        label "Jimmy Page"
         color "red"
+        label "Jimmy Page"
     ]
     node [
         id 360
-        label "Pulled Apart By Horses"
         color "red"
+        label "Pulled Apart By Horses"
     ]
     node [
         id 4457
+        color "blue"
         label "Jack White"
-        color "green"
     ]
     node [
         id 43373
+        color "blue"
         label "Pat Metheny"
-        color "green"
     ]
     node [
         id 160112
+        color "blue"
         label "The Legends"
-        color "green"
     ]
     node [
         id 57714
-        label "Nancy Sinatra"
         color "red"
+        label "Nancy Sinatra"
     ]
     node [
         id 49555
-        label "We Are Scientists"
         color "red"
+        label "We Are Scientists"
     ]
     node [
         id 1114484
+        color "blue"
         label "Link Wray and His Ray Men"
-        color "green"
     ]
     node [
         id 2422
+        color "blue"
         label "Giorgio Moroder"
-        color "green"
     ]
     node [
         id 382356
+        color "blue"
         label "MSG (McAuley Schenker Group)"
-        color "green"
     ]
     node [
         id 3013
-        label "Tony Iommi"
         color "red"
+        label "Tony Iommi"
     ]
     node [
         id 4475
-        label "Eddie Cochran"
         color "red"
+        label "Eddie Cochran"
     ]
     node [
         id 10620
+        color "blue"
         label "Ernest Tubb"
-        color "green"
     ]
     node [
         id 6526
-        label "Mötley Crüe"
         color "red"
+        label "Mötley Crüe"
     ]
     node [
         id 2431
-        label "David Foster"
         color "red"
+        label "David Foster"
     ]
     node [
         id 10625
-        label "Angels and Airwaves"
         color "red"
+        label "Angels and Airwaves"
     ]
     node [
         id 6891
-        label "Nazareth"
         color "red"
+        label "Nazareth"
     ]
     node [
         id 29060
-        label "The Doors"
         color "red"
+        label "The Doors"
     ]
     node [
         id 6536
-        label "Phil Collins"
         color "red"
+        label "Phil Collins"
     ]
     node [
         id 608650
-        label "The Easybeats"
         color "red"
+        label "The Easybeats"
     ]
     node [
         id 24301
-        label "Thin Lizzy"
         color "red"
+        label "Thin Lizzy"
     ]
     node [
         id 450963
+        color "blue"
         label "Captain and Tennille"
-        color "green"
     ]
     node [
         id 20131
+        color "blue"
         label "The James Taylor Quartet"
-        color "green"
     ]
     node [
         id 47513
-        label "Echo and The Bunnymen"
         color "red"
+        label "Echo and The Bunnymen"
     ]
     node [
         id 299416
+        color "blue"
         label "Sean Ensign"
-        color "green"
     ]
     node [
         id 5188
+        color "blue"
         label "Tammy Wynette"
-        color "green"
     ]
     node [
         id 4508
+        color "blue"
         label "The Mavericks"
-        color "green"
     ]
     node [
         id 229792
+        color "blue"
         label "The Flecktones"
-        color "green"
     ]
     node [
         id 4515
-        label "Bill Haley & His Comets"
         color "red"
+        label "Bill Haley & His Comets"
     ]
     node [
         id 4517
-        label "The Beach Boys"
         color "red"
+        label "The Beach Boys"
     ]
     node [
         id 423
+        color "blue"
         label "Albert King"
-        color "green"
     ]
     node [
         id 8616
+        color "blue"
         label "Nina Simone"
-        color "green"
     ]
     node [
         id 612764
+        color "blue"
         label "Dean Parish"
-        color "green"
     ]
     node [
         id 4524
-        label "Chuck Berry"
         color "red"
+        label "Chuck Berry"
     ]
     node [
         id 432
-        label "Melanie"
         color "red"
+        label "Melanie"
     ]
     node [
         id 436
-        label "John Denver"
         color "red"
+        label "John Denver"
     ]
     node [
         id 300105
-        label "Marmalade"
         color "red"
+        label "Marmalade"
     ]
     node [
         id 233914
-        label "Howling Bells"
         color "red"
+        label "Howling Bells"
     ]
     node [
         id 443
+        color "blue"
         label "Ray Charles"
-        color "green"
     ]
     node [
         id 68031
-        label "Blackfoot"
         color "red"
+        label "Blackfoot"
     ]
     node [
         id 2497
-        label "Peter Green"
         color "red"
+        label "Peter Green"
     ]
     node [
         id 88514
+        color "blue"
         label "Iron Maiden"
-        color "green"
     ]
     node [
         id 173131
+        color "blue"
         label "Boys Like Girls"
-        color "green"
     ]
     node [
         id 3208
+        color "blue"
         label "Peter Clarke"
-        color "green"
     ]
     node [
         id 149227
-        label "Bauhaus"
         color "red"
+        label "Bauhaus"
     ]
     node [
         id 6601
-        label "The Rolling Stones"
         color "red"
+        label "The Rolling Stones"
     ]
     node [
         id 106959
-        label "The Marshall Tucker Band"
         color "red"
+        label "The Marshall Tucker Band"
     ]
     node [
         id 98040
-        label "The Band"
         color "red"
+        label "The Band"
     ]
     node [
         id 10659
-        label "Fats Domino"
         color "red"
+        label "Fats Domino"
     ]
     node [
         id 326103
+        color "blue"
         label "Is Tropical"
-        color "green"
     ]
     node [
         id 6616
+        color "blue"
         label "Elmore James"
-        color "green"
     ]
     node [
         id 7449
-        label "Harry Chapin"
         color "red"
+        label "Harry Chapin"
     ]
     node [
         id 6621
-        label "The Allman Brothers Band"
         color "red"
+        label "The Allman Brothers Band"
     ]
     node [
         id 2526
+        color "blue"
         label "Hank Williams"
-        color "green"
     ]
     node [
         id 2580960
+        color "blue"
         label "4 Girls 4 Harps"
-        color "green"
     ]
     node [
         id 1165794
+        color "blue"
         label "The Overtures"
-        color "green"
     ]
     node [
         id 2812
-        label "James Taylor"
         color "red"
+        label "James Taylor"
     ]
     node [
         id 10731
-        label "Dire Straits"
         color "red"
+        label "Dire Straits"
     ]
     node [
         id 10732
+        color "blue"
         label "Passengers"
-        color "green"
     ]
     node [
         id 4178
+        color "blue"
         label "Edith Piaf"
-        color "green"
     ]
     node [
         id 51624
+        color "blue"
         label "Adamo"
-        color "green"
     ]
     node [
         id 2546
-        label "The Virgins"
         color "red"
+        label "The Virgins"
     ]
     node [
         id 500
-        label "The International Classic Rock Orchestra [Orchestra]"
         color "red"
+        label "The International Classic Rock Orchestra [Orchestra]"
     ]
     node [
         id 85758
+        color "blue"
         label "The O'Jays"
-        color "green"
     ]
     node [
         id 34217
+        color "blue"
         label "Toni Braxton"
-        color "green"
     ]
     node [
         id 6653
-        label "Billy Joel"
         color "red"
+        label "Billy Joel"
     ]
     node [
         id 94718
+        color "blue"
         label "Patrick Bruel"
-        color "green"
     ]
     node [
         id 135682
+        color "blue"
         label "Jack Wagner"
-        color "green"
     ]
     node [
         id 602627
-        label "Rock Feast"
         color "red"
+        label "Rock Feast"
     ]
     node [
         id 2736644
+        color "blue"
         label "Conquering Dystopia"
-        color "green"
     ]
     node [
         id 299525
+        color "blue"
         label "Smiley Lewis"
-        color "green"
     ]
     node [
         id 57862
-        label "Fleetwood Mac"
         color "red"
+        label "Fleetwood Mac"
     ]
     node [
         id 1014281
+        color "blue"
         label "Motorama"
-        color "green"
     ]
     node [
         id 18954
+        color "blue"
         label "Susan Tedeschi"
-        color "green"
     ]
     node [
         id 35927
+        color "blue"
         label "The Cramps"
-        color "green"
     ]
     node [
         id 1453
-        label "Warlock"
         color "red"
+        label "Warlock"
     ]
     node [
         id 125460
+        color "blue"
         label "Pusha T"
-        color "green"
     ]
     node [
         id 533
+        color "blue"
         label "Bill Evans"
-        color "green"
     ]
     node [
         id 2583
-        label "Motion City Soundtrack"
         color "red"
+        label "Motion City Soundtrack"
     ]
     node [
         id 590361
-        label "Citizens!"
         color "red"
+        label "Citizens!"
     ]
     node [
         id 539
-        label "Puya"
         color "red"
+        label "Puya"
     ]
     node [
         id 2588
+        color "blue"
         label "Robin Gibb"
-        color "green"
     ]
     node [
         id 1040925
-        label "Frantic Flintstones"
         color "red"
+        label "Frantic Flintstones"
     ]
     node [
         id 356896
-        label "Peter Green Splinter Group"
         color "red"
+        label "Peter Green Splinter Group"
     ]
     node [
         id 668198
+        color "blue"
         label "Bodi Bill"
-        color "green"
     ]
     node [
         id 432680
+        color "blue"
         label "George Harris"
-        color "green"
     ]
     node [
         id 64604
-        label "Bad Religion"
         color "red"
+        label "Bad Religion"
     ]
     node [
         id 4650
-        label "David Bowie"
         color "red"
+        label "David Bowie"
     ]
     node [
         id 117293
+        color "blue"
         label "Johnny Hickman"
-        color "green"
     ]
     node [
         id 154161
-        label "Gov't Mule"
         color "red"
+        label "Gov't Mule"
     ]
     node [
         id 204810
+        color "blue"
         label "Béla Fleck & The Flecktones"
-        color "green"
     ]
     node [
         id 84532
-        label "Orchestral Manoeuvres In The Dark"
         color "red"
+        label "Orchestral Manoeuvres In The Dark"
     ]
     node [
         id 566
+        color "blue"
         label "Stevie Wonder"
-        color "green"
     ]
     node [
         id 6921
-        label "Rainbow"
         color "red"
+        label "Rainbow"
     ]
     node [
         id 72256
+        color "blue"
         label "Marmaduke Duke"
-        color "green"
     ]
     node [
         id 578
+        color "blue"
         label "Burt Bacharach"
-        color "green"
     ]
     node [
         id 23307
+        color "blue"
         label "Hammond"
-        color "green"
     ]
     node [
         id 590
+        color "blue"
         label "Sonny Rollins"
-        color "green"
     ]
     node [
         id 4692
-        label "The Moody Blues"
         color "red"
+        label "The Moody Blues"
     ]
     node [
         id 118884
+        color "blue"
         label "Whitney Houston"
-        color "green"
     ]
     node [
         id 602
+        color "blue"
         label "B.B. King"
-        color "green"
     ]
     node [
         id 604
+        color "blue"
         label "Walter Afanasieff"
-        color "green"
     ]
     node [
         id 606
+        color "blue"
         label "James Brown"
-        color "green"
     ]
     node [
         id 4705
-        label "The Tremeloes"
         color "red"
+        label "The Tremeloes"
     ]
     node [
         id 612
-        label "Michael McDonald"
         color "red"
+        label "Michael McDonald"
     ]
     node [
         id 252519
-        label "U.D.O."
         color "red"
+        label "U.D.O."
     ]
     node [
         id 616
+        color "blue"
         label "Professor Longhair"
-        color "green"
     ]
     node [
         id 78444
-        label "Duane Eddy"
         color "red"
+        label "Duane Eddy"
     ]
     node [
         id 100114
+        color "blue"
         label "Jakobinarina"
-        color "green"
     ]
     node [
         id 23156
+        color "blue"
         label "Ziggy Marley"
-        color "green"
     ]
     node [
         id 51830
+        color "blue"
         label "Gyroscope"
-        color "green"
     ]
     node [
         id 291448
+        color "blue"
         label "The Crests"
-        color "green"
     ]
     node [
         id 43641
+        color "blue"
         label "Keith Jarrett Trio"
-        color "green"
     ]
     node [
         id 635
-        label "Dave Matthews Band"
         color "red"
+        label "Dave Matthews Band"
     ]
     node [
         id 637
-        label "Bonnie Raitt"
         color "red"
+        label "Bonnie Raitt"
     ]
     node [
         id 252543
-        label "Grave Digger"
         color "red"
+        label "Grave Digger"
     ]
     node [
         id 640
-        label "Brian Wilson"
         color "red"
+        label "Brian Wilson"
     ]
     node [
         id 641
-        label "John Fogerty"
         color "red"
+        label "John Fogerty"
     ]
     node [
         id 642
-        label "Dr. John"
         color "red"
+        label "Dr. John"
     ]
     node [
         id 68227
-        label "Led Zeppelin"
         color "red"
+        label "Led Zeppelin"
     ]
     node [
         id 19076
-        label "Carl Perkins"
         color "red"
+        label "Carl Perkins"
     ]
     node [
         id 2694
+        color "blue"
         label "Art Blakey"
-        color "green"
     ]
     node [
         id 17031
-        label "Powderfinger"
         color "red"
+        label "Powderfinger"
     ]
     node [
         id 648
+        color "blue"
         label "Barbra Streisand"
-        color "green"
     ]
     node [
         id 7276
+        color "blue"
         label "Björk"
-        color "green"
     ]
     node [
         id 57111
+        color "blue"
         label "Emmanuel Moire"
-        color "green"
     ]
     node [
         id 217740
-        label "Ronnie Wood"
         color "red"
+        label "Ronnie Wood"
     ]
     node [
         id 7618
-        label "Beck"
         color "red"
+        label "Beck"
     ]
     node [
         id 213649
+        color "blue"
         label "Yves Montand"
-        color "green"
     ]
     node [
         id 43666
-        label "Bad Company"
         color "red"
+        label "Bad Company"
     ]
     node [
         id 2707
+        color "blue"
         label "Graham Lyle"
-        color "green"
     ]
     node [
         id 144021
+        color "blue"
         label "Datarock"
-        color "green"
     ]
     node [
         id 662
-        label "Lenny Kravitz"
         color "red"
+        label "Lenny Kravitz"
     ]
     node [
         id 668
-        label "Elton John"
         color "red"
+        label "Elton John"
     ]
     node [
         id 669
-        label "J.J. Cale"
         color "red"
+        label "J.J. Cale"
     ]
     node [
         id 671
-        label "Coldplay"
         color "red"
+        label "Coldplay"
     ]
     node [
         id 135840
+        color "blue"
         label "Lenny Castro"
-        color "green"
     ]
     node [
         id 14107
-        label "Christine McVie"
         color "red"
+        label "Christine McVie"
     ]
     node [
         id 127652
-        label "Dead Disco"
         color "red"
+        label "Dead Disco"
     ]
     node [
         id 680
-        label "Sting"
         color "red"
+        label "Sting"
     ]
     node [
         id 64169
+        color "blue"
         label "Foals"
-        color "green"
     ]
     node [
         id 537258
+        color "blue"
         label "Maximilian"
-        color "green"
     ]
     node [
         id 683
+        color "blue"
         label "Robert Johnson"
-        color "green"
     ]
     node [
         id 791216
+        color "blue"
         label "Chew Lips"
-        color "green"
     ]
     node [
         id 72370
-        label "Brant Bjork"
         color "red"
+        label "Brant Bjork"
     ]
     node [
         id 15027
+        color "blue"
         label "Roy Buchanan"
-        color "green"
     ]
     node [
         id 692
-        label "Van Morrison"
         color "red"
+        label "Van Morrison"
     ]
     node [
         id 15029
-        label "The Police"
         color "red"
+        label "The Police"
     ]
     node [
         id 551609
-        label "Sister Sin"
         color "red"
+        label "Sister Sin"
     ]
     node [
         id 699
+        color "blue"
         label "Curtis Mayfield"
-        color "green"
     ]
     node [
         id 144061
+        color "blue"
         label "Kele"
-        color "green"
     ]
     node [
         id 19134
+        color "blue"
         label "Crawford"
-        color "green"
     ]
     node [
         id 704
-        label "John Mayer"
         color "red"
+        label "John Mayer"
     ]
     node [
         id 46198
+        color "blue"
         label "Tami Lynn"
-        color "green"
     ]
     node [
         id 604870
+        color "blue"
         label "Big Linda"
-        color "green"
     ]
     node [
         id 13089
-        label "Paul Simon"
         color "red"
+        label "Paul Simon"
     ]
     node [
         id 712
-        label "Michael B. Bloomfield"
         color "red"
+        label "Michael B. Bloomfield"
     ]
     node [
         id 2761
-        label "Budgie"
         color "red"
+        label "Budgie"
     ]
     node [
         id 2762
-        label "Siouxsie And The Banshees"
         color "red"
+        label "Siouxsie And The Banshees"
     ]
     node [
         id 39031
+        color "blue"
         label "Björn Skifs"
-        color "green"
     ]
     node [
         id 2764
-        label "Bobby Darin"
         color "red"
+        label "Bobby Darin"
     ]
     node [
         id 45559
-        label "Seals & Crofts"
         color "red"
+        label "Seals & Crofts"
     ]
     node [
         id 162732
+        color "blue"
         label "Bela Fleck and the Flecktones"
-        color "green"
     ]
     node [
         id 4823
+        color "blue"
         label "Kate Ryan"
-        color "green"
     ]
     node [
         id 400088
+        color "blue"
         label "Jules Buckley"
-        color "green"
     ]
     node [
         id 21211
+        color "blue"
         label "Wolf Hoffmann"
-        color "green"
     ]
     node [
         id 21212
+        color "blue"
         label "Udo Dirkschneider"
-        color "green"
     ]
     node [
         id 21213
-        label "Accept"
         color "red"
+        label "Accept"
     ]
     node [
         id 13022
+        color "blue"
         label "Linda Ronstadt"
-        color "green"
     ]
     node [
         id 28112
+        color "blue"
         label "Joe Dassin"
-        color "green"
     ]
     node [
         id 2786
-        label "Jerry Williams"
         color "red"
+        label "Jerry Williams"
     ]
     node [
         id 87163
-        label "Alvin Lee"
         color "red"
+        label "Alvin Lee"
     ]
     node [
         id 740
-        label "Sparks"
         color "red"
+        label "Sparks"
     ]
     node [
         id 90853
+        color "blue"
         label "Porter Wagoner"
-        color "green"
     ]
     node [
         id 2792
+        color "blue"
         label "Jerry Ross"
-        color "green"
     ]
     node [
         id 84715
-        label "Japan"
         color "red"
+        label "Japan"
     ]
     node [
         id 131821
+        color "blue"
         label "Metronomy"
-        color "green"
     ]
     node [
         id 2194158
+        color "blue"
         label "Pomegranate Tiger"
-        color "green"
     ]
     node [
         id 6898
-        label "Traffic"
         color "red"
+        label "Traffic"
     ]
     node [
         id 666357
+        color "blue"
         label "J Roddy Walston and the Business"
-        color "green"
     ]
     node [
         id 758
-        label "Albert Collins"
         color "red"
+        label "Albert Collins"
     ]
     node [
         id 332538
+        color "blue"
         label "Langhorne Slim"
-        color "green"
     ]
     node [
         id 764
-        label "Little Richard"
         color "red"
+        label "Little Richard"
     ]
     node [
         id 6909
-        label "Joe Lynn Turner"
         color "red"
+        label "Joe Lynn Turner"
     ]
     node [
         id 1600981
+        color "blue"
         label "Trash Inc."
-        color "green"
     ]
     node [
         id 770
-        label "Eels"
         color "red"
+        label "Eels"
     ]
     node [
         id 193283
-        label "Lita Ford"
         color "red"
+        label "Lita Ford"
     ]
     node [
         id 350982
+        color "blue"
         label "Nancy Sinatra & Lee Hazlewood"
-        color "green"
     ]
     node [
         id 6919
-        label "Joe Cocker"
         color "red"
+        label "Joe Cocker"
     ]
     node [
         id 17160
+        color "blue"
         label "George Michael"
-        color "green"
     ]
     node [
         id 58121
-        label "Simon & Garfunkel"
         color "red"
+        label "Simon & Garfunkel"
     ]
     node [
         id 84746
-        label "Genesis"
         color "red"
+        label "Genesis"
     ]
     node [
         id 6615
-        label "Sonny Boy Williamson"
         color "red"
+        label "Sonny Boy Williamson"
     ]
     node [
         id 6920
-        label "Deep Purple"
         color "red"
+        label "Deep Purple"
     ]
     node [
         id 1473295
-        label "The Hit Co."
         color "red"
+        label "The Hit Co."
     ]
     node [
         id 5550
-        label "Jerry Lee Lewis"
         color "red"
+        label "Jerry Lee Lewis"
     ]
     node [
         id 6939
-        label "Uriah Heep"
         color "red"
+        label "Uriah Heep"
     ]
     node [
         id 2692
-        label "Freddie Hubbard"
         color "red"
+        label "Freddie Hubbard"
     ]
     node [
         id 798
-        label "Creedence Clearwater Revival"
         color "red"
+        label "Creedence Clearwater Revival"
     ]
     node [
         id 8991
+        color "blue"
         label "Donald Byrd"
-        color "green"
     ]
     node [
         id 800
-        label "Dale Hawkins"
         color "red"
+        label "Dale Hawkins"
     ]
     node [
         id 801
-        label "Jay Hawkins"
         color "red"
+        label "Jay Hawkins"
     ]
     node [
         id 64290
+        color "blue"
         label "Agnes"
-        color "green"
     ]
     node [
         id 76582
+        color "blue"
         label "Timmy Curran"
-        color "green"
     ]
     node [
         id 1286060
+        color "blue"
         label "Christopher Ross"
-        color "green"
     ]
     node [
         id 119597
-        label "Faces"
         color "red"
+        label "Faces"
     ]
     node [
         id 297777
+        color "blue"
         label "The Piano Classic Players"
-        color "green"
     ]
     node [
         id 2869
+        color "blue"
         label "Bobby Hart"
-        color "green"
     ]
     node [
         id 9018
-        label "Gene Vincent"
         color "red"
+        label "Gene Vincent"
     ]
     node [
         id 37691
+        color "blue"
         label "Michael Johnson"
-        color "green"
     ]
     node [
         id 27453
+        color "blue"
         label "E"
-        color "green"
     ]
     node [
         id 43838
-        label "Yes"
         color "red"
+        label "Yes"
     ]
     node [
         id 90947
-        label "Suzi Quatro"
         color "red"
+        label "Suzi Quatro"
     ]
     node [
         id 37700
-        label "Ringo Starr"
         color "red"
+        label "Ringo Starr"
     ]
     node [
         id 6029
+        color "blue"
         label "George Jones"
-        color "green"
     ]
     node [
         id 3554
-        label "Ian Gillan"
         color "red"
+        label "Ian Gillan"
     ]
     node [
         id 6285
-        label "Ron Wood"
         color "red"
+        label "Ron Wood"
     ]
     node [
         id 41809
-        label "Joshua Radin"
         color "red"
+        label "Joshua Radin"
     ]
     node [
         id 2899
-        label "Tony Joe White"
         color "red"
+        label "Tony Joe White"
     ]
     node [
         id 543582
-        label "Kendrick Lamar"
         color "red"
+        label "Kendrick Lamar"
     ]
     node [
         id 19298
+        color "blue"
         label "Pip Williams"
-        color "green"
     ]
     node [
         id 289635
+        color "blue"
         label "Hollie"
-        color "green"
     ]
     node [
         id 11109
+        color "blue"
         label "Julian Casablancas"
-        color "green"
     ]
     node [
         id 321340
-        label "Ghoultown"
         color "red"
+        label "Ghoultown"
     ]
     node [
         id 111467
+        color "blue"
         label "Dean Parrish"
-        color "green"
     ]
     node [
         id 2877
+        color "blue"
         label "Tommy Boyce"
-        color "green"
     ]
     node [
         id 64368
-        label "Nickel Eye"
         color "red"
+        label "Nickel Eye"
     ]
     node [
         id 41848
+        color "blue"
         label "22-20s"
-        color "green"
     ]
     node [
         id 50666
+        color "blue"
         label "Steve Chapin"
-        color "green"
     ]
     node [
         id 41854
+        color "blue"
         label "The Clash"
-        color "green"
     ]
     node [
         id 714901
+        color "blue"
         label "Mike Harrison"
-        color "green"
     ]
     node [
         id 11137
-        label "Cocteau Twins"
         color "red"
+        label "Cocteau Twins"
     ]
     node [
         id 29570
-        label "Bill Haley"
         color "red"
+        label "Bill Haley"
     ]
     node [
         id 899
-        label "Barry Gibb"
         color "red"
+        label "Barry Gibb"
     ]
     node [
         id 2949
+        color "blue"
         label "Dusty Springfield"
-        color "green"
     ]
     node [
         id 30529
+        color "blue"
         label "Brian Howe"
-        color "green"
     ]
     node [
         id 608407
+        color "blue"
         label "Joseph Baldassare"
-        color "green"
     ]
     node [
         id 913
-        label "Tommy Roe"
         color "red"
+        label "Tommy Roe"
     ]
     node [
         id 78738
+        color "blue"
         label "Rob Halford"
-        color "green"
     ]
     node [
         id 45891
-        label "Ambrosia"
         color "red"
+        label "Ambrosia"
     ]
     node [
         id 5013
+        color "blue"
         label "Jimmy Cliff"
-        color "green"
     ]
     node [
         id 334746
+        color "blue"
         label "Guess Who"
-        color "green"
     ]
     node [
         id 923
+        color "blue"
         label "Traffic Jam"
-        color "green"
     ]
     node [
         id 50076
+        color "blue"
         label "Clyde McPhatter"
-        color "green"
     ]
     node [
         id 135322
+        color "blue"
         label "Hank Mobley Quartet"
-        color "green"
     ]
     node [
         id 21410
-        label "Midge Ure"
         color "red"
+        label "Midge Ure"
     ]
     node [
         id 1078180
+        color "blue"
         label "Spectres"
-        color "green"
     ]
     node [
         id 2984
+        color "blue"
         label "Willie Hutch"
-        color "green"
     ]
     node [
         id 940
+        color "blue"
         label "Smokey Robinson"
-        color "green"
     ]
     node [
         id 1248173
+        color "blue"
         label "Johnny Hazzard"
-        color "green"
     ]
     node [
         id 944
+        color "blue"
         label "John Lee Hooker"
-        color "green"
     ]
     node [
         id 57822
-        label "Sune Rose Wagner"
         color "red"
+        label "Sune Rose Wagner"
     ]
     node [
         id 89010
+        color "blue"
         label "The Human League"
-        color "green"
     ]
     node [
         id 948
-        label "Tori Amos"
         color "red"
+        label "Tori Amos"
     ]
     node [
         id 64439
-        label "Corvus Corax"
         color "red"
+        label "Corvus Corax"
     ]
     node [
         id 3000
-        label "Jackson Browne"
         color "red"
+        label "Jackson Browne"
     ]
     node [
         id 953
+        color "blue"
         label "The Temptations"
-        color "green"
     ]
     node [
         id 302239
+        color "blue"
         label "Collins Kids"
-        color "green"
     ]
     node [
         id 46012
-        label "ZZ Top"
         color "red"
+        label "ZZ Top"
     ]
     node [
         id 7102
+        color "blue"
         label "Donna Summer"
-        color "green"
     ]
     node [
         id 3573
-        label "Robert Wyatt"
         color "red"
+        label "Robert Wyatt"
     ]
     node [
         id 963
+        color "blue"
         label "Commodores"
-        color "green"
     ]
     node [
         id 1468693
+        color "blue"
         label "Heros And Zeros"
-        color "green"
     ]
     node [
         id 801733
-        label "Dz deathrays"
         color "red"
+        label "Dz deathrays"
     ]
     node [
         id 970
-        label "The Supremes"
         color "red"
+        label "The Supremes"
     ]
     node [
         id 154103
+        color "blue"
         label "Timothy B. Schmit"
-        color "green"
     ]
     node [
         id 974
+        color "blue"
         label "The Miracles"
-        color "green"
     ]
     node [
         id 2893
-        label "Calogero"
         color "red"
+        label "Calogero"
     ]
     node [
         id 3024
+        color "blue"
         label "Marc Lavoine"
-        color "green"
     ]
     node [
         id 661
-        label "Lynyrd Skynyrd"
         color "red"
+        label "Lynyrd Skynyrd"
     ]
     node [
         id 58322
-        label "The Clovers"
         color "red"
+        label "The Clovers"
     ]
     node [
         id 1195171
+        color "blue"
         label "Cycle Of Pain"
-        color "green"
     ]
     node [
         id 980
-        label "Lionel Richie"
         color "red"
+        label "Lionel Richie"
     ]
     node [
         id 41943
+        color "blue"
         label "Jan Garbarek"
-        color "green"
     ]
     node [
         id 3034
-        label "INXS"
         color "red"
+        label "INXS"
     ]
     node [
         id 7135
-        label "Michael Bolton"
         color "red"
+        label "Michael Bolton"
     ]
     node [
         id 992
+        color "blue"
         label "Leon Ware"
-        color "green"
     ]
     node [
         id 912353
+        color "blue"
         label "Agnes O"
-        color "green"
     ]
     node [
         id 1883107
+        color "blue"
         label "Vanessa Campagna"
-        color "green"
     ]
     node [
         id 552
-        label "Bill Withers"
         color "red"
+        label "Bill Withers"
     ]
     node [
         id 415549
+        color "blue"
         label "Charlie Musslewhite"
-        color "green"
     ]
     node [
         id 2612198
+        color "blue"
         label "Hasil Hadkins"
-        color "green"
     ]
     node [
         id 1002
+        color "blue"
         label "Babyface"
-        color "green"
     ]
     node [
         id 34983
+        color "blue"
         label "Craig Douglas"
-        color "green"
     ]
     node [
         id 48108
+        color "blue"
         label "R.E.M."
-        color "green"
     ]
     node [
         id 15446
-        label "Kate Bush"
         color "red"
+        label "Kate Bush"
     ]
     node [
         id 7150
+        color "blue"
         label "Willie Nelson"
-        color "green"
     ]
     node [
         id 18378
+        color "blue"
         label "Mike Dean"
-        color "green"
     ]
     node [
         id 1014
+        color "blue"
         label "Eddie Holland"
-        color "green"
     ]
     node [
         id 68600
+        color "blue"
         label "Anita Baker"
-        color "green"
     ]
     node [
         id 1017
-        label "The Isley Brothers"
         color "red"
+        label "The Isley Brothers"
     ]
     node [
         id 1020
+        color "blue"
         label "Jackson 5"
-        color "green"
     ]
     node [
         id 9213
+        color "blue"
         label "Elvis Costello & The Imposters"
-        color "green"
     ]
     node [
         id 1022
+        color "blue"
         label "Diana Ross"
-        color "green"
     ]
     node [
         id 89088
-        label "Martin L. Gore"
         color "red"
+        label "Martin L. Gore"
     ]
     node [
         id 76802
+        color "blue"
         label "Andy Bell"
-        color "green"
     ]
     node [
         id 50181
-        label "The Lively Ones"
         color "red"
+        label "The Lively Ones"
     ]
     node [
         id 1032
+        color "blue"
         label "Michael Masser"
-        color "green"
     ]
     node [
         id 38061
-        label "Ricky Nelson"
         color "red"
+        label "Ricky Nelson"
     ]
     node [
         id 1045
+        color "blue"
         label "Chick Corea"
-        color "green"
     ]
     node [
         id 1047
-        label "Keith Jarrett"
         color "red"
+        label "Keith Jarrett"
     ]
     node [
         id 797723
+        color "blue"
         label "Mel Torme'"
-        color "green"
     ]
     node [
         id 3104
-        label "Robert Cray"
         color "red"
+        label "Robert Cray"
     ]
     node [
         id 1057
+        color "blue"
         label "Dr. Dre"
-        color "green"
     ]
     node [
         id 1909799
+        color "blue"
         label "Joel Evan"
-        color "green"
     ]
     node [
         id 271402
+        color "blue"
         label "Dr"
-        color "green"
     ]
     node [
         id 1070
+        color "blue"
         label "Jack Robinson"
-        color "green"
     ]
     node [
         id 11311
-        label "Guns N' Roses"
         color "red"
+        label "Guns N' Roses"
     ]
     node [
         id 3122
-        label "Roger Taylor"
         color "red"
+        label "Roger Taylor"
     ]
     node [
         id 37941
-        label "Airbourne"
         color "red"
+        label "Airbourne"
     ]
     node [
         id 71177
+        color "blue"
         label "Jebediah"
-        color "green"
     ]
     node [
         id 58427
-        label "Ratt"
         color "red"
+        label "Ratt"
     ]
     node [
         id 621066
+        color "blue"
         label "Crispian St. Peters"
-        color "green"
     ]
     node [
         id 300099
+        color "blue"
         label "Bo Diddley with Mainsqueeze"
-        color "green"
     ]
     node [
         id 58436
-        label "Skid Row"
         color "red"
+        label "Skid Row"
     ]
     node [
         id 416841
+        color "blue"
         label "Albert Collins and The Ice Breakers"
-        color "green"
     ]
     node [
         id 28855
+        color "blue"
         label "New Young Pony Club"
-        color "green"
     ]
     node [
         id 21581
+        color "blue"
         label "Little Walter"
-        color "green"
     ]
     node [
         id 27730
+        color "blue"
         label "Joan Baez"
-        color "green"
     ]
     node [
         id 9302
+        color "blue"
         label "John Coghlan"
-        color "green"
     ]
     node [
         id 1111
-        label "U2"
         color "red"
+        label "U2"
     ]
     node [
         id 27737
+        color "blue"
         label "Lou Christie"
-        color "green"
     ]
     node [
         id 58459
+        color "blue"
         label "Camp"
-        color "green"
     ]
     node [
         id 44124
+        color "blue"
         label "Simple Plan"
-        color "green"
     ]
     node [
         id 46173
-        label "The Paul Butterfield Blues Band"
         color "red"
+        label "The Paul Butterfield Blues Band"
     ]
     node [
         id 289899
+        color "blue"
         label "Studio Group"
-        color "green"
     ]
     node [
         id 58476
-        label "The Monkees"
         color "red"
+        label "The Monkees"
     ]
     node [
         id 169074
-        label "Editors"
         color "red"
+        label "Editors"
     ]
     node [
         id 203894
+        color "blue"
         label "Van Zant"
-        color "green"
     ]
     node [
         id 15481
-        label "Morten Harket"
         color "red"
+        label "Morten Harket"
     ]
     node [
         id 863355
+        color "blue"
         label "Kacey Musgraves"
-        color "green"
     ]
     node [
         id 16405
+        color "blue"
         label "Karen Elson"
-        color "green"
     ]
     node [
         id 11389
-        label "Lindsey Buckingham"
         color "red"
+        label "Lindsey Buckingham"
     ]
     node [
         id 713856
+        color "blue"
         label "David Grant & Jaki Graham"
-        color "green"
     ]
     node [
         id 9347
-        label "Bo Diddley"
         color "red"
+        label "Bo Diddley"
     ]
     node [
         id 128133
-        label "Rusted Root"
         color "red"
+        label "Rusted Root"
     ]
     node [
         id 5255
+        color "blue"
         label "Patti Austin"
-        color "green"
     ]
     node [
         id 54408
+        color "blue"
         label "Justice"
-        color "green"
     ]
     node [
         id 339082
+        color "blue"
         label "Mistic"
-        color "green"
     ]
     node [
         id 44176
-        label "O.A.R."
         color "red"
+        label "O.A.R."
     ]
     node [
         id 122001
+        color "blue"
         label "Kean"
-        color "green"
     ]
     node [
         id 195
-        label "Nick Lowe"
         color "red"
+        label "Nick Lowe"
     ]
     node [
         id 13461
-        label "Mud"
         color "red"
+        label "Mud"
     ]
     node [
         id 9367
+        color "blue"
         label "ABBA"
-        color "green"
     ]
     node [
         id 83097
+        color "blue"
         label "Kenny Rogers"
-        color "green"
     ]
     node [
         id 87197
-        label "UFO"
         color "red"
+        label "UFO"
     ]
     node [
         id 87199
+        color "blue"
         label "Ultravox"
-        color "green"
     ]
     node [
         id 13473
-        label "John Mellencamp"
         color "red"
+        label "John Mellencamp"
     ]
     node [
         id 1547427
-        label "The International Classic Rock Orchestra"
         color "red"
+        label "The International Classic Rock Orchestra"
     ]
     node [
         id 6518
-        label "Vince Neil"
         color "red"
+        label "Vince Neil"
     ]
     node [
         id 1905
-        label "Steel Panther"
         color "red"
+        label "Steel Panther"
     ]
     node [
         id 134317
-        label "Kyuss"
         color "red"
+        label "Kyuss"
     ]
     node [
         id 3246
+        color "blue"
         label "Heroes & Zeros"
-        color "green"
     ]
     node [
         id 70969
+        color "blue"
         label "Peter Murphy"
-        color "green"
     ]
     node [
         id 93380
+        color "blue"
         label "Johnny Tillotson"
-        color "green"
     ]
     node [
         id 10510
+        color "blue"
         label "Zach Gill"
-        color "green"
     ]
     node [
         id 978
+        color "blue"
         label "Marvin Gaye"
-        color "green"
     ]
     node [
         id 3273
+        color "blue"
         label "Allen Toussaint"
-        color "green"
     ]
     node [
         id 3274
-        label "Ozzy Osbourne"
         color "red"
+        label "Ozzy Osbourne"
     ]
     node [
         id 83150
-        label "Wings"
         color "red"
+        label "Wings"
     ]
     node [
         id 29903
+        color "blue"
         label "Hot Chip"
-        color "green"
     ]
     node [
         id 19665
+        color "blue"
         label "Mike Love"
-        color "green"
     ]
     node [
         id 144598
+        color "blue"
         label "Evan Jones"
-        color "green"
     ]
     node [
         id 52431
-        label "The Sisters of Mercy"
         color "red"
+        label "The Sisters of Mercy"
     ]
     node [
         id 77023
-        label "John Cougar Mellencamp"
         color "red"
+        label "John Cougar Mellencamp"
     ]
     node [
         id 77025
-        label "Starship"
         color "red"
+        label "Starship"
     ]
     node [
         id 83172
-        label "Great White"
         color "red"
+        label "Great White"
     ]
     node [
         id 158949
-        label "The Dead Weather"
         color "red"
+        label "The Dead Weather"
     ]
     node [
         id 83153
-        label "Whitesnake"
         color "red"
+        label "Whitesnake"
     ]
     node [
         id 27887
-        label "Dan Fogelberg"
         color "red"
+        label "Dan Fogelberg"
     ]
     node [
         id 1265
-        label "Dalida"
         color "red"
+        label "Dalida"
     ]
     node [
         id 29938
+        color "blue"
         label "Vic Damone"
-        color "green"
     ]
     node [
         id 29940
+        color "blue"
         label "Glen Campbell"
-        color "green"
     ]
     node [
         id 87286
-        label "Michael Schenker Group"
         color "red"
+        label "Michael Schenker Group"
     ]
     node [
         id 8745
-        label "Dolly Parton"
         color "red"
+        label "Dolly Parton"
     ]
     node [
         id 226552
-        label "Subway To Sally"
         color "red"
+        label "Subway To Sally"
     ]
     node [
         id 37076
-        label "Roxy Music"
         color "red"
+        label "Roxy Music"
     ]
     node [
         id 38138
+        color "blue"
         label "Jason Mraz"
-        color "green"
     ]
     node [
         id 3324
+        color "blue"
         label "Otis Redding"
-        color "green"
     ]
     node [
         id 12454
+        color "blue"
         label "Webb Pierce"
-        color "green"
     ]
     node [
         id 103681
+        color "blue"
         label "Tanzwut"
-        color "green"
     ]
     node [
         id 85250
+        color "blue"
         label "Graham Coxon"
-        color "green"
     ]
     node [
         id 28545
-        label "Eagles"
         color "red"
+        label "Eagles"
     ]
     node [
         id 3336
+        color "blue"
         label "Chuck Willis"
-        color "green"
     ]
     node [
         id 9772
-        label "The Starting Line"
         color "red"
+        label "The Starting Line"
     ]
     node [
         id 63192
+        color "blue"
         label "Pascal Obispo"
-        color "green"
     ]
     node [
         id 25870
+        color "blue"
         label "Dio"
-        color "green"
     ]
     node [
         id 150799
+        color "blue"
         label "Django Django"
-        color "green"
     ]
     node [
         id 5393
-        label "Bruce Springsteen"
         color "red"
+        label "Bruce Springsteen"
     ]
     node [
         id 2947
+        color "blue"
         label "Florent Pagny"
-        color "green"
     ]
     node [
         id 3350
+        color "blue"
         label "John McKay"
-        color "green"
     ]
     node [
         id 25881
-        label "L.A. Guns"
         color "red"
+        label "L.A. Guns"
     ]
     node [
         id 5403
+        color "blue"
         label "Vince Clarke"
-        color "green"
     ]
     node [
         id 3358
+        color "blue"
         label "All Time Low"
-        color "green"
     ]
     node [
         id 60706
+        color "blue"
         label "A.N.I.M.A.L."
-        color "green"
     ]
     node [
         id 1933873
-        label "Mojo Monkeys"
         color "red"
+        label "Mojo Monkeys"
     ]
     node [
         id 1321
+        color "blue"
         label "Rick Ross"
-        color "green"
     ]
     node [
         id 1309996
+        color "blue"
         label "Taylor James"
-        color "green"
     ]
     node [
         id 2610
+        color "blue"
         label "Mary J. Blige"
-        color "green"
     ]
     node [
         id 19758
+        color "blue"
         label "Ohio Players"
-        color "green"
     ]
     node [
         id 1327
-        label "Donny Hathaway"
         color "red"
+        label "Donny Hathaway"
     ]
     node [
         id 3378
+        color "blue"
         label "Prince"
-        color "green"
     ]
     node [
         id 1334
-        label "Roberta Flack"
         color "red"
+        label "Roberta Flack"
     ]
     node [
         id 4660
-        label "The Hollies"
         color "red"
+        label "The Hollies"
     ]
     node [
         id 21818
-        label "Buffalo Springfield"
         color "red"
+        label "Buffalo Springfield"
     ]
     node [
         id 21819
-        label "The Yardbirds"
         color "red"
+        label "The Yardbirds"
     ]
     node [
         id 7485
-        label "Cher"
         color "red"
+        label "Cher"
     ]
     node [
         id 3396
-        label "George Harrison"
         color "red"
+        label "George Harrison"
     ]
     node [
         id 87366
+        color "blue"
         label "Erasure"
-        color "green"
     ]
     node [
         id 1249
+        color "blue"
         label "Gilbert Bécaud"
-        color "green"
     ]
     node [
         id 19784
-        label "David Crosby"
         color "red"
+        label "David Crosby"
     ]
     node [
         id 3401
-        label "John Parish"
         color "red"
+        label "John Parish"
     ]
     node [
         id 146764
+        color "blue"
         label "Jamiroquai"
-        color "green"
     ]
     node [
         id 2372941
+        color "blue"
         label "Señor Flavio"
-        color "green"
     ]
     node [
         id 20365
+        color "blue"
         label "Chris Walden"
-        color "green"
     ]
     node [
         id 7504
-        label "Paul Weller"
         color "red"
+        label "Paul Weller"
     ]
     node [
         id 5459
-        label "Max Romeo"
         color "red"
+        label "Max Romeo"
     ]
     node [
         id 36182
+        color "blue"
         label "Bombay Bicycle Club"
-        color "green"
     ]
     node [
         id 7512
+        color "blue"
         label "Wet Wet Wet"
-        color "green"
     ]
     node [
         id 236890
+        color "blue"
         label "The Collins Kids"
-        color "green"
     ]
     node [
         id 478555
+        color "blue"
         label "The Core"
-        color "green"
     ]
     node [
         id 5469
-        label "Albert Hammond"
         color "red"
+        label "Albert Hammond"
     ]
     node [
         id 232802
+        color "blue"
         label "Luther Allison"
-        color "green"
     ]
     node [
         id 48699
+        color "blue"
         label "Regina Spektor"
-        color "green"
     ]
     node [
         id 28007
+        color "blue"
         label "James Ingram"
-        color "green"
     ]
     node [
         id 269673
-        label "John Bongiovi"
         color "red"
+        label "John Bongiovi"
     ]
     node [
         id 19819
+        color "blue"
         label "James Booker"
-        color "green"
     ]
     node [
         id 265583
-        label "The Meteors"
         color "red"
+        label "The Meteors"
     ]
     node [
         id 3440
+        color "blue"
         label "JAY-Z"
-        color "green"
     ]
     node [
         id 1939
-        label "Shitdisco"
         color "red"
+        label "Shitdisco"
     ]
     node [
         id 15733
+        color "blue"
         label "Ronnie Self"
-        color "green"
     ]
     node [
         id 12521
-        label "Nick Cave"
         color "red"
+        label "Nick Cave"
     ]
     node [
         id 23929
+        color "blue"
         label "The Spinners"
-        color "green"
     ]
     node [
         id 1402
+        color "blue"
         label "Bob Marley"
-        color "green"
     ]
     node [
         id 1599
+        color "blue"
         label "Gregory Isaacs"
-        color "green"
     ]
     node [
         id 171388
+        color "blue"
         label "Quiet Riot"
-        color "green"
     ]
     node [
         id 89469
+        color "blue"
         label "Paavo Järvi"
-        color "green"
     ]
     node [
         id 9793
-        label "Something Corporate"
         color "red"
+        label "Something Corporate"
     ]
     node [
         id 4672
-        label "Cream"
         color "red"
+        label "Cream"
     ]
     node [
         id 232836
+        color "blue"
         label "The Creatures"
-        color "green"
     ]
     node [
         id 1371525
+        color "blue"
         label "Curium"
-        color "green"
     ]
     node [
         id 1415
-        label "Keith Richards"
         color "red"
+        label "Keith Richards"
     ]
     node [
         id 43624
-        label "Against All Odds"
         color "red"
+        label "Against All Odds"
     ]
     node [
         id 408970
+        color "blue"
         label "Vampire Piano Players"
-        color "green"
     ]
     node [
         id 25997
-        label "Talking Heads"
         color "red"
+        label "Talking Heads"
     ]
     node [
         id 1424
-        label "Mick Jagger"
         color "red"
+        label "Mick Jagger"
     ]
     node [
         id 15761
-        label "T. Rex"
         color "red"
+        label "T. Rex"
     ]
     node [
         id 112020
+        color "blue"
         label "Patricia Kaas"
-        color "green"
     ]
     node [
         id 914837
+        color "blue"
         label "Area 7"
-        color "green"
     ]
     node [
         id 30104
-        label "Def Leppard"
         color "red"
+        label "Def Leppard"
     ]
     node [
         id 5529
-        label "The Killers"
         color "red"
+        label "The Killers"
     ]
     node [
         id 255215
-        label "Dispatch"
         color "red"
+        label "Dispatch"
     ]
     node [
         id 138553
-        label "Say Anything"
         color "red"
+        label "Say Anything"
     ]
     node [
         id 1442
-        label "Doro"
         color "red"
+        label "Doro"
     ]
     node [
         id 342390
+        color "blue"
         label "Nancy Sinatra And Lee Hazlewood"
-        color "green"
     ]
     node [
         id 2483625
+        color "blue"
         label "The Newstead Trio"
-        color "green"
     ]
     node [
         id 13741
+        color "blue"
         label "Michael Nesmith"
-        color "green"
     ]
     node [
         id 15790
+        color "blue"
         label "Black Uhuru"
-        color "green"
     ]
     node [
         id 3504
+        color "blue"
         label "Lil Wayne"
-        color "green"
     ]
     node [
         id 21937
+        color "blue"
         label "Janis Ian"
-        color "green"
     ]
     node [
         id 40371
+        color "blue"
         label "Camouflage"
-        color "green"
     ]
     node [
         id 1461
-        label "Lloyd Price"
         color "red"
+        label "Lloyd Price"
     ]
     node [
         id 5559
-        label "Bryan Adams"
         color "red"
+        label "Bryan Adams"
     ]
     node [
         id 314976
+        color "blue"
         label "Griffin House"
-        color "green"
     ]
     node [
         id 26046
-        label "Maroon 5"
         color "red"
+        label "Maroon 5"
     ]
     node [
         id 95681
-        label "Oomph!"
         color "red"
+        label "Oomph!"
     ]
     node [
         id 1474
-        label "Larry Williams"
         color "red"
+        label "Larry Williams"
     ]
     node [
         id 638539
+        color "blue"
         label "Michal Nicolas"
-        color "green"
     ]
     node [
         id 50422
+        color "blue"
         label "Robbie Dupree"
-        color "green"
     ]
     node [
         id 7628
+        color "blue"
         label "John King"
-        color "green"
     ]
     node [
         id 19920
+        color "blue"
         label "Otis Rush"
-        color "green"
     ]
     node [
         id 1490
-        label "Link Wray"
         color "red"
+        label "Link Wray"
     ]
     node [
         id 21971
-        label "Gary Moore"
         color "red"
+        label "Gary Moore"
     ]
     node [
         id 1492
-        label "Cat Stevens"
         color "red"
+        label "Cat Stevens"
     ]
     node [
         id 1768917
+        color "blue"
         label "Howard Tonkin"
-        color "green"
     ]
     node [
         id 64984
+        color "blue"
         label "Arlo Guthrie"
-        color "green"
     ]
     node [
         id 932
-        label "The Spectres"
         color "red"
+        label "The Spectres"
     ]
     node [
         id 110044
-        label "You Me At Six"
         color "red"
+        label "You Me At Six"
     ]
     node [
         id 9529
-        label "The BossHoss"
         color "red"
+        label "The BossHoss"
     ]
     node [
         id 7650
+        color "blue"
         label "Robert Young"
-        color "green"
     ]
     node [
         id 5603
+        color "blue"
         label "Samantha Mumba"
-        color "green"
     ]
     node [
         id 1189348
+        color "blue"
         label "to my boy"
-        color "green"
     ]
     node [
         id 40422
+        color "blue"
         label "Van Dyke Parks"
-        color "green"
     ]
     node [
         id 75345
-        label "Grand Funk Railroad"
         color "red"
+        label "Grand Funk Railroad"
     ]
     node [
         id 304380
+        color "blue"
         label "Link Wray And The Raymen"
-        color "green"
     ]
     node [
         id 89578
-        label "Roxette"
         color "red"
+        label "Roxette"
     ]
     node [
         id 50669
+        color "blue"
         label "Marshall Crenshaw"
-        color "green"
     ]
     node [
         id 191982
+        color "blue"
         label "John Mayer Trio"
-        color "green"
     ]
     node [
         id 308723
+        color "blue"
         label "Joe Clay"
-        color "green"
     ]
     node [
         id 1525
-        label "White Lies"
         color "red"
+        label "White Lies"
     ]
     node [
         id 188407
-        label "The Electric Flag"
         color "red"
+        label "The Electric Flag"
     ]
     node [
         id 9471
+        color "blue"
         label "Gordon Lightfoot"
-        color "green"
     ]
     node [
         id 3581
-        label "Tears For Fears"
         color "red"
+        label "Tears For Fears"
     ]
     node [
         id 1543
+        color "blue"
         label "Rosemary Clooney"
-        color "green"
     ]
     node [
         id 3593
+        color "blue"
         label "Etta James"
-        color "green"
     ]
     node [
         id 1548
+        color "blue"
         label "Mel Tormé"
-        color "green"
     ]
     node [
         id 1552
-        label "The Wailers"
         color "red"
+        label "The Wailers"
     ]
     node [
         id 341523
+        color "blue"
         label "Buddy Knox & Jimmy Bowen"
-        color "green"
     ]
     node [
         id 110101
+        color "blue"
         label "Hockey"
-        color "green"
     ]
     node [
         id 292374
-        label "Edguy"
         color "red"
+        label "Edguy"
     ]
     node [
         id 89623
+        color "blue"
         label "Cary Brothers"
-        color "green"
     ]
     node [
         id 22048
+        color "blue"
         label "Ray Price"
-        color "green"
     ]
     node [
         id 15912
+        color "blue"
         label "Oleta Adams"
-        color "green"
     ]
     node [
         id 20010
-        label "Bee Gees"
         color "red"
+        label "Bee Gees"
     ]
     node [
         id 9771
+        color "blue"
         label "New Found Glory"
-        color "green"
     ]
     node [
         id 42540
+        color "blue"
         label "Infernal"
-        color "green"
     ]
     node [
         id 1154605
+        color "blue"
         label "Frenzal Rhomb"
-        color "green"
     ]
     node [
         id 26158
+        color "blue"
         label "Michael Buble"
-        color "green"
     ]
     node [
         id 1585
+        color "blue"
         label "Dennis Brown"
-        color "green"
     ]
     node [
         id 48690
-        label "Taking Back Sunday"
         color "red"
+        label "Taking Back Sunday"
     ]
     node [
         id 3639
-        label "Free"
         color "red"
+        label "Free"
     ]
     node [
         id 3640
-        label "Simon Kirke"
         color "red"
+        label "Simon Kirke"
     ]
     node [
         id 3643
-        label "Paul Rodgers"
         color "red"
+        label "Paul Rodgers"
     ]
     node [
         id 26173
+        color "blue"
         label "Ned Rothenberg"
-        color "green"
     ]
     node [
         id 20031
-        label "Counting Crows"
         color "red"
+        label "Counting Crows"
     ]
     node [
         id 108097
-        label "Anthony Phillips"
         color "red"
+        label "Anthony Phillips"
     ]
     node [
         id 26180
+        color "blue"
         label "Amanda Roocroft"
-        color "green"
     ]
     node [
         id 951
+        color "blue"
         label "Lamont Dozier"
-        color "green"
     ]
     node [
         id 13905
+        color "blue"
         label "Daft Punk"
-        color "green"
     ]
     node [
         id 101973
-        label "Nick Cave & The Bad Seeds"
         color "red"
+        label "Nick Cave & The Bad Seeds"
     ]
     node [
         id 11863
-        label "John Mayall & The Bluesbreakers"
         color "red"
+        label "John Mayall & The Bluesbreakers"
     ]
     node [
         id 18009
+        color "blue"
         label "Future"
-        color "green"
     ]
     node [
         id 1632
-        label "Tina Turner"
         color "red"
+        label "Tina Turner"
     ]
     node [
         id 22113
-        label "Delbert McClinton"
         color "red"
+        label "Delbert McClinton"
     ]
     node [
         id 7099
+        color "blue"
         label "Kylie Minogue"
-        color "green"
     ]
     node [
         id 2321
-        label "Raul Malo"
         color "red"
+        label "Raul Malo"
     ]
     node [
         id 1640
-        label "Adrian Gurvitz"
         color "red"
+        label "Adrian Gurvitz"
     ]
     node [
         id 163434
+        color "blue"
         label "The Derailers"
-        color "green"
     ]
     node [
         id 615
+        color "blue"
         label "Josh Groban"
-        color "green"
     ]
     node [
         id 1232492
+        color "blue"
         label "Guy B"
-        color "green"
     ]
     node [
         id 4029
+        color "blue"
         label "Aretha Franklin"
-        color "green"
     ]
     node [
         id 85572
+        color "blue"
         label "Herman's Hermits"
-        color "green"
     ]
     node [
         id 2565736
+        color "blue"
         label "Exivious"
-        color "green"
     ]
     node [
         id 24185
-        label "Dennis Wilson"
         color "red"
+        label "Dennis Wilson"
     ]
     node [
         id 7803
-        label "Neil Diamond"
         color "red"
+        label "Neil Diamond"
     ]
     node [
         id 3709
-        label "David Byrne"
         color "red"
+        label "David Byrne"
     ]
     node [
         id 413310
+        color "blue"
         label "Elmore James & His Broomdusters"
-        color "green"
     ]
     node [
         id 165225
-        label "White Rabbits"
         color "red"
+        label "White Rabbits"
     ]
     node [
         id 1665
+        color "blue"
         label "Bob Dylan"
-        color "green"
     ]
     node [
         id 28292
+        color "blue"
         label "Christopher Cross"
-        color "green"
     ]
     node [
         id 9862
+        color "blue"
         label "Dan Hill"
-        color "green"
     ]
     node [
         id 69256
-        label "Tommy Bolin"
         color "red"
+        label "Tommy Bolin"
     ]
     node [
         id 183948
-        label "Warrant"
         color "red"
+        label "Warrant"
     ]
     node [
         id 14104
+        color "blue"
         label "Bering Strait"
-        color "green"
     ]
     node [
         id 63121
+        color "blue"
         label "Halford"
-        color "green"
     ]
     node [
         id 83604
-        label "Marillion"
         color "red"
+        label "Marillion"
     ]
     node [
         id 290453
-        label "Saltatio Mortis"
         color "red"
+        label "Saltatio Mortis"
     ]
     node [
         id 278809
+        color "blue"
         label "Mel Thorme"
-        color "green"
     ]
     node [
         id 183961
+        color "blue"
         label "Alfie Silas"
-        color "green"
     ]
     node [
         id 20123
+        color "blue"
         label "Rick Allison"
-        color "green"
     ]
     node [
         id 1692
+        color "blue"
         label "The Maccabees"
-        color "green"
     ]
     node [
         id 183965
+        color "blue"
         label "Willie Green"
-        color "green"
     ]
     node [
         id 7839
-        label "Dave Berry"
         color "red"
+        label "Dave Berry"
     ]
     node [
         id 120432
+        color "blue"
         label "Dawes"
-        color "green"
     ]
     node [
         id 183970
+        color "blue"
         label "David Hungate"
-        color "green"
     ]
     node [
         id 28323
+        color "blue"
         label "Céline Dion"
-        color "green"
     ]
     node [
         id 12809
-        label "Judy Collins"
         color "red"
+        label "Judy Collins"
     ]
     node [
         id 28273
-        label "Them"
         color "red"
+        label "Them"
     ]
     node [
         id 580265
+        color "blue"
         label "Quentin Elias"
-        color "green"
     ]
     node [
         id 7850
-        label "Brian Hyland"
         color "red"
+        label "Brian Hyland"
     ]
     node [
         id 40619
-        label "Duran Duran"
         color "red"
+        label "Duran Duran"
     ]
     node [
         id 22188
+        color "blue"
         label "Zazie"
-        color "green"
     ]
     node [
         id 20141
-        label "Carly Simon"
         color "red"
+        label "Carly Simon"
     ]
     node [
         id 2580
-        label "The Duke Spirit"
         color "red"
+        label "The Duke Spirit"
     ]
     node [
         id 290479
-        label "W.A.S.P."
         color "red"
+        label "W.A.S.P."
     ]
     node [
         id 12791
-        label "Jim Croce"
         color "red"
+        label "Jim Croce"
     ]
     node [
         id 48818
+        color "blue"
         label "Eric Hutchinson"
-        color "green"
     ]
     node [
         id 222899
+        color "blue"
         label "Jack Earls"
-        color "green"
     ]
     node [
         id 7860
-        label "Buddy Holly"
         color "red"
+        label "Buddy Holly"
     ]
     node [
         id 157366
+        color "blue"
         label "Dr. Dog"
-        color "green"
     ]
     node [
         id 9911
-        label "Queens Of The Stone Age"
         color "red"
+        label "Queens Of The Stone Age"
     ]
     node [
         id 36951
+        color "blue"
         label "Pet Shop Boys"
-        color "green"
     ]
     node [
         id 292541
-        label "Die Apokalyptischen Reiter"
         color "red"
+        label "Die Apokalyptischen Reiter"
     ]
     node [
         id 48830
+        color "blue"
         label "Jack's Mannequin"
-        color "green"
     ]
     node [
         id 22207
+        color "blue"
         label "Yusuf Islam"
-        color "green"
     ]
     node [
         id 24256
+        color "blue"
         label "Wynton Marsalis"
-        color "green"
     ]
     node [
         id 24257
+        color "blue"
         label "Dave Matthews"
-        color "green"
     ]
     node [
         id 3019
-        label "Mark Knopfler"
         color "red"
+        label "Mark Knopfler"
     ]
     node [
         id 52159
+        color "blue"
         label "Barbados"
-        color "green"
     ]
     node [
         id 2649
-        label "Buck Owens"
         color "red"
+        label "Buck Owens"
     ]
     node [
         id 222922
-        label "Sonny Burgess"
         color "red"
+        label "Sonny Burgess"
     ]
     node [
         id 7883
+        color "blue"
         label "Faron Young"
-        color "green"
     ]
     node [
         id 2784977
+        color "blue"
         label "Babamars"
-        color "green"
     ]
     node [
         id 63188
+        color "blue"
         label "Lionel Florence"
-        color "green"
     ]
     node [
         id 1817209
+        color "blue"
         label "Roy Price"
-        color "green"
     ]
     node [
         id 7896
+        color "blue"
         label "The Stylistics"
-        color "green"
     ]
     node [
         id 233181
-        label "Desert Sessions"
         color "red"
+        label "Desert Sessions"
     ]
     node [
         id 26335
+        color "blue"
         label "Joshua Homme"
-        color "green"
     ]
     node [
         id 16096
+        color "blue"
         label "Dionne Warwick"
-        color "green"
     ]
     node [
         id 759523
+        color "blue"
         label "Ernest Tubb And Red Foley"
-        color "green"
     ]
     node [
         id 1766
+        color "blue"
         label "Sebastian Lange"
-        color "green"
     ]
     node [
         id 150481
-        label "Joe Bonamassa"
         color "red"
+        label "Joe Bonamassa"
     ]
     node [
         id 1768
-        label "In Extremo"
         color "red"
+        label "In Extremo"
     ]
     node [
         id 126697
+        color "blue"
         label "Glenn Gould"
-        color "green"
     ]
     node [
         id 1433895
-        label "Drowners"
         color "red"
+        label "Drowners"
     ]
     node [
         id 97234
-        label "The Fray"
         color "red"
+        label "The Fray"
     ]
     node [
         id 67310
-        label "Yellowcard"
         color "red"
+        label "Yellowcard"
     ]
     node [
         id 67311
-        label "Yoko Ono"
         color "red"
+        label "Yoko Ono"
     ]
     node [
         id 36599
-        label "Darin"
         color "red"
+        label "Darin"
     ]
     node [
         id 100088
+        color "blue"
         label "Syl Johnson"
-        color "green"
     ]
     node [
         id 8993
+        color "blue"
         label "Hank Mobley"
-        color "green"
     ]
     node [
         id 14078
+        color "blue"
         label "Klaxons"
-        color "green"
     ]
     node [
         id 7943
+        color "blue"
         label "Yusuf"
-        color "green"
     ]
     node [
         id 36749
-        label "Foreigner"
         color "red"
+        label "Foreigner"
     ]
     node [
         id 3372
-        label "Steve Winwood"
         color "red"
+        label "Steve Winwood"
     ]
     node [
         id 3853
+        color "blue"
         label "Tom Waits"
-        color "green"
     ]
     node [
         id 67885
+        color "blue"
         label "Terry Thomas"
-        color "green"
     ]
     node [
         id 12048
-        label "Muse"
         color "red"
+        label "Muse"
     ]
     node [
         id 1810
-        label "John Lennon"
         color "red"
+        label "John Lennon"
     ]
     node [
         id 102165
+        color "blue"
         label "Carl Mann"
-        color "green"
     ]
     node [
         id 1814
-        label "Paul McCartney"
         color "red"
+        label "Paul McCartney"
     ]
     node [
         id 36825
+        color "blue"
         label "Radiohead"
-        color "green"
     ]
     node [
         id 1031960
-        label "Petra Marklund"
         color "red"
+        label "Petra Marklund"
     ]
     node [
         id 644
-        label "Kanye West"
         color "red"
+        label "Kanye West"
     ]
     node [
         id 38683
-        label "Smokie"
         color "red"
+        label "Smokie"
     ]
     node [
         id 2467
-        label "Mick Ralphs"
         color "red"
+        label "Mick Ralphs"
     ]
     node [
         id 67307
-        label "The Raveonettes"
         color "red"
+        label "The Raveonettes"
     ]
     node [
         id 290602
-        label "Voltaj"
         color "red"
+        label "Voltaj"
     ]
     node [
         id 647
-        label "Rod Stewart"
         color "red"
+        label "Rod Stewart"
     ]
     node [
         id 13618
-        label "Bryan Ferry"
         color "red"
+        label "Bryan Ferry"
     ]
     node [
         id 65328
-        label "Grateful Dead"
         color "red"
+        label "Grateful Dead"
     ]
     node [
         id 1154871
-        label "The Rock Masters"
         color "red"
+        label "The Rock Masters"
     ]
     node [
         id 1852
-        label "Richie Sambora"
         color "red"
+        label "Richie Sambora"
     ]
     node [
         id 321341
+        color "blue"
         label "Frankenstein"
-        color "green"
     ]
     node [
         id 358206
-        label "Bodyjar"
         color "red"
+        label "Bodyjar"
     ]
     node [
         id 1855
+        color "blue"
         label "Desmond Child"
-        color "green"
     ]
     node [
         id 5952
-        label "OneRepublic"
         color "red"
+        label "OneRepublic"
     ]
     node [
         id 11232
-        label "Johnny Cash"
         color "red"
+        label "Johnny Cash"
     ]
     node [
         id 1859
-        label "Bon Jovi"
         color "red"
+        label "Bon Jovi"
     ]
     node [
         id 112452
+        color "blue"
         label "Colwell"
-        color "green"
     ]
     node [
         id 22351
+        color "blue"
         label "Sade"
-        color "green"
     ]
     node [
         id 3106642
-        label "The Silver Beatles"
         color "red"
+        label "The Silver Beatles"
     ]
     node [
         id 313
-        label "Kenny Loggins"
         color "red"
+        label "Kenny Loggins"
     ]
     node [
         id 5976
+        color "blue"
         label "Fall Out Boy"
-        color "green"
     ]
     node [
         id 62437
-        label "Band Of Skulls"
         color "red"
+        label "Band Of Skulls"
     ]
     node [
         id 40804
-        label "Spandau Ballet"
         color "red"
+        label "Spandau Ballet"
     ]
     node [
         id 1894
-        label "Delta Spirit"
         color "red"
+        label "Delta Spirit"
     ]
     node [
         id 22376
+        color "blue"
         label "Alan Jackson"
-        color "green"
     ]
     node [
         id 170642
+        color "blue"
         label "Inna"
-        color "green"
     ]
     node [
         id 1902
-        label "Eagles Of Death Metal"
         color "red"
+        label "Eagles Of Death Metal"
     ]
     node [
         id 36720
-        label "The Shadows"
         color "red"
+        label "The Shadows"
     ]
     node [
         id 32625
-        label "Randy Crawford"
         color "red"
+        label "Randy Crawford"
     ]
     node [
         id 36722
-        label "The Animals"
         color "red"
+        label "The Animals"
     ]
     node [
         id 158355
-        label "Coheed and Cambria"
         color "red"
+        label "Coheed and Cambria"
     ]
     node [
         id 20342
+        color "blue"
         label "Buffy Sainte-Marie"
-        color "green"
     ]
     node [
         id 20343
-        label "Pat Boone"
         color "red"
+        label "Pat Boone"
     ]
     node [
         id 46969
-        label "Paul Young"
         color "red"
+        label "Paul Young"
     ]
     node [
         id 207509
+        color "blue"
         label "Mireille Mathieu"
-        color "green"
     ]
     node [
         id 1921
-        label "The Living End"
         color "red"
+        label "The Living End"
     ]
     node [
         id 7147
-        label "Kiss"
         color "red"
+        label "Kiss"
     ]
     node [
         id 4758
-        label "Glenn Hughes"
         color "red"
+        label "Glenn Hughes"
     ]
     node [
         id 188294
-        label "Molly Hatchet"
         color "red"
+        label "Molly Hatchet"
     ]
     node [
         id 77709
-        label "Loggins & Messina"
         color "red"
+        label "Loggins & Messina"
     ]
     node [
         id 22416
+        color "blue"
         label "Buddy Guy"
-        color "green"
     ]
     node [
         id 36755
-        label "The Doobie Brothers"
         color "red"
+        label "The Doobie Brothers"
     ]
     node [
         id 19780
-        label "Howlin' Wolf"
         color "red"
+        label "Howlin' Wolf"
     ]
     node [
         id 14240
+        color "blue"
         label "Robbie Williams"
-        color "green"
     ]
     node [
         id 88048
+        color "blue"
         label "Amos Lee"
-        color "green"
     ]
     node [
         id 183963
+        color "blue"
         label "Chuck Findley"
-        color "green"
     ]
     node [
         id 120741
-        label "Crazy Horse"
         color "red"
+        label "Crazy Horse"
     ]
     node [
         id 747
+        color "blue"
         label "Johnny Mercer"
-        color "green"
     ]
     node [
         id 183964
+        color "blue"
         label "Kevin Dorsey"
-        color "green"
     ]
     node [
         id 327
+        color "blue"
         label "Herbie Hancock"
-        color "green"
     ]
     node [
         id 1964
-        label "The Troggs"
         color "red"
+        label "The Troggs"
     ]
     node [
         id 602031
+        color "blue"
         label "Area-7"
-        color "green"
     ]
     node [
         id 3400
-        label "PJ Harvey"
         color "red"
+        label "PJ Harvey"
     ]
     node [
         id 107849
-        label "Black Rebel Motorcycle Club"
         color "red"
+        label "Black Rebel Motorcycle Club"
     ]
     node [
         id 36794
-        label "Oasis"
         color "red"
+        label "Oasis"
     ]
     node [
         id 49085
+        color "blue"
         label "28 Days"
-        color "green"
     ]
     node [
         id 2037
+        color "blue"
         label "Martha Reeves and The Vandellas"
-        color "green"
     ]
     node [
         id 36800
+        color "blue"
         label "Linkin Park"
-        color "green"
     ]
     node [
         id 672
-        label "Eric Clapton"
         color "red"
+        label "Eric Clapton"
     ]
     node [
         id 36807
-        label "Blur"
         color "red"
+        label "Blur"
     ]
     node [
         id 36810
-        label "Depeche Mode"
         color "red"
+        label "Depeche Mode"
     ]
     node [
         id 1995
-        label "Elvis Costello"
         color "red"
+        label "Elvis Costello"
     ]
     node [
         id 77774
-        label "The Lovin' Spoonful"
         color "red"
+        label "The Lovin' Spoonful"
     ]
     node [
         id 8143
-        label "The Cure"
         color "red"
+        label "The Cure"
     ]
     node [
         id 36817
+        color "blue"
         label "Damon Albarn"
-        color "green"
     ]
     node [
         id 767955
-        label "The Whip"
         color "red"
+        label "The Whip"
     ]
     node [
         id 22485
+        color "blue"
         label "Jim Diamond"
-        color "green"
     ]
     node [
         id 26585
-        label "Elvis Costello & The Attractions"
         color "red"
+        label "Elvis Costello & The Attractions"
     ]
     node [
         id 9551
-        label "Stephen Stills"
         color "red"
+        label "Stephen Stills"
     ]
     node [
         id 24542
-        label "Stevie Ray Vaughan"
         color "red"
+        label "Stevie Ray Vaughan"
     ]
     node [
         id 2020
-        label "Deja Vu"
         color "red"
+        label "Deja Vu"
     ]
     node [
         id 11865
-        label "John Mayall"
         color "red"
+        label "John Mayall"
     ]
     node [
         id 116714
-        label "Johnny Winter"
         color "red"
+        label "Johnny Winter"
     ]
     node [
         id 81903
-        label "Dick Dale"
         color "red"
+        label "Dick Dale"
     ]
     node [
         id 67568
-        label "Blitzen Trapper"
         color "red"
+        label "Blitzen Trapper"
     ]
     node [
         id 325617
+        color "blue"
         label "The Meteors"
-        color "green"
     ]
     node [
         id 675068
-        label "Imagine Dragons"
         color "red"
+        label "Imagine Dragons"
     ]
     node [
         id 602793
-        label "The London Orchestral Symphony"
         color "red"
+        label "The London Orchestral Symphony"
     ]
     node [
         id 169042
+        color "blue"
         label "Mike Rutherford"
-        color "green"
     ]
     node [
         id 104447
+        color "blue"
         label "Daniel Ash"
-        color "green"
     ]
     edge [
         source 7

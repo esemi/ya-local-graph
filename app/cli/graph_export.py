@@ -4,11 +4,12 @@ import logging
 
 from app.config import SHORT_GRAPH_FILE, FULL_GRAPH_FILE
 from app.model import fetch_graph_short, fetch_graph_full
+from app.cli.graph_plot import clear_cache
 
 
-def save_gml(name, nodes, edges, directed=True):
+def save_gml(f_name, nodes, edges, directed=True):
     logging.info('save fetch genre short %d %d', len(nodes), len(edges))
-    f = open(name, 'w+')
+    f = open(f_name, 'w+')
     content = ['graph [']
 
     if directed:
@@ -31,6 +32,8 @@ def save_gml(name, nodes, edges, directed=True):
 
     f.write("\n".join(content))
     f.close()
+
+    clear_cache(f_name)
 
 
 def task():
