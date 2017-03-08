@@ -6,7 +6,7 @@ import os
 
 import igraph
 
-from app.config import SHORT_GRAPH_FILE, SHORT_GRAPH_PLOT_FILE, FULL_GRAPH_FILE, FULL_GRAPH_PLOT_FILE
+from app.config import ROCK_GRAPH_FILE, ROCK_GRAPH_PLOT_FILE, ROCK_SIMILAR_GRAPH_FILE, ROCK_SIMILAR_GRAPH_PLOT_FILE
 
 
 def cache_name(name):
@@ -46,11 +46,12 @@ def plot(g, name, name_g):
 
     logging.info('compute layout')
 
-    igraph.plot(g, name % '1', vertex_size=3, vertex_label_size=7, layout=l, **kwargs)
+    igraph.plot(g, name % ('label', 'svg'), vertex_size=3, vertex_label_size=7, layout=l, **kwargs)
     logging.info('plot graph base')
 
     g.vs['label'] = ['']
-    igraph.plot(g, name % 2, vertex_size=7, layout=l, **kwargs)
+    igraph.plot(g, name % ('clear', 'png'), vertex_size=7, layout=l, **kwargs)
+    igraph.plot(g, name % ('clear', 'svg'), vertex_size=7, layout=l, **kwargs)
     logging.info('plot graph w/ labels')
 
 
@@ -58,14 +59,14 @@ def task():
     logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
     logging.info('start')
 
-    g = igraph.Graph.Read_GML(SHORT_GRAPH_FILE)
+    g = igraph.Graph.Read_GML(ROCK_GRAPH_FILE)
     logging.info('load short %d %d', g.vcount(), g.ecount())
-    plot(g, SHORT_GRAPH_PLOT_FILE, SHORT_GRAPH_FILE)
+    plot(g, ROCK_GRAPH_PLOT_FILE, ROCK_GRAPH_FILE)
     logging.info('plot short')
 
-    g = igraph.Graph.Read_GML(FULL_GRAPH_FILE)
+    g = igraph.Graph.Read_GML(ROCK_SIMILAR_GRAPH_FILE)
     logging.info('load full %d %d', g.vcount(), g.ecount())
-    plot(g, FULL_GRAPH_PLOT_FILE, FULL_GRAPH_FILE)
+    plot(g, ROCK_SIMILAR_GRAPH_PLOT_FILE, ROCK_SIMILAR_GRAPH_FILE)
     logging.info('plot full')
 
 

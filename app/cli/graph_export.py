@@ -2,7 +2,7 @@
 
 import logging
 
-from app.config import SHORT_GRAPH_FILE, FULL_GRAPH_FILE
+from app.config import ROCK_GRAPH_FILE, ROCK_SIMILAR_GRAPH_FILE
 from app.model import fetch_graph_short, fetch_graph_full
 from app.cli.graph_plot import clear_cache
 
@@ -41,10 +41,10 @@ def task():
 
     nodes, edges = fetch_graph_short()
     logging.info('fetch short %d %d', len(nodes), len(edges))
-    save_gml(SHORT_GRAPH_FILE, nodes, edges)
+    save_gml(ROCK_GRAPH_FILE, nodes, edges)
     logging.info('graph export complete')
 
     nodes, edges = fetch_graph_full()
     logging.info('fetch full %d %d', len(nodes), len(edges))
-    save_gml(FULL_GRAPH_FILE, nodes, edges)
+    save_gml(ROCK_SIMILAR_GRAPH_FILE, nodes, edges)
     logging.info('graph export complete')
