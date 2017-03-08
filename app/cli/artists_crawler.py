@@ -11,7 +11,8 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 
 from app import config
-from app.model import save_new_artist, get_artists_for_similar, update_need_crawl_similar, save_new_similar_edge
+from app.model import save_new_artist, get_artists_for_similar, update_need_crawl_similar, \
+    save_new_similar_edge, update_degree
 
 
 def custom_wait():
@@ -78,6 +79,9 @@ class Manager(object):
                     self.restart()
 
         logging.info('end %s', cnt)
+
+        update_degree()
+        logging.info('compute degree')
 
     def artist_crawling(self, genre, page):
         logging.info('run artist crawling %s %s', genre, page)

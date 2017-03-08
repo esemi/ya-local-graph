@@ -33,4 +33,9 @@ ALTER "degree" SET DEFAULT '0',
 ALTER "degree" SET NOT NULL,
 ADD "degree_output" integer NOT NULL DEFAULT '0';
 ALTER TABLE "artist" RENAME "degree" TO "degree_input";
-UPDATE "artist" SET degree_output = (SELECT COUNT(*) FROM "similar" WHERE from_id = id), degree_input = (SELECT COUNT(*) FROM "similar" WHERE to_id = id);
+
+
+CREATE TABLE "genre" (
+  "id" serial NOT NULL,
+  "genre" character varying NOT NULL
+);

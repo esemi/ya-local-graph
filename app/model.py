@@ -87,3 +87,10 @@ def fetch_graph_full():
         nodes[obj.to_id] = {'label': obj.to_label, 'color': 'red' if obj.to_main else 'blue'}
         edges.append((obj.from_id, obj.to_id))
     return nodes, edges
+
+
+def update_degree():
+    rq = RawQuery(Similar, 'UPDATE "artist" SET '
+                           'degree_output = (SELECT COUNT(*) FROM "similar" WHERE from_id = id), '
+                           'degree_input = (SELECT COUNT(*) FROM "similar" WHERE to_id = id)')
+    rq.execute()
