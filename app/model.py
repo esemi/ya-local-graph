@@ -12,7 +12,7 @@ db.connect()
 class Artist(Model):
     id = IntegerField(primary_key=True)
     name = CharField()
-    is_main_node = BooleanField(index=True)
+    similar_crawled = BooleanField(index=True, default=False)
     need_crawl_similar = BooleanField(index=True)
     degree_input = IntegerField()
     degree_output = IntegerField()
@@ -48,20 +48,26 @@ class ArtistGenre(Model):
         db_table = 'artist_genre'
 
 
-def get_artists_for_similar():
-    return Artist.select().where(Artist.need_crawl_similar == True)
+def get_artists_for_crawling_similar():
+    return Artist.select().where(Artist.need_crawl_similar == True,
+                                 Artist.similar_crawled == False)
 
 
 def save_new_artist(id, name, is_similar=False):
     try:
-        Artist.create(id=id, name=name, is_main_node=not is_similar,
-                      need_crawl_similar=not is_similar)
+        Artist.create(id=id, name=name, need_crawl_similar=not is_similar, similar_crawled=False)
         return True
     except IntegrityError:
+        if not is_similar:
+            update_need_crawl_similar(id, True)
         return False
 
 
-def save_new_similar_edge(from_id, to_id):
+def clear_similar_edges(from_id):
+    Similar.delete().where(Similar.from_id == from_id).execute()
+
+
+def save_similar_edge(from_id, to_id):
     try:
         Similar.create(from_id=from_id, to_id=to_id)
         return True
@@ -71,6 +77,11 @@ def save_new_similar_edge(from_id, to_id):
 
 def update_need_crawl_similar(id, state):
     q = Artist.update(need_crawl_similar=state).where(Artist.id == id)
+    q.execute()
+
+
+def update_crawled_similar_state(id, state):
+    q = Artist.update(similar_crawled=state).where(Artist.id == id)
     q.execute()
 
 

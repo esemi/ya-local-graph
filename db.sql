@@ -51,3 +51,9 @@ ALTER TABLE "ArtistGenre" ADD FOREIGN KEY ("genre_id") REFERENCES "genre" ("id")
 ALTER TABLE "genre"
 ADD CONSTRAINT "genre_genre" UNIQUE ("genre");
 ALTER TABLE "ArtistGenre" RENAME TO "artist_genre";
+
+ALTER TABLE "artist"
+ALTER "is_main_node" TYPE boolean,
+ALTER "is_main_node" SET DEFAULT 'false',
+ALTER "is_main_node" SET NOT NULL;
+ALTER TABLE "artist" RENAME "is_main_node" TO "similar_crawled";

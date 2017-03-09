@@ -11,8 +11,8 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 
 from app import config
-from app.model import save_new_artist, get_artists_for_similar, update_need_crawl_similar, \
-    save_new_similar_edge, update_degree, add_genre, update_artist_genres, get_genres
+from app.model import save_new_artist, get_artists_for_crawling_similar, update_crawled_similar_state, \
+    save_similar_edge, update_degree, add_genre, update_artist_genres, get_genres, clear_similar_edges
 
 
 def custom_wait():
@@ -45,7 +45,7 @@ class Manager(object):
 
         cnt = Counter()
         start_time = time.time()
-        for artist in get_artists_for_similar():
+        for artist in get_artists_for_crawling_similar():
             logging.info('crawl %s artist similar', artist.id)
 
             cnt['nodes_total'] += 1
@@ -61,16 +61,17 @@ class Manager(object):
                 artists = self.__fetch_all_artists()
                 logging.info('found %d similar artists', len(artists))
                 cnt['relations'] += len(artists)
+                clear_similar_edges(artist.id)
+
                 for a in artists:
                     r = save_new_artist(a['id'], a['name'], True)
                     cnt['new_artists'] += int(r)
                     update_artist_genres(a['id'], a['genres'])
 
-                    r = save_new_similar_edge(artist.id, a['id'])
-                    cnt['new_relations'] += int(r)
+                    save_similar_edge(artist.id, a['id'])
 
                 cnt['nodes_parsed'] += 1
-                update_need_crawl_similar(artist.id, False)
+                update_crawled_similar_state(artist.id, True)
             except Exception as e:
                 cnt['fail'] += 1
                 logging.warning('exception %s', e)
