@@ -30,6 +30,24 @@ class Similar(Model):
         primary_key = CompositeKey('from_id', 'to_id')
 
 
+class Genre(Model):
+    id = IntegerField(primary_key=True)
+    genre = CharField(unique=True)
+
+    class Meta:
+        database = db
+
+
+class ArtistGenre(Model):
+    artist_id = IntegerField()
+    genre_id = IntegerField()
+
+    class Meta:
+        database = db
+        primary_key = CompositeKey('artist_id', 'genre_id')
+        db_table = 'artist_genre'
+
+
 def get_artists_for_similar():
     return Artist.select().where(Artist.need_crawl_similar == True)
 
@@ -54,6 +72,21 @@ def save_new_similar_edge(from_id, to_id):
 def update_need_crawl_similar(id, state):
     q = Artist.update(need_crawl_similar=state).where(Artist.id == id)
     q.execute()
+
+
+def add_genre(name):
+    return Genre.get_or_create(genre=name)[0].id
+
+
+def get_genres():
+    res = Genre.select()
+    return {g.genre: g.id for g in res}
+
+
+def update_artist_genres(artist_id, genres_id):
+    ArtistGenre.delete().where(ArtistGenre.artist_id == artist_id).execute()
+    for g in genres_id:
+        ArtistGenre.create(artist_id=artist_id, genre_id=g)
 
 
 def fetch_graph_short():

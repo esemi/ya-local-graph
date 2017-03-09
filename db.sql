@@ -39,3 +39,15 @@ CREATE TABLE "genre" (
   "id" serial NOT NULL,
   "genre" character varying NOT NULL
 );
+ALTER TABLE "genre" ADD CONSTRAINT "genre_id" PRIMARY KEY ("id");
+
+CREATE TABLE "ArtistGenre" (
+  "artist_id" integer NOT NULL,
+  "genre_id" integer NOT NULL
+);
+
+ALTER TABLE "ArtistGenre" ADD CONSTRAINT "ArtistGenre_artist_id_genre_id" PRIMARY KEY ("artist_id", "genre_id");
+ALTER TABLE "ArtistGenre" ADD FOREIGN KEY ("genre_id") REFERENCES "genre" ("id") ON DELETE CASCADE ON UPDATE CASCADE;
+ALTER TABLE "genre"
+ADD CONSTRAINT "genre_genre" UNIQUE ("genre");
+ALTER TABLE "ArtistGenre" RENAME TO "artist_genre";

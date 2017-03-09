@@ -12,7 +12,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 from app import config
 from app.model import save_new_artist, get_artists_for_similar, update_need_crawl_similar, \
-    save_new_similar_edge, update_degree
+    save_new_similar_edge, update_degree, add_genre, update_artist_genres, get_genres
 
 
 def custom_wait():
@@ -20,6 +20,8 @@ def custom_wait():
 
 
 class Manager(object):
+
+    _genres = get_genres()
 
     def __init__(self):
         os.environ["webdriver.chrome.driver"] = config.CHROME_DRIVER_PATH
@@ -62,6 +64,8 @@ class Manager(object):
                 for a in artists:
                     r = save_new_artist(a['id'], a['name'], True)
                     cnt['new_artists'] += int(r)
+                    update_artist_genres(a['id'], a['genres'])
+
                     r = save_new_similar_edge(artist.id, a['id'])
                     cnt['new_relations'] += int(r)
 
@@ -85,6 +89,7 @@ class Manager(object):
 
     def artist_crawling(self, genre, page):
         logging.info('run artist crawling %s %s', genre, page)
+
         self.driver.get('%s/genre/%s/artists?page=%d' % (config.HOST, genre, page))
 
         new_artists_count = 0
@@ -98,6 +103,7 @@ class Manager(object):
             for a in new_artists:
                 r = save_new_artist(a['id'], a['name'])
                 new_artists_count += int(r)
+                update_artist_genres(a['id'], a['genres'])
             logging.info('new %d artists', new_artists_count)
 
             self.driver.execute_script("window.scrollTo(0,document.body.scrollHeight);")
@@ -120,9 +126,23 @@ class Manager(object):
         for item in slots:
             try:
                 link_elem = item.find_element_by_xpath('.//div[@class="artist__name"]/a')
+                genre_links = item.find_elements_by_xpath('.//div[@class="artist-summary"]/a')
+                genre_names = set([re.findall(r'/genre/(.+)', i.get_attribute('href').strip())[0] for i in genre_links])
+                genre_ids = []
+                for g in genre_names:
+                    try:
+                        id = self._genres[g]
+                    except KeyError:
+                        logging.info('add genre %s', g)
+                        id = add_genre(g)
+                        self._genres[g] = id
+                    genre_ids.append(id)
+
                 artist = {
                     'name': link_elem.get_attribute('title').strip(),
                     'id': int(re.findall(r'/artist/(\d+)', link_elem.get_attribute('href').strip())[0]),
+                    'genres': genre_ids,
+                    'genre_names': genre_names
                 }
                 logging.info('parse artist %s', artist)
                 res.append(artist)
