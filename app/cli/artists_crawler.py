@@ -70,8 +70,8 @@ class Manager(object):
 
                     save_similar_edge(artist.id, a['id'])
 
-                cnt['nodes_parsed'] += 1
                 update_crawled_similar_state(artist.id, True)
+                cnt['nodes_parsed'] += 1
             except Exception as e:
                 cnt['fail'] += 1
                 logging.warning('exception %s', e)
