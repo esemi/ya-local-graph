@@ -9,9 +9,9 @@ DB_NAME = 'ya'
 HOST = 'https://music.yandex.ru'
 DISPLAY = True
 DEBUG = False
-CUSTOM_WAIT_TIMEOUT = (5, 25)
-FIND_TIMEOUT = 10
-REQUEST_TIMEOUT = 20
+CUSTOM_WAIT_TIMEOUT = (10, 35)
+FIND_TIMEOUT = 20
+REQUEST_TIMEOUT = 30
 CHROME_DRIVER_PATH = os.path.sep.join([os.path.abspath(os.path.dirname(os.path.dirname(__file__))), 'chromedriver'])
 
 DATA_FOLDER_PATH = os.path.sep.join([os.path.abspath(os.path.dirname(os.path.dirname(__file__))), 'data'])

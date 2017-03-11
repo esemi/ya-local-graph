@@ -6,11 +6,11 @@ from app import config
 from .artists_crawler import Manager
 
 
-def task():
+def task(genre):
     logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
     m = Manager()
     try:
-        m.similar_crawling()
+        m.similar_crawling(genre)
         m.close()
     except Exception as e:
         logging.error('exception %s', e)

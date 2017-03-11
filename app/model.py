@@ -53,13 +53,11 @@ def get_artists_for_crawling_similar():
                                  Artist.similar_crawled == False)
 
 
-def save_new_artist(id, name, is_similar=False):
+def save_new_artist(id, name):
     try:
-        Artist.create(id=id, name=name, need_crawl_similar=not is_similar, similar_crawled=False)
+        Artist.create(id=id, name=name, similar_crawled=False)
         return True
     except IntegrityError:
-        if not is_similar:
-            update_need_crawl_similar(id, True)
         return False
 
 
@@ -75,8 +73,10 @@ def save_similar_edge(from_id, to_id):
         return False
 
 
-def update_need_crawl_similar(id, state):
-    q = Artist.update(need_crawl_similar=state).where(Artist.id == id)
+def set_to_crawling_similar(genres):
+    genre_subquery = Genre.select(Genre.id).where(Genre.genre << genres)
+    artist_id_subquery = ArtistGenre.select(ArtistGenre.artist_id).where(ArtistGenre.genre_id << genre_subquery)
+    q = Artist.update(need_crawl_similar=True).where(Artist.id << artist_id_subquery)
     q.execute()
 
 

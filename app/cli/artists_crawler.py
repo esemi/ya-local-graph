@@ -12,7 +12,8 @@ from selenium.common.exceptions import NoSuchElementException
 
 from app import config
 from app.model import save_new_artist, get_artists_for_crawling_similar, update_crawled_similar_state, \
-    save_similar_edge, update_degree, add_genre, update_artist_genres, get_genres, clear_similar_edges
+    save_similar_edge, update_degree, add_genre, update_artist_genres, get_genres, clear_similar_edges, \
+    set_to_crawling_similar
 
 
 def custom_wait():
@@ -40,13 +41,20 @@ class Manager(object):
         self.close()
         self._start()
 
-    def similar_crawling(self):
-        logging.info('run similar crawling')
+    def similar_crawling(self, genre):
+        logging.info('run similar crawling %s', genre)
+
+        genres = genre.split(',')
+        set_to_crawling_similar(genres)
+        logging.info('set for crawling by genre %s', genres)
 
         cnt = Counter()
         start_time = time.time()
-        for artist in get_artists_for_crawling_similar():
-            logging.info('crawl %s artist similar', artist.id)
+
+        artists = get_artists_for_crawling_similar()
+        logging.info('fetch %d artists for crawling similar', len(artists))
+        for artist in artists:
+            logging.info('crawl %s %s artist similar', artist.id, artist.name)
 
             cnt['nodes_total'] += 1
             try:
@@ -58,13 +66,13 @@ class Manager(object):
                     logging.warning('invalid page title')
                     continue
 
-                artists = self.__fetch_all_artists()
-                logging.info('found %d similar artists', len(artists))
-                cnt['relations'] += len(artists)
+                similar_artists = self.__fetch_all_artists()
+                logging.info('found %d similar artists', len(similar_artists))
+                cnt['relations'] += len(similar_artists)
                 clear_similar_edges(artist.id)
 
-                for a in artists:
-                    r = save_new_artist(a['id'], a['name'], True)
+                for a in similar_artists:
+                    r = save_new_artist(a['id'], a['name'])
                     cnt['new_artists'] += int(r)
                     update_artist_genres(a['id'], a['genres'])
 

@@ -13,8 +13,10 @@
 $ virtualenv -p python3 venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
-$ ./cli-run.py artists_crawler 'rock'
-$ ./cli-run.py similar_crawler
+
+$ ./cli-run.py artists_crawler rock 0
+$ ./cli-run.py similar_crawler rusrock,rock,ukrrock,rock-n-roll,prog-rock,post-rock,new-wave
+
 $ ./cli-run.py graph_export
 $ ./cli-run.py graph_plot
 ```
