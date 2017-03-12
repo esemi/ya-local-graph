@@ -13,7 +13,8 @@ class Artist(Model):
     id = IntegerField(primary_key=True)
     name = CharField()
     similar_crawled = BooleanField(index=True, default=False)
-    need_crawl_similar = BooleanField(index=True)
+    need_crawl_similar = BooleanField(index=True, default=False)
+    is_primary = BooleanField(index=True, default=False)
     degree_input = IntegerField()
     degree_output = IntegerField()
 
@@ -49,15 +50,17 @@ class ArtistGenre(Model):
 
 
 def get_artists_for_crawling_similar():
-    return Artist.select().where(Artist.need_crawl_similar == True,
-                                 Artist.similar_crawled == False)
+    return Artist.select().where(Artist.need_crawl_similar == True, Artist.similar_crawled == False).order_by(
+        Artist.is_primary.desc())
 
 
-def save_new_artist(id, name):
+def save_new_artist(id, name, is_primary=False):
     try:
-        Artist.create(id=id, name=name, similar_crawled=False)
+        Artist.create(id=id, name=name, similar_crawled=False, is_primary=is_primary)
         return True
     except IntegrityError:
+        if is_primary:
+            Artist.update(is_primary=True).where(Artist.id == id).execute()
         return False
 
 

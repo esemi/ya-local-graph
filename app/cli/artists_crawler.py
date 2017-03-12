@@ -110,7 +110,7 @@ class Manager(object):
                 break
 
             for a in new_artists:
-                r = save_new_artist(a['id'], a['name'])
+                r = save_new_artist(a['id'], a['name'], True)
                 new_artists_count += int(r)
                 update_artist_genres(a['id'], a['genres'])
             logging.info('new %d artists', new_artists_count)
