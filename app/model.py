@@ -103,13 +103,19 @@ def update_artist_genres(artist_id, genres_id):
         ArtistGenre.create(artist_id=artist_id, genre_id=g)
 
 
-def fetch_graph_short():
-    """Return genre graph w/o single nodes"""
+def fetch_graph_primary(genre_ids):
+    """Return primary genre graph w/o single nodes"""
+
+    in_ = ','.join([str(i) for i in genre_ids])
+
     rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label '
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
-                           'WHERE a1.is_main_node = True AND a2.is_main_node = True LIMIT %d' % GRAPH_EXPORT_LIMIT)
+                           'WHERE a1.is_primary = True AND a2.is_primary = True '
+                           'AND from_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id IN (%s)) '
+                           'AND to_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id  IN (%s)) '
+                           'LIMIT %d' % (in_, in_, GRAPH_EXPORT_LIMIT))
     nodes = {}
     edges = []
     for obj in rq.execute():
@@ -119,14 +125,20 @@ def fetch_graph_short():
     return nodes, edges
 
 
-def fetch_graph_full():
+def fetch_graph_full(genre_ids):
     """Return full graph w/o single nodes"""
+
+    in_ = ','.join([str(i) for i in genre_ids])
+
     rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, '
-                           'a1.is_main_node as from_main, a2.is_main_node as to_main '
+                           'a1.is_primary as from_main, a2.is_primary as to_main '
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
-                           'LIMIT %d' % GRAPH_EXPORT_LIMIT)
+                           'WHERE '
+                           'from_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id IN (%s)) '
+                           'AND to_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id  IN (%s)) '
+                           'LIMIT %d' % (in_, in_, GRAPH_EXPORT_LIMIT))
     nodes = {}
     edges = []
     for obj in rq.execute():

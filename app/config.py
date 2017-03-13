@@ -16,8 +16,8 @@ CHROME_DRIVER_PATH = os.path.sep.join([os.path.abspath(os.path.dirname(os.path.d
 
 DATA_FOLDER_PATH = os.path.sep.join([os.path.abspath(os.path.dirname(os.path.dirname(__file__))), 'data'])
 
-GRAPH_EXPORT_LIMIT = 100000
-ROCK_GRAPH_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock.gml'])
-ROCK_GRAPH_PLOT_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-%s.%s'])
-ROCK_SIMILAR_GRAPH_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-similar.gml'])
-ROCK_SIMILAR_GRAPH_PLOT_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-similar-%s.%s'])
+GRAPH_EXPORT_LIMIT = 1000000
+ROCK_PRIMARY_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-primary.gml'])
+ROCK_PRIMARY_PLOT_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-primary-%s.%s'])
+ROCK_FULL_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-full.gml'])
+ROCK_FULL_PLOT_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-full-%s.%s'])
