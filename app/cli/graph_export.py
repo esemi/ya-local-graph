@@ -2,18 +2,21 @@
 
 import logging
 
-from app.config import ROCK_PRIMARY_FILE, ROCK_FULL_FILE, METAL_FULL_FILE, METAL_PRIMARY_FILE
-from app.model import fetch_graph_primary, fetch_graph_full, get_genres
+from app.cli import graph_name, gml_name
 from app.cli.graph_plot import clear_cache
+from app.config import PROCESS_GENRES, ALL_ROCK_GENRE
+from app.model import fetch_graph_primary, fetch_graph_full, get_genres
 
 
-def save_gml(f_name, nodes, edges, directed=True, reset=False):
-    logging.info('save fetch genre short %d %d', len(nodes), len(edges))
+def save_gml(genre_name, nodes, edges, full=False):
+    logging.info('save fetch genre  %d %d', len(nodes), len(edges))
+
+    g_name = graph_name(genre_name, full)
+    f_name = gml_name(g_name)
     f = open(f_name, 'w+')
-    content = ['graph [']
 
-    if directed:
-        content.append('    directed 1')
+    content = ['graph [']
+    content.append('    directed 1')
 
     for id, attrs in nodes.items():
         content.append('    node [')
@@ -33,36 +36,36 @@ def save_gml(f_name, nodes, edges, directed=True, reset=False):
     f.write("\n".join(content))
     f.close()
 
-    if reset:
-        clear_cache(f_name)
+    clear_cache(g_name)
 
 
-def task(reset=False):
+def task():
     logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
     genres = get_genres()
+
+    for genre_name in PROCESS_GENRES:
+        genre_ids = [genres[genre_name]]
+        logging.info('export primary %s %s', genre_name, genre_ids)
+        nodes, edges = fetch_graph_primary(genre_ids)
+        save_gml(genre_name, nodes, edges)
+        logging.info('export primary end')
+
+        logging.info('export full %s %s', genre_name, genre_ids)
+        nodes, edges = fetch_graph_full(genre_ids)
+        save_gml(genre_name, nodes, edges, full=True)
+        logging.info('export full end')
 
     # all rock
     rock_ids = [str(genres[i]) for i in genres if i in {'rusrock', 'rock', 'ukrrock', 'rock-n-roll', 'prog-rock',
                                                         'post-rock', 'new-wave'}]
-    logging.info('export primary rock %s', rock_ids)
+    logging.info('export primary rock-all %s', rock_ids)
     nodes, edges = fetch_graph_primary(rock_ids)
-    save_gml(ROCK_PRIMARY_FILE, nodes, edges, reset=reset)
-    logging.info('export primary rock end')
-    logging.info('export full rock %s', rock_ids)
+    save_gml(ALL_ROCK_GENRE, nodes, edges)
+    logging.info('export primary end')
+    logging.info('export full rock-all %s', rock_ids)
     nodes, edges = fetch_graph_full(rock_ids)
-    save_gml(ROCK_FULL_FILE, nodes, edges, reset=reset)
-    logging.info('export full rock end')
-
-    # metal
-    metal_ids = [genres['metal']]
-    logging.info('export primary metal %s', metal_ids)
-    nodes, edges = fetch_graph_primary(metal_ids)
-    save_gml(METAL_PRIMARY_FILE, nodes, edges, reset=reset)
-    logging.info('export primary rock end %d %d', len(nodes), len(edges))
-    logging.info('export full metal %s', metal_ids)
-    nodes, edges = fetch_graph_full(metal_ids)
-    save_gml(METAL_FULL_FILE, nodes, edges, reset=reset)
-    logging.info('export full metal end %d %d', len(nodes), len(edges))
+    save_gml(ALL_ROCK_GENRE, nodes, edges, full=True)
+    logging.info('export full end')
 
 
 if __name__ == '__main__':

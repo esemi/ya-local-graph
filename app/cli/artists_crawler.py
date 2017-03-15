@@ -66,17 +66,21 @@ class Manager(object):
                     logging.warning('invalid page title')
                     continue
 
-                similar_artists = self.__fetch_all_artists()
-                logging.info('found %d similar artists', len(similar_artists))
-                cnt['relations'] += len(similar_artists)
-                clear_similar_edges(artist.id)
-
-                for a in similar_artists:
-                    r = save_new_artist(a['id'], a['name'])
-                    cnt['new_artists'] += int(r)
-                    update_artist_genres(a['id'], a['genres'])
-
-                    save_similar_edge(artist.id, a['id'])
+                last_tab = self.driver.find_elements_by_xpath('//div[contains(@class, "page-artist__tabs")]'
+                                                              '//div[contains(@class, "tabs__tab")]')[-1]
+                if 'tabs__tab_current' not in last_tab.get_attribute('class'):
+                    cnt['empty_page'] += 1
+                    logging.info('empty page')
+                else:
+                    similar_artists = self.__fetch_all_artists()
+                    logging.info('found %d similar artists', len(similar_artists))
+                    cnt['relations'] += len(similar_artists)
+                    clear_similar_edges(artist.id)
+                    for a in similar_artists:
+                        r = save_new_artist(a['id'], a['name'])
+                        cnt['new_artists'] += int(r)
+                        update_artist_genres(a['id'], a['genres'])
+                        save_similar_edge(artist.id, a['id'])
 
                 update_crawled_similar_state(artist.id, True)
                 cnt['nodes_parsed'] += 1
@@ -151,8 +155,7 @@ class Manager(object):
                 artist = {
                     'name': link_elem.get_attribute('title').strip(),
                     'id': int(re.findall(r'/artist/(\d+)', link_elem.get_attribute('href').strip())[0]),
-                    'genres': genre_ids,
-                    'genre_names': genre_names
+                    'genres': genre_ids
                 }
                 logging.info('parse artist %s', artist)
                 res.append(artist)

@@ -3,7 +3,7 @@
 from peewee import PostgresqlDatabase, Model, CharField, IntegerField, IntegrityError, BooleanField, CompositeKey, \
     RawQuery
 
-from app.config import DB_USER, DB_PSWD, DB_NAME, GRAPH_EXPORT_LIMIT
+from app.config import DB_USER, DB_PSWD, DB_NAME, EXPORT_LIMIT
 
 db = PostgresqlDatabase(DB_NAME, user=DB_USER, password=DB_PSWD, autorollback=True)
 db.connect()
@@ -115,7 +115,7 @@ def fetch_graph_primary(genre_ids):
                            'WHERE a1.is_primary = True AND a2.is_primary = True '
                            'AND from_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id IN (%s)) '
                            'AND to_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id  IN (%s)) '
-                           'LIMIT %d' % (in_, in_, GRAPH_EXPORT_LIMIT))
+                           'LIMIT %d' % (in_, in_, EXPORT_LIMIT))
     nodes = {}
     edges = []
     for obj in rq.execute():
@@ -130,20 +130,19 @@ def fetch_graph_full(genre_ids):
 
     in_ = ','.join([str(i) for i in genre_ids])
 
-    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, '
-                           'a1.is_primary as from_main, a2.is_primary as to_main '
+    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label '
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
                            'WHERE '
                            'from_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id IN (%s)) '
                            'AND to_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id  IN (%s)) '
-                           'LIMIT %d' % (in_, in_, GRAPH_EXPORT_LIMIT))
+                           'LIMIT %d' % (in_, in_, EXPORT_LIMIT))
     nodes = {}
     edges = []
     for obj in rq.execute():
-        nodes[obj.from_id] = {'label': obj.from_label, 'color': 'red' if obj.from_main else 'blue'}
-        nodes[obj.to_id] = {'label': obj.to_label, 'color': 'red' if obj.to_main else 'blue'}
+        nodes[obj.from_id] = {'label': obj.from_label, 'color': 'red'}
+        nodes[obj.to_id] = {'label': obj.to_label, 'color': 'red'}
         edges.append((obj.from_id, obj.to_id))
     return nodes, edges
 

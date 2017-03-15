@@ -16,13 +16,11 @@ CHROME_DRIVER_PATH = os.path.sep.join([os.path.abspath(os.path.dirname(os.path.d
 
 DATA_FOLDER_PATH = os.path.sep.join([os.path.abspath(os.path.dirname(os.path.dirname(__file__))), 'data'])
 
-GRAPH_EXPORT_LIMIT = 1000000
-ROCK_PRIMARY_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-primary.gml'])
-ROCK_PRIMARY_PLOT_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-primary-%s.%s'])
-ROCK_FULL_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-full.gml'])
-ROCK_FULL_PLOT_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'rock-full-%s.%s'])
+EXPORT_LIMIT = 500000
+EXPORT_FILE_PRIMARY = '%s-primary'
+EXPORT_FILE_FULL = '%s-full'
 
-METAL_PRIMARY_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'metal-primary.gml'])
-METAL_PRIMARY_PLOT_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'metal-primary-%s.%s'])
-METAL_FULL_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'metal-full.gml'])
-METAL_FULL_PLOT_FILE = os.path.sep.join([DATA_FOLDER_PATH, 'metal-full-%s.%s'])
+PROCESS_GENRES = ['rusrock', 'ukrrock', 'rock-n-roll', 'prog-rock', 'post-rock', 'new-wave', 'metal', 'rock']
+ALL_ROCK_GENRE = 'rock-all'
+
+PLOT_LAYOUT = 'fr'
