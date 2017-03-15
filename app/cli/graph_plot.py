@@ -6,11 +6,12 @@ import os
 
 import igraph
 
-from app.config import ROCK_PRIMARY_FILE, ROCK_PRIMARY_PLOT_FILE, ROCK_FULL_FILE, ROCK_FULL_PLOT_FILE
+from app.config import ROCK_PRIMARY_FILE, ROCK_PRIMARY_PLOT_FILE, ROCK_FULL_FILE, ROCK_FULL_PLOT_FILE, METAL_FULL_FILE, \
+    METAL_FULL_PLOT_FILE, METAL_PRIMARY_FILE, METAL_PRIMARY_PLOT_FILE
 
 
 def cache_name(name):
-    return '%s.cache' % name
+    return '%s.layout' % name
 
 
 def clear_cache(name):
@@ -59,14 +60,25 @@ def task():
     logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
     logging.info('start')
 
+    g = igraph.Graph.Read_GML(METAL_PRIMARY_FILE)
+    logging.info('load rock primary %d %d', g.vcount(), g.ecount())
+    plot(g, METAL_PRIMARY_PLOT_FILE, METAL_PRIMARY_FILE)
+    logging.info('plot end')
+
     g = igraph.Graph.Read_GML(ROCK_PRIMARY_FILE)
     logging.info('load rock primary %d %d', g.vcount(), g.ecount())
     plot(g, ROCK_PRIMARY_PLOT_FILE, ROCK_PRIMARY_FILE)
     logging.info('plot end')
 
-    g = igraph.Graph.Read_GML(ROCK_FULL_FILE)
-    logging.info('load rock full %d %d', g.vcount(), g.ecount())
-    plot(g, ROCK_FULL_PLOT_FILE, ROCK_FULL_FILE)
-    logging.info('plot end')
+    # g = igraph.Graph.Read_GML(METAL_FULL_FILE)
+    # logging.info('load rock full %d %d', g.vcount(), g.ecount())
+    # plot(g, METAL_FULL_PLOT_FILE, METAL_FULL_FILE)
+    # logging.info('plot end')
+
+    # g = igraph.Graph.Read_GML(ROCK_FULL_FILE)
+    # logging.info('load rock full %d %d', g.vcount(), g.ecount())
+    # plot(g, ROCK_FULL_PLOT_FILE, ROCK_FULL_FILE)
+    # logging.info('plot end')
+
 
 

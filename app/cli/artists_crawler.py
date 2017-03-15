@@ -41,7 +41,7 @@ class Manager(object):
         self.close()
         self._start()
 
-    def similar_crawling(self, genre):
+    def similar_crawling(self, genre, reset_degree=False):
         logging.info('run similar crawling %s', genre)
 
         genres = genre.split(',')
@@ -93,8 +93,9 @@ class Manager(object):
 
         logging.info('end %s', cnt)
 
-        update_degree()
-        logging.info('compute degree')
+        if reset_degree:
+            update_degree()
+            logging.info('compute degree')
 
     def artist_crawling(self, genre, page):
         logging.info('run artist crawling %s %s', genre, page)
