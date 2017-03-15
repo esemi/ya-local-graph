@@ -38,7 +38,7 @@ def save_cache(name, l):
 
 
 def plot(g, name, name_g):
-    kwargs = dict(bbox=(10000, 10000), edge_arrow_size=0.3, edge_arrow_width=0.9, edge_width=0.3, vertex_frame_width=0.4)
+    kwargs = dict(bbox=(10000, 10000), edge_arrow_size=0.2, edge_arrow_width=0.9, edge_width=0.3, vertex_frame_width=0.4)
 
     l = read_cache(name_g)
     if not l:
@@ -61,7 +61,7 @@ def task():
     logging.info('start')
 
     g = igraph.Graph.Read_GML(METAL_PRIMARY_FILE)
-    logging.info('load rock primary %d %d', g.vcount(), g.ecount())
+    logging.info('load metal primary %d %d', g.vcount(), g.ecount())
     plot(g, METAL_PRIMARY_PLOT_FILE, METAL_PRIMARY_FILE)
     logging.info('plot end')
 
@@ -71,7 +71,7 @@ def task():
     logging.info('plot end')
 
     # g = igraph.Graph.Read_GML(METAL_FULL_FILE)
-    # logging.info('load rock full %d %d', g.vcount(), g.ecount())
+    # logging.info('load metal full %d %d', g.vcount(), g.ecount())
     # plot(g, METAL_FULL_PLOT_FILE, METAL_FULL_FILE)
     # logging.info('plot end')
 
