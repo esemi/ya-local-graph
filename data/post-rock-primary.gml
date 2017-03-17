@@ -2,738 +2,853 @@ graph [
     directed 1
     node [
         id 1139203
-        color "red"
         label "Doi"
+        color "red"
     ]
     node [
         id 1339910
-        color "red"
         label "Pertegò"
+        color "red"
     ]
     node [
         id 1395465
-        color "red"
         label "Glorie"
+        color "red"
+    ]
+    node [
+        id 1199629
+        label "Helms Alee"
+        color "red"
     ]
     node [
         id 71184
-        color "red"
         label "The Burning Paris"
+        color "red"
     ]
     node [
         id 2045201
-        color "red"
         label "So Far as I Know"
+        color "red"
     ]
     node [
         id 2367762
-        color "red"
         label "Autism"
+        color "red"
     ]
     node [
-        id 1130003
+        id 3009155
+        label "Bear the Mammoth"
         color "red"
-        label "Mouse On The Keys"
     ]
     node [
         id 94996
-        color "red"
         label "Maudlin"
+        color "red"
     ]
     node [
         id 1309205
-        color "red"
         label "Chemtrail"
+        color "red"
     ]
     node [
         id 1942806
-        color "red"
         label "Plainfire"
+        color "red"
     ]
     node [
         id 947479
-        color "red"
         label "Kovlo"
+        color "red"
     ]
     node [
         id 2522905
-        color "red"
         label "Our Ceasing Voice"
+        color "red"
     ]
     node [
         id 45083
-        color "red"
         label "Mogwai"
-    ]
-    node [
-        id 1164829
         color "red"
-        label "Maybeshewill"
-    ]
-    node [
-        id 1562465
-        color "red"
-        label "Zombie Western"
-    ]
-    node [
-        id 1154640
-        color "red"
-        label "Golden Holy"
-    ]
-    node [
-        id 305953
-        color "red"
-        label "Motek"
-    ]
-    node [
-        id 1192738
-        color "red"
-        label "Miaou"
-    ]
-    node [
-        id 2205147
-        color "red"
-        label "sleepmakeswaves"
-    ]
-    node [
-        id 2146085
-        color "red"
-        label "Pray for Sound"
-    ]
-    node [
-        id 1050918
-        color "red"
-        label "Reserve de Marche"
-    ]
-    node [
-        id 15146
-        color "red"
-        label "A Whisper In The Noise"
-    ]
-    node [
-        id 811051
-        color "red"
-        label "Caspian"
-    ]
-    node [
-        id 706738
-        color "red"
-        label "Sinistro"
-    ]
-    node [
-        id 2546222
-        color "red"
-        label "Hazards of Swimming Naked"
-    ]
-    node [
-        id 1333209
-        color "red"
-        label "...Of Sinking Ships"
-    ]
-    node [
-        id 2397492
-        color "red"
-        label "Slowrun"
-    ]
-    node [
-        id 2223670
-        color "red"
-        label "Lightwires"
-    ]
-    node [
-        id 430649
-        color "red"
-        label "Long Distance Calling"
-    ]
-    node [
-        id 1127227
-        color "red"
-        label "Moonlit Sailor"
-    ]
-    node [
-        id 1127228
-        color "red"
-        label "The Dandelion War"
-    ]
-    node [
-        id 2122045
-        color "red"
-        label "Lost in Kiev"
-    ]
-    node [
-        id 107329
-        color "red"
-        label "Slut"
-    ]
-    node [
-        id 81986
-        color "red"
-        label "Cul De Sac"
-    ]
-    node [
-        id 54340
-        color "red"
-        label "Explosions In The Sky"
-    ]
-    node [
-        id 2545734
-        color "red"
-        label "Komas Mida"
-    ]
-    node [
-        id 1248225
-        color "red"
-        label "You Slut!"
-    ]
-    node [
-        id 1111180
-        color "red"
-        label "Cinemechanica"
-    ]
-    node [
-        id 2737483
-        color "red"
-        label "Across the Snow"
-    ]
-    node [
-        id 2907725
-        color "red"
-        label "Union Sound Set"
-    ]
-    node [
-        id 2252366
-        color "red"
-        label "Constant Seas"
-    ]
-    node [
-        id 643663
-        color "red"
-        label "Lymbyc Systym"
-    ]
-    node [
-        id 1190992
-        color "red"
-        label "This Will Destroy You"
-    ]
-    node [
-        id 2028369
-        color "red"
-        label "Milanku"
-    ]
-    node [
-        id 2306388
-        color "red"
-        label "Flies Are Spies from Hell"
-    ]
-    node [
-        id 1200043
-        color "red"
-        label "Holy Fuck"
-    ]
-    node [
-        id 1127225
-        color "red"
-        label "Athletics"
-    ]
-    node [
-        id 2482776
-        color "red"
-        label "Between Days"
-    ]
-    node [
-        id 1157210
-        color "red"
-        label "Jeniferever"
-    ]
-    node [
-        id 30301
-        color "red"
-        label "The Notwist"
-    ]
-    node [
-        id 2630750
-        color "red"
-        label "Afformance"
-    ]
-    node [
-        id 1861985
-        color "red"
-        label "Kontakte"
-    ]
-    node [
-        id 293350
-        color "red"
-        label "From Monument To Masses"
-    ]
-    node [
-        id 88678
-        color "red"
-        label "Sigur Rós"
-    ]
-    node [
-        id 155409
-        color "red"
-        label "Jónsi"
-    ]
-    node [
-        id 300136
-        color "red"
-        label "The Seven Mile Journey"
-    ]
-    node [
-        id 2175292
-        color "red"
-        label "The Ambient Light"
-    ]
-    node [
-        id 1622599
-        color "red"
-        label "Septa"
-    ]
-    node [
-        id 1562731
-        color "red"
-        label "The Victor Ship"
-    ]
-    node [
-        id 1220716
-        color "red"
-        label "Hrsta"
-    ]
-    node [
-        id 1223533
-        color "red"
-        label "Yndi Halda"
-    ]
-    node [
-        id 1530478
-        color "red"
-        label "And So I Watch You From Afar"
-    ]
-    node [
-        id 1127229
-        color "red"
-        label "Lights & Motion"
-    ]
-    node [
-        id 886128
-        color "red"
-        label "Calla"
-    ]
-    node [
-        id 2733288
-        color "red"
-        label "HRVRD"
-    ]
-    node [
-        id 1221748
-        color "red"
-        label "Paik"
-    ]
-    node [
-        id 1057910
-        color "red"
-        label "Cecilia::eyes"
-    ]
-    node [
-        id 1924331
-        color "red"
-        label "Lazlo Hollyfeld"
-    ]
-    node [
-        id 744980
-        color "red"
-        label "O'Brother"
-    ]
-    node [
-        id 2006038
-        color "red"
-        label "Hadoken"
-    ]
-    node [
-        id 2130813
-        color "red"
-        label "Belle Noire"
-    ]
-    node [
-        id 2009216
-        color "red"
-        label "Capillaries"
-    ]
-    node [
-        id 1203331
-        color "red"
-        label "Latitudes"
-    ]
-    node [
-        id 1787012
-        color "red"
-        label "Until Sunrise"
-    ]
-    node [
-        id 881797
-        color "red"
-        label "Dorena"
-    ]
-    node [
-        id 1820552
-        color "red"
-        label "Wess Meets West"
-    ]
-    node [
-        id 1964426
-        color "red"
-        label "Drop Electric"
-    ]
-    node [
-        id 1747705
-        color "red"
-        label "My Exit Music"
-    ]
-    node [
-        id 1213068
-        color "red"
-        label "Exxasens"
-    ]
-    node [
-        id 2105741
-        color "red"
-        label "Tacoma Narrows Bridge Disaster"
-    ]
-    node [
-        id 158317
-        color "red"
-        label "Russian Circles"
-    ]
-    node [
-        id 2332101
-        color "red"
-        label "Echoes from Jupiter"
-    ]
-    node [
-        id 1686417
-        color "red"
-        label "Aural Method"
-    ]
-    node [
-        id 1100691
-        color "red"
-        label "Asidefromaday"
-    ]
-    node [
-        id 214932
-        color "red"
-        label "Ecco"
-    ]
-    node [
-        id 1907054
-        color "red"
-        label "Antennas to Heaven"
-    ]
-    node [
-        id 2028950
-        color "red"
-        label "Lights At Sea"
-    ]
-    node [
-        id 1127063
-        color "red"
-        label "Fourteen Nights At Sea"
-    ]
-    node [
-        id 648208
-        color "red"
-        label "Crippled Black Phoenix"
-    ]
-    node [
-        id 454553
-        color "red"
-        label "EF"
-    ]
-    node [
-        id 1766042
-        color "red"
-        label "Followed By Ghosts"
-    ]
-    node [
-        id 1555099
-        color "red"
-        label "Pawa Up First"
-    ]
-    node [
-        id 1849502
-        color "red"
-        label "Mescaliner"
-    ]
-    node [
-        id 2363964
-        color "red"
-        label "Zhaoze"
-    ]
-    node [
-        id 2905456
-        color "red"
-        label "Homeless Atlantic"
-    ]
-    node [
-        id 2421156
-        color "red"
-        label "Christine Owman"
-    ]
-    node [
-        id 2455110
-        color "red"
-        label "Sleevenotes"
-    ]
-    node [
-        id 82326
-        color "red"
-        label "Matt Nelson"
-    ]
-    node [
-        id 844712
-        color "red"
-        label "Barrows"
-    ]
-    node [
-        id 1131819
-        color "red"
-        label "Fuck Buttons"
-    ]
-    node [
-        id 1167598
-        color "red"
-        label "*Ancients"
-    ]
-    node [
-        id 1127495
-        color "red"
-        label "Last Lungs"
-    ]
-    node [
-        id 333484
-        color "red"
-        label "Toundra"
-    ]
-    node [
-        id 1223086
-        color "red"
-        label "Plumerai"
-    ]
-    node [
-        id 645553
-        color "red"
-        label "Old Silver Key"
-    ]
-    node [
-        id 1159602
-        color "red"
-        label "The American Dollar"
-    ]
-    node [
-        id 1699763
-        color "red"
-        label "If These Trees Could Talk"
-    ]
-    node [
-        id 1224884
-        color "red"
-        label "Bossk"
-    ]
-    node [
-        id 1800889
-        color "red"
-        label "Dawn Chorus Ignites"
-    ]
-    node [
-        id 825530
-        color "red"
-        label "Collapse Under The Empire"
-    ]
-    node [
-        id 1195451
-        color "red"
-        label "Disappearer"
-    ]
-    node [
-        id 877500
-        color "red"
-        label "Guns Of Brixton"
-    ]
-    node [
-        id 426176
-        color "red"
-        label "65daysofstatic"
-    ]
-    node [
-        id 1648260
-        color "red"
-        label "The People Say Fox"
-    ]
-    node [
-        id 641477
-        color "red"
-        label "Quarkspace"
-    ]
-    node [
-        id 2151112
-        color "red"
-        label "Apocynthion"
-    ]
-    node [
-        id 1195722
-        color "red"
-        label "We Made God"
-    ]
-    node [
-        id 2384247
-        color "red"
-        label "From Fragile Seeds"
-    ]
-    node [
-        id 1630156
-        color "red"
-        label "Méon"
-    ]
-    node [
-        id 2696909
-        color "red"
-        label "Rocket Miner"
-    ]
-    node [
-        id 1258378
-        color "red"
-        label "Carontte"
-    ]
-    node [
-        id 1768183
-        color "red"
-        label "UnKindness Of Ravens"
     ]
     node [
         id 317136
-        color "red"
         label "Toe"
+        color "red"
     ]
     node [
-        id 932344
+        id 1164829
+        label "Maybeshewill"
         color "red"
-        label "Ulan Bator"
     ]
     node [
-        id 911573
+        id 1562465
+        label "Zombie Western"
         color "red"
-        label "The Allstar Project"
     ]
     node [
-        id 1775831
+        id 1154640
+        label "Golden Holy"
         color "red"
-        label "Celestial Wolves"
     ]
     node [
-        id 1992920
+        id 305953
+        label "Motek"
         color "red"
-        label "Shy Guy Says"
     ]
     node [
-        id 2040025
+        id 1192738
+        label "Miaou"
         color "red"
-        label "Signal Hill"
     ]
     node [
-        id 1154267
+        id 2205147
+        label "sleepmakeswaves"
         color "red"
-        label "The Evpatoria Report"
     ]
     node [
-        id 1763563
+        id 2146085
+        label "Pray for Sound"
         color "red"
-        label "1.1 Immermann"
     ]
     node [
-        id 2158302
+        id 1050918
+        label "Reserve de Marche"
         color "red"
-        label "Beware of Safety"
+    ]
+    node [
+        id 706738
+        label "Sinistro"
+        color "red"
+    ]
+    node [
+        id 1173033
+        label "Frontier"
+        color "red"
+    ]
+    node [
+        id 15146
+        label "A Whisper In The Noise"
+        color "red"
+    ]
+    node [
+        id 811051
+        label "Caspian"
+        color "red"
+    ]
+    node [
+        id 1972773
+        label "D Numbers"
+        color "red"
+    ]
+    node [
+        id 2546222
+        label "Hazards of Swimming Naked"
+        color "red"
+    ]
+    node [
+        id 30301
+        label "The Notwist"
+        color "red"
+    ]
+    node [
+        id 2265296
+        label "This Season's Color"
+        color "red"
+    ]
+    node [
+        id 1333209
+        label "...Of Sinking Ships"
+        color "red"
+    ]
+    node [
+        id 2397492
+        label "Slowrun"
+        color "red"
+    ]
+    node [
+        id 2223670
+        label "Lightwires"
+        color "red"
+    ]
+    node [
+        id 430649
+        label "Long Distance Calling"
+        color "red"
+    ]
+    node [
+        id 2056724
+        label "Michael Montes"
+        color "red"
+    ]
+    node [
+        id 1127227
+        label "Moonlit Sailor"
+        color "red"
+    ]
+    node [
+        id 1127228
+        label "The Dandelion War"
+        color "red"
+    ]
+    node [
+        id 2122045
+        label "Lost in Kiev"
+        color "red"
+    ]
+    node [
+        id 3000539
+        label "Not Just to Drink and Dream"
+        color "red"
+    ]
+    node [
+        id 81986
+        label "Cul De Sac"
+        color "red"
+    ]
+    node [
+        id 54340
+        label "Explosions In The Sky"
+        color "red"
+    ]
+    node [
+        id 2545734
+        label "Komas Mida"
+        color "red"
     ]
     node [
         id 67553
-        color "red"
         label "The Album Leaf"
+        color "red"
+    ]
+    node [
+        id 1111180
+        label "Cinemechanica"
+        color "red"
+    ]
+    node [
+        id 2737483
+        label "Across the Snow"
+        color "red"
+    ]
+    node [
+        id 2907725
+        label "Union Sound Set"
+        color "red"
+    ]
+    node [
+        id 2252366
+        label "Constant Seas"
+        color "red"
+    ]
+    node [
+        id 643663
+        label "Lymbyc Systym"
+        color "red"
+    ]
+    node [
+        id 1190992
+        label "This Will Destroy You"
+        color "red"
+    ]
+    node [
+        id 2028369
+        label "Milanku"
+        color "red"
+    ]
+    node [
+        id 2306388
+        label "Flies Are Spies from Hell"
+        color "red"
+    ]
+    node [
+        id 1200043
+        label "Holy Fuck"
+        color "red"
+    ]
+    node [
+        id 1127225
+        label "Athletics"
+        color "red"
+    ]
+    node [
+        id 2482776
+        label "Between Days"
+        color "red"
+    ]
+    node [
+        id 1157210
+        label "Jeniferever"
+        color "red"
+    ]
+    node [
+        id 1297465
+        label "Radwon Moumneh"
+        color "red"
+    ]
+    node [
+        id 2630750
+        label "Afformance"
+        color "red"
+    ]
+    node [
+        id 1861985
+        label "Kontakte"
+        color "red"
+    ]
+    node [
+        id 293350
+        label "From Monument To Masses"
+        color "red"
+    ]
+    node [
+        id 88678
+        label "Sigur Rós"
+        color "red"
+    ]
+    node [
+        id 155409
+        label "Jónsi"
+        color "red"
+    ]
+    node [
+        id 300136
+        label "The Seven Mile Journey"
+        color "red"
+    ]
+    node [
+        id 2175292
+        label "The Ambient Light"
+        color "red"
+    ]
+    node [
+        id 1622599
+        label "Septa"
+        color "red"
+    ]
+    node [
+        id 1562731
+        label "The Victor Ship"
+        color "red"
+    ]
+    node [
+        id 1220716
+        label "Hrsta"
+        color "red"
+    ]
+    node [
+        id 1223533
+        label "Yndi Halda"
+        color "red"
+    ]
+    node [
+        id 1530478
+        label "And So I Watch You From Afar"
+        color "red"
+    ]
+    node [
+        id 1127229
+        label "Lights & Motion"
+        color "red"
+    ]
+    node [
+        id 886128
+        label "Calla"
+        color "red"
+    ]
+    node [
+        id 2733288
+        label "HRVRD"
+        color "red"
+    ]
+    node [
+        id 1130003
+        label "Mouse On The Keys"
+        color "red"
+    ]
+    node [
+        id 2741108
+        label "Aloft"
+        color "red"
+    ]
+    node [
+        id 1057910
+        label "Cecilia::eyes"
+        color "red"
+    ]
+    node [
+        id 1924331
+        label "Lazlo Hollyfeld"
+        color "red"
+    ]
+    node [
+        id 744980
+        label "O'Brother"
+        color "red"
+    ]
+    node [
+        id 2006038
+        label "Hadoken"
+        color "red"
+    ]
+    node [
+        id 1832586
+        label "Kimika"
+        color "red"
+    ]
+    node [
+        id 2130813
+        label "Belle Noire"
+        color "red"
+    ]
+    node [
+        id 347669
+        label "The Nocturnes"
+        color "red"
+    ]
+    node [
+        id 2009216
+        label "Capillaries"
+        color "red"
+    ]
+    node [
+        id 345280
+        label "Sparrows"
+        color "red"
+    ]
+    node [
+        id 1203331
+        label "Latitudes"
+        color "red"
+    ]
+    node [
+        id 1787012
+        label "Until Sunrise"
+        color "red"
+    ]
+    node [
+        id 881797
+        label "Dorena"
+        color "red"
+    ]
+    node [
+        id 107329
+        label "Slut"
+        color "red"
+    ]
+    node [
+        id 1820552
+        label "Wess Meets West"
+        color "red"
+    ]
+    node [
+        id 1964426
+        label "Drop Electric"
+        color "red"
+    ]
+    node [
+        id 1747705
+        label "My Exit Music"
+        color "red"
+    ]
+    node [
+        id 1213068
+        label "Exxasens"
+        color "red"
+    ]
+    node [
+        id 2105741
+        label "Tacoma Narrows Bridge Disaster"
+        color "red"
+    ]
+    node [
+        id 158317
+        label "Russian Circles"
+        color "red"
+    ]
+    node [
+        id 2332101
+        label "Echoes from Jupiter"
+        color "red"
+    ]
+    node [
+        id 1686417
+        label "Aural Method"
+        color "red"
+    ]
+    node [
+        id 1100691
+        label "Asidefromaday"
+        color "red"
+    ]
+    node [
+        id 214932
+        label "Ecco"
+        color "red"
+    ]
+    node [
+        id 1907054
+        label "Antennas to Heaven"
+        color "red"
+    ]
+    node [
+        id 2028950
+        label "Lights At Sea"
+        color "red"
+    ]
+    node [
+        id 1127063
+        label "Fourteen Nights At Sea"
+        color "red"
+    ]
+    node [
+        id 648208
+        label "Crippled Black Phoenix"
+        color "red"
+    ]
+    node [
+        id 454553
+        label "EF"
+        color "red"
+    ]
+    node [
+        id 1766042
+        label "Followed By Ghosts"
+        color "red"
+    ]
+    node [
+        id 2545081
+        label "The Enright House"
+        color "red"
+    ]
+    node [
+        id 1849502
+        label "Mescaliner"
+        color "red"
+    ]
+    node [
+        id 2363964
+        label "Zhaoze"
+        color "red"
+    ]
+    node [
+        id 2307140
+        label "Mark Thirteen"
+        color "red"
+    ]
+    node [
+        id 2905456
+        label "Homeless Atlantic"
+        color "red"
+    ]
+    node [
+        id 1555099
+        label "Pawa Up First"
+        color "red"
+    ]
+    node [
+        id 2421156
+        label "Christine Owman"
+        color "red"
+    ]
+    node [
+        id 2455110
+        label "Sleevenotes"
+        color "red"
+    ]
+    node [
+        id 82326
+        label "Matt Nelson"
+        color "red"
+    ]
+    node [
+        id 844712
+        label "Barrows"
+        color "red"
+    ]
+    node [
+        id 1131819
+        label "Fuck Buttons"
+        color "red"
+    ]
+    node [
+        id 1167598
+        label "*Ancients"
+        color "red"
+    ]
+    node [
+        id 1127495
+        label "Last Lungs"
+        color "red"
+    ]
+    node [
+        id 333484
+        label "Toundra"
+        color "red"
+    ]
+    node [
+        id 1223086
+        label "Plumerai"
+        color "red"
+    ]
+    node [
+        id 645553
+        label "Old Silver Key"
+        color "red"
+    ]
+    node [
+        id 1159602
+        label "The American Dollar"
+        color "red"
+    ]
+    node [
+        id 1699763
+        label "If These Trees Could Talk"
+        color "red"
+    ]
+    node [
+        id 1224884
+        label "Bossk"
+        color "red"
+    ]
+    node [
+        id 1800889
+        label "Dawn Chorus Ignites"
+        color "red"
+    ]
+    node [
+        id 825530
+        label "Collapse Under The Empire"
+        color "red"
+    ]
+    node [
+        id 1195451
+        label "Disappearer"
+        color "red"
+    ]
+    node [
+        id 877500
+        label "Guns Of Brixton"
+        color "red"
+    ]
+    node [
+        id 2265021
+        label "Orchestra Lunatica"
+        color "red"
+    ]
+    node [
+        id 426176
+        label "65daysofstatic"
+        color "red"
+    ]
+    node [
+        id 1221748
+        label "Paik"
+        color "red"
+    ]
+    node [
+        id 1648260
+        label "The People Say Fox"
+        color "red"
+    ]
+    node [
+        id 641477
+        label "Quarkspace"
+        color "red"
+    ]
+    node [
+        id 2151112
+        label "Apocynthion"
+        color "red"
+    ]
+    node [
+        id 1195722
+        label "We Made God"
+        color "red"
+    ]
+    node [
+        id 2384247
+        label "From Fragile Seeds"
+        color "red"
+    ]
+    node [
+        id 1630156
+        label "Méon"
+        color "red"
+    ]
+    node [
+        id 2696909
+        label "Rocket Miner"
+        color "red"
+    ]
+    node [
+        id 1258378
+        label "Carontte"
+        color "red"
+    ]
+    node [
+        id 1768183
+        label "UnKindness Of Ravens"
+        color "red"
+    ]
+    node [
+        id 2681552
+        label "Sleep for the Nightlife"
+        color "red"
+    ]
+    node [
+        id 932344
+        label "Ulan Bator"
+        color "red"
+    ]
+    node [
+        id 911573
+        label "The Allstar Project"
+        color "red"
+    ]
+    node [
+        id 1775831
+        label "Celestial Wolves"
+        color "red"
+    ]
+    node [
+        id 1992920
+        label "Shy Guy Says"
+        color "red"
+    ]
+    node [
+        id 2040025
+        label "Signal Hill"
+        color "red"
+    ]
+    node [
+        id 1779333
+        label "Repose"
+        color "red"
+    ]
+    node [
+        id 1154267
+        label "The Evpatoria Report"
+        color "red"
+    ]
+    node [
+        id 1763563
+        label "1.1 Immermann"
+        color "red"
+    ]
+    node [
+        id 2158302
+        label "Beware of Safety"
+        color "red"
+    ]
+    node [
+        id 231461
+        label "Katie Moore"
+        color "red"
+    ]
+    node [
+        id 1248225
+        label "You Slut!"
+        color "red"
     ]
     node [
         id 143586
-        color "red"
         label "Bark Psychosis"
+        color "red"
     ]
     node [
         id 1352163
-        color "red"
         label "I/O"
+        color "red"
     ]
     node [
         id 872422
-        color "red"
         label "As the Stars Fall"
+        color "red"
     ]
     node [
         id 1219048
-        color "red"
         label "Ana Never"
+        color "red"
     ]
     node [
         id 1865193
-        color "red"
         label "Quiet Eyes Road"
+        color "red"
     ]
     node [
         id 304875
-        color "red"
         label "LITE"
+        color "red"
     ]
     node [
         id 710124
-        color "red"
         label "Marriages"
+        color "red"
     ]
     node [
         id 1437422
-        color "red"
         label "Silent Whale Becomes a Dream"
+        color "red"
     ]
     node [
         id 1160872
-        color "red"
         label "Pelican"
+        color "red"
     ]
     node [
         id 1215986
-        color "red"
         label "Braveyoung"
+        color "red"
+    ]
+    node [
+        id 1612019
+        label "It Kills"
+        color "red"
+    ]
+    node [
+        id 2101748
+        label "The Polar Dream"
+        color "red"
     ]
     node [
         id 718582
-        color "red"
         label "Deadhorse"
+        color "red"
     ]
     node [
         id 1255927
-        color "red"
         label "My Education"
+        color "red"
     ]
     node [
         id 2428152
-        color "red"
         label "Deepset"
+        color "red"
     ]
     node [
         id 594425
-        color "red"
         label "Surtsey Sounds"
+        color "red"
+    ]
+    node [
+        id 2114949
+        label "Super Bowl Rocket Ship"
+        color "red"
     ]
     node [
         id 600831
-        color "red"
         label "God Is an Astronaut"
+        color "red"
+    ]
+    node [
+        id 1816874
+        label "For September"
+        color "red"
+    ]
+    node [
+        id 1961471
+        label "Beast, Please Be Still"
+        color "red"
     ]
     edge [
         source 454553
@@ -790,6 +905,10 @@ graph [
     edge [
         source 305953
         target 2122045
+    ]
+    edge [
+        source 1612019
+        target 2907725
     ]
     edge [
         source 1964426
@@ -904,6 +1023,18 @@ graph [
         target 2546222
     ]
     edge [
+        source 3009155
+        target 1775831
+    ]
+    edge [
+        source 3009155
+        target 1820552
+    ]
+    edge [
+        source 3009155
+        target 1832586
+    ]
+    edge [
         source 594425
         target 2696909
     ]
@@ -1004,6 +1135,18 @@ graph [
         target 2122045
     ]
     edge [
+        source 2681552
+        target 304875
+    ]
+    edge [
+        source 347669
+        target 710124
+    ]
+    edge [
+        source 347669
+        target 1199629
+    ]
+    edge [
         source 143586
         target 81986
     ]
@@ -1088,6 +1231,26 @@ graph [
         target 2158302
     ]
     edge [
+        source 2101748
+        target 718582
+    ]
+    edge [
+        source 2101748
+        target 1127227
+    ]
+    edge [
+        source 2101748
+        target 1127229
+    ]
+    edge [
+        source 2101748
+        target 1766042
+    ]
+    edge [
+        source 2101748
+        target 1861985
+    ]
+    edge [
         source 2630750
         target 881797
     ]
@@ -1134,6 +1297,22 @@ graph [
     edge [
         source 1050918
         target 2122045
+    ]
+    edge [
+        source 1961471
+        target 300136
+    ]
+    edge [
+        source 1961471
+        target 1223533
+    ]
+    edge [
+        source 1961471
+        target 1766042
+    ]
+    edge [
+        source 1961471
+        target 2306388
     ]
     edge [
         source 2384247
@@ -1282,6 +1461,10 @@ graph [
     edge [
         source 1213068
         target 2205147
+    ]
+    edge [
+        source 1297465
+        target 231461
     ]
     edge [
         source 1219048
@@ -1520,6 +1703,10 @@ graph [
         target 2733288
     ]
     edge [
+        source 2545081
+        target 1699763
+    ]
+    edge [
         source 1339910
         target 718582
     ]
@@ -1584,14 +1771,6 @@ graph [
         target 2158302
     ]
     edge [
-        source 2907725
-        target 1648260
-    ]
-    edge [
-        source 1622599
-        target 1630156
-    ]
-    edge [
         source 1942806
         target 2630750
     ]
@@ -1602,18 +1781,6 @@ graph [
     edge [
         source 1942806
         target 2737483
-    ]
-    edge [
-        source 15146
-        target 648208
-    ]
-    edge [
-        source 15146
-        target 825530
-    ]
-    edge [
-        source 15146
-        target 2522905
     ]
     edge [
         source 1775831
@@ -1668,6 +1835,10 @@ graph [
         target 2146085
     ]
     edge [
+        source 1139203
+        target 1747705
+    ]
+    edge [
         source 2696909
         target 1127227
     ]
@@ -1680,42 +1851,6 @@ graph [
         target 1942806
     ]
     edge [
-        source 1139203
-        target 1747705
-    ]
-    edge [
-        source 1215986
-        target 718582
-    ]
-    edge [
-        source 1215986
-        target 2522905
-    ]
-    edge [
-        source 1057910
-        target 300136
-    ]
-    edge [
-        source 1057910
-        target 911573
-    ]
-    edge [
-        source 1057910
-        target 1219048
-    ]
-    edge [
-        source 1057910
-        target 2158302
-    ]
-    edge [
-        source 1057910
-        target 2428152
-    ]
-    edge [
-        source 1057910
-        target 2522905
-    ]
-    edge [
         source 1160872
         target 158317
     ]
@@ -1726,42 +1861,6 @@ graph [
     edge [
         source 710124
         target 1766042
-    ]
-    edge [
-        source 1127229
-        target 881797
-    ]
-    edge [
-        source 1127229
-        target 1127227
-    ]
-    edge [
-        source 2205147
-        target 300136
-    ]
-    edge [
-        source 2205147
-        target 426176
-    ]
-    edge [
-        source 2205147
-        target 600831
-    ]
-    edge [
-        source 2205147
-        target 825530
-    ]
-    edge [
-        source 2205147
-        target 1164829
-    ]
-    edge [
-        source 2205147
-        target 1699763
-    ]
-    edge [
-        source 2205147
-        target 2158302
     ]
     edge [
         source 877500
@@ -1790,46 +1889,6 @@ graph [
     edge [
         source 2546222
         target 2428152
-    ]
-    edge [
-        source 1127495
-        target 881797
-    ]
-    edge [
-        source 1127495
-        target 1127225
-    ]
-    edge [
-        source 1127495
-        target 1127227
-    ]
-    edge [
-        source 1127495
-        target 1766042
-    ]
-    edge [
-        source 1127495
-        target 2028950
-    ]
-    edge [
-        source 1849502
-        target 1775831
-    ]
-    edge [
-        source 1849502
-        target 2009216
-    ]
-    edge [
-        source 1849502
-        target 2482776
-    ]
-    edge [
-        source 88678
-        target 45083
-    ]
-    edge [
-        source 88678
-        target 155409
     ]
     edge [
         source 811051
@@ -1864,80 +1923,8 @@ graph [
         target 1699763
     ]
     edge [
-        source 1333209
-        target 1127225
-    ]
-    edge [
-        source 1333209
-        target 1127227
-    ]
-    edge [
-        source 1333209
-        target 1127229
-    ]
-    edge [
-        source 1333209
-        target 1352163
-    ]
-    edge [
-        source 1333209
-        target 2696909
-    ]
-    edge [
-        source 1555099
-        target 1630156
-    ]
-    edge [
-        source 1555099
-        target 1787012
-    ]
-    edge [
-        source 1555099
-        target 2146085
-    ]
-    edge [
-        source 1555099
-        target 2175292
-    ]
-    edge [
-        source 1555099
-        target 2428152
-    ]
-    edge [
-        source 1555099
-        target 2546222
-    ]
-    edge [
-        source 426176
-        target 45083
-    ]
-    edge [
-        source 426176
-        target 158317
-    ]
-    edge [
-        source 426176
-        target 600831
-    ]
-    edge [
-        source 426176
-        target 811051
-    ]
-    edge [
-        source 426176
-        target 825530
-    ]
-    edge [
-        source 426176
-        target 1164829
-    ]
-    edge [
-        source 426176
-        target 1213068
-    ]
-    edge [
-        source 426176
-        target 1699763
+        source 2307140
+        target 2741108
     ]
     edge [
         source 1200043
@@ -2400,6 +2387,18 @@ graph [
         target 2546222
     ]
     edge [
+        source 3000539
+        target 1352163
+    ]
+    edge [
+        source 3000539
+        target 1942806
+    ]
+    edge [
+        source 3000539
+        target 2737483
+    ]
+    edge [
         source 2105741
         target 825530
     ]
@@ -2488,8 +2487,24 @@ graph [
         target 2158302
     ]
     edge [
+        source 2265021
+        target 345280
+    ]
+    edge [
+        source 2265021
+        target 1203331
+    ]
+    edge [
+        source 2265021
+        target 1258378
+    ]
+    edge [
         source 1768183
         target 641477
+    ]
+    edge [
+        source 1972773
+        target 1779333
     ]
     edge [
         source 2332101
@@ -2626,6 +2641,18 @@ graph [
     edge [
         source 1221748
         target 81986
+    ]
+    edge [
+        source 1816874
+        target 2265296
+    ]
+    edge [
+        source 2056724
+        target 1395465
+    ]
+    edge [
+        source 2114949
+        target 1173033
     ]
     edge [
         source 706738
@@ -2854,5 +2881,209 @@ graph [
     edge [
         source 2421156
         target 1223086
+    ]
+    edge [
+        source 2907725
+        target 1648260
+    ]
+    edge [
+        source 1622599
+        target 1630156
+    ]
+    edge [
+        source 15146
+        target 648208
+    ]
+    edge [
+        source 15146
+        target 825530
+    ]
+    edge [
+        source 15146
+        target 2522905
+    ]
+    edge [
+        source 1215986
+        target 718582
+    ]
+    edge [
+        source 1215986
+        target 2522905
+    ]
+    edge [
+        source 1057910
+        target 300136
+    ]
+    edge [
+        source 1057910
+        target 911573
+    ]
+    edge [
+        source 1057910
+        target 1219048
+    ]
+    edge [
+        source 1057910
+        target 2158302
+    ]
+    edge [
+        source 1057910
+        target 2428152
+    ]
+    edge [
+        source 1057910
+        target 2522905
+    ]
+    edge [
+        source 1127229
+        target 881797
+    ]
+    edge [
+        source 1127229
+        target 1127227
+    ]
+    edge [
+        source 2205147
+        target 300136
+    ]
+    edge [
+        source 2205147
+        target 426176
+    ]
+    edge [
+        source 2205147
+        target 600831
+    ]
+    edge [
+        source 2205147
+        target 825530
+    ]
+    edge [
+        source 2205147
+        target 1164829
+    ]
+    edge [
+        source 2205147
+        target 1699763
+    ]
+    edge [
+        source 2205147
+        target 2158302
+    ]
+    edge [
+        source 1127495
+        target 881797
+    ]
+    edge [
+        source 1127495
+        target 1127225
+    ]
+    edge [
+        source 1127495
+        target 1127227
+    ]
+    edge [
+        source 1127495
+        target 1766042
+    ]
+    edge [
+        source 1127495
+        target 2028950
+    ]
+    edge [
+        source 1849502
+        target 1775831
+    ]
+    edge [
+        source 1849502
+        target 2009216
+    ]
+    edge [
+        source 1849502
+        target 2482776
+    ]
+    edge [
+        source 88678
+        target 45083
+    ]
+    edge [
+        source 88678
+        target 155409
+    ]
+    edge [
+        source 1333209
+        target 1127225
+    ]
+    edge [
+        source 1333209
+        target 1127227
+    ]
+    edge [
+        source 1333209
+        target 1127229
+    ]
+    edge [
+        source 1333209
+        target 1352163
+    ]
+    edge [
+        source 1333209
+        target 2696909
+    ]
+    edge [
+        source 1555099
+        target 1630156
+    ]
+    edge [
+        source 1555099
+        target 1787012
+    ]
+    edge [
+        source 1555099
+        target 2146085
+    ]
+    edge [
+        source 1555099
+        target 2175292
+    ]
+    edge [
+        source 1555099
+        target 2428152
+    ]
+    edge [
+        source 1555099
+        target 2546222
+    ]
+    edge [
+        source 426176
+        target 45083
+    ]
+    edge [
+        source 426176
+        target 158317
+    ]
+    edge [
+        source 426176
+        target 600831
+    ]
+    edge [
+        source 426176
+        target 811051
+    ]
+    edge [
+        source 426176
+        target 825530
+    ]
+    edge [
+        source 426176
+        target 1164829
+    ]
+    edge [
+        source 426176
+        target 1213068
+    ]
+    edge [
+        source 426176
+        target 1699763
     ]
 ]

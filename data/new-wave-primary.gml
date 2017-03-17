@@ -2,528 +2,633 @@ graph [
     directed 1
     node [
         id 2088961
-        color "red"
         label "Skimmed"
+        color "red"
     ]
     node [
         id 873730
-        color "red"
         label "The Rumour"
+        color "red"
     ]
     node [
         id 1193475
-        color "red"
         label "Blaine L Reininger"
+        color "red"
     ]
     node [
         id 939269
-        color "red"
         label "M!R!M"
+        color "red"
     ]
     node [
         id 857606
-        color "red"
         label "Confusional Quartet"
+        color "red"
     ]
     node [
         id 73991
-        color "red"
         label "Television"
+        color "red"
     ]
     node [
         id 3592
-        color "red"
         label "ABC"
-    ]
-    node [
-        id 768940
         color "red"
-        label "Blind Digital Citizen"
-    ]
-    node [
-        id 715274
-        color "red"
-        label "Spoons"
-    ]
-    node [
-        id 2754827
-        color "red"
-        label "Virus"
-    ]
-    node [
-        id 1154581
-        color "red"
-        label "Micky Jupp"
-    ]
-    node [
-        id 1751514
-        color "red"
-        label "COME UNDONE"
-    ]
-    node [
-        id 2650658
-        color "red"
-        label "Remain In Silence"
-    ]
-    node [
-        id 1063715
-        color "red"
-        label "Happiness Project"
-    ]
-    node [
-        id 1200689
-        color "red"
-        label "The Happy Family"
-    ]
-    node [
-        id 903644
-        color "red"
-        label "Charles de Goal"
-    ]
-    node [
-        id 2305287
-        color "red"
-        label "Botnit"
-    ]
-    node [
-        id 36140
-        color "red"
-        label "Soulsavers"
-    ]
-    node [
-        id 1414701
-        color "red"
-        label "The Quinsy"
-    ]
-    node [
-        id 1998382
-        color "red"
-        label "His Latest Flame"
-    ]
-    node [
-        id 735752
-        color "red"
-        label "WINSTON TONG"
-    ]
-    node [
-        id 1838898
-        color "red"
-        label "Hiroshima Mon Amour"
-    ]
-    node [
-        id 1129779
-        color "red"
-        label "Tenpole Tudor"
-    ]
-    node [
-        id 2650418
-        color "red"
-        label "Альянс"
-    ]
-    node [
-        id 231221
-        color "red"
-        label "The Beauty of Gemina"
-    ]
-    node [
-        id 1910072
-        color "red"
-        label "Jessica93"
-    ]
-    node [
-        id 308030
-        color "red"
-        label "Central Unit"
-    ]
-    node [
-        id 27461
-        color "red"
-        label "The Stooges"
-    ]
-    node [
-        id 1123654
-        color "red"
-        label "Girls on Film"
-    ]
-    node [
-        id 40777
-        color "red"
-        label "The B-52's"
-    ]
-    node [
-        id 1626698
-        color "red"
-        label "Rubbernekkerz"
-    ]
-    node [
-        id 453195
-        color "red"
-        label "The Stingrays"
-    ]
-    node [
-        id 818772
-        color "red"
-        label "Marine"
-    ]
-    node [
-        id 140373
-        color "red"
-        label "Toyah"
-    ]
-    node [
-        id 1803608
-        color "red"
-        label "Fake the Envy"
-    ]
-    node [
-        id 861023
-        color "red"
-        label "The Opposition"
-    ]
-    node [
-        id 2067899
-        color "red"
-        label "Pleasurecraft"
-    ]
-    node [
-        id 40804
-        color "red"
-        label "Spandau Ballet"
-    ]
-    node [
-        id 919715
-        color "red"
-        label "Detachments"
-    ]
-    node [
-        id 934761
-        color "red"
-        label "Strange Advance"
-    ]
-    node [
-        id 67178
-        color "red"
-        label "Dave Gahan"
-    ]
-    node [
-        id 34732
-        color "red"
-        label "Wire"
-    ]
-    node [
-        id 1279165
-        color "red"
-        label "Troller"
-    ]
-    node [
-        id 761456
-        color "red"
-        label "Some Ember"
-    ]
-    node [
-        id 1190003
-        color "red"
-        label "The Nails"
-    ]
-    node [
-        id 17527
-        color "red"
-        label "Squeeze"
-    ]
-    node [
-        id 2473081
-        color "red"
-        label "Revel Hotel"
-    ]
-    node [
-        id 1152634
-        color "red"
-        label "Fear Of Darkness"
-    ]
-    node [
-        id 816874
-        color "red"
-        label "Rosalita"
-    ]
-    node [
-        id 148417
-        color "red"
-        label "The Pop Group"
-    ]
-    node [
-        id 2650419
-        color "red"
-        label "НРГ"
-    ]
-    node [
-        id 1430668
-        color "red"
-        label "Even More Vast"
-    ]
-    node [
-        id 1144462
-        color "red"
-        label "Blurt"
-    ]
-    node [
-        id 120720
-        color "red"
-        label "The Names"
-    ]
-    node [
-        id 85653
-        color "red"
-        label "Mickey Jupp"
-    ]
-    node [
-        id 912280
-        color "red"
-        label "Waiting for Words"
-    ]
-    node [
-        id 943650
-        color "red"
-        label "Blaine L. Reininger"
-    ]
-    node [
-        id 1155484
-        color "red"
-        label "Devine & Statton"
-    ]
-    node [
-        id 1317280
-        color "red"
-        label "Cadabra"
-    ]
-    node [
-        id 34721
-        color "red"
-        label "Buzzcocks"
-    ]
-    node [
-        id 34722
-        color "red"
-        label "999"
-    ]
-    node [
-        id 755875
-        color "red"
-        label "Opposition"
-    ]
-    node [
-        id 170148
-        color "red"
-        label "Steven Brown"
-    ]
-    node [
-        id 851877
-        color "red"
-        label "Der Noir"
-    ]
-    node [
-        id 1182118
-        color "red"
-        label "Rogue Valley"
-    ]
-    node [
-        id 427175
-        color "red"
-        label "Commando M. Pigg"
-    ]
-    node [
-        id 1175209
-        color "red"
-        label "Shoes For Industry"
     ]
     node [
         id 40620
-        color "red"
         label "Blondie"
+        color "red"
     ]
     node [
-        id 704430
+        id 715274
+        label "Spoons"
         color "red"
-        label "Jeunesse D'Ivoire"
     ]
     node [
-        id 1046451
+        id 2754827
+        label "Virus"
         color "red"
-        label "Empire State Human"
     ]
     node [
-        id 960694
+        id 384524
+        label "Red Zebra"
         color "red"
-        label "State of Art"
     ]
     node [
-        id 780489
+        id 939266
+        label "Principe Valiente"
         color "red"
-        label "No Tears"
     ]
     node [
-        id 646329
+        id 1154581
+        label "Micky Jupp"
         color "red"
-        label "Black Marble"
     ]
     node [
-        id 313531
+        id 1312279
+        label "Gary Flanagan"
         color "red"
-        label "Other Side"
     ]
     node [
-        id 116924
+        id 761456
+        label "Some Ember"
         color "red"
-        label "The Members"
     ]
     node [
-        id 2024637
+        id 2064154
+        label "Feeding Fingers"
         color "red"
-        label "Velvet Condom"
     ]
     node [
-        id 943550
+        id 1751514
+        label "COME UNDONE"
         color "red"
-        label "Born For Bliss"
     ]
     node [
-        id 714944
+        id 2011681
+        label "Sleep Thieves"
         color "red"
-        label "Edie"
-    ]
-    node [
-        id 2223809
-        color "red"
-        label "STRASSE"
-    ]
-    node [
-        id 1653446
-        color "red"
-        label "Astari Nite"
-    ]
-    node [
-        id 1049033
-        color "red"
-        label "Complot Bronswick"
     ]
     node [
         id 28962
-        color "red"
         label "Billy Idol"
+        color "red"
     ]
     node [
-        id 861902
+        id 1063715
+        label "Happiness Project"
         color "red"
-        label "Translator"
     ]
     node [
-        id 2087375
+        id 1200689
+        label "The Happy Family"
         color "red"
-        label "The Mari On the Beach"
     ]
     node [
-        id 1039096
+        id 903644
+        label "Charles de Goal"
         color "red"
-        label "Kas Product"
     ]
     node [
-        id 1198803
+        id 2305287
+        label "Botnit"
         color "red"
-        label "Xmal Deutschland"
     ]
     node [
-        id 2075607
+        id 36140
+        label "Soulsavers"
         color "red"
-        label "Luna Twist"
     ]
     node [
-        id 1214682
+        id 1414701
+        label "The Quinsy"
         color "red"
-        label "Staccato du Mal"
     ]
     node [
-        id 13788
+        id 1998382
+        label "His Latest Flame"
         color "red"
-        label "Pere Ubu"
     ]
     node [
-        id 343802
+        id 735752
+        label "WINSTON TONG"
         color "red"
-        label "Biting Tongues"
     ]
     node [
-        id 904414
+        id 1838898
+        label "Hiroshima Mon Amour"
         color "red"
-        label "Winter Severity Index"
     ]
     node [
-        id 1445343
+        id 1129779
+        label "Tenpole Tudor"
         color "red"
-        label "Chemical Waves"
+    ]
+    node [
+        id 2650418
+        label "Альянс"
+        color "red"
+    ]
+    node [
+        id 231221
+        label "The Beauty of Gemina"
+        color "red"
+    ]
+    node [
+        id 1910072
+        label "Jessica93"
+        color "red"
+    ]
+    node [
+        id 1672799
+        label "Noirhaus"
+        color "red"
+    ]
+    node [
+        id 308030
+        label "Central Unit"
+        color "red"
+    ]
+    node [
+        id 1890624
+        label "Martha and the Muffins"
+        color "red"
+    ]
+    node [
+        id 267589
+        label "Mike Score"
+        color "red"
+    ]
+    node [
+        id 1123654
+        label "Girls on Film"
+        color "red"
+    ]
+    node [
+        id 40777
+        label "The B-52's"
+        color "red"
+    ]
+    node [
+        id 1626698
+        label "Rubbernekkerz"
+        color "red"
+    ]
+    node [
+        id 453195
+        label "The Stingrays"
+        color "red"
+    ]
+    node [
+        id 1733133
+        label "Jon Baz"
+        color "red"
+    ]
+    node [
+        id 818772
+        label "Marine"
+        color "red"
+    ]
+    node [
+        id 140373
+        label "Toyah"
+        color "red"
+    ]
+    node [
+        id 1803608
+        label "Fake the Envy"
+        color "red"
+    ]
+    node [
+        id 861023
+        label "The Opposition"
+        color "red"
+    ]
+    node [
+        id 2401378
+        label "Judy Buendia"
+        color "red"
+    ]
+    node [
+        id 2067899
+        label "Pleasurecraft"
+        color "red"
+    ]
+    node [
+        id 40804
+        label "Spandau Ballet"
+        color "red"
+    ]
+    node [
+        id 919715
+        label "Detachments"
+        color "red"
+    ]
+    node [
+        id 1005670
+        label "The Beautiful Dead"
+        color "red"
+    ]
+    node [
+        id 934761
+        label "Strange Advance"
+        color "red"
+    ]
+    node [
+        id 67178
+        label "Dave Gahan"
+        color "red"
+    ]
+    node [
+        id 34732
+        label "Wire"
+        color "red"
+    ]
+    node [
+        id 491886
+        label "John Kilbey"
+        color "red"
+    ]
+    node [
+        id 1279165
+        label "Troller"
+        color "red"
+    ]
+    node [
+        id 1442281
+        label "Neuropa"
+        color "red"
+    ]
+    node [
+        id 1190003
+        label "The Nails"
+        color "red"
+    ]
+    node [
+        id 17527
+        label "Squeeze"
+        color "red"
+    ]
+    node [
+        id 2473081
+        label "Revel Hotel"
+        color "red"
+    ]
+    node [
+        id 1152634
+        label "Fear Of Darkness"
+        color "red"
+    ]
+    node [
+        id 816874
+        label "Rosalita"
+        color "red"
+    ]
+    node [
+        id 2615678
+        label "Hexavision"
+        color "red"
+    ]
+    node [
+        id 2323733
+        label "Gebrauche-Musik"
+        color "red"
+    ]
+    node [
+        id 148417
+        label "The Pop Group"
+        color "red"
+    ]
+    node [
+        id 2650419
+        label "НРГ"
+        color "red"
+    ]
+    node [
+        id 1430668
+        label "Even More Vast"
+        color "red"
+    ]
+    node [
+        id 1144462
+        label "Blurt"
+        color "red"
+    ]
+    node [
+        id 120720
+        label "The Names"
+        color "red"
+    ]
+    node [
+        id 2650658
+        label "Remain In Silence"
+        color "red"
+    ]
+    node [
+        id 85653
+        label "Mickey Jupp"
+        color "red"
+    ]
+    node [
+        id 912280
+        label "Waiting for Words"
+        color "red"
+    ]
+    node [
+        id 943650
+        label "Blaine L. Reininger"
+        color "red"
+    ]
+    node [
+        id 1155484
+        label "Devine & Statton"
+        color "red"
+    ]
+    node [
+        id 27461
+        label "The Stooges"
+        color "red"
+    ]
+    node [
+        id 1317280
+        label "Cadabra"
+        color "red"
+    ]
+    node [
+        id 34721
+        label "Buzzcocks"
+        color "red"
+    ]
+    node [
+        id 34722
+        label "999"
+        color "red"
+    ]
+    node [
+        id 755875
+        label "Opposition"
+        color "red"
+    ]
+    node [
+        id 170148
+        label "Steven Brown"
+        color "red"
+    ]
+    node [
+        id 851877
+        label "Der Noir"
+        color "red"
     ]
     node [
         id 34726
-        color "red"
         label "Colin Newman"
+        color "red"
     ]
     node [
-        id 233193
+        id 427175
+        label "Commando M. Pigg"
         color "red"
-        label "Tuxedomoon"
     ]
     node [
-        id 784618
+        id 1175209
+        label "Shoes For Industry"
         color "red"
-        label "Sydney Valette"
     ]
     node [
-        id 82155
+        id 768940
+        label "Blind Digital Citizen"
         color "red"
-        label "Magazine"
     ]
     node [
-        id 2082799
+        id 343802
+        label "Biting Tongues"
         color "red"
-        label "Eleven Pond"
     ]
     node [
-        id 19953
+        id 704430
+        label "Jeunesse D'Ivoire"
         color "red"
-        label "The Fall"
     ]
     node [
-        id 87251
+        id 1046451
+        label "Empire State Human"
         color "red"
-        label "Generation x"
     ]
     node [
-        id 2257652
+        id 960694
+        label "State of Art"
         color "red"
-        label "Leiahdorus"
     ]
     node [
-        id 379381
+        id 780489
+        label "No Tears"
         color "red"
-        label "Fuzzbox"
     ]
     node [
-        id 139561
+        id 646329
+        label "Black Marble"
         color "red"
-        label "Decades"
+    ]
+    node [
+        id 313531
+        label "Other Side"
+        color "red"
+    ]
+    node [
+        id 116924
+        label "The Members"
+        color "red"
+    ]
+    node [
+        id 2024637
+        label "Velvet Condom"
+        color "red"
+    ]
+    node [
+        id 943550
+        label "Born For Bliss"
+        color "red"
+    ]
+    node [
+        id 714944
+        label "Edie"
+        color "red"
+    ]
+    node [
+        id 2223809
+        label "STRASSE"
+        color "red"
+    ]
+    node [
+        id 1865669
+        label "screaming for emily"
+        color "red"
+    ]
+    node [
+        id 1653446
+        label "Astari Nite"
+        color "red"
+    ]
+    node [
+        id 1049033
+        label "Complot Bronswick"
+        color "red"
+    ]
+    node [
+        id 99106
+        label "Steve Kilbey"
+        color "red"
+    ]
+    node [
+        id 861902
+        label "Translator"
+        color "red"
+    ]
+    node [
+        id 2087375
+        label "The Mari On the Beach"
+        color "red"
     ]
     node [
         id 2663928
-        color "red"
         label "Nico"
+        color "red"
+    ]
+    node [
+        id 87251
+        label "Generation x"
+        color "red"
+    ]
+    node [
+        id 1157590
+        label "Silver Swans"
+        color "red"
+    ]
+    node [
+        id 2075607
+        label "Luna Twist"
+        color "red"
+    ]
+    node [
+        id 1214682
+        label "Staccato du Mal"
+        color "red"
+    ]
+    node [
+        id 13788
+        label "Pere Ubu"
+        color "red"
+    ]
+    node [
+        id 1177565
+        label "The Spics"
+        color "red"
+    ]
+    node [
+        id 904414
+        label "Winter Severity Index"
+        color "red"
+    ]
+    node [
+        id 1445343
+        label "Chemical Waves"
+        color "red"
+    ]
+    node [
+        id 1182118
+        label "Rogue Valley"
+        color "red"
+    ]
+    node [
+        id 743910
+        label "The Fact"
+        color "red"
+    ]
+    node [
+        id 233193
+        label "Tuxedomoon"
+        color "red"
+    ]
+    node [
+        id 784618
+        label "Sydney Valette"
+        color "red"
+    ]
+    node [
+        id 82155
+        label "Magazine"
+        color "red"
+    ]
+    node [
+        id 1039096
+        label "Kas Product"
+        color "red"
+    ]
+    node [
+        id 2082799
+        label "Eleven Pond"
+        color "red"
+    ]
+    node [
+        id 19953
+        label "The Fall"
+        color "red"
+    ]
+    node [
+        id 1198803
+        label "Xmal Deutschland"
+        color "red"
+    ]
+    node [
+        id 2257652
+        label "Leiahdorus"
+        color "red"
+    ]
+    node [
+        id 379381
+        label "Fuzzbox"
+        color "red"
+    ]
+    node [
+        id 139561
+        label "Decades"
+        color "red"
+    ]
+    node [
+        id 1253112
+        label "Evi Vine"
+        color "red"
     ]
     node [
         id 343801
-        color "red"
         label "Section 25"
+        color "red"
     ]
     node [
         id 1253114
-        color "red"
         label "The Eden House"
+        color "red"
     ]
     edge [
         source 873730
@@ -554,12 +659,20 @@ graph [
         target 34722
     ]
     edge [
+        source 2615678
+        target 1442281
+    ]
+    edge [
         source 1123654
         target 1751514
     ]
     edge [
         source 715274
         target 934761
+    ]
+    edge [
+        source 2011681
+        target 1157590
     ]
     edge [
         source 17527
@@ -606,6 +719,10 @@ graph [
         target 960694
     ]
     edge [
+        source 743910
+        target 1414701
+    ]
+    edge [
         source 1049033
         target 903644
     ]
@@ -630,12 +747,20 @@ graph [
         target 343801
     ]
     edge [
+        source 491886
+        target 99106
+    ]
+    edge [
         source 1653446
         target 1414701
     ]
     edge [
         source 40777
         target 40620
+    ]
+    edge [
+        source 1005670
+        target 943550
     ]
     edge [
         source 1193475
@@ -652,6 +777,18 @@ graph [
     edge [
         source 453195
         target 1175209
+    ]
+    edge [
+        source 1865669
+        target 755875
+    ]
+    edge [
+        source 1865669
+        target 861023
+    ]
+    edge [
+        source 1865669
+        target 2064154
     ]
     edge [
         source 2075607
@@ -706,14 +843,6 @@ graph [
         target 73991
     ]
     edge [
-        source 1046451
-        target 1803608
-    ]
-    edge [
-        source 1046451
-        target 2257652
-    ]
-    edge [
         source 704430
         target 313531
     ]
@@ -762,6 +891,10 @@ graph [
         target 704430
     ]
     edge [
+        source 267589
+        target 1123654
+    ]
+    edge [
         source 1253114
         target 231221
     ]
@@ -786,8 +919,24 @@ graph [
         target 904414
     ]
     edge [
+        source 1253112
+        target 1253114
+    ]
+    edge [
         source 1152634
         target 1414701
+    ]
+    edge [
+        source 2064154
+        target 904414
+    ]
+    edge [
+        source 2064154
+        target 939266
+    ]
+    edge [
+        source 2064154
+        target 1865669
     ]
     edge [
         source 780489
@@ -806,6 +955,10 @@ graph [
         target 2087375
     ]
     edge [
+        source 1890624
+        target 116924
+    ]
+    edge [
         source 1144462
         target 148417
     ]
@@ -814,12 +967,12 @@ graph [
         target 2024637
     ]
     edge [
-        source 3592
-        target 40804
-    ]
-    edge [
         source 1190003
         target 861902
+    ]
+    edge [
+        source 3592
+        target 40804
     ]
     edge [
         source 1039096
@@ -836,6 +989,10 @@ graph [
     edge [
         source 1039096
         target 1214682
+    ]
+    edge [
+        source 1672799
+        target 1803608
     ]
     edge [
         source 87251
@@ -870,12 +1027,12 @@ graph [
         target 34732
     ]
     edge [
-        source 34721
-        target 27461
-    ]
-    edge [
         source 1129779
         target 116924
+    ]
+    edge [
+        source 34721
+        target 27461
     ]
     edge [
         source 2223809
@@ -904,6 +1061,10 @@ graph [
     edge [
         source 1317280
         target 1430668
+    ]
+    edge [
+        source 99106
+        target 491886
     ]
     edge [
         source 1154581
@@ -966,6 +1127,18 @@ graph [
         target 1751514
     ]
     edge [
+        source 1733133
+        target 1046451
+    ]
+    edge [
+        source 1733133
+        target 1312279
+    ]
+    edge [
+        source 1733133
+        target 2257652
+    ]
+    edge [
         source 735752
         target 170148
     ]
@@ -990,6 +1163,10 @@ graph [
         target 761456
     ]
     edge [
+        source 1177565
+        target 1175209
+    ]
+    edge [
         source 343802
         target 343801
     ]
@@ -998,12 +1175,20 @@ graph [
         target 851877
     ]
     edge [
-        source 2024637
-        target 1214682
+        source 2401378
+        target 1182118
+    ]
+    edge [
+        source 2401378
+        target 2024637
     ]
     edge [
         source 140373
         target 379381
+    ]
+    edge [
+        source 2024637
+        target 1214682
     ]
     edge [
         source 2087375
@@ -1012,6 +1197,10 @@ graph [
     edge [
         source 2087375
         target 1430668
+    ]
+    edge [
+        source 384524
+        target 903644
     ]
     edge [
         source 851877
@@ -1040,6 +1229,10 @@ graph [
     edge [
         source 2754827
         target 2024637
+    ]
+    edge [
+        source 2323733
+        target 1046451
     ]
     edge [
         source 903644
@@ -1084,5 +1277,13 @@ graph [
     edge [
         source 784618
         target 768940
+    ]
+    edge [
+        source 1046451
+        target 1803608
+    ]
+    edge [
+        source 1046451
+        target 2257652
     ]
 ]
