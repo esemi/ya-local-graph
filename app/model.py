@@ -25,6 +25,7 @@ class Artist(Model):
 class Similar(Model):
     from_id = IntegerField()
     to_id = IntegerField()
+    position = IntegerField()
 
     class Meta:
         database = db
@@ -68,9 +69,9 @@ def clear_similar_edges(from_id):
     Similar.delete().where(Similar.from_id == from_id).execute()
 
 
-def save_similar_edge(from_id, to_id):
+def save_similar_edge(from_id, to_id, pos):
     try:
-        Similar.create(from_id=from_id, to_id=to_id)
+        Similar.create(from_id=from_id, to_id=to_id, position=pos)
         return True
     except IntegrityError:
         return False

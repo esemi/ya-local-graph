@@ -76,11 +76,11 @@ class Manager(object):
                     logging.info('found %d similar artists', len(similar_artists))
                     cnt['relations'] += len(similar_artists)
                     clear_similar_edges(artist.id)
-                    for a in similar_artists:
+                    for pos, a in enumerate(similar_artists):
                         r = save_new_artist(a['id'], a['name'])
                         cnt['new_artists'] += int(r)
                         update_artist_genres(a['id'], a['genres'])
-                        save_similar_edge(artist.id, a['id'])
+                        save_similar_edge(artist.id, a['id'], pos)
 
                 update_crawled_similar_state(artist.id, True)
                 cnt['nodes_parsed'] += 1
