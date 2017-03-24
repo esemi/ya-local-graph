@@ -69,6 +69,10 @@ def clear_similar_edges(from_id):
     Similar.delete().where(Similar.from_id == from_id).execute()
 
 
+def get_similar(from_id):
+    return Similar.select().where(Similar.from_id == id)
+
+
 def save_similar_edge(from_id, to_id, pos):
     try:
         Similar.create(from_id=from_id, to_id=to_id, position=pos)

@@ -13,7 +13,7 @@ from selenium.common.exceptions import NoSuchElementException
 from app import config
 from app.model import save_new_artist, get_artists_for_crawling_similar, update_crawled_similar_state, \
     save_similar_edge, update_degree, add_genre, update_artist_genres, get_genres, clear_similar_edges, \
-    set_to_crawling_similar
+    set_to_crawling_similar, get_similar
 
 
 def custom_wait():
@@ -75,7 +75,13 @@ class Manager(object):
                     similar_artists = self.__fetch_all_artists()
                     logging.info('found %d similar artists', len(similar_artists))
                     cnt['relations'] += len(similar_artists)
-                    clear_similar_edges(artist.id)
+                    if len(similar_artists):
+                        clear_similar_edges(artist.id)
+                    else:
+                        exist = get_similar(artist.id)
+                        if len(exist):
+                            logging.warning('not found already saved similar %d', len(exist))
+
                     for pos, a in enumerate(similar_artists):
                         r = save_new_artist(a['id'], a['name'])
                         cnt['new_artists'] += int(r)
