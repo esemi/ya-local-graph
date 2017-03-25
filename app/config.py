@@ -20,7 +20,11 @@ EXPORT_LIMIT = 500000
 EXPORT_FILE_PRIMARY = '%s-primary'
 EXPORT_FILE_FULL = '%s-full'
 
-PROCESS_GENRES = ['rusrock', 'ukrrock', 'rock-n-roll', 'prog-rock', 'post-rock', 'new-wave', 'metal', 'rock']
+ROCK_GENRES = ['rusrock', 'ukrrock', 'rock-n-roll', 'prog-rock', 'post-rock', 'new-wave', 'rock']
+METAL_GENRES = ['metal', 'classicmetal', 'progmetal', 'Numetal', 'epicmetal', 'folkmetal', 'extrememetal']
+
+PROCESS_GENRES = ROCK_GENRES + METAL_GENRES
 ALL_ROCK_GENRE = 'rock-all'
+ALL_METAL_GENRE = 'metal-all'
 
 PLOT_LAYOUT = 'fr'

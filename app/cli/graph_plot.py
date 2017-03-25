@@ -7,7 +7,7 @@ import os
 import igraph
 
 from app.cli import cache_name, graph_name, gml_name, plot_name
-from app.config import PLOT_LAYOUT, PROCESS_GENRES
+from app.config import PLOT_LAYOUT, PROCESS_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE
 
 
 def clear_cache(name):
@@ -76,7 +76,31 @@ def task():
         plot(graph, name)
         logging.info('plot')
 
-    # g = igraph.Graph.Read_GML(METAL_FULL_FILE)
-    # logging.info('load metal full %d %d', g.vcount(), g.ecount())
-    # plot(g, METAL_FULL_PLOT_FILE, METAL_FULL_FILE)
-    # logging.info('plot end')
+    name = graph_name(ALL_ROCK_GENRE, False)
+    logging.info('start plot rock-all %s', name)
+    graph = igraph.Graph.Read_GML(gml_name(name))
+    logging.info('loaded %d %d', graph.vcount(), graph.ecount())
+    plot(graph, name)
+    logging.info('plot primary')
+
+    name = graph_name(ALL_METAL_GENRE, False)
+    logging.info('start plot metal-all %s', name)
+    graph = igraph.Graph.Read_GML(gml_name(name))
+    logging.info('loaded %d %d', graph.vcount(), graph.ecount())
+    plot(graph, name)
+    logging.info('plot primary')
+
+    name = graph_name(ALL_ROCK_GENRE, True)
+    logging.info('start plot rock-all %s', name)
+    graph = igraph.Graph.Read_GML(gml_name(name))
+    logging.info('loaded %d %d', graph.vcount(), graph.ecount())
+    plot(graph, name)
+    logging.info('plot full')
+
+    name = graph_name(ALL_METAL_GENRE, True)
+    logging.info('start plot metal-all %s', name)
+    graph = igraph.Graph.Read_GML(gml_name(name))
+    logging.info('loaded %d %d', graph.vcount(), graph.ecount())
+    plot(graph, name)
+    logging.info('plot full')
+

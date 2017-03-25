@@ -4,7 +4,7 @@ import logging
 
 from app.cli import graph_name, gml_name
 from app.cli.graph_plot import clear_cache
-from app.config import PROCESS_GENRES, ALL_ROCK_GENRE
+from app.config import PROCESS_GENRES, ALL_ROCK_GENRE, ROCK_GENRES, ALL_METAL_GENRE, METAL_GENRES
 from app.model import fetch_graph_primary, fetch_graph_full, get_genres
 
 
@@ -56,8 +56,7 @@ def task():
         logging.info('export full end')
 
     # all rock
-    rock_ids = [str(genres[i]) for i in genres if i in {'rusrock', 'rock', 'ukrrock', 'rock-n-roll', 'prog-rock',
-                                                        'post-rock', 'new-wave'}]
+    rock_ids = [str(genres[i]) for i in genres if i in ROCK_GENRES]
     logging.info('export primary rock-all %s', rock_ids)
     nodes, edges = fetch_graph_primary(rock_ids)
     save_gml(ALL_ROCK_GENRE, nodes, edges)
@@ -65,6 +64,17 @@ def task():
     logging.info('export full rock-all %s', rock_ids)
     nodes, edges = fetch_graph_full(rock_ids)
     save_gml(ALL_ROCK_GENRE, nodes, edges, full=True)
+    logging.info('export full end')
+
+    # all metal
+    metal_ids = [str(genres[i]) for i in genres if i in METAL_GENRES]
+    logging.info('export primary metal-all %s', metal_ids)
+    nodes, edges = fetch_graph_primary(metal_ids)
+    save_gml(ALL_METAL_GENRE, nodes, edges)
+    logging.info('export primary end')
+    logging.info('export full metal-all %s', metal_ids)
+    nodes, edges = fetch_graph_full(metal_ids)
+    save_gml(ALL_METAL_GENRE, nodes, edges, full=True)
     logging.info('export full end')
 
 
