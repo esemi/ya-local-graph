@@ -2,3178 +2,3178 @@ graph [
     directed 1
     node [
         id 64513
-        color "red"
         label "Mercyful Fate"
+        color "red"
     ]
     node [
         id 1638403
-        color "red"
         label "Antestor"
+        color "red"
     ]
     node [
         id 1683461
-        color "red"
         label "Eternal Legacy"
+        color "red"
     ]
     node [
         id 293894
-        color "red"
         label "Limbonic Art"
+        color "red"
     ]
     node [
         id 1805319
-        color "red"
         label "Holy Blood"
+        color "red"
     ]
     node [
         id 2406410
-        color "red"
         label "Burial for Alive"
+        color "red"
     ]
     node [
         id 936879
-        color "red"
         label "Natron"
+        color "red"
     ]
     node [
         id 2661389
-        color "red"
         label "Dead.last"
+        color "red"
     ]
     node [
         id 2537486
-        color "red"
         label "Destroy the Moon"
+        color "red"
     ]
     node [
         id 792592
-        color "red"
         label "Oprich"
+        color "red"
     ]
     node [
         id 1627153
-        color "red"
         label "Gyze"
+        color "red"
     ]
     node [
         id 1929234
-        color "red"
         label "Abnormality"
+        color "red"
     ]
     node [
         id 2211843
-        color "red"
         label "In League"
+        color "red"
     ]
     node [
         id 1487892
-        color "red"
         label "Ironchrist"
+        color "red"
     ]
     node [
         id 807959
-        color "red"
         label "Devastator"
+        color "red"
     ]
     node [
         id 1926660
-        color "red"
         label "Dead Syndicate"
+        color "red"
     ]
     node [
         id 2418714
-        color "red"
         label "Death Remains"
+        color "red"
     ]
     node [
         id 1483804
-        color "red"
         label "Anal Vomit"
+        color "red"
     ]
     node [
         id 1783837
-        color "red"
         label "Trauma Concept"
+        color "red"
     ]
     node [
         id 2356229
-        color "red"
         label "Three Crowns"
+        color "red"
     ]
     node [
         id 752673
-        color "red"
         label "The Ghost Inside"
+        color "red"
     ]
     node [
         id 2157602
-        color "red"
         label "Flesh Consumed"
+        color "red"
     ]
     node [
         id 61475
-        color "red"
         label "Iconoclast"
+        color "red"
     ]
     node [
         id 932900
-        color "red"
         label "CIRITH GORGOR"
+        color "red"
     ]
     node [
         id 2342918
-        color "red"
         label "Shadows Entwined"
+        color "red"
     ]
     node [
         id 1483814
-        color "red"
         label "In Loving Memory"
+        color "red"
     ]
     node [
         id 143400
-        color "red"
         label "Gloria Morti"
+        color "red"
     ]
     node [
         id 48169
-        color "red"
         label "Machine Head"
+        color "red"
     ]
     node [
         id 167980
-        color "red"
         label "Exodus"
+        color "red"
     ]
     node [
         id 2167853
-        color "red"
         label "Ground Zero System"
+        color "red"
     ]
     node [
         id 2395131
-        color "red"
         label "Fade to Oblivion"
+        color "red"
     ]
     node [
         id 289839
-        color "red"
         label "Steel Prophet"
+        color "red"
     ]
     node [
         id 289840
-        color "red"
         label "Order Of Nine"
+        color "red"
     ]
     node [
         id 359607
-        color "red"
         label "Inside You"
+        color "red"
     ]
     node [
         id 2330674
-        color "red"
         label "Hoth"
+        color "red"
     ]
     node [
         id 2218675
-        color "red"
         label "Lich King"
+        color "red"
     ]
     node [
         id 532535
-        color "red"
         label "The Devastator"
+        color "red"
     ]
     node [
         id 94900
-        color "red"
         label "Sinful"
+        color "red"
     ]
     node [
         id 1308731
-        color "red"
         label "Diabold"
+        color "red"
     ]
     node [
         id 2366524
-        color "red"
         label "Beneath My Feet"
+        color "red"
     ]
     node [
         id 1516605
-        color "red"
         label "Adelaide"
+        color "red"
     ]
     node [
         id 1779774
-        color "red"
         label "Falling to Pieces"
+        color "red"
     ]
     node [
         id 895040
-        color "red"
         label "Izegrim"
+        color "red"
     ]
     node [
         id 2090053
-        color "red"
         label "Ten of Swords"
+        color "red"
     ]
     node [
         id 2321478
-        color "red"
         label "Unto the Beast"
+        color "red"
     ]
     node [
         id 1202247
-        color "red"
         label "Vinterblot"
+        color "red"
     ]
     node [
         id 1431564
-        color "red"
         label "The Furor"
+        color "red"
     ]
     node [
         id 48203
-        color "red"
         label "Trivium"
+        color "red"
     ]
     node [
         id 2228302
-        color "red"
         label "Frost Like Ashes"
+        color "red"
     ]
     node [
         id 1158328
-        color "red"
         label "Ravens Creed"
+        color "red"
     ]
     node [
         id 272466
-        color "red"
         label "SMP"
+        color "red"
     ]
     node [
         id 272467
-        color "red"
         label "Undisclosed"
+        color "red"
     ]
     node [
         id 1972310
-        color "red"
         label "System Decay"
+        color "red"
     ]
     node [
         id 292537
-        color "red"
         label "Dew-Scented"
+        color "red"
     ]
     node [
         id 2723382
-        color "red"
         label "Drakwald"
+        color "red"
     ]
     node [
         id 1473071
-        color "red"
         label "Dead Conspiracy"
+        color "red"
     ]
     node [
         id 1908832
-        color "red"
         label "Cognitive"
+        color "red"
     ]
     node [
         id 1316962
-        color "red"
         label "Untimely Demise"
+        color "red"
     ]
     node [
         id 1108067
-        color "red"
         label "Winterlong"
+        color "red"
     ]
     node [
         id 2016357
-        color "red"
         label "Windfaerer"
+        color "red"
     ]
     node [
         id 1825433
-        color "red"
         label "Ancient Spell"
+        color "red"
     ]
     node [
         id 1273961
-        color "red"
         label "Vale of Pnath"
+        color "red"
     ]
     node [
         id 1326186
-        color "red"
         label "In Hearts Wake"
+        color "red"
     ]
     node [
         id 336231
-        color "red"
         label "Pyramaze"
+        color "red"
     ]
     node [
         id 1320007
-        color "red"
         label "Vorum"
+        color "red"
     ]
     node [
         id 227437
-        color "red"
         label "David Ellefson"
+        color "red"
     ]
     node [
         id 1345213
-        color "red"
         label "Deathwish"
+        color "red"
     ]
     node [
         id 61459
-        color "red"
         label "DeadLock"
+        color "red"
     ]
     node [
         id 1324148
-        color "red"
         label "Forest of Shadows"
+        color "red"
     ]
     node [
         id 2111678
-        color "red"
         label "In Grief"
+        color "red"
     ]
     node [
         id 1764471
-        color "red"
         label "Fomento"
+        color "red"
     ]
     node [
         id 1124959
-        color "red"
         label "Solstice"
+        color "red"
     ]
     node [
         id 71359
-        color "red"
         label "Psycroptic"
+        color "red"
     ]
     node [
         id 1927758
-        color "red"
         label "Anticosm"
+        color "red"
     ]
     node [
         id 2544765
-        color "red"
         label "Frozen Ocean"
+        color "red"
     ]
     node [
         id 1299915
-        color "red"
         label "Fragmenta"
+        color "red"
     ]
     node [
         id 1621120
-        color "red"
         label "Once Beloved"
+        color "red"
     ]
     node [
         id 1332355
-        color "red"
         label "Warning"
+        color "red"
     ]
     node [
         id 61572
-        color "red"
         label "Dawn of Demise"
+        color "red"
     ]
     node [
         id 1430663
-        color "red"
         label "Nunslaughter"
+        color "red"
     ]
     node [
         id 1624202
-        color "red"
         label "Noesis"
+        color "red"
     ]
     node [
         id 414231
-        color "red"
         label "Drottnar"
+        color "red"
     ]
     node [
         id 2614412
-        color "red"
         label "Unhuman"
+        color "red"
     ]
     node [
         id 1159362
-        color "red"
         label "Altar of Plagues"
+        color "red"
     ]
     node [
         id 547983
-        color "red"
         label "Battalion"
+        color "red"
     ]
     node [
         id 1978512
-        color "red"
         label "Toxic Grind Machine"
+        color "red"
     ]
     node [
         id 1900690
-        color "red"
         label "Rumors of Betrayal"
+        color "red"
     ]
     node [
         id 1317742
-        color "red"
         label "Rhapsody"
+        color "red"
     ]
     node [
         id 1640598
-        color "red"
         label "Katalepsy"
+        color "red"
     ]
     node [
         id 427159
-        color "red"
         label "Хвангур"
+        color "red"
     ]
     node [
         id 1644696
-        color "red"
         label "Ashes of Your Enemy"
+        color "red"
     ]
     node [
         id 338073
-        color "red"
         label "Monolith"
+        color "red"
     ]
     node [
         id 416922
-        color "red"
         label "Rudra"
+        color "red"
     ]
     node [
         id 1781915
-        color "red"
         label "In the Eyes of a Mistress"
+        color "red"
     ]
     node [
         id 1348764
-        color "red"
         label "Vainglory"
+        color "red"
     ]
     node [
         id 2241693
-        color "red"
         label "Satariel"
+        color "red"
     ]
     node [
         id 1000607
-        color "red"
         label "Inanimate Existence"
+        color "red"
     ]
     node [
         id 1430691
-        color "red"
         label "Execration"
+        color "red"
     ]
     node [
         id 1808548
-        color "red"
         label "Fallen Martyr"
+        color "red"
     ]
     node [
         id 245925
-        color "red"
         label "Wretch"
+        color "red"
     ]
     node [
         id 1557671
-        color "red"
         label "Devast"
+        color "red"
     ]
     node [
         id 1587369
-        color "red"
         label "Abominable Putridity"
+        color "red"
     ]
     node [
         id 743594
-        color "red"
         label "Winterfylleth"
+        color "red"
     ]
     node [
         id 1348807
-        color "red"
         label "Eternal Flight"
+        color "red"
     ]
     node [
         id 359599
-        color "red"
         label "Мастер"
+        color "red"
     ]
     node [
         id 359600
-        color "red"
         label "Everlost"
+        color "red"
     ]
     node [
         id 2051784
-        color "red"
         label "My Missing Half"
+        color "red"
     ]
     node [
         id 440498
-        color "red"
         label "Punish"
+        color "red"
     ]
     node [
         id 1892531
-        color "red"
         label "Disforia"
+        color "red"
     ]
     node [
         id 1198261
-        color "red"
         label "Bloodgut"
+        color "red"
     ]
     node [
         id 726199
-        color "red"
         label "As I Lay Dying"
+        color "red"
     ]
     node [
         id 1967288
-        color "red"
         label "In Malice's Wake"
+        color "red"
     ]
     node [
         id 1122310
-        color "red"
         label "For What It's Worth"
+        color "red"
     ]
     node [
         id 1562655
-        color "red"
         label "Zombie Cookbook"
+        color "red"
     ]
     node [
         id 1483965
-        color "red"
         label "Demoncy"
+        color "red"
     ]
     node [
         id 2364606
-        color "red"
         label "Spun in Darkness"
+        color "red"
     ]
     node [
         id 990650
-        color "red"
         label "Ihsahn"
+        color "red"
     ]
     node [
         id 1483968
-        color "red"
         label "Bloodrain"
+        color "red"
     ]
     node [
         id 1902785
-        color "red"
         label "Disarmonia Mundi"
+        color "red"
     ]
     node [
         id 359618
-        color "red"
         label "Stalwart"
+        color "red"
     ]
     node [
         id 139460
-        color "red"
         label "Reanimator"
+        color "red"
     ]
     node [
         id 2597061
-        color "red"
         label "Vesperia"
+        color "red"
     ]
     node [
         id 426182
-        color "red"
         label "Non Immemor Mei"
+        color "red"
     ]
     node [
         id 1811489
-        color "red"
         label "Look I'm Burning"
+        color "red"
     ]
     node [
         id 1029320
-        color "red"
         label "Deadcell"
+        color "red"
     ]
     node [
         id 2080119
-        color "red"
         label "SKWEEG"
+        color "red"
     ]
     node [
         id 4744854
-        color "red"
         label "Lacerated and Carbonized"
+        color "red"
     ]
     node [
         id 431821
-        color "red"
         label "Verjnuarmu"
+        color "red"
     ]
     node [
         id 1287377
-        color "red"
         label "Nominon"
+        color "red"
     ]
     node [
         id 427220
-        color "red"
         label "Rigor Mortis"
+        color "red"
     ]
     node [
         id 892622
-        color "red"
         label "Coffins"
+        color "red"
     ]
     node [
         id 1449175
-        color "red"
         label "Cnoc An Tursa"
+        color "red"
     ]
     node [
         id 2196696
-        color "red"
         label "Before You Fall"
+        color "red"
     ]
     node [
         id 2488537
-        color "red"
         label "Warface"
+        color "red"
     ]
     node [
         id 2217178
-        color "red"
         label "Inferis"
+        color "red"
     ]
     node [
         id 1764047
-        color "red"
         label "Hguols"
+        color "red"
     ]
     node [
         id 701662
-        color "red"
         label "Mucky Pup"
+        color "red"
     ]
     node [
         id 557281
-        color "red"
         label "In Arkadia"
+        color "red"
     ]
     node [
         id 292731
-        color "red"
         label "Horde"
+        color "red"
     ]
     node [
         id 2517030
-        color "red"
         label "Book of Reflections"
+        color "red"
     ]
     node [
         id 272615
-        color "red"
         label "The Seer"
+        color "red"
     ]
     node [
         id 2071785
-        color "red"
         label "Chileanmetal"
+        color "red"
     ]
     node [
         id 23079
-        color "red"
         label "Rager"
+        color "red"
     ]
     node [
         id 1638639
-        color "red"
         label "Psycho Choke"
+        color "red"
     ]
     node [
         id 2533416
-        color "red"
         label "My Only Virtue"
+        color "red"
     ]
     node [
         id 1986001
-        color "red"
         label "The Drake Equation"
+        color "red"
     ]
     node [
         id 2522356
-        color "red"
         label "Aethra"
+        color "red"
     ]
     node [
         id 2073470
-        color "red"
         label "Walking Corpse Syndrome"
+        color "red"
     ]
     node [
         id 1648886
-        color "red"
         label "Hyde Abbey"
+        color "red"
     ]
     node [
         id 1627348
-        color "red"
         label "Feed Her to the Sharks"
+        color "red"
     ]
     node [
         id 2264314
-        color "red"
         label "Amiensus"
+        color "red"
     ]
     node [
         id 2657533
-        color "red"
         label "Feridea"
+        color "red"
     ]
     node [
         id 335102
-        color "red"
         label "Dagon"
+        color "red"
     ]
     node [
         id 557269
-        color "red"
         label "Quo Vadis"
+        color "red"
     ]
     node [
         id 2621696
-        color "red"
         label "Oak Pantheon"
+        color "red"
     ]
     node [
         id 1164883
-        color "red"
         label "Clawhammer"
+        color "red"
     ]
     node [
         id 2160901
-        color "red"
         label "Antidemon"
+        color "red"
     ]
     node [
         id 1366279
-        color "red"
         label "Claps for Caroline"
+        color "red"
     ]
     node [
         id 2233608
-        color "red"
         label "Decades of Despair"
+        color "red"
     ]
     node [
         id 1766667
-        color "red"
         label "The Blinded"
+        color "red"
     ]
     node [
         id 1767692
-        color "red"
         label "Eye of the Enemy"
+        color "red"
     ]
     node [
         id 149773
-        color "red"
         label "Zephaniah"
+        color "red"
     ]
     node [
         id 2700560
-        color "red"
         label "Cryptic Age"
+        color "red"
     ]
     node [
         id 359640
-        color "red"
         label "Shadow Host"
+        color "red"
     ]
     node [
         id 2080019
-        color "red"
         label "Damnation Plan"
+        color "red"
     ]
     node [
         id 1870382
-        color "red"
         label "Red Descending"
+        color "red"
     ]
     node [
         id 2262294
-        color "red"
         label "Wardrum"
+        color "red"
     ]
     node [
         id 1297456
-        color "red"
         label "Strych9Hollow"
+        color "red"
     ]
     node [
         id 1983768
-        color "red"
         label "Screaming Savior"
+        color "red"
     ]
     node [
         id 1178906
-        color "red"
         label "The Project Hate"
+        color "red"
     ]
     node [
         id 764187
-        color "red"
         label "Iron Mask"
+        color "red"
     ]
     node [
         id 978071
-        color "red"
         label "Cryogenic Implosion"
+        color "red"
     ]
     node [
         id 535837
-        color "red"
         label "Die"
+        color "red"
     ]
     node [
         id 433439
-        color "red"
         label "Christian Älvestam"
+        color "red"
     ]
     node [
         id 3039521
-        color "red"
         label "Fallujah"
+        color "red"
     ]
     node [
         id 48418
-        color "red"
         label "Sepultura"
+        color "red"
     ]
     node [
         id 763255
-        color "red"
         label "Svyatogor"
+        color "red"
     ]
     node [
         id 2265380
-        color "red"
         label "Beorn"
+        color "red"
     ]
     node [
         id 559397
-        color "red"
         label "Cold Cold Ground"
+        color "red"
     ]
     node [
         id 417062
-        color "red"
         label "Fall of Eden"
+        color "red"
     ]
     node [
         id 2267433
-        color "red"
         label "Devium"
+        color "red"
     ]
     node [
         id 1573162
-        color "red"
         label "The Sound Bee Hd"
+        color "red"
     ]
     node [
         id 1641772
-        color "red"
         label "Woslom"
+        color "red"
     ]
     node [
         id 1809709
-        color "red"
         label "Beautality"
+        color "red"
     ]
     node [
         id 70958
-        color "red"
         label "Blind Witness"
+        color "red"
     ]
     node [
         id 2279727
-        color "red"
         label "Birth And Burial"
+        color "red"
     ]
     node [
         id 64419
-        color "red"
         label "Obituary"
+        color "red"
     ]
     node [
         id 1898801
-        color "red"
         label "Indestructible Noise Command"
+        color "red"
     ]
     node [
         id 2086194
-        color "red"
         label "All Tomorrows"
+        color "red"
     ]
     node [
         id 1001779
-        color "red"
         label "Khors"
+        color "red"
     ]
     node [
         id 1604916
-        color "red"
         label "Valkyrja"
+        color "red"
     ]
     node [
         id 1786165
-        color "red"
         label "Lefutray"
+        color "red"
     ]
     node [
         id 47414
-        color "red"
         label "Amorphis"
+        color "red"
     ]
     node [
         id 2028855
-        color "red"
         label "Al-Namrood"
+        color "red"
     ]
     node [
         id 1222968
-        color "red"
         label "Ankor"
+        color "red"
     ]
     node [
         id 122169
-        color "red"
         label "Ascension"
+        color "red"
     ]
     node [
         id 645558
-        color "red"
         label "Nightbringer"
+        color "red"
     ]
     node [
         id 1786859
-        color "red"
         label "Abinchova"
+        color "red"
     ]
     node [
         id 2139454
-        color "red"
         label "Hound of Hades"
+        color "red"
     ]
     node [
         id 1055747
-        color "red"
         label "Disma"
+        color "red"
     ]
     node [
         id 1619043
-        color "red"
         label "Rings Of Saturn"
+        color "red"
     ]
     node [
         id 3574084
-        color "red"
         label "Thrash Or Die"
+        color "red"
     ]
     node [
         id 710981
-        color "red"
         label "Sybreed"
+        color "red"
     ]
     node [
         id 1630167
-        color "red"
         label "Thalion"
+        color "red"
     ]
     node [
         id 48456
-        color "red"
         label "Soulfly"
+        color "red"
     ]
     node [
         id 573769
-        color "red"
         label "Aggressor"
+        color "red"
     ]
     node [
         id 127306
-        color "red"
         label "The Eyes of a Traitor"
+        color "red"
     ]
     node [
         id 1586514
-        color "red"
         label "Mycelia"
+        color "red"
     ]
     node [
         id 338253
-        color "red"
         label "Stormlord"
+        color "red"
     ]
     node [
         id 3300687
-        color "red"
         label "Hannes Grossmann"
+        color "red"
     ]
     node [
         id 157008
-        color "red"
         label "Avsky"
+        color "red"
     ]
     node [
         id 1867089
-        color "red"
         label "In Virtue"
+        color "red"
     ]
     node [
         id 127571
-        color "red"
         label "Eternal Lord"
+        color "red"
     ]
     node [
         id 1960275
-        color "red"
         label "Abomnium"
+        color "red"
     ]
     node [
         id 2454869
-        color "red"
         label "Death Toll Rising"
+        color "red"
     ]
     node [
         id 2402649
-        color "red"
         label "The Wise Man's Fear"
+        color "red"
     ]
     node [
         id 48474
-        color "red"
         label "Lamb Of God"
+        color "red"
     ]
     node [
         id 2180443
-        color "red"
         label "Odenwrath"
+        color "red"
     ]
     node [
         id 164189
-        color "red"
         label "Dissection"
+        color "red"
     ]
     node [
         id 970333
-        color "red"
         label "Swordmaster"
+        color "red"
     ]
     node [
         id 2347359
-        color "red"
         label "The Stranded"
+        color "red"
     ]
     node [
         id 1866128
-        color "red"
         label "Massemord"
+        color "red"
     ]
     node [
         id 305869
-        color "red"
         label "Astaroth"
+        color "red"
     ]
     node [
         id 1473083
-        color "red"
         label "Gravewurm"
+        color "red"
     ]
     node [
         id 2098533
-        color "red"
         label "Eyesburn"
+        color "red"
     ]
     node [
         id 1929574
-        color "red"
         label "Dorgmooth"
+        color "red"
     ]
     node [
         id 1738087
-        color "red"
         label "Vindicator"
+        color "red"
     ]
     node [
         id 300392
-        color "red"
         label "Throes Of Dawn"
+        color "red"
     ]
     node [
         id 2544871
-        color "red"
         label "Girl Scout Hand Grenade"
+        color "red"
     ]
     node [
         id 478572
-        color "red"
         label "Dark Empire"
+        color "red"
     ]
     node [
         id 2459351
-        color "red"
         label "Strain of Sanity"
+        color "red"
     ]
     node [
         id 2047343
-        color "red"
         label "Armory"
+        color "red"
     ]
     node [
         id 1180018
-        color "red"
         label "Immaculate"
+        color "red"
     ]
     node [
         id 1900916
-        color "red"
         label "Arkhan"
+        color "red"
     ]
     node [
         id 1273206
-        color "red"
         label "Coldwar"
+        color "red"
     ]
     node [
         id 2028777
-        color "red"
         label "Lucid Dementia"
+        color "red"
     ]
     node [
         id 2453657
-        color "red"
         label "Wintercult"
+        color "red"
     ]
     node [
         id 1911161
-        color "red"
         label "And Hell Followed With"
+        color "red"
     ]
     node [
         id 48506
-        color "red"
         label "Megadeth"
+        color "red"
     ]
     node [
         id 2817466
-        color "red"
         label "So Hideous"
+        color "red"
     ]
     node [
         id 1290628
-        color "red"
         label "Woe of Tyrants"
+        color "red"
     ]
     node [
         id 1290629
-        color "red"
         label "Dreamscapes of the Perverse"
+        color "red"
     ]
     node [
         id 1622599
-        color "red"
         label "Septa"
+        color "red"
     ]
     node [
         id 2044054
-        color "red"
         label "Darkness Before Dawn"
+        color "red"
     ]
     node [
         id 1069525
-        color "red"
         label "Masterstroke"
+        color "red"
     ]
     node [
         id 2547607
-        color "red"
         label "Killing Season"
+        color "red"
     ]
     node [
         id 677262
-        color "red"
         label "Souldrainer"
+        color "red"
     ]
     node [
         id 1161616
-        color "red"
         label "Secret Illusion"
+        color "red"
     ]
     node [
         id 2634131
-        color "red"
         label "Narjahanam"
+        color "red"
     ]
     node [
         id 764043
-        color "red"
         label "Byfrost"
+        color "red"
     ]
     node [
         id 379288
-        color "red"
         label "Martyr Defiled"
+        color "red"
     ]
     node [
         id 1829273
-        color "red"
         label "Passion of Death"
+        color "red"
     ]
     node [
         id 1839519
-        color "red"
         label "Etienne Sin"
+        color "red"
     ]
     node [
         id 1762032
-        color "red"
         label "Damien Deadson"
+        color "red"
     ]
     node [
         id 1868574
-        color "red"
         label "Orion's Reign"
+        color "red"
     ]
     node [
         id 2296638
-        color "red"
         label "All the Dead Pilots"
+        color "red"
     ]
     node [
         id 300453
-        color "red"
         label "Bitter End"
+        color "red"
     ]
     node [
         id 1362344
-        color "red"
         label "Terhen"
+        color "red"
     ]
     node [
         id 481705
-        color "red"
         label "Attila"
+        color "red"
     ]
     node [
         id 477610
-        color "red"
         label "Almah"
+        color "red"
     ]
     node [
         id 2145351
-        color "red"
         label "Bastard Priest"
+        color "red"
     ]
     node [
         id 357804
-        color "red"
         label "A Hill To Die Upon"
+        color "red"
     ]
     node [
         id 696750
-        color "red"
         label "D.A.M"
+        color "red"
     ]
     node [
         id 2633657
-        color "red"
         label "Sacrificial Blood"
+        color "red"
     ]
     node [
         id 1742121
-        color "red"
         label "De Profundis"
+        color "red"
     ]
     node [
         id 1714931
-        color "red"
         label "Judicator"
+        color "red"
     ]
     node [
         id 1911221
-        color "red"
         label "Cauldron"
+        color "red"
     ]
     node [
         id 1418678
-        color "red"
         label "Laconic"
+        color "red"
     ]
     node [
         id 645559
-        color "red"
         label "Morbid Angel"
+        color "red"
     ]
     node [
         id 101620
-        color "red"
         label "Any Given Day"
+        color "red"
     ]
     node [
         id 1909178
-        color "red"
         label "Every Knee Shall Bow"
+        color "red"
     ]
     node [
         id 1160607
-        color "red"
         label "Northlane"
+        color "red"
     ]
     node [
         id 1376407
-        color "red"
         label "Stonehaven"
+        color "red"
     ]
     node [
         id 992702
-        color "red"
         label "Oceans Ate Alaska"
+        color "red"
     ]
     node [
         id 1588325
-        color "red"
         label "Scelerata"
+        color "red"
     ]
     node [
         id 808384
-        color "red"
         label "Arkaik"
+        color "red"
     ]
     node [
         id 1629633
-        color "red"
         label "The Captain Hates the Sea"
+        color "red"
     ]
     node [
         id 1876418
-        color "red"
         label "Invasive"
+        color "red"
     ]
     node [
         id 702915
-        color "red"
         label "Thera"
+        color "red"
     ]
     node [
         id 2298309
-        color "red"
         label "Replacire"
+        color "red"
     ]
     node [
         id 317894
-        color "red"
         label "Gojira"
+        color "red"
     ]
     node [
         id 583565
-        color "red"
         label "Adrenal"
+        color "red"
     ]
     node [
         id 2078153
-        color "red"
         label "23rd Grade of Evil"
+        color "red"
     ]
     node [
         id 338378
-        color "red"
         label "Horna"
+        color "red"
     ]
     node [
         id 109003
-        color "red"
         label "Soul Embraced"
+        color "red"
     ]
     node [
         id 682444
-        color "red"
         label "Sigh"
+        color "red"
     ]
     node [
         id 1647522
-        color "red"
         label "Jinjer"
+        color "red"
     ]
     node [
         id 1000911
-        color "red"
         label "Hideous Divinity"
+        color "red"
     ]
     node [
         id 1828304
-        color "red"
         label "Guilty as Sin"
+        color "red"
     ]
     node [
         id 1472977
-        color "red"
         label "Doom:VS"
+        color "red"
     ]
     node [
         id 143827
-        color "red"
         label "Black Sun Aeon"
+        color "red"
     ]
     node [
         id 2008533
-        color "red"
         label "Zergoth"
+        color "red"
     ]
     node [
         id 2188643
-        color "red"
         label "Haiduk"
+        color "red"
     ]
     node [
         id 1903067
-        color "red"
         label "Beneath the Veil"
+        color "red"
     ]
     node [
         id 162042
-        color "red"
         label "Dodsferd"
+        color "red"
     ]
     node [
         id 2187743
-        color "red"
         label "Brutal Hand"
+        color "red"
     ]
     node [
         id 1568226
-        color "red"
         label "Diary of Destruction"
+        color "red"
     ]
     node [
         id 2054628
-        color "red"
         label "GrimWolf"
+        color "red"
     ]
     node [
         id 292774
-        color "red"
         label "The Kovenant"
+        color "red"
     ]
     node [
         id 642536
-        color "red"
         label "Hortus Animae"
+        color "red"
     ]
     node [
         id 1739823
-        color "red"
         label "Imaginary Flying Machines"
+        color "red"
     ]
     node [
         id 508739
-        color "red"
         label "Headshot"
+        color "red"
     ]
     node [
         id 3037677
-        color "red"
         label "Aspherium"
+        color "red"
     ]
     node [
         id 1789265
-        color "red"
         label "Legion of Doom"
+        color "red"
     ]
     node [
         id 1910525
-        color "red"
         label "Thoughts of Ionesco"
+        color "red"
     ]
     node [
         id 381424
-        color "red"
         label "Trigger"
+        color "red"
     ]
     node [
         id 2107816
-        color "red"
         label "Fortress Under Siege"
+        color "red"
     ]
     node [
         id 634354
-        color "red"
         label "Dying Fetus"
+        color "red"
     ]
     node [
         id 1267795
-        color "red"
         label "Circus of Dead Squirrels"
+        color "red"
     ]
     node [
         id 2739700
-        color "red"
         label "Diabolical Breed"
+        color "red"
     ]
     node [
         id 1777141
-        color "red"
         label "Fault Lines"
+        color "red"
     ]
     node [
         id 1464279
-        color "red"
         label "Evangelist"
+        color "red"
     ]
     node [
         id 1610231
-        color "red"
         label "Maleficent"
+        color "red"
     ]
     node [
         id 721400
-        color "red"
         label "Broken Hope"
+        color "red"
     ]
     node [
         id 315898
-        color "red"
         label "OGRE"
+        color "red"
     ]
     node [
         id 1640599
-        color "red"
         label "Euphoric Defilement"
+        color "red"
     ]
     node [
         id 2003370
-        color "red"
         label "WarteX"
+        color "red"
     ]
     node [
         id 2342399
-        color "red"
         label "Viral Millennium"
+        color "red"
     ]
     node [
         id 1867520
-        color "red"
         label "Terminatryx"
+        color "red"
     ]
     node [
         id 3399171
-        color "red"
         label "Gorgasm"
+        color "red"
     ]
     node [
         id 297476
-        color "red"
         label "Аркона"
+        color "red"
     ]
     node [
         id 1439238
-        color "red"
         label "Viking"
+        color "red"
     ]
     node [
         id 2910076
-        color "red"
         label "Autumn's Dawn"
+        color "red"
     ]
     node [
         id 674313
-        color "red"
         label "Hell:on"
+        color "red"
     ]
     node [
         id 702987
-        color "red"
         label "Carnal Forge"
+        color "red"
     ]
     node [
         id 1060366
-        color "red"
         label "Thyrfing"
+        color "red"
     ]
     node [
         id 1814328
-        color "red"
         label "For Ruin"
+        color "red"
     ]
     node [
         id 1795600
-        color "red"
         label "So This Is Suffering"
+        color "red"
     ]
     node [
         id 312849
-        color "red"
         label "Anaal Nathrakh"
+        color "red"
     ]
     node [
         id 111122
-        color "red"
         label "Nuclear Assault"
+        color "red"
     ]
     node [
         id 2062867
-        color "red"
         label "Of An Empire"
+        color "red"
     ]
     node [
         id 47815
-        color "red"
         label "Commando"
+        color "red"
     ]
     node [
         id 292375
-        color "red"
         label "Destruction"
+        color "red"
     ]
     node [
         id 1787416
-        color "red"
         label "Cole Rolland"
+        color "red"
     ]
     node [
         id 1911321
-        color "red"
         label "Avenger of Blood"
+        color "red"
     ]
     node [
         id 2315183
-        color "red"
         label "Hunt the Haunted"
+        color "red"
     ]
     node [
         id 1793565
-        color "red"
         label "A Sound of Thunder"
+        color "red"
     ]
     node [
         id 1217055
-        color "red"
         label "Spawn of Possession"
+        color "red"
     ]
     node [
         id 2029089
-        color "red"
         label "Christian Muenzner"
+        color "red"
     ]
     node [
         id 803533
-        color "red"
         label "Paria"
+        color "red"
     ]
     node [
         id 2400947
-        color "red"
         label "FORCEOUT"
+        color "red"
     ]
     node [
         id 2210343
-        color "red"
         label "Of Blackest Oceans"
+        color "red"
     ]
     node [
         id 2682408
-        color "red"
         label "Soreption"
+        color "red"
     ]
     node [
         id 1801770
-        color "red"
         label "Enders Game"
+        color "red"
     ]
     node [
         id 1013292
-        color "red"
         label "Acrimonious"
+        color "red"
     ]
     node [
         id 310829
-        color "red"
         label "Annotations of an Autopsy"
+        color "red"
     ]
     node [
         id 2427438
-        color "red"
         label "Subsonic Fallout"
+        color "red"
     ]
     node [
         id 1946424
-        color "red"
         label "My Iron Heart"
+        color "red"
     ]
     node [
         id 2196016
-        color "red"
         label "T.C.F."
+        color "red"
     ]
     node [
         id 1964593
-        color "red"
         label "Structure Fails"
+        color "red"
     ]
     node [
         id 1995314
-        color "red"
         label "Betray Your Own"
+        color "red"
     ]
     node [
         id 2400948
-        color "red"
         label "Locus Titanic Funus"
+        color "red"
     ]
     node [
         id 2071093
-        color "red"
         label "Aftershok"
+        color "red"
     ]
     node [
         id 1626678
-        color "red"
         label "Tortured Conscience"
+        color "red"
     ]
     node [
         id 2497082
-        color "red"
         label "Alkira"
+        color "red"
     ]
     node [
         id 2180667
-        color "red"
         label "Thrown to the Sun"
+        color "red"
     ]
     node [
         id 156226
-        color "red"
         label "Mayhem"
+        color "red"
     ]
     node [
         id 895243
-        color "red"
         label "Pessimist"
+        color "red"
     ]
     node [
         id 408132
-        color "red"
         label "Mistweaver"
+        color "red"
     ]
     node [
         id 1817014
-        color "red"
         label "It's a Death Metal X-Mas"
+        color "red"
     ]
     node [
         id 265825
-        color "red"
         label "Dimmu Borgir"
+        color "red"
     ]
     node [
         id 408137
-        color "red"
         label "Gorerotted"
+        color "red"
     ]
     node [
         id 1745705
-        color "red"
         label "I Hope You Freeze to Death"
+        color "red"
     ]
     node [
         id 2310071
-        color "red"
         label "Vaindustry"
+        color "red"
     ]
     node [
         id 2559565
-        color "red"
         label "Bane of Winterstorm"
+        color "red"
     ]
     node [
         id 2155086
-        color "red"
         label "CypherSeer"
+        color "red"
     ]
     node [
         id 987731
-        color "red"
         label "Noctiferia"
+        color "red"
     ]
     node [
         id 71252
-        color "red"
         label "Widow"
+        color "red"
     ]
     node [
         id 45653
-        color "red"
         label "Slayer"
+        color "red"
     ]
     node [
         id 1214039
-        color "red"
         label "Diskreet"
+        color "red"
     ]
     node [
         id 2167384
-        color "red"
         label "Algol"
+        color "red"
     ]
     node [
         id 1191515
-        color "red"
         label "Skinless"
+        color "red"
     ]
     node [
         id 1879662
-        color "red"
         label "Talamyus"
+        color "red"
     ]
     node [
         id 1108574
-        color "red"
         label "Sear Bliss"
+        color "red"
     ]
     node [
         id 2715237
-        color "red"
         label "Mourning Dawn"
+        color "red"
     ]
     node [
         id 1473120
-        color "red"
         label "Antagony"
+        color "red"
     ]
     node [
         id 2071137
-        color "red"
         label "Afterimage"
+        color "red"
     ]
     node [
         id 126564
-        color "red"
         label "Decrepit Birth"
+        color "red"
     ]
     node [
         id 126565
-        color "red"
         label "Beheaded"
+        color "red"
     ]
     node [
         id 675433
-        color "red"
         label "Hour of Penance"
+        color "red"
     ]
     node [
         id 2455745
-        color "red"
         label "Elint"
+        color "red"
     ]
     node [
         id 3027564
-        color "red"
         label "Voodoopriest"
+        color "red"
     ]
     node [
         id 2436718
-        color "red"
         label "Grave Declaration"
+        color "red"
     ]
     node [
         id 1735279
-        color "red"
         label "An Ocean Between Us"
+        color "red"
     ]
     node [
         id 1761957
-        color "red"
         label "Deadiron"
+        color "red"
     ]
     node [
         id 2429555
-        color "red"
         label "Avatarium"
+        color "red"
     ]
     node [
         id 1181622
-        color "red"
         label "Putrid Pile"
+        color "red"
     ]
     node [
         id 197179
-        color "red"
         label "Hung"
+        color "red"
     ]
     node [
         id 1818662
-        color "red"
         label "Softshredding"
+        color "red"
     ]
     node [
         id 2506364
-        color "red"
         label "Kavatica"
+        color "red"
     ]
     node [
         id 2232490
-        color "red"
         label "Angmar"
+        color "red"
     ]
     node [
         id 310911
-        color "red"
         label "Blood Of Kingu"
+        color "red"
     ]
     node [
         id 545408
-        color "red"
         label "Deathchain"
+        color "red"
     ]
     node [
         id 584279
-        color "red"
         label "Alda"
+        color "red"
     ]
     node [
         id 2126466
-        color "red"
         label "Sonic Prophecy"
+        color "red"
     ]
     node [
         id 380547
-        color "red"
         label "Destruction of a Rose"
+        color "red"
     ]
     node [
         id 2563154
-        color "red"
         label "Satanic Assault Division"
+        color "red"
     ]
     node [
         id 2293382
-        color "red"
         label "Jotnar"
+        color "red"
     ]
     node [
         id 2112135
-        color "red"
         label "Amongst Carrion"
+        color "red"
     ]
     node [
         id 1849623
-        color "red"
         label "Betrayer"
+        color "red"
     ]
     node [
         id 1174156
-        color "red"
         label "Dekapitator"
+        color "red"
     ]
     node [
         id 2747021
-        color "red"
         label "The Royal"
+        color "red"
     ]
     node [
         id 1472979
-        color "red"
         label "Profanatica"
+        color "red"
     ]
     node [
         id 713837
-        color "red"
         label "Unbreakable Hatred"
+        color "red"
     ]
     node [
         id 347792
-        color "red"
         label "Avalanch"
+        color "red"
     ]
     node [
         id 1297042
-        color "red"
         label "Post Mortem"
+        color "red"
     ]
     node [
         id 1612435
-        color "red"
         label "Synthetic Breed"
+        color "red"
     ]
     node [
         id 2155157
-        color "red"
         label "Cyaegha"
+        color "red"
     ]
     node [
         id 1645206
-        color "red"
         label "Obsidieth"
+        color "red"
     ]
     node [
         id 959129
-        color "red"
         label "Eyes Wide Open"
+        color "red"
     ]
     node [
         id 1750684
-        color "red"
         label "Anoreksi"
+        color "red"
     ]
     node [
         id 1006237
-        color "red"
         label "Terra Australis"
+        color "red"
     ]
     node [
         id 47777
-        color "red"
         label "Darkest Hour"
+        color "red"
     ]
     node [
         id 1808034
-        color "red"
         label "Rizon"
+        color "red"
     ]
     node [
         id 1567395
-        color "red"
         label "Shadowside"
+        color "red"
     ]
     node [
         id 1643173
-        color "red"
         label "Detriment"
+        color "red"
     ]
     node [
         id 1861286
-        color "red"
         label "Harter Attack"
+        color "red"
     ]
     node [
         id 557965
-        color "red"
         label "Hammerforce"
+        color "red"
     ]
     node [
         id 2181803
-        color "red"
         label "Viraemia"
+        color "red"
     ]
     node [
         id 1214963
-        color "red"
         label "Monkeys are Machine Guns"
+        color "red"
     ]
     node [
         id 1896221
-        color "red"
         label "Acrania"
+        color "red"
     ]
     node [
         id 753096
-        color "red"
         label "Space Monkey"
+        color "red"
     ]
     node [
         id 987827
-        color "red"
         label "Reverence"
+        color "red"
     ]
     node [
         id 71348
-        color "red"
         label "Brain Drill"
+        color "red"
     ]
     node [
         id 315189
-        color "red"
         label "Monstrosity"
+        color "red"
     ]
     node [
         id 2131640
-        color "red"
         label "Krallice"
+        color "red"
     ]
     node [
         id 1753785
-        color "red"
         label "A BloodBath In Boston"
+        color "red"
     ]
     node [
         id 71355
-        color "red"
         label "Internal Suffering"
+        color "red"
     ]
     node [
         id 71357
-        color "red"
         label "Disgorge"
+        color "red"
     ]
     node [
         id 2067362
-        color "red"
         label "A Breach of Silence"
+        color "red"
     ]
     node [
         id 1452735
-        color "red"
         label "Mortifera"
+        color "red"
     ]
     node [
         id 71361
-        color "red"
         label "Inherit Disease"
+        color "red"
     ]
     node [
         id 2630339
-        color "red"
         label "Neberu"
+        color "red"
     ]
     node [
         id 143045
-        color "red"
         label "Aftershock"
+        color "red"
     ]
     node [
         id 1302214
-        color "red"
         label "Lucifer's Legion"
+        color "red"
     ]
     node [
         id 456993
-        color "red"
         label "7 Horns 7 Eyes"
+        color "red"
     ]
     node [
         id 1610440
-        color "red"
         label "Lorenguard"
+        color "red"
     ]
     node [
         id 2484937
-        color "red"
         label "NoDrama"
+        color "red"
     ]
     node [
         id 456394
-        color "red"
         label "Phinehas"
+        color "red"
     ]
     node [
         id 2904183
-        color "red"
         label "Alterbeast"
+        color "red"
     ]
     node [
         id 2770636
-        color "red"
         label "Dead Kelly"
+        color "red"
     ]
     node [
         id 964301
-        color "red"
         label "Ram-Page"
+        color "red"
     ]
     node [
         id 292558
-        color "red"
         label "Immortal"
+        color "red"
     ]
     node [
         id 2142669
-        color "red"
         label "They Will Fall"
+        color "red"
     ]
     node [
         id 2275030
-        color "red"
         label "Swarm of Eyes"
+        color "red"
     ]
     node [
         id 1066706
-        color "red"
         label "Naraka"
+        color "red"
     ]
     node [
         id 1363668
-        color "red"
         label "Clair Cassis"
+        color "red"
     ]
     node [
         id 2348758
-        color "red"
         label "Seax"
+        color "red"
     ]
     node [
         id 587479
-        color "red"
         label "Condemned"
+        color "red"
     ]
     node [
         id 1129176
-        color "red"
         label "Cytotoxin"
+        color "red"
     ]
     node [
         id 2082255
-        color "red"
         label "The Pestilence Choir"
+        color "red"
     ]
     node [
         id 1834718
-        color "red"
         label "Forever Cadence"
+        color "red"
     ]
     node [
         id 1830623
-        color "red"
         label "Wolfbait"
+        color "red"
     ]
     node [
         id 2923235
-        color "red"
         label "TERROR INSIDE"
+        color "red"
     ]
     node [
         id 1131056
-        color "red"
         label "Revocation"
+        color "red"
     ]
     node [
         id 2936549
-        color "red"
         label "Forget My Silence"
+        color "red"
     ]
     node [
         id 1289958
-        color "red"
         label "Phobiatic"
+        color "red"
     ]
     node [
         id 1940199
-        color "red"
         label "Salvación"
+        color "red"
     ]
     node [
         id 633577
-        color "red"
         label "The Republic Of Desire"
+        color "red"
     ]
     node [
         id 1929964
-        color "red"
         label "Kingdom of Hate"
+        color "red"
     ]
     node [
         id 1870573
-        color "red"
         label "Living Corpse"
+        color "red"
     ]
     node [
         id 2851566
-        color "red"
         label "Mental Disaster"
+        color "red"
     ]
     node [
         id 61565
-        color "red"
         label "Deeds Of Flesh"
+        color "red"
     ]
     node [
         id 1432304
-        color "red"
         label "Aeternam"
+        color "red"
     ]
     node [
         id 595697
-        color "red"
         label "Spies Like Us"
+        color "red"
     ]
     node [
         id 3826
-        color "red"
         label "Kreator"
+        color "red"
     ]
     node [
         id 1299187
-        color "red"
         label "Impending Doom"
+        color "red"
     ]
     node [
         id 1129204
-        color "red"
         label "Devolved"
+        color "red"
     ]
     node [
         id 1903349
-        color "red"
         label "Annúlond"
+        color "red"
     ]
     node [
         id 74487
-        color "red"
         label "Testament"
+        color "red"
     ]
     node [
         id 2004305
-        color "red"
         label "Cadaverous Condition"
+        color "red"
     ]
     node [
         id 765226
-        color "red"
         label "Imperial Vengeance"
+        color "red"
     ]
     node [
         id 2342655
-        color "red"
         label "Atlantis Chronicles"
+        color "red"
     ]
     node [
         id 1884928
-        color "red"
         label "Lucifugum"
+        color "red"
     ]
     node [
         id 3401473
-        color "red"
         label "Disavowed"
+        color "red"
     ]
     node [
         id 1797890
-        color "red"
         label "If I Were You"
+        color "red"
     ]
     node [
         id 2077469
-        color "red"
         label "Solus Deus"
+        color "red"
     ]
     node [
         id 964362
-        color "red"
         label "Cryptic"
+        color "red"
     ]
     node [
         id 2104075
-        color "red"
         label "Gallows End"
+        color "red"
     ]
     node [
         id 2993932
-        color "red"
         label "Visions of the Night"
+        color "red"
     ]
     node [
         id 1624492
-        color "red"
         label "The New Dominion"
+        color "red"
     ]
     node [
         id 638734
-        color "red"
         label "Rude Awakening"
+        color "red"
     ]
     node [
         id 1969936
-        color "red"
         label "Alive At Last"
+        color "red"
     ]
     node [
         id 1069358
-        color "red"
         label "Crocell"
+        color "red"
     ]
     node [
         id 1153814
-        color "red"
         label "Menace Ruine"
+        color "red"
     ]
     node [
         id 64473
-        color "red"
         label "Cynic"
+        color "red"
     ]
     node [
         id 588568
-        color "red"
         label "Heretic"
+        color "red"
     ]
     node [
         id 422682
-        color "red"
         label "Dreamshade"
+        color "red"
     ]
     node [
         id 1483895
-        color "red"
         label "Dawn Of Azazel"
+        color "red"
     ]
     node [
         id 43804
-        color "red"
         label "Overkill"
+        color "red"
     ]
     node [
         id 2931485
-        color "red"
         label "Saor"
+        color "red"
     ]
     node [
         id 719047
-        color "red"
         label "Loyal to the Grave"
+        color "red"
     ]
     node [
         id 2072351
-        color "red"
         label "Ancesttral"
+        color "red"
     ]
     node [
         id 1820450
-        color "red"
         label "Maegi"
+        color "red"
     ]
     node [
         id 2348835
-        color "red"
         label "A Sonnet To Silence"
+        color "red"
     ]
     node [
         id 1929409
-        color "red"
         label "A Worse Case Scenario"
+        color "red"
     ]
     node [
         id 1855826
-        color "red"
         label "Blunt Force Trauma"
+        color "red"
     ]
     node [
         id 645929
-        color "red"
         label "Dodecahedron"
+        color "red"
     ]
     node [
         id 1922745
-        color "red"
         label "Catarsis Incarne"
+        color "red"
     ]
     node [
         id 1984301
-        color "red"
         label "Steel Raiser"
+        color "red"
     ]
     node [
         id 494382
-        color "red"
         label "Svart"
+        color "red"
     ]
     node [
         id 1754871
-        color "red"
         label "SpellBlast"
+        color "red"
     ]
     node [
         id 2259760
-        color "red"
         label "Truth Behold"
+        color "red"
     ]
     node [
         id 569138
-        color "red"
         label "The Project Hate MCMXCIX"
+        color "red"
     ]
     node [
         id 2396467
-        color "red"
         label "Dischord"
+        color "red"
     ]
     node [
         id 2142004
-        color "red"
         label "Show Your Face"
+        color "red"
     ]
     node [
         id 1604405
-        color "red"
         label "System Divide"
+        color "red"
     ]
     node [
         id 1610552
-        color "red"
         label "Mechanization"
+        color "red"
     ]
     node [
         id 1460025
-        color "red"
         label "Coffin"
+        color "red"
     ]
     node [
         id 1728314
-        color "red"
         label "Haar"
+        color "red"
     ]
     node [
         id 1482555
-        color "red"
         label "Rise to Fall"
+        color "red"
     ]
     node [
         id 3333948
-        color "red"
         label "Code"
+        color "red"
     ]
     node [
         id 331582
-        color "red"
         label "Necrophobic"
+        color "red"
     ]
     node [
         id 1874229
-        color "red"
         label "Arbiter"
+        color "red"
     ]
     node [
         id 1601345
-        color "red"
         label "Kälter"
+        color "red"
     ]
     node [
         id 1122655
-        color "red"
         label "The Meads of Asphodel"
+        color "red"
     ]
     node [
         id 964422
-        color "red"
         label "Christ Agony"
+        color "red"
     ]
     node [
         id 1865544
-        color "red"
         label "Sirius Devastation"
+        color "red"
     ]
     node [
         id 2751865
-        color "red"
         label "Wrathful Plague"
+        color "red"
     ]
     node [
         id 2237260
-        color "red"
         label "Burlak"
+        color "red"
     ]
     node [
         id 933858
-        color "red"
         label "Diocletian"
+        color "red"
     ]
     node [
         id 30349
-        color "red"
         label "Venom"
+        color "red"
     ]
     node [
         id 2285400
-        color "red"
         label "Braveride"
+        color "red"
     ]
     node [
         id 2001745
-        color "red"
         label "Viter"
+        color "red"
     ]
     node [
         id 1324003
-        color "red"
         label "Fall Of The Leafe"
+        color "red"
     ]
     node [
         id 292693
-        color "red"
         label "Pyogenesis"
+        color "red"
     ]
     node [
         id 699222
-        color "red"
         label "Lord of War"
+        color "red"
     ]
     node [
         id 292695
-        color "red"
         label "Hypocrisy"
+        color "red"
     ]
     node [
         id 703320
-        color "red"
         label "Zonaria"
+        color "red"
     ]
     node [
         id 1773401
-        color "red"
         label "Shredding The Envelope"
+        color "red"
     ]
     node [
         id 2542735
-        color "red"
         label "Art of Shock"
+        color "red"
     ]
     node [
         id 1196893
-        color "red"
         label "My Own Grave"
+        color "red"
     ]
     node [
         id 2925406
-        color "red"
         label "Warseid"
+        color "red"
     ]
     node [
         id 1562467
-        color "red"
         label "Zombie Scars"
+        color "red"
     ]
     node [
         id 981860
-        color "red"
         label "Beastwars"
+        color "red"
     ]
     node [
         id 564143
-        color "red"
         label "Luca Turilli"
+        color "red"
     ]
     node [
         id 2174822
-        color "red"
         label "Arcane Haven"
+        color "red"
     ]
     node [
         id 660455
-        color "red"
         label "Exordium"
+        color "red"
     ]
     node [
         id 358546
-        color "red"
         label "Dol Ammad"
+        color "red"
     ]
     node [
         id 718811
-        color "red"
         label "Depths of Hatred"
+        color "red"
     ]
     node [
         id 3024062
-        color "red"
         label "Ebon Arcanum"
+        color "red"
     ]
     node [
         id 1882992
-        color "red"
         label "The Sequence of Prime"
+        color "red"
     ]
     node [
         id 2130801
-        color "red"
         label "Artizan"
+        color "red"
     ]
     node [
         id 1250162
-        color "red"
         label "Delusions of Grandeur"
+        color "red"
     ]
     node [
         id 151411
-        color "red"
         label "Dark Tranquillity"
+        color "red"
     ]
     node [
         id 708468
-        color "red"
         label "Bury Tomorrow"
+        color "red"
     ]
     node [
         id 2258238
-        color "red"
         label "Enslavement of Beauty"
+        color "red"
     ]
     node [
         id 290678
-        color "red"
         label "Katatonia"
+        color "red"
     ]
     node [
         id 1116023
-        color "red"
         label "Chaosweaver"
+        color "red"
     ]
     node [
         id 292729
-        color "red"
         label "Deceased"
+        color "red"
     ]
     node [
         id 1773435
-        color "red"
         label "Faithful Darkness"
+        color "red"
     ]
     node [
         id 2930556
-        color "red"
         label "Let the River Swell"
+        color "red"
     ]
     node [
         id 292733
-        color "red"
         label "Mortification"
+        color "red"
     ]
     node [
         id 1818494
-        color "red"
         label "Mancubus"
+        color "red"
     ]
     node [
         id 1916224
-        color "red"
         label "Highlord"
+        color "red"
     ]
     node [
         id 292738
-        color "red"
         label "Acheron"
+        color "red"
     ]
     node [
         id 1161091
-        color "red"
         label "Obscura"
+        color "red"
     ]
     node [
         id 964246
-        color "red"
         label "Gross Grolland"
+        color "red"
     ]
     node [
         id 242497
-        color "red"
         label "Buried In Verona"
+        color "red"
     ]
     node [
         id 2996104
-        color "red"
         label "Kalidia"
+        color "red"
     ]
     node [
         id 15243
-        color "red"
         label "Anthrax"
+        color "red"
     ]
     node [
         id 1152909
-        color "red"
         label "Old Man's Child"
+        color "red"
     ]
     node [
         id 2350061
-        color "red"
         label "Nightside Glance"
+        color "red"
     ]
     node [
         id 2355088
-        color "red"
         label "Wasted Bullet"
+        color "red"
     ]
     node [
         id 2182034
-        color "red"
         label "Necrovation"
+        color "red"
     ]
     node [
         id 292755
-        color "red"
         label "Hollow"
+        color "red"
     ]
     node [
         id 292756
-        color "red"
         label "Death"
+        color "red"
     ]
     node [
         id 2487841
-        color "red"
         label "Behind the Revolver"
+        color "red"
     ]
     node [
         id 720791
-        color "red"
         label "Senseless Beauty"
+        color "red"
     ]
     node [
         id 1861528
-        color "red"
         label "Envy the Fallen"
+        color "red"
     ]
     node [
         id 2168731
-        color "red"
         label ".bipolar."
+        color "red"
     ]
     node [
         id 1345440
-        color "red"
         label "Ultimatum"
+        color "red"
     ]
     node [
         id 657904
-        color "red"
         label "Ecliptic"
+        color "red"
     ]
     node [
         id 2374562
-        color "red"
         label "Instead of a Kill"
+        color "red"
     ]
     node [
         id 292771
-        color "red"
         label "Opprobrium"
+        color "red"
     ]
     node [
         id 1849019
-        color "red"
         label "Tholus"
+        color "red"
     ]
     node [
         id 1385382
-        color "red"
         label "URN"
+        color "red"
     ]
     node [
         id 292775
-        color "red"
         label "Susperia"
+        color "red"
     ]
     node [
         id 2227745
-        color "red"
         label "Century Sleeper"
+        color "red"
     ]
     node [
         id 1993642
-        color "red"
         label "Reformers"
+        color "red"
     ]
     node [
         id 1769388
-        color "red"
         label "Witchking"
+        color "red"
     ]
     node [
         id 1878958
-        color "red"
         label "Admonish"
+        color "red"
     ]
     node [
         id 1968047
-        color "red"
         label "I Shall Devour"
+        color "red"
     ]
     node [
         id 1486664
-        color "red"
         label "Crebain"
+        color "red"
     ]
     node [
         id 2374579
-        color "red"
         label "Fortunate Fall"
+        color "red"
     ]
     node [
         id 274246
-        color "red"
         label "Wolfen"
+        color "red"
     ]
     node [
         id 2088886
-        color "red"
         label "Crimson Moonlight"
+        color "red"
     ]
     node [
         id 2088887
-        color "red"
         label "Vardøger"
+        color "red"
     ]
     node [
         id 2206649
-        color "red"
         label "Hail to the King"
+        color "red"
     ]
     node [
         id 1544122
-        color "red"
         label "Persefone"
+        color "red"
     ]
     node [
         id 1179580
-        color "red"
         label "Bloodrainbow"
+        color "red"
     ]
     node [
         id 2413475
-        color "red"
         label "I Declare War"
+        color "red"
     ]
     node [
         id 2555839
-        color "red"
         label "A Dying Dream"
+        color "red"
     ]
     node [
         id 2239428
-        color "red"
         label "Kardashev"
+        color "red"
     ]
     node [
         id 1291205
-        color "red"
         label "Wicked King Wicker"
+        color "red"
     ]
     node [
         id 2026438
-        color "red"
         label "Eugenic Death"
+        color "red"
     ]
     node [
         id 1736649
-        color "red"
         label "The Last Word"
+        color "red"
     ]
     node [
         id 64458
-        color "red"
         label "Annihilator"
+        color "red"
     ]
     node [
         id 1343991
-        color "red"
         label "My Shameful"
+        color "red"
     ]
     node [
         id 1048524
-        color "red"
         label "Deafheaven"
+        color "red"
     ]
     node [
         id 2185890
-        color "red"
         label "From the Dark"
+        color "red"
     ]
     node [
         id 2374606
-        color "red"
         label "Hope Drone"
+        color "red"
     ]
     node [
         id 1112397
-        color "red"
         label "Blut Aus Nord"
+        color "red"
     ]
     node [
         id 2190851
-        color "red"
         label "Akbal"
+        color "red"
     ]
     node [
         id 1065555
-        color "red"
         label "Echidna"
+        color "red"
     ]
     node [
         id 2876579
-        color "red"
         label "Katumus"
+        color "red"
     ]
     node [
         id 1887124
-        color "red"
         label "Lethal Dosage"
+        color "red"
     ]
     node [
         id 658390
-        color "red"
         label "I Killed The Prom Queen"
+        color "red"
     ]
     node [
         id 1755095
-        color "red"
         label "Fractal Gates"
+        color "red"
     ]
     node [
         id 1576920
-        color "red"
         label "Xanthochroid"
+        color "red"
     ]
     node [
         id 1849305
-        color "red"
         label "Sacred Storm"
+        color "red"
     ]
     node [
         id 1027035
-        color "red"
         label "Munruthel"
+        color "red"
     ]
     node [
         id 1160157
-        color "red"
         label "Goat The Head"
+        color "red"
     ]
     node [
         id 2299073
-        color "red"
         label "A Wake in Providence"
+        color "red"
     ]
     node [
         id 642213
-        color "red"
         label "Carrier Flux"
+        color "red"
     ]
     node [
         id 1431521
-        color "red"
         label "Deathhammer"
+        color "red"
     ]
     node [
         id 1483746
-        color "red"
         label "Grimoire"
+        color "red"
     ]
     node [
         id 2149347
-        color "red"
         label "The Dark and Bleak"
+        color "red"
     ]
     node [
         id 553274
-        color "red"
         label "Typhus"
+        color "red"
     ]
     node [
         id 4595566
-        color "red"
         label "Anever"
+        color "red"
     ]
     node [
         id 1993702
-        color "red"
         label "Radogost"
+        color "red"
     ]
     node [
         id 1730897
-        color "red"
         label "Dream Weaver"
+        color "red"
     ]
     node [
         id 677884
-        color "red"
         label "Manic Depression"
+        color "red"
     ]
     node [
         id 677867
-        color "red"
         label "Deviant Syndrome"
+        color "red"
     ]
     node [
         id 677869
-        color "red"
         label "Devilish Distance"
+        color "red"
     ]
     node [
         id 1538031
-        color "red"
         label "Low Twelve"
+        color "red"
     ]
     node [
         id 757416
-        color "red"
         label "Cannabis Corpse"
+        color "red"
     ]
     node [
         id 328690
-        color "red"
         label "Sargeist"
+        color "red"
     ]
     node [
         id 1347923
-        color "red"
         label "Exe"
+        color "red"
     ]
     node [
         id 2230260
-        color "red"
         label "Kublai Khan"
+        color "red"
     ]
     node [
         id 1645562
-        color "red"
         label "13 Winters"
+        color "red"
     ]
     node [
         id 1343483
-        color "red"
         label "Dominance"
+        color "red"
     ]
     node [
         id 1431548
-        color "red"
         label "Acherontas"
+        color "red"
     ]
     node [
         id 1157290
-        color "red"
         label "Torture Killer"
+        color "red"
     ]
     node [
         id 446805
-        color "red"
         label "Devious"
+        color "red"
     ]
     edge [
         source 2537486

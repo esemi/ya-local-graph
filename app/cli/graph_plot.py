@@ -7,7 +7,7 @@ import os
 import igraph
 
 from app.cli import cache_name, graph_name, gml_name, plot_name
-from app.config import PLOT_LAYOUT, PROCESS_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE
+from app.config import PLOT_LAYOUT, PROCESS_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE, ROCK_AND_METAL_GENRE
 
 
 def clear_cache(name):

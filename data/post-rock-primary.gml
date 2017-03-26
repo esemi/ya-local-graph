@@ -2,1068 +2,1068 @@ graph [
     directed 1
     node [
         id 1139203
-        color "red"
         label "Doi"
+        color "red"
     ]
     node [
         id 1339910
-        color "red"
         label "Pertegò"
+        color "red"
     ]
     node [
         id 1992200
-        color "red"
         label "Sumner McKane"
+        color "red"
     ]
     node [
         id 2073609
-        color "red"
         label "Francis Moss"
+        color "red"
     ]
     node [
         id 1199629
-        color "red"
         label "Helms Alee"
+        color "red"
     ]
     node [
         id 71184
-        color "red"
         label "The Burning Paris"
+        color "red"
     ]
     node [
         id 1344600
-        color "red"
         label "And And And"
+        color "red"
     ]
     node [
         id 2160146
-        color "red"
         label "Eversham"
+        color "red"
     ]
     node [
         id 1130003
-        color "red"
         label "Mouse On The Keys"
+        color "red"
     ]
     node [
         id 744980
-        color "red"
         label "O'Brother"
+        color "red"
     ]
     node [
         id 1309205
-        color "red"
         label "Chemtrail"
+        color "red"
     ]
     node [
         id 2006038
-        color "red"
         label "Hadoken"
+        color "red"
     ]
     node [
         id 4501529
-        color "red"
         label "Les Yeux Heureux"
+        color "red"
     ]
     node [
         id 825530
-        color "red"
         label "Collapse Under The Empire"
+        color "red"
     ]
     node [
         id 45083
-        color "red"
         label "Mogwai"
+        color "red"
     ]
     node [
         id 79900
-        color "red"
         label "American Football"
+        color "red"
     ]
     node [
         id 1164829
-        color "red"
         label "Maybeshewill"
+        color "red"
     ]
     node [
         id 3669023
-        color "red"
         label "Diary of My Misanthropy"
+        color "red"
     ]
     node [
         id 3277856
-        color "red"
         label "The Best Pessimist"
+        color "red"
     ]
     node [
         id 3277857
-        color "red"
         label "I Am Waiting for You Last Summer"
+        color "red"
     ]
     node [
         id 1972773
-        color "red"
         label "D Numbers"
+        color "red"
     ]
     node [
         id 2561575
-        color "red"
         label "Snöhamn"
+        color "red"
     ]
     node [
         id 811051
-        color "red"
         label "Caspian"
+        color "red"
     ]
     node [
         id 2546222
-        color "red"
         label "Hazards of Swimming Naked"
+        color "red"
     ]
     node [
         id 1906099
-        color "red"
         label "Insomniac Folklore"
+        color "red"
     ]
     node [
         id 1383476
-        color "red"
         label "The Bronzed Chorus"
+        color "red"
     ]
     node [
         id 769081
-        color "red"
         label "Ez3kiel"
+        color "red"
     ]
     node [
         id 2363964
-        color "red"
         label "Zhaoze"
+        color "red"
     ]
     node [
         id 3166781
-        color "red"
         label "Compass & Knife"
+        color "red"
     ]
     node [
         id 3713600
-        color "red"
         label "Bridges Will Break"
+        color "red"
     ]
     node [
         id 81986
-        color "red"
         label "Cul De Sac"
+        color "red"
     ]
     node [
         id 1622599
-        color "red"
         label "Septa"
+        color "red"
     ]
     node [
         id 54340
-        color "red"
         label "Explosions In The Sky"
+        color "red"
     ]
     node [
         id 2455110
-        color "red"
         label "Sleevenotes"
+        color "red"
     ]
     node [
         id 1861985
-        color "red"
         label "Kontakte"
+        color "red"
     ]
     node [
         id 1286728
-        color "red"
         label "LUCHA"
+        color "red"
     ]
     node [
         id 2252366
-        color "red"
         label "Constant Seas"
+        color "red"
     ]
     node [
         id 2232399
-        color "red"
         label "Cold Blue Mountain"
+        color "red"
     ]
     node [
         id 1190992
-        color "red"
         label "This Will Destroy You"
+        color "red"
     ]
     node [
         id 3653715
-        color "red"
         label "In Each Hand A Cutlass"
+        color "red"
     ]
     node [
         id 1355860
-        color "red"
         label "The Disconnect"
+        color "red"
     ]
     node [
         id 3237463
-        color "red"
         label "Seas of Years"
+        color "red"
     ]
     node [
         id 3831384
-        color "red"
         label "Ridiculon"
+        color "red"
     ]
     node [
         id 1157210
-        color "red"
         label "Jeniferever"
+        color "red"
     ]
     node [
         id 30301
-        color "red"
         label "The Notwist"
+        color "red"
     ]
     node [
         id 2630750
-        color "red"
         label "Afformance"
+        color "red"
     ]
     node [
         id 648208
-        color "red"
         label "Crippled Black Phoenix"
+        color "red"
     ]
     node [
         id 3687707
-        color "red"
         label "Karate Mountain"
+        color "red"
     ]
     node [
         id 88678
-        color "red"
         label "Sigur Rós"
+        color "red"
     ]
     node [
         id 300136
-        color "red"
         label "The Seven Mile Journey"
+        color "red"
     ]
     node [
         id 1812074
-        color "red"
         label "Cinder Cone"
+        color "red"
     ]
     node [
         id 3185259
-        color "red"
         label "Widek"
+        color "red"
     ]
     node [
         id 1220716
-        color "red"
         label "Hrsta"
+        color "red"
     ]
     node [
         id 158317
-        color "red"
         label "Russian Circles"
+        color "red"
     ]
     node [
         id 1530478
-        color "red"
         label "And So I Watch You From Afar"
+        color "red"
     ]
     node [
         id 2265021
-        color "red"
         label "Orchestra Lunatica"
+        color "red"
     ]
     node [
         id 4632176
-        color "red"
         label "Mountain"
+        color "red"
     ]
     node [
         id 4614769
-        color "red"
         label "Oddhums"
+        color "red"
     ]
     node [
         id 1221748
-        color "red"
         label "Paik"
+        color "red"
     ]
     node [
         id 2999413
-        color "red"
         label "Ranges"
+        color "red"
     ]
     node [
         id 1057910
-        color "red"
         label "Cecilia::eyes"
+        color "red"
     ]
     node [
         id 1924331
-        color "red"
         label "Lazlo Hollyfeld"
+        color "red"
     ]
     node [
         id 1734782
-        color "red"
         label "The Wonder Revolution"
+        color "red"
     ]
     node [
         id 347669
-        color "red"
         label "The Nocturnes"
+        color "red"
     ]
     node [
         id 3987584
-        color "red"
         label "Mono"
+        color "red"
     ]
     node [
         id 1203331
-        color "red"
         label "Latitudes"
+        color "red"
     ]
     node [
         id 1787012
-        color "red"
         label "Until Sunrise"
+        color "red"
     ]
     node [
         id 881797
-        color "red"
         label "Dorena"
+        color "red"
     ]
     node [
         id 1832586
-        color "red"
         label "Kimika"
+        color "red"
     ]
     node [
         id 1111180
-        color "red"
         label "Cinemechanica"
+        color "red"
     ]
     node [
         id 4504173
-        color "red"
         label "Shipwreck Karpathos"
+        color "red"
     ]
     node [
         id 2475664
-        color "red"
         label "Irreversible"
+        color "red"
     ]
     node [
         id 1856662
-        color "red"
         label "Sama Dams"
+        color "red"
     ]
     node [
         id 1127063
-        color "red"
         label "Fourteen Nights At Sea"
+        color "red"
     ]
     node [
         id 1766042
-        color "red"
         label "Followed By Ghosts"
+        color "red"
     ]
     node [
         id 1555099
-        color "red"
         label "Pawa Up First"
+        color "red"
     ]
     node [
         id 2905456
-        color "red"
         label "Homeless Atlantic"
+        color "red"
     ]
     node [
         id 4682607
-        color "red"
         label "In Light Of"
+        color "red"
     ]
     node [
         id 1875112
-        color "red"
         label "Sans Gras"
+        color "red"
     ]
     node [
         id 333484
-        color "red"
         label "Toundra"
+        color "red"
     ]
     node [
         id 872422
-        color "red"
         label "As the Stars Fall"
+        color "red"
     ]
     node [
         id 706738
-        color "red"
         label "Sinistro"
+        color "red"
     ]
     node [
         id 1800889
-        color "red"
         label "Dawn Chorus Ignites"
+        color "red"
     ]
     node [
         id 1807546
-        color "red"
         label "En Plein Air"
+        color "red"
     ]
     node [
         id 2278076
-        color "red"
         label "Ohne-ká and the Burning River"
+        color "red"
     ]
     node [
         id 426176
-        color "red"
         label "65daysofstatic"
+        color "red"
     ]
     node [
         id 1749185
-        color "red"
         label "Lady in the Radiator"
+        color "red"
     ]
     node [
         id 1368773
-        color "red"
         label "Cabin"
+        color "red"
     ]
     node [
         id 2151112
-        color "red"
         label "Apocynthion"
+        color "red"
     ]
     node [
         id 1195722
-        color "red"
         label "We Made God"
+        color "red"
     ]
     node [
         id 2421156
-        color "red"
         label "Christine Owman"
+        color "red"
     ]
     node [
         id 2696909
-        color "red"
         label "Rocket Miner"
+        color "red"
     ]
     node [
         id 317136
-        color "red"
         label "Toe"
+        color "red"
     ]
     node [
         id 2427601
-        color "red"
         label "I Am David Sparkle"
+        color "red"
     ]
     node [
         id 3206356
-        color "red"
         label "Show Me a Dinosaur"
+        color "red"
     ]
     node [
         id 911573
-        color "red"
         label "The Allstar Project"
+        color "red"
     ]
     node [
         id 3799254
-        color "red"
         label "Collapse.Rebuild."
+        color "red"
     ]
     node [
         id 1775831
-        color "red"
         label "Celestial Wolves"
+        color "red"
     ]
     node [
         id 2040025
-        color "red"
         label "Signal Hill"
+        color "red"
     ]
     node [
         id 1154267
-        color "red"
         label "The Evpatoria Report"
+        color "red"
     ]
     node [
         id 2158302
-        color "red"
         label "Beware of Safety"
+        color "red"
     ]
     node [
         id 2057253
-        color "red"
         label "Stories from the Lost"
+        color "red"
     ]
     node [
         id 143586
-        color "red"
         label "Bark Psychosis"
+        color "red"
     ]
     node [
         id 2733288
-        color "red"
         label "HRVRD"
+        color "red"
     ]
     node [
         id 304875
-        color "red"
         label "LITE"
+        color "red"
     ]
     node [
         id 1375468
-        color "red"
         label "Arctic Sleep"
+        color "red"
     ]
     node [
         id 1167598
-        color "red"
         label "*Ancients"
+        color "red"
     ]
     node [
         id 718582
-        color "red"
         label "Deadhorse"
+        color "red"
     ]
     node [
         id 2428152
-        color "red"
         label "Deepset"
+        color "red"
     ]
     node [
         id 1747705
-        color "red"
         label "My Exit Music"
+        color "red"
     ]
     node [
         id 600831
-        color "red"
         label "God Is an Astronaut"
+        color "red"
     ]
     node [
         id 1916162
-        color "red"
         label "The K. Project"
+        color "red"
     ]
     node [
         id 1395465
-        color "red"
         label "Glorie"
+        color "red"
     ]
     node [
         id 1158412
-        color "red"
         label "Mouth Of The Architect"
+        color "red"
     ]
     node [
         id 1833229
-        color "red"
         label "Django Lumiere"
+        color "red"
     ]
     node [
         id 2045201
-        color "red"
         label "So Far as I Know"
+        color "red"
     ]
     node [
         id 2367762
-        color "red"
         label "Autism"
+        color "red"
     ]
     node [
         id 3009155
-        color "red"
         label "Bear the Mammoth"
+        color "red"
     ]
     node [
         id 2077742
-        color "red"
         label "Cmn Ineed Yr Hlp"
+        color "red"
     ]
     node [
         id 1942806
-        color "red"
         label "Plainfire"
+        color "red"
     ]
     node [
         id 947479
-        color "red"
         label "Kovlo"
+        color "red"
     ]
     node [
         id 2522905
-        color "red"
         label "Our Ceasing Voice"
+        color "red"
     ]
     node [
         id 1192731
-        color "red"
         label "Lights Out Asia"
+        color "red"
     ]
     node [
         id 1779333
-        color "red"
         label "Repose"
+        color "red"
     ]
     node [
         id 2805024
-        color "red"
         label "Faunts"
+        color "red"
     ]
     node [
         id 305953
-        color "red"
         label "Motek"
+        color "red"
     ]
     node [
         id 1192738
-        color "red"
         label "Miaou"
+        color "red"
     ]
     node [
         id 3000539
-        color "red"
         label "Not Just to Drink and Dream"
+        color "red"
     ]
     node [
         id 2146085
-        color "red"
         label "Pray for Sound"
+        color "red"
     ]
     node [
         id 1050918
-        color "red"
         label "Reserve de Marche"
+        color "red"
     ]
     node [
         id 1131819
-        color "red"
         label "Fuck Buttons"
+        color "red"
     ]
     node [
         id 3659052
-        color "red"
         label "Godspeed You! Black Emperor"
+        color "red"
     ]
     node [
         id 4467592
-        color "red"
         label "Floating In Space"
+        color "red"
     ]
     node [
         id 2397492
-        color "red"
         label "Slowrun"
+        color "red"
     ]
     node [
         id 1127225
-        color "red"
         label "Athletics"
+        color "red"
     ]
     node [
         id 1127227
-        color "red"
         label "Moonlit Sailor"
+        color "red"
     ]
     node [
         id 2175292
-        color "red"
         label "The Ambient Light"
+        color "red"
     ]
     node [
         id 2122045
-        color "red"
         label "Lost in Kiev"
+        color "red"
     ]
     node [
         id 107329
-        color "red"
         label "Slut"
+        color "red"
     ]
     node [
         id 2174789
-        color "red"
         label "Canyons Of Static"
+        color "red"
     ]
     node [
         id 1248225
-        color "red"
         label "You Slut!"
+        color "red"
     ]
     node [
         id 1213068
-        color "red"
         label "Exxasens"
+        color "red"
     ]
     node [
         id 2112865
-        color "red"
         label "Not To Reason Why"
+        color "red"
     ]
     node [
         id 2028369
-        color "red"
         label "Milanku"
+        color "red"
     ]
     node [
         id 2306388
-        color "red"
         label "Flies Are Spies from Hell"
+        color "red"
     ]
     node [
         id 4003157
-        color "red"
         label "April Rain"
+        color "red"
     ]
     node [
         id 430649
-        color "red"
         label "Long Distance Calling"
+        color "red"
     ]
     node [
         id 1159000
-        color "red"
         label "Brother/Ghost"
+        color "red"
     ]
     node [
         id 1562465
-        color "red"
         label "Zombie Western"
+        color "red"
     ]
     node [
         id 3623781
-        color "red"
         label "Audrey Fall"
+        color "red"
     ]
     node [
         id 1127228
-        color "red"
         label "The Dandelion War"
+        color "red"
     ]
     node [
         id 1223533
-        color "red"
         label "Yndi Halda"
+        color "red"
     ]
     node [
         id 1907054
-        color "red"
         label "Antennas to Heaven"
+        color "red"
     ]
     node [
         id 1127229
-        color "red"
         label "Lights & Motion"
+        color "red"
     ]
     node [
         id 886128
-        color "red"
         label "Calla"
+        color "red"
     ]
     node [
         id 2741108
-        color "red"
         label "Aloft"
+        color "red"
     ]
     node [
         id 3719029
-        color "red"
         label "Christoffer Franzen"
+        color "red"
     ]
     node [
         id 2213238
-        color "red"
         label "Apolar"
+        color "red"
     ]
     node [
         id 3524473
-        color "red"
         label "Hoping to Collide With"
+        color "red"
     ]
     node [
         id 1573242
-        color "red"
         label "Tomydeepestego"
+        color "red"
     ]
     node [
         id 3405695
-        color "red"
         label "Break My Fucking Sky"
+        color "red"
     ]
     node [
         id 1234817
-        color "red"
         label "The Mire"
+        color "red"
     ]
     node [
         id 1763563
-        color "red"
         label "1.1 Immermann"
+        color "red"
     ]
     node [
         id 82326
-        color "red"
         label "Matt Nelson"
+        color "red"
     ]
     node [
         id 1820552
-        color "red"
         label "Wess Meets West"
+        color "red"
     ]
     node [
         id 1991831
-        color "red"
         label "The Water"
+        color "red"
     ]
     node [
         id 1253772
-        color "red"
         label "The Citing Method"
+        color "red"
     ]
     node [
         id 2105741
-        color "red"
         label "Tacoma Narrows Bridge Disaster"
+        color "red"
     ]
     node [
         id 3179873
-        color "red"
         label "Kwoon"
+        color "red"
     ]
     node [
         id 645553
-        color "red"
         label "Old Silver Key"
+        color "red"
     ]
     node [
         id 214932
-        color "red"
         label "Ecco"
+        color "red"
     ]
     node [
         id 1437422
-        color "red"
         label "Silent Whale Becomes a Dream"
+        color "red"
     ]
     node [
         id 2028950
-        color "red"
         label "Lights At Sea"
+        color "red"
     ]
     node [
         id 454553
-        color "red"
         label "EF"
+        color "red"
     ]
     node [
         id 27038
-        color "red"
         label "Immune"
+        color "red"
     ]
     node [
         id 2307140
-        color "red"
         label "Mark Thirteen"
+        color "red"
     ]
     node [
         id 3651739
-        color "red"
         label "Tim Grif"
+        color "red"
     ]
     node [
         id 4499364
-        color "red"
         label "Matthew Praetzel"
+        color "red"
     ]
     node [
         id 3149222
-        color "red"
         label "Weary Eyes"
+        color "red"
     ]
     node [
         id 844712
-        color "red"
         label "Barrows"
+        color "red"
     ]
     node [
         id 1811369
-        color "red"
         label "Ocoai"
+        color "red"
     ]
     node [
         id 2075050
-        color "red"
         label "Mr. Maps"
+        color "red"
     ]
     node [
         id 1127495
-        color "red"
         label "Last Lungs"
+        color "red"
     ]
     node [
         id 1022380
-        color "red"
         label "Porcelain"
+        color "red"
     ]
     node [
         id 2101746
-        color "red"
         label "American Wolf"
+        color "red"
     ]
     node [
         id 1223086
-        color "red"
         label "Plumerai"
+        color "red"
     ]
     node [
         id 2458545
-        color "red"
         label "Dead Empires"
+        color "red"
     ]
     node [
         id 1159602
-        color "red"
         label "The American Dollar"
+        color "red"
     ]
     node [
         id 1699763
-        color "red"
         label "If These Trees Could Talk"
+        color "red"
     ]
     node [
         id 2545081
-        color "red"
         label "The Enright House"
+        color "red"
     ]
     node [
         id 1195451
-        color "red"
         label "Disappearer"
+        color "red"
     ]
     node [
         id 877500
-        color "red"
         label "Guns Of Brixton"
+        color "red"
     ]
     node [
         id 2192317
-        color "red"
         label "Shadows of Suns"
+        color "red"
     ]
     node [
         id 1945176
-        color "red"
         label "Doug Kaufman"
+        color "red"
     ]
     node [
         id 1630156
-        color "red"
         label "Méon"
+        color "red"
     ]
     node [
         id 1772497
-        color "red"
         label "Via Coma"
+        color "red"
     ]
     node [
         id 1333209
-        color "red"
         label "...Of Sinking Ships"
+        color "red"
     ]
     node [
         id 643663
-        color "red"
         label "Lymbyc Systym"
+        color "red"
     ]
     node [
         id 2205147
-        color "red"
         label "sleepmakeswaves"
+        color "red"
     ]
     node [
         id 4051933
-        color "red"
         label "Con Etiquette"
+        color "red"
     ]
     node [
         id 67553
-        color "red"
         label "The Album Leaf"
+        color "red"
     ]
     node [
         id 1352163
-        color "red"
         label "I/O"
+        color "red"
     ]
     node [
         id 849698
-        color "red"
         label "Acetate Zero"
+        color "red"
     ]
     node [
         id 293350
-        color "red"
         label "From Monument To Masses"
+        color "red"
     ]
     node [
         id 154599
-        color "red"
         label "Euphone"
+        color "red"
     ]
     node [
         id 1219048
-        color "red"
         label "Ana Never"
+        color "red"
     ]
     node [
         id 710124
-        color "red"
         label "Marriages"
+        color "red"
     ]
     node [
         id 1215986
-        color "red"
         label "Braveyoung"
+        color "red"
     ]
     node [
         id 2101748
-        color "red"
         label "The Polar Dream"
+        color "red"
     ]
     node [
         id 1255927
-        color "red"
         label "My Education"
+        color "red"
     ]
     node [
         id 932344
-        color "red"
         label "Ulan Bator"
+        color "red"
     ]
     node [
         id 594425
-        color "red"
         label "Surtsey Sounds"
+        color "red"
     ]
     node [
         id 1961471
-        color "red"
         label "Beast, Please Be Still"
+        color "red"
     ]
     edge [
         source 1192738

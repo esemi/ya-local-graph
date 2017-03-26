@@ -2,283 +2,283 @@ graph [
     directed 1
     node [
         id 64257
-        color "red"
         label "Брати Гадюкіни"
+        color "red"
     ]
     node [
         id 4307202
-        color "red"
         label "Оркестр Че"
+        color "red"
     ]
     node [
         id 4647683
-        color "red"
         label "Les Gendarmes"
+        color "red"
     ]
     node [
         id 64260
-        color "red"
         label "С.К.А.Й."
+        color "red"
     ]
     node [
         id 428038
-        color "red"
         label "Нервы"
+        color "red"
     ]
     node [
         id 64262
-        color "red"
         label "Мандри"
+        color "red"
     ]
     node [
         id 81801
-        color "red"
         label "Гайдамаки"
+        color "red"
     ]
     node [
         id 3793163
-        color "red"
         label "Гараж Ньютона"
+        color "red"
     ]
     node [
         id 64250
-        color "red"
         label "Platina"
+        color "red"
     ]
     node [
         id 2921360
-        color "red"
         label "Freddy Marx Street"
+        color "red"
     ]
     node [
         id 64273
-        color "red"
         label "Друга ріка"
+        color "red"
     ]
     node [
         id 2573586
-        color "red"
         label "Мотор'ролла"
+        color "red"
     ]
     node [
         id 4052630
-        color "red"
         label "Крихітка"
+        color "red"
     ]
     node [
         id 4732183
-        color "red"
         label "Табула Раса"
+        color "red"
     ]
     node [
         id 751640
-        color "red"
         label "Механічний Апельсин"
+        color "red"
     ]
     node [
         id 2648216
-        color "red"
         label "Национальный заслуженный академический симфонический оркестр Украины"
+        color "red"
     ]
     node [
         id 2574639
-        color "red"
         label "Горгішелі"
+        color "red"
     ]
     node [
         id 838746
-        color "red"
         label "Mad Heads XL"
+        color "red"
     ]
     node [
         id 422406
-        color "red"
         label "НеДіля"
+        color "red"
     ]
     node [
         id 751527
-        color "red"
         label "Антитіла"
+        color "red"
     ]
     node [
         id 1159464
-        color "red"
         label "Haydamaky"
+        color "red"
     ]
     node [
         id 422439
-        color "red"
         label "Riffmaster"
+        color "red"
     ]
     node [
         id 1583069
-        color "red"
         label "Сергей Бабкин"
+        color "red"
     ]
     node [
         id 41133
-        color "red"
         label "Бумбокс"
+        color "red"
     ]
     node [
         id 2557359
-        color "red"
         label "Біла Вежа"
+        color "red"
     ]
     node [
         id 594738
-        color "red"
         label "ТІК"
+        color "red"
     ]
     node [
         id 594739
-        color "red"
         label "Холодне Сонце"
+        color "red"
     ]
     node [
         id 919697
-        color "red"
         label "O.Torvald"
+        color "red"
     ]
     node [
         id 1865781
-        color "red"
         label "Perkalaba"
+        color "red"
     ]
     node [
         id 3437878
-        color "red"
         label "Веремій"
+        color "red"
     ]
     node [
         id 595322
-        color "red"
         label "Трансформер"
+        color "red"
     ]
     node [
         id 1607864
-        color "red"
         label "Марія Бурмака"
+        color "red"
     ]
     node [
         id 1590458
-        color "red"
         label "Bahroma"
+        color "red"
     ]
     node [
         id 4766325
-        color "red"
         label "БЕЗ ОБМЕЖЕНЬ"
+        color "red"
     ]
     node [
         id 2942686
-        color "red"
         label "Гич Оркестр"
+        color "red"
     ]
     node [
         id 594376
-        color "red"
         label "Skinhate"
+        color "red"
     ]
     node [
         id 2429770
-        color "red"
         label "Нумер 482"
+        color "red"
     ]
     node [
         id 4029003
-        color "red"
         label "Тартак"
+        color "red"
     ]
     node [
         id 218068
-        color "red"
         label "Океан Ельзи"
+        color "red"
     ]
     node [
         id 595801
-        color "red"
         label "Мертвий Півень"
+        color "red"
     ]
     node [
         id 3315162
-        color "red"
         label "Epolets"
+        color "red"
     ]
     node [
         id 218077
-        color "red"
         label "Воплі Відоплясова"
+        color "red"
     ]
     node [
         id 2259678
-        color "red"
         label "Rock-H (Рокаш)"
+        color "red"
     ]
     node [
         id 81890
-        color "red"
         label "Таліта Кум"
+        color "red"
     ]
     node [
         id 1536871
-        color "red"
         label "Серце Дженніфер"
+        color "red"
     ]
     node [
         id 1591719
-        color "red"
         label "Kozak System"
+        color "red"
     ]
     node [
         id 1228562
-        color "red"
         label "Klooch"
+        color "red"
     ]
     node [
         id 676392
-        color "red"
         label "Kofei.IN"
+        color "red"
     ]
     node [
         id 2420980
-        color "red"
         label "Нерозгадані"
+        color "red"
     ]
     node [
         id 64254
-        color "red"
         label "Скрябін"
+        color "red"
     ]
     node [
         id 218103
-        color "red"
         label "Святослав Вакарчук"
+        color "red"
     ]
     node [
         id 594426
-        color "red"
         label "Ot Vinta"
+        color "red"
     ]
     node [
         id 594427
-        color "red"
         label "Green Grey"
+        color "red"
     ]
     node [
         id 81788
-        color "red"
         label "Mad Heads"
+        color "red"
     ]
     node [
         id 2573565
-        color "red"
         label "Юркеш"
+        color "red"
     ]
     node [
         id 599422
-        color "red"
         label "Qarpa"
+        color "red"
     ]
     edge [
         source 81788
@@ -333,22 +333,6 @@ graph [
         target 4029003
     ]
     edge [
-        source 1228562
-        target 64260
-    ]
-    edge [
-        source 1228562
-        target 422439
-    ]
-    edge [
-        source 1228562
-        target 1591719
-    ]
-    edge [
-        source 1228562
-        target 2259678
-    ]
-    edge [
         source 218068
         target 41133
     ]
@@ -363,6 +347,22 @@ graph [
     edge [
         source 218068
         target 751527
+    ]
+    edge [
+        source 1228562
+        target 64260
+    ]
+    edge [
+        source 1228562
+        target 422439
+    ]
+    edge [
+        source 1228562
+        target 1591719
+    ]
+    edge [
+        source 1228562
+        target 2259678
     ]
     edge [
         source 2573586

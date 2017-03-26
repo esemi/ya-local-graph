@@ -26,5 +26,6 @@ METAL_GENRES = ['metal', 'classicmetal', 'progmetal', 'Numetal', 'epicmetal', 'f
 PROCESS_GENRES = ROCK_GENRES + METAL_GENRES
 ALL_ROCK_GENRE = 'rock-all'
 ALL_METAL_GENRE = 'metal-all'
+ROCK_AND_METAL_GENRE = 'summary'
 
 PLOT_LAYOUT = 'fr'

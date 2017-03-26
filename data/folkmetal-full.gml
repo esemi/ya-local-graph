@@ -2,193 +2,193 @@ graph [
     directed 1
     node [
         id 297476
-        color "red"
         label "Аркона"
+        color "red"
     ]
     node [
         id 34118
-        color "red"
         label "Finntroll"
+        color "red"
     ]
     node [
         id 296520
-        color "red"
         label "Dalriada"
+        color "red"
     ]
     node [
         id 2104713
-        color "red"
         label "Valtari"
+        color "red"
     ]
     node [
         id 2657354
-        color "red"
         label "Adavant"
+        color "red"
     ]
     node [
         id 1483735
-        color "red"
         label "Claim the Throne"
+        color "red"
     ]
     node [
         id 1938515
-        color "red"
         label "Valfreya"
+        color "red"
     ]
     node [
         id 296925
-        color "red"
         label "Heidevolk"
+        color "red"
     ]
     node [
         id 674384
-        color "red"
         label "Темнозорь"
+        color "red"
     ]
     node [
         id 318673
-        color "red"
         label "Alestorm"
+        color "red"
     ]
     node [
         id 154962
-        color "red"
         label "Metsatöll"
+        color "red"
     ]
     node [
         id 1946771
-        color "red"
         label "The Thorn and Tear"
+        color "red"
     ]
     node [
         id 1577492
-        color "red"
         label "Wolves of Hate"
+        color "red"
     ]
     node [
         id 1755095
-        color "red"
         label "Fractal Gates"
+        color "red"
     ]
     node [
         id 38296
-        color "red"
         label "Moonsorrow"
+        color "red"
     ]
     node [
         id 2185433
-        color "red"
         label "Achren"
+        color "red"
     ]
     node [
         id 250845
-        color "red"
         label "Turisas"
+        color "red"
     ]
     node [
         id 301790
-        color "red"
         label "Wolfchant"
+        color "red"
     ]
     node [
         id 3041
-        color "red"
         label "Ensiferum"
+        color "red"
     ]
     node [
         id 1483874
-        color "red"
         label "Сварга"
+        color "red"
     ]
     node [
         id 295014
-        color "red"
         label "Korpiklaani"
+        color "red"
     ]
     node [
         id 1911334
-        color "red"
         label "Blood and Thunder"
+        color "red"
     ]
     node [
         id 2153639
-        color "red"
         label "Structure of Inhumanity"
+        color "red"
     ]
     node [
         id 1768
-        color "red"
         label "In Extremo"
+        color "red"
     ]
     node [
         id 1748266
-        color "red"
         label "Shaded Enmity"
+        color "red"
     ]
     node [
         id 1786859
-        color "red"
         label "Abinchova"
+        color "red"
     ]
     node [
         id 519314
-        color "red"
         label "Руян"
+        color "red"
     ]
     node [
         id 1870382
-        color "red"
         label "Red Descending"
+        color "red"
     ]
     node [
         id 1915567
-        color "red"
         label "Hammer Horde"
+        color "red"
     ]
     node [
         id 417981
-        color "red"
         label "Coppelius"
+        color "red"
     ]
     node [
         id 532120
-        color "red"
         label "Cruachan"
+        color "red"
     ]
     node [
         id 357940
-        color "red"
         label "Falkenbach"
+        color "red"
     ]
     node [
         id 226552
-        color "red"
         label "Subway To Sally"
+        color "red"
     ]
     node [
         id 1939769
-        color "red"
         label "Troldhaugen"
+        color "red"
     ]
     node [
         id 2192536
-        color "red"
         label "Wolfmare"
+        color "red"
     ]
     node [
         id 1835839
-        color "red"
         label "Lagerstein"
+        color "red"
     ]
     node [
         id 296701
-        color "red"
         label "Eluveitie"
+        color "red"
     ]
     node [
         id 4314047
-        color "red"
         label "Wardruna"
+        color "red"
     ]
     edge [
         source 2104713

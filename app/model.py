@@ -108,7 +108,7 @@ def update_artist_genres(artist_id, genres_id):
         ArtistGenre.create(artist_id=artist_id, genre_id=g)
 
 
-def fetch_graph_primary(genre_ids):
+def fetch_graph_primary(genre_ids, max_position=100):
     """Return primary genre graph w/o single nodes"""
 
     in_ = ','.join([str(i) for i in genre_ids])
@@ -117,10 +117,10 @@ def fetch_graph_primary(genre_ids):
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
-                           'WHERE a1.is_primary = True AND a2.is_primary = True '
+                           'WHERE a1.is_primary = True AND a2.is_primary = True AND position < %d'
                            'AND from_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id IN (%s)) '
                            'AND to_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id  IN (%s)) '
-                           'LIMIT %d' % (in_, in_, EXPORT_LIMIT))
+                           'LIMIT %d' % (max_position, in_, in_, EXPORT_LIMIT))
     nodes = {}
     edges = []
     for obj in rq.execute():
@@ -130,7 +130,7 @@ def fetch_graph_primary(genre_ids):
     return nodes, edges
 
 
-def fetch_graph_full(genre_ids):
+def fetch_graph_full(genre_ids, color='red', max_position=100):
     """Return full graph w/o single nodes"""
 
     in_ = ','.join([str(i) for i in genre_ids])
@@ -139,15 +139,15 @@ def fetch_graph_full(genre_ids):
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
-                           'WHERE '
+                           'WHERE position < %d AND '
                            'from_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id IN (%s)) '
                            'AND to_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id  IN (%s)) '
-                           'LIMIT %d' % (in_, in_, EXPORT_LIMIT))
+                           'LIMIT %d' % (max_position, in_, in_, EXPORT_LIMIT))
     nodes = {}
     edges = []
     for obj in rq.execute():
-        nodes[obj.from_id] = {'label': obj.from_label, 'color': 'red'}
-        nodes[obj.to_id] = {'label': obj.to_label, 'color': 'red'}
+        nodes[obj.from_id] = {'label': obj.from_label, 'color': color}
+        nodes[obj.to_id] = {'label': obj.to_label, 'color': color}
         edges.append((obj.from_id, obj.to_id))
     return nodes, edges
 
