@@ -17,6 +17,7 @@ CHROME_DRIVER_PATH = os.path.sep.join([os.path.abspath(os.path.dirname(os.path.d
 DATA_FOLDER_PATH = os.path.sep.join([os.path.abspath(os.path.dirname(os.path.dirname(__file__))), 'data'])
 
 EXPORT_LIMIT = 500000
+TOP_POSTFIX = '-top3'
 EXPORT_FILE_PRIMARY = '%s-primary'
 EXPORT_FILE_FULL = '%s-full'
 

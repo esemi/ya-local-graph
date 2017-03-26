@@ -4,7 +4,8 @@ import logging
 
 from app.cli import graph_name, gml_name
 from app.cli.graph_plot import clear_cache
-from app.config import PROCESS_GENRES, ALL_ROCK_GENRE, ROCK_GENRES, ALL_METAL_GENRE, METAL_GENRES, ROCK_AND_METAL_GENRE
+from app.config import PROCESS_GENRES, TOP_POSTFIX, ALL_ROCK_GENRE, ROCK_GENRES, ALL_METAL_GENRE, METAL_GENRES, \
+    ROCK_AND_METAL_GENRE
 from app.model import fetch_graph_primary, fetch_graph_full, get_genres
 
 
@@ -52,7 +53,7 @@ def task():
         logging.info('end')
 
         if with_top:
-            genre_name += '-top3'
+            genre_name += TOP_POSTFIX
             logging.info('export start %s %s', genre_name, genre_ids)
             nodes, edges = fetch_graph_primary(genre_ids, max_position=3)
             save_gml(genre_name, nodes, edges)

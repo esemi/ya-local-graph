@@ -7,7 +7,7 @@ import os
 import igraph
 
 from app.cli import cache_name, graph_name, gml_name, plot_name
-from app.config import PLOT_LAYOUT, PROCESS_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE, ROCK_AND_METAL_GENRE
+from app.config import PLOT_LAYOUT, PROCESS_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE, ROCK_AND_METAL_GENRE, TOP_POSTFIX
 
 
 def clear_cache(name):
@@ -58,49 +58,27 @@ def task():
     logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
     logging.info('start')
 
-    logging.info('plot primary')
-    for genre_name in PROCESS_GENRES:
+    def _plot_all(genre_name):
         name = graph_name(genre_name, False)
         logging.info('start %s', name)
         graph = igraph.Graph.Read_GML(gml_name(name))
         logging.info('loaded %d %d', graph.vcount(), graph.ecount())
         plot(graph, name)
-        logging.info('plot')
+        logging.info('plot primary')
 
-    logging.info('plot full')
-    for genre_name in PROCESS_GENRES:
         name = graph_name(genre_name, True)
         logging.info('start %s', name)
         graph = igraph.Graph.Read_GML(gml_name(name))
         logging.info('loaded %d %d', graph.vcount(), graph.ecount())
         plot(graph, name)
-        logging.info('plot')
+        logging.info('plot full')
 
-    name = graph_name(ALL_ROCK_GENRE, False)
-    logging.info('start plot rock-all %s', name)
-    graph = igraph.Graph.Read_GML(gml_name(name))
-    logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-    plot(graph, name)
-    logging.info('plot primary')
+    logging.info('plot basic')
+    for genre_name in PROCESS_GENRES:
+        _plot_all(genre_name)
 
-    name = graph_name(ALL_METAL_GENRE, False)
-    logging.info('start plot metal-all %s', name)
-    graph = igraph.Graph.Read_GML(gml_name(name))
-    logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-    plot(graph, name)
-    logging.info('plot primary')
-
-    name = graph_name(ALL_ROCK_GENRE, True)
-    logging.info('start plot rock-all %s', name)
-    graph = igraph.Graph.Read_GML(gml_name(name))
-    logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-    plot(graph, name)
-    logging.info('plot full')
-
-    name = graph_name(ALL_METAL_GENRE, True)
-    logging.info('start plot metal-all %s', name)
-    graph = igraph.Graph.Read_GML(gml_name(name))
-    logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-    plot(graph, name)
-    logging.info('plot full')
-
+    logging.info('plot custom')
+    custom_graphs = (ALL_ROCK_GENRE, ALL_METAL_GENRE, ROCK_AND_METAL_GENRE)
+    for custom_graph_name in custom_graphs:
+        _plot_all(custom_graph_name)
+        _plot_all(custom_graph_name + TOP_POSTFIX)
