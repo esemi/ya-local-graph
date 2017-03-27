@@ -34,7 +34,7 @@ def plot(graph, name):
     if not l:
         l = graph.layout(PLOT_LAYOUT)
         save_cache(name, l)
-    logging.info('compute layout')
+    logging.info('complete layout')
 
     if graph.vcount() < 500:
         size = 1000
@@ -46,12 +46,9 @@ def plot(graph, name):
     kwargs = dict(bbox=(size, size), edge_arrow_size=0.2, edge_arrow_width=0.9, edge_width=0.3, vertex_frame_width=0.4)
     igraph.plot(graph, plot_name(name, 'label', 'png'), vertex_size=3, vertex_label_size=7, layout=l, **kwargs)
     igraph.plot(graph, plot_name(name, 'label', 'svg'), vertex_size=3, vertex_label_size=7, layout=l, **kwargs)
-    logging.info('plot graph w/ labels')
-
     graph.vs['label'] = ['']
     igraph.plot(graph, plot_name(name, 'basic', 'png'), vertex_size=7, layout=l, **kwargs)
     igraph.plot(graph, plot_name(name, 'basic', 'svg'), vertex_size=7, layout=l, **kwargs)
-    logging.info('plot graph w/o labels')
 
 
 def task():
