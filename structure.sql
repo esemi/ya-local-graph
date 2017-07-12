@@ -164,6 +164,7 @@ CREATE INDEX artist_is_main_node_need_crawl_similar ON artist USING btree (simil
 
 CREATE INDEX artist_is_primary ON artist USING btree (is_primary);
 
+CREATE INDEX "similar_position" ON "similar" ("position");
 
 --
 -- Name: ArtistGenre_artist_id_fkey; Type: FK CONSTRAINT; Schema: public; Owner: ya
