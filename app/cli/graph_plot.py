@@ -5,9 +5,31 @@ import pickle
 import os
 
 import igraph
+from igraph.drawing.text import TextDrawer
+import cairocffi
 
-from app.cli import cache_name, graph_name, gml_name, plot_name
+from app.cli import cache_name, graph_path, gml_name, plot_name, graph_index
 from app.config import PLOT_LAYOUT, PROCESS_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE, ROCK_AND_METAL_GENRE, TOP_POSTFIX
+
+
+PLOT_OPTIONS_PNG = {
+    'rock-primary': dict(bbox=(1500, 1500), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3, edge_width=0.1,
+                         vertex_frame_width=0.2),
+    'rock-all-primary': dict(bbox=(3000, 3000), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3,
+                             edge_width=0.1, vertex_frame_width=0.2),
+    'rock-all-full': dict(bbox=(3000, 3000), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3,
+                          edge_width=0.1, vertex_frame_width=0.2),
+}
+
+PLOT_OPTIONS_SVG = {
+    'rock-primary': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
+                         edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
+    'rock-all-primary': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
+                             edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
+    'rock-all-full': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
+                          edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
+
+}
 
 
 def clear_cache(name):
@@ -29,26 +51,29 @@ def save_cache(name, l):
     pickle.dump(l, f)
 
 
-def plot(graph, name):
+def plot(graph, name, index):
     l = read_cache(name)
     if not l:
         l = graph.layout(PLOT_LAYOUT)
         save_cache(name, l)
     logging.info('complete layout')
 
-    if graph.vcount() < 500:
-        size = 1000
-    elif graph.vcount() < 1000:
-        size = 3000
-    else:
-        size = 10000
+    png_opt = dict(bbox=(1500, 1500), vertex_size=7, edge_arrow_size=0.2, edge_arrow_width=0.9, edge_width=0.3,
+                   vertex_frame_width=0.4) if index not in PLOT_OPTIONS_PNG else PLOT_OPTIONS_PNG[index]
+    svg_opt = dict(bbox=(3000, 3000), vertex_size=3, vertex_label_size=7, edge_arrow_size=0.15,
+                   edge_arrow_width=0.7, edge_width=0.2, vertex_frame_width=0.3) if index not in PLOT_OPTIONS_SVG else PLOT_OPTIONS_SVG[index]
 
-    kwargs = dict(bbox=(size, size), edge_arrow_size=0.2, edge_arrow_width=0.9, edge_width=0.3, vertex_frame_width=0.4)
-    igraph.plot(graph, plot_name(name, 'label', 'png'), vertex_size=3, vertex_label_size=7, layout=l, **kwargs)
-    igraph.plot(graph, plot_name(name, 'label', 'svg'), vertex_size=3, vertex_label_size=7, layout=l, **kwargs)
+    igraph.plot(graph, plot_name(name, 'svg'), layout=l, **svg_opt)
+
     graph.vs['label'] = ['']
-    igraph.plot(graph, plot_name(name, 'basic', 'png'), vertex_size=7, layout=l, **kwargs)
-    igraph.plot(graph, plot_name(name, 'basic', 'svg'), vertex_size=7, layout=l, **kwargs)
+    plot = igraph.plot(graph, plot_name(name, 'png'), layout=l, **png_opt)
+    legend = '%s: %d x %d' % (index, graph.vcount(), graph.ecount())
+    plot.redraw()
+    ctx = cairocffi.Context(plot.surface)
+    ctx.set_font_size(36)
+    drawer = TextDrawer(ctx, legend, halign=TextDrawer.CENTER)
+    drawer.draw_at(150, 50, width=500)
+    plot.save()
 
 
 def task():
@@ -56,26 +81,24 @@ def task():
     logging.info('start')
 
     def _plot_all(genre_name):
-        name = graph_name(genre_name, False)
-        logging.info('start %s', name)
+        name = graph_path(graph_index(genre_name, False))
+        logging.info('start %s', graph_index(genre_name, False))
         graph = igraph.Graph.Read_GML(gml_name(name))
         logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-        plot(graph, name)
+        plot(graph, name, graph_index(genre_name, False))
         logging.info('plot primary')
 
-        name = graph_name(genre_name, True)
-        logging.info('start %s', name)
+        name = graph_path(graph_index(genre_name, True))
+        logging.info('start %s', graph_index(genre_name, True))
         graph = igraph.Graph.Read_GML(gml_name(name))
         logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-        plot(graph, name)
+        plot(graph, name, graph_index(genre_name, True))
         logging.info('plot full')
 
     logging.info('plot basic')
-    for genre_name in PROCESS_GENRES:
+    for genre_name in PROCESS_GENRES - {'rock', 'metal'} | {ALL_ROCK_GENRE, ALL_METAL_GENRE}:
         _plot_all(genre_name)
 
     logging.info('plot custom')
-    custom_graphs = (ALL_ROCK_GENRE, ALL_METAL_GENRE, ROCK_AND_METAL_GENRE)
-    for custom_graph_name in custom_graphs:
-        _plot_all(custom_graph_name)
-        _plot_all(custom_graph_name + TOP_POSTFIX)
+    _plot_all(ROCK_AND_METAL_GENRE)
+    _plot_all(ROCK_AND_METAL_GENRE + TOP_POSTFIX)

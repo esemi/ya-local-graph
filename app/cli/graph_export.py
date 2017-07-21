@@ -2,7 +2,7 @@
 
 import logging
 
-from app.cli import graph_name, gml_name
+from app.cli import graph_path, gml_name, graph_index
 from app.cli.graph_plot import clear_cache
 from app.config import PROCESS_GENRES, TOP_POSTFIX, ALL_ROCK_GENRE, ROCK_GENRES, ALL_METAL_GENRE, METAL_GENRES, \
     ROCK_AND_METAL_GENRE
@@ -12,7 +12,7 @@ from app.model import fetch_graph_primary, fetch_graph_full, get_genres
 def save_gml(genre_name, nodes, edges, full=False):
     logging.info('save graph %d %d', len(nodes), len(edges))
 
-    g_name = graph_name(genre_name, full)
+    g_name = graph_path(graph_index(genre_name, full))
     f_name = gml_name(g_name)
     f = open(f_name, 'w+')
 

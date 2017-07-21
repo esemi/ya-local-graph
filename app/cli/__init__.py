@@ -13,11 +13,15 @@ def gml_name(name):
     return '%s.gml' % name
 
 
-def plot_name(name, mod, extension):
-    return '%s-%s.%s' % (name, mod, extension)
+def plot_name(name, extension):
+    return '%s.%s' % (name, extension)
 
 
-def graph_name(genre, full):
+def graph_index(genre, full):
     template = EXPORT_FILE_FULL if full else EXPORT_FILE_PRIMARY
-    return os.path.sep.join([DATA_FOLDER_PATH, template % genre])
+    return template % genre
+
+
+def graph_path(index):
+    return os.path.sep.join([DATA_FOLDER_PATH, index])
 

@@ -21,10 +21,10 @@ TOP_POSTFIX = '-top3'
 EXPORT_FILE_PRIMARY = '%s-primary'
 EXPORT_FILE_FULL = '%s-full'
 
-ROCK_GENRES = ['rusrock', 'ukrrock', 'rock-n-roll', 'prog-rock', 'post-rock', 'new-wave', 'rock']
-METAL_GENRES = ['metal', 'classicmetal', 'progmetal', 'Numetal', 'epicmetal', 'folkmetal', 'extrememetal']
+ROCK_GENRES = {'rusrock', 'ukrrock', 'rock-n-roll', 'prog-rock', 'post-rock', 'new-wave', 'rock'}
+METAL_GENRES = {'metal', 'classicmetal', 'progmetal', 'Numetal', 'epicmetal', 'folkmetal', 'extrememetal'}
 
-PROCESS_GENRES = ROCK_GENRES + METAL_GENRES
+PROCESS_GENRES = ROCK_GENRES | METAL_GENRES
 ALL_ROCK_GENRE = 'rock-all'
 ALL_METAL_GENRE = 'metal-all'
 ROCK_AND_METAL_GENRE = 'summary'
