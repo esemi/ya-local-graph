@@ -43,8 +43,10 @@ def save_gml(genre_name, nodes, edges, full=False):
 def task():
     logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
     genres = get_genres()
+    rock_ids = [str(genres[i]) for i in genres if i in ROCK_GENRES]
+    metal_ids = [str(genres[i]) for i in genres if i in METAL_GENRES]
 
-    def _export(genre_ids, genre_name, with_top=False):
+    def _export(genre_ids, genre_name):
         logging.info('export start %s %s', genre_name, genre_ids)
         nodes, edges = fetch_graph_primary(genre_ids)
         save_gml(genre_name, nodes, edges)
@@ -52,36 +54,33 @@ def task():
         save_gml(genre_name, nodes, edges, full=True)
         logging.info('end')
 
-        if with_top:
-            genre_name += TOP_POSTFIX
-            logging.info('export start %s %s', genre_name, genre_ids)
-            nodes, edges = fetch_graph_primary(genre_ids, max_position=3)
-            save_gml(genre_name, nodes, edges)
-            nodes, edges = fetch_graph_full(genre_ids, max_position=3)
-            save_gml(genre_name, nodes, edges, full=True)
-            logging.info('end')
-
     logging.info('')
 
     for genre_name in PROCESS_GENRES:
         genre_ids = [genres[genre_name]]
         _export(genre_ids, genre_name)
 
-    rock_ids = [str(genres[i]) for i in genres if i in ROCK_GENRES]
-    metal_ids = [str(genres[i]) for i in genres if i in METAL_GENRES]
     custom_pairs = [(rock_ids, ALL_ROCK_GENRE),
                     (metal_ids, ALL_METAL_GENRE)]
     for ids, name in custom_pairs:
         _export(ids, name)
 
     # custom export colorized graph
-    logging.info('export customs start %s %s', ROCK_AND_METAL_GENRE, rock_ids + metal_ids)
+    logging.info('export customs primary start %s %s', ROCK_AND_METAL_GENRE, rock_ids + metal_ids)
     nodes, edges = fetch_graph_custom(rock_ids, metal_ids)
     save_gml(ROCK_AND_METAL_GENRE, nodes, edges)
     nodes, edges = fetch_graph_custom(rock_ids, metal_ids, 6)
     save_gml(ROCK_AND_METAL_GENRE + TOP6_POSTFIX, nodes, edges)
     nodes, edges = fetch_graph_custom(rock_ids, metal_ids, 3)
     save_gml(ROCK_AND_METAL_GENRE + TOP3_POSTFIX, nodes, edges)
+
+    logging.info('export customs full start %s %s', ROCK_AND_METAL_GENRE, rock_ids + metal_ids)
+    nodes, edges = fetch_graph_custom(rock_ids, metal_ids, primary=False)
+    save_gml(ROCK_AND_METAL_GENRE, nodes, edges, full=True)
+    nodes, edges = fetch_graph_custom(rock_ids, metal_ids, 6, primary=False)
+    save_gml(ROCK_AND_METAL_GENRE + TOP6_POSTFIX, nodes, edges, full=True)
+    nodes, edges = fetch_graph_custom(rock_ids, metal_ids, 3, primary=False)
+    save_gml(ROCK_AND_METAL_GENRE + TOP3_POSTFIX, nodes, edges, full=True)
     logging.info('end')
 
 

@@ -108,10 +108,11 @@ def update_artist_genres(artist_id, genres_id):
         ArtistGenre.create(artist_id=artist_id, genre_id=g)
 
 
-def fetch_graph_custom(rock_ids, metal_ids, max_position=100):
+def fetch_graph_custom(rock_ids, metal_ids, max_position=100, primary=True):
     rock_in = ','.join([str(i) for i in rock_ids])
     metal_in = ','.join([str(i) for i in metal_ids])
     all_in_ = ','.join([rock_in, metal_in])
+    primary_condition = 'a1.is_primary = True AND a2.is_primary = True AND' if primary else ''
 
     rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, '
                            'CASE WHEN (SELECT COUNT(*) FROM artist_genre WHERE genre_id IN (%s) AND artist_id = from_id) > 0 '
@@ -125,11 +126,11 @@ def fetch_graph_custom(rock_ids, metal_ids, max_position=100):
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
-                           'WHERE a1.is_primary = True AND a2.is_primary = True AND position < %d'
+                           'WHERE %s position < %d'
                            'AND from_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id IN (%s)) '
                            'AND to_id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id  IN (%s)) '
-                           'LIMIT %d' % (rock_in, metal_in, rock_in, metal_in, max_position, all_in_, all_in_,
-                                         EXPORT_LIMIT))
+                           'LIMIT %d' % (rock_in, metal_in, rock_in, metal_in, primary_condition, max_position,
+                                         all_in_, all_in_, EXPORT_LIMIT))
 
     def select_color(is_rock, is_metal):
         if is_rock and is_metal:
