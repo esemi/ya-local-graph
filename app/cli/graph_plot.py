@@ -15,19 +15,31 @@ from app.config import PLOT_LAYOUT, PROCESS_GENRES, ALL_METAL_GENRE, ALL_ROCK_GE
 PLOT_OPTIONS_PNG = {
     'rock-primary': dict(bbox=(1500, 1500), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3, edge_width=0.1,
                          vertex_frame_width=0.2),
+
     'rock-all-primary': dict(bbox=(3000, 3000), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3,
                              edge_width=0.1, vertex_frame_width=0.2),
     'rock-all-full': dict(bbox=(3000, 3000), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3,
                           edge_width=0.1, vertex_frame_width=0.2),
+
+    'metal-all-primary': dict(bbox=(3000, 3000), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3,
+                              edge_width=0.1, vertex_frame_width=0.2),
+    'metal-all-full': dict(bbox=(3000, 3000), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3,
+                           edge_width=0.1, vertex_frame_width=0.2),
 }
 
 PLOT_OPTIONS_SVG = {
     'rock-primary': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
                          edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
+
     'rock-all-primary': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
                              edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
     'rock-all-full': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
                           edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
+
+    'metal-all-primary': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
+                              edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
+    'metal-all-full': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
+                           edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
 
 }
 
@@ -66,14 +78,17 @@ def plot(graph, name, index):
     igraph.plot(graph, plot_name(name, 'svg'), layout=l, **svg_opt)
 
     graph.vs['label'] = ['']
-    plot = igraph.plot(graph, plot_name(name, 'png'), layout=l, **png_opt)
-    legend = '%s: %d x %d' % (index, graph.vcount(), graph.ecount())
-    plot.redraw()
-    ctx = cairocffi.Context(plot.surface)
+    p = igraph.plot(graph, plot_name(name, 'png'), layout=l, **png_opt)
+    assert len(graph.closeness()) == graph.vcount()
+    legend = '%s: %d x %d\nclustering coef. %.4f\ncloseness %.4f' % (index, graph.vcount(), graph.ecount(),
+                                                                     graph.transitivity_undirected(mode="zero"),
+                                                                     sum(graph.closeness()) / graph.vcount())
+    p.redraw()
+    ctx = cairocffi.Context(p.surface)
     ctx.set_font_size(36)
-    drawer = TextDrawer(ctx, legend, halign=TextDrawer.CENTER)
+    drawer = TextDrawer(ctx, legend, halign=TextDrawer.LEFT)
     drawer.draw_at(150, 50, width=500)
-    plot.save()
+    p.save()
 
 
 def task():
