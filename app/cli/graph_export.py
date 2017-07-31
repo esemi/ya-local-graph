@@ -4,9 +4,9 @@ import logging
 
 from app.cli import graph_path, gml_name, graph_index
 from app.cli.graph_plot import clear_cache
-from app.config import PROCESS_GENRES, TOP_POSTFIX, ALL_ROCK_GENRE, ROCK_GENRES, ALL_METAL_GENRE, METAL_GENRES, \
-    ROCK_AND_METAL_GENRE
-from app.model import fetch_graph_primary, fetch_graph_full, get_genres
+from app.config import PROCESS_GENRES, TOP3_POSTFIX, ALL_ROCK_GENRE, ROCK_GENRES, ALL_METAL_GENRE, METAL_GENRES, \
+    ROCK_AND_METAL_GENRE, TOP6_POSTFIX
+from app.model import fetch_graph_primary, fetch_graph_full, get_genres, fetch_graph_custom
 
 
 def save_gml(genre_name, nodes, edges, full=False):
@@ -70,10 +70,19 @@ def task():
     rock_ids = [str(genres[i]) for i in genres if i in ROCK_GENRES]
     metal_ids = [str(genres[i]) for i in genres if i in METAL_GENRES]
     custom_pairs = [(rock_ids, ALL_ROCK_GENRE),
-                    (metal_ids, ALL_METAL_GENRE),
-                    (rock_ids + metal_ids, ROCK_AND_METAL_GENRE)]
+                    (metal_ids, ALL_METAL_GENRE)]
     for ids, name in custom_pairs:
-        _export(ids, name, with_top=True)
+        _export(ids, name)
+
+    # custom export colorized graph
+    logging.info('export customs start %s %s', ROCK_AND_METAL_GENRE, rock_ids + metal_ids)
+    nodes, edges = fetch_graph_custom(rock_ids, metal_ids)
+    save_gml(ROCK_AND_METAL_GENRE, nodes, edges)
+    nodes, edges = fetch_graph_custom(rock_ids, metal_ids, 6)
+    save_gml(ROCK_AND_METAL_GENRE + TOP6_POSTFIX, nodes, edges)
+    nodes, edges = fetch_graph_custom(rock_ids, metal_ids, 3)
+    save_gml(ROCK_AND_METAL_GENRE + TOP3_POSTFIX, nodes, edges)
+    logging.info('end')
 
 
 if __name__ == '__main__':

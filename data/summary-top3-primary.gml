@@ -8,27 +8,27 @@ graph [
     node [
         id 1638401
         label "Ancient Ceremony"
-        color "red"
+        color "blue"
     ]
     node [
         id 2211843
         label "In League"
-        color "red"
+        color "blue"
     ]
     node [
         id 2447716
         label "Woodscream"
-        color "red"
+        color "blue"
     ]
     node [
         id 2342918
         label "Shadows Entwined"
-        color "red"
+        color "blue"
     ]
     node [
         id 1949704
         label "Enve"
-        color "red"
+        color "blue"
     ]
     node [
         id 9
@@ -43,17 +43,17 @@ graph [
     node [
         id 1818635
         label "Suns of Stone"
-        color "red"
+        color "purple"
     ]
     node [
         id 49164
         label "Enuff Z'nuff"
-        color "red"
+        color "purple"
     ]
     node [
         id 81933
         label "Circus Maximus"
-        color "red"
+        color "blue"
     ]
     node [
         id 14
@@ -78,12 +78,12 @@ graph [
     node [
         id 1638403
         label "Antestor"
-        color "red"
+        color "blue"
     ]
     node [
         id 4423700
         label "PM Saari"
-        color "red"
+        color "purple"
     ]
     node [
         id 92201
@@ -108,7 +108,7 @@ graph [
     node [
         id 901149
         label "Tri State Corner"
-        color "red"
+        color "purple"
     ]
     node [
         id 933918
@@ -128,7 +128,7 @@ graph [
     node [
         id 1547769
         label "Electric Magma"
-        color "red"
+        color "blue"
     ]
     node [
         id 2834468
@@ -138,12 +138,12 @@ graph [
     node [
         id 1122310
         label "For What It's Worth"
-        color "red"
+        color "blue"
     ]
     node [
         id 1867814
         label "Main Line Riders"
-        color "red"
+        color "purple"
     ]
     node [
         id 2834475
@@ -153,7 +153,7 @@ graph [
     node [
         id 2304468
         label "Rainbows Are Free"
-        color "red"
+        color "purple"
     ]
     node [
         id 2261037
@@ -173,17 +173,17 @@ graph [
     node [
         id 1327154
         label "Doctor Doom"
-        color "red"
+        color "blue"
     ]
     node [
         id 1362611
         label "Call US Forgotten"
-        color "red"
+        color "purple"
     ]
     node [
         id 1179700
         label "Vreid"
-        color "red"
+        color "purple"
     ]
     node [
         id 313156
@@ -213,7 +213,7 @@ graph [
     node [
         id 3664565
         label "Naberus"
-        color "red"
+        color "blue"
     ]
     node [
         id 98368
@@ -248,7 +248,7 @@ graph [
     node [
         id 2962785
         label "Malodorous"
-        color "red"
+        color "blue"
     ]
     node [
         id 360521
@@ -258,12 +258,12 @@ graph [
     node [
         id 753738
         label "As We Fight"
-        color "red"
+        color "blue"
     ]
     node [
         id 639051
         label "Sunterra"
-        color "red"
+        color "blue"
     ]
     node [
         id 32844
@@ -278,7 +278,7 @@ graph [
     node [
         id 262222
         label "Adagio"
-        color "red"
+        color "blue"
     ]
     node [
         id 114767
@@ -288,7 +288,7 @@ graph [
     node [
         id 835665
         label "CDC"
-        color "red"
+        color "blue"
     ]
     node [
         id 82002
@@ -303,7 +303,7 @@ graph [
     node [
         id 87
         label "Michael Schenker"
-        color "red"
+        color "purple"
     ]
     node [
         id 2441304
@@ -338,7 +338,7 @@ graph [
     node [
         id 295011
         label "Steel Attack"
-        color "red"
+        color "purple"
     ]
     node [
         id 49252
@@ -348,12 +348,12 @@ graph [
     node [
         id 835685
         label "Siggi Schwarz"
-        color "red"
+        color "purple"
     ]
     node [
         id 295014
         label "Korpiklaani"
-        color "red"
+        color "blue"
     ]
     node [
         id 311399
@@ -363,7 +363,7 @@ graph [
     node [
         id 2748
         label "Beherit"
-        color "red"
+        color "blue"
     ]
     node [
         id 49258
@@ -373,12 +373,12 @@ graph [
     node [
         id 2343019
         label "Helter Skeleton"
-        color "red"
+        color "blue"
     ]
     node [
         id 671853
         label "Xibalba"
-        color "red"
+        color "purple"
     ]
     node [
         id 8187
@@ -418,7 +418,7 @@ graph [
     node [
         id 2392187
         label "NATRY"
-        color "red"
+        color "blue"
     ]
     node [
         id 655485
@@ -433,7 +433,7 @@ graph [
     node [
         id 2097280
         label "Matthew Mills"
-        color "red"
+        color "blue"
     ]
     node [
         id 639108
@@ -463,7 +463,7 @@ graph [
     node [
         id 721038
         label "Lancer"
-        color "red"
+        color "blue"
     ]
     node [
         id 1185133
@@ -483,12 +483,12 @@ graph [
     node [
         id 2883730
         label "Amaran"
-        color "red"
+        color "blue"
     ]
     node [
         id 327829
         label "Success Will Write Apocalypse Across The Sky"
-        color "red"
+        color "blue"
     ]
     node [
         id 49303
@@ -498,17 +498,17 @@ graph [
     node [
         id 591345
         label "Dawn of Disease"
-        color "red"
+        color "purple"
     ]
     node [
         id 360601
         label "Embodyment"
-        color "red"
+        color "blue"
     ]
     node [
         id 917658
         label "The Amenta"
-        color "red"
+        color "blue"
     ]
     node [
         id 2146459
@@ -518,7 +518,7 @@ graph [
     node [
         id 639133
         label "Wrath Of Killenstein"
-        color "red"
+        color "blue"
     ]
     node [
         id 426143
@@ -543,7 +543,7 @@ graph [
     node [
         id 426147
         label "Human Device"
-        color "red"
+        color "blue"
     ]
     node [
         id 98468
@@ -568,7 +568,7 @@ graph [
     node [
         id 311464
         label "SIC"
-        color "red"
+        color "purple"
     ]
     node [
         id 229545
@@ -593,7 +593,7 @@ graph [
     node [
         id 409779
         label "Atheist"
-        color "red"
+        color "blue"
     ]
     node [
         id 409781
@@ -618,7 +618,7 @@ graph [
     node [
         id 1179835
         label "Bleed From Within"
-        color "red"
+        color "purple"
     ]
     node [
         id 188
@@ -628,7 +628,7 @@ graph [
     node [
         id 592586
         label "The Amity Affliction"
-        color "red"
+        color "purple"
     ]
     node [
         id 131262
@@ -653,12 +653,12 @@ graph [
     node [
         id 426181
         label "Meaning Beside"
-        color "red"
+        color "blue"
     ]
     node [
         id 557254
         label "Accuser"
-        color "red"
+        color "blue"
     ]
     node [
         id 2659636
@@ -683,7 +683,7 @@ graph [
     node [
         id 305869
         label "Astaroth"
-        color "red"
+        color "blue"
     ]
     node [
         id 185720
@@ -698,17 +698,17 @@ graph [
     node [
         id 82139
         label "Hoods"
-        color "red"
+        color "purple"
     ]
     node [
         id 426204
         label "Evil Not Alone"
-        color "red"
+        color "blue"
     ]
     node [
         id 1742202
         label "Tourniquet"
-        color "red"
+        color "blue"
     ]
     node [
         id 147678
@@ -723,12 +723,12 @@ graph [
     node [
         id 557281
         label "In Arkadia"
-        color "red"
+        color "blue"
     ]
     node [
         id 876582
         label "Outrage"
-        color "red"
+        color "purple"
     ]
     node [
         id 426214
@@ -768,7 +768,7 @@ graph [
     node [
         id 1196272
         label "Admiral Angry"
-        color "red"
+        color "blue"
     ]
     node [
         id 49393
@@ -783,7 +783,7 @@ graph [
     node [
         id 1116002
         label "Torben Enevoldsen"
-        color "red"
+        color "purple"
     ]
     node [
         id 969477
@@ -798,7 +798,7 @@ graph [
     node [
         id 4735222
         label "Sunrise"
-        color "red"
+        color "blue"
     ]
     node [
         id 750160
@@ -818,7 +818,7 @@ graph [
     node [
         id 1097981
         label "Aeterna Hystoria"
-        color "red"
+        color "blue"
     ]
     node [
         id 33022
@@ -828,17 +828,17 @@ graph [
     node [
         id 764629
         label "Carcer City"
-        color "red"
+        color "blue"
     ]
     node [
         id 2621696
         label "Oak Pantheon"
-        color "red"
+        color "blue"
     ]
     node [
         id 308608
         label "Rotting Christ"
-        color "red"
+        color "blue"
     ]
     node [
         id 258
@@ -863,12 +863,12 @@ graph [
     node [
         id 213255
         label "Чёрный кофе"
-        color "red"
+        color "blue"
     ]
     node [
         id 213256
         label "Шмели"
-        color "red"
+        color "purple"
     ]
     node [
         id 213257
@@ -898,7 +898,7 @@ graph [
     node [
         id 393489
         label "Shok Paris"
-        color "red"
+        color "blue"
     ]
     node [
         id 1627523
@@ -923,12 +923,12 @@ graph [
     node [
         id 279
         label "Cinderella"
-        color "red"
+        color "purple"
     ]
     node [
         id 162042
         label "Dodsferd"
-        color "red"
+        color "blue"
     ]
     node [
         id 49434
@@ -953,17 +953,17 @@ graph [
     node [
         id 540959
         label "Stanza"
-        color "red"
+        color "blue"
     ]
     node [
         id 3147550
         label "Make Them Suffer"
-        color "red"
+        color "purple"
     ]
     node [
         id 1253424
         label "Hobbs' Angel of Death"
-        color "red"
+        color "blue"
     ]
     node [
         id 426274
@@ -978,7 +978,7 @@ graph [
     node [
         id 409894
         label "Chords of Chaos"
-        color "red"
+        color "purple"
     ]
     node [
         id 409896
@@ -993,7 +993,7 @@ graph [
     node [
         id 298
         label "Chris Thompson"
-        color "red"
+        color "purple"
     ]
     node [
         id 426284
@@ -1003,17 +1003,17 @@ graph [
     node [
         id 360751
         label "Suicide Silence"
-        color "red"
+        color "purple"
     ]
     node [
         id 1153880
         label "In Exile"
-        color "red"
+        color "purple"
     ]
     node [
         id 917809
         label "Sadistik Exekution"
-        color "red"
+        color "blue"
     ]
     node [
         id 426291
@@ -1028,17 +1028,17 @@ graph [
     node [
         id 1786165
         label "Lefutray"
-        color "red"
+        color "blue"
     ]
     node [
         id 38281
         label "Entwine"
-        color "red"
+        color "purple"
     ]
     node [
         id 98616
         label "Pierluigi Ferrantini"
-        color "red"
+        color "blue"
     ]
     node [
         id 313
@@ -1048,7 +1048,7 @@ graph [
     node [
         id 147771
         label "Scribe"
-        color "red"
+        color "purple"
     ]
     node [
         id 1376572
@@ -1058,12 +1058,12 @@ graph [
     node [
         id 1611146
         label "Deserted Fear"
-        color "red"
+        color "purple"
     ]
     node [
         id 557374
         label "Emotion"
-        color "red"
+        color "blue"
     ]
     node [
         id 1308821
@@ -1083,12 +1083,12 @@ graph [
     node [
         id 778532
         label "Pino Scotto"
-        color "red"
+        color "purple"
     ]
     node [
         id 573769
         label "Aggressor"
-        color "red"
+        color "blue"
     ]
     node [
         id 331
@@ -1108,7 +1108,7 @@ graph [
     node [
         id 1777720
         label "Tainted"
-        color "red"
+        color "blue"
     ]
     node [
         id 82258
@@ -1143,12 +1143,12 @@ graph [
     node [
         id 147802
         label "Ade"
-        color "red"
+        color "purple"
     ]
     node [
         id 619919
         label "Kunamaka"
-        color "red"
+        color "blue"
     ]
     node [
         id 349
@@ -1178,7 +1178,7 @@ graph [
     node [
         id 292241
         label "Legion Of The Damned"
-        color "red"
+        color "purple"
     ]
     node [
         id 360
@@ -1203,7 +1203,7 @@ graph [
     node [
         id 1216622
         label "Lumsk"
-        color "red"
+        color "purple"
     ]
     node [
         id 876174
@@ -1228,7 +1228,7 @@ graph [
     node [
         id 1180018
         label "Immaculate"
-        color "red"
+        color "blue"
     ]
     node [
         id 1114484
@@ -1258,7 +1258,7 @@ graph [
     node [
         id 1212797
         label "Transcending Bizarre?"
-        color "red"
+        color "blue"
     ]
     node [
         id 377214
@@ -1273,12 +1273,12 @@ graph [
     node [
         id 2785665
         label "Angtoria"
-        color "red"
+        color "blue"
     ]
     node [
         id 1081730
         label "Nasty tendency"
-        color "red"
+        color "blue"
     ]
     node [
         id 10987
@@ -1288,12 +1288,12 @@ graph [
     node [
         id 1474948
         label "Athlantis"
-        color "red"
+        color "blue"
     ]
     node [
         id 1474949
         label "Boil"
-        color "red"
+        color "blue"
     ]
     node [
         id 1474951
@@ -1303,12 +1303,12 @@ graph [
     node [
         id 1098120
         label "Sister"
-        color "red"
+        color "blue"
     ]
     node [
         id 82313
         label "Klank"
-        color "red"
+        color "purple"
     ]
     node [
         id 2457994
@@ -1323,7 +1323,7 @@ graph [
     node [
         id 1425805
         label "Anaka"
-        color "red"
+        color "blue"
     ]
     node [
         id 2482334
@@ -1383,12 +1383,12 @@ graph [
     node [
         id 2621858
         label "Maybrick"
-        color "red"
+        color "purple"
     ]
     node [
         id 2209179
         label "Lanewin"
-        color "red"
+        color "blue"
     ]
     node [
         id 278252
@@ -1398,17 +1398,17 @@ graph [
     node [
         id 121675
         label "Shai Hulud"
-        color "red"
+        color "blue"
     ]
     node [
         id 8263
         label "Knorkator"
-        color "red"
+        color "purple"
     ]
     node [
         id 1127697
         label "King Lizard"
-        color "red"
+        color "blue"
     ]
     node [
         id 432
@@ -1418,7 +1418,7 @@ graph [
     node [
         id 1327539
         label "Farcry"
-        color "red"
+        color "purple"
     ]
     node [
         id 436
@@ -1428,7 +1428,7 @@ graph [
     node [
         id 377270
         label "Spheric Universe Experience"
-        color "red"
+        color "blue"
     ]
     node [
         id 1982903
@@ -1448,7 +1448,7 @@ graph [
     node [
         id 2425274
         label "Siren's Legacy"
-        color "red"
+        color "blue"
     ]
     node [
         id 3916220
@@ -1463,12 +1463,12 @@ graph [
     node [
         id 1507775
         label "The Circle Ends Here"
-        color "red"
+        color "blue"
     ]
     node [
         id 2245058
         label "Explode"
-        color "red"
+        color "blue"
     ]
     node [
         id 1884611
@@ -1483,7 +1483,7 @@ graph [
     node [
         id 289710
         label "Sinamore"
-        color "red"
+        color "purple"
     ]
     node [
         id 2408904
@@ -1493,7 +1493,7 @@ graph [
     node [
         id 753740
         label "Confession"
-        color "red"
+        color "blue"
     ]
     node [
         id 4686283
@@ -1508,7 +1508,7 @@ graph [
     node [
         id 229838
         label "Bobaflex"
-        color "red"
+        color "blue"
     ]
     node [
         id 2392527
@@ -1553,7 +1553,7 @@ graph [
     node [
         id 1368143
         label "Black Funeral"
-        color "red"
+        color "blue"
     ]
     node [
         id 3768796
@@ -1573,7 +1573,7 @@ graph [
     node [
         id 315898
         label "OGRE"
-        color "red"
+        color "blue"
     ]
     node [
         id 1581609
@@ -1593,7 +1593,7 @@ graph [
     node [
         id 1084156
         label "Mutilator"
-        color "red"
+        color "blue"
     ]
     node [
         id 2151847
@@ -1623,7 +1623,7 @@ graph [
     node [
         id 335539
         label "Nox Aurea"
-        color "red"
+        color "blue"
     ]
     node [
         id 229879
@@ -1633,7 +1633,7 @@ graph [
     node [
         id 721400
         label "Broken Hope"
-        color "red"
+        color "blue"
     ]
     node [
         id 1714943
@@ -1648,12 +1648,12 @@ graph [
     node [
         id 1511645
         label "Kraptor"
-        color "red"
+        color "blue"
     ]
     node [
         id 2900480
         label "Fei Comodo"
-        color "red"
+        color "blue"
     ]
     node [
         id 11008
@@ -1663,12 +1663,12 @@ graph [
     node [
         id 164354
         label "Ария"
-        color "red"
+        color "blue"
     ]
     node [
         id 2736644
         label "Conquering Dystopia"
-        color "red"
+        color "blue"
     ]
     node [
         id 1245703
@@ -1678,7 +1678,7 @@ graph [
     node [
         id 357804
         label "A Hill To Die Upon"
-        color "red"
+        color "blue"
     ]
     node [
         id 410122
@@ -1693,17 +1693,17 @@ graph [
     node [
         id 1587369
         label "Abominable Putridity"
-        color "red"
+        color "blue"
     ]
     node [
         id 2687501
         label "The Prestige"
-        color "red"
+        color "blue"
     ]
     node [
         id 2163214
         label "Feign"
-        color "red"
+        color "purple"
     ]
     node [
         id 16911
@@ -1753,7 +1753,7 @@ graph [
     node [
         id 2690199
         label "Castillos de Cristal"
-        color "red"
+        color "blue"
     ]
     node [
         id 122970
@@ -1768,7 +1768,7 @@ graph [
     node [
         id 918048
         label "Cloudscape"
-        color "red"
+        color "purple"
     ]
     node [
         id 164385
@@ -1793,7 +1793,7 @@ graph [
     node [
         id 410150
         label "The Poodles"
-        color "red"
+        color "purple"
     ]
     node [
         id 98855
@@ -1813,17 +1813,17 @@ graph [
     node [
         id 950829
         label "Darkness"
-        color "red"
+        color "blue"
     ]
     node [
         id 639535
         label "Obtained Enslavement"
-        color "red"
+        color "blue"
     ]
     node [
         id 1131056
         label "Revocation"
-        color "red"
+        color "blue"
     ]
     node [
         id 1933873
@@ -1838,7 +1838,7 @@ graph [
     node [
         id 3215579
         label "Visigoth"
-        color "red"
+        color "blue"
     ]
     node [
         id 16951
@@ -1858,12 +1858,12 @@ graph [
     node [
         id 56212
         label "Faith No More"
-        color "red"
+        color "purple"
     ]
     node [
         id 197179
         label "Hung"
-        color "red"
+        color "blue"
     ]
     node [
         id 2146876
@@ -1883,7 +1883,7 @@ graph [
     node [
         id 426560
         label "Winds of Plague"
-        color "red"
+        color "blue"
     ]
     node [
         id 319584
@@ -1898,7 +1898,7 @@ graph [
     node [
         id 1873334
         label "Nomore164"
-        color "red"
+        color "blue"
     ]
     node [
         id 164422
@@ -1948,27 +1948,27 @@ graph [
     node [
         id 835684
         label "Geoff Whitehorn"
-        color "red"
+        color "blue"
     ]
     node [
         id 754267
         label "Catharsis"
-        color "red"
+        color "blue"
     ]
     node [
         id 98405
         label "Closer"
-        color "red"
+        color "purple"
     ]
     node [
         id 3283776
         label "Walking Dead On Broadway"
-        color "red"
+        color "purple"
     ]
     node [
         id 1414587
         label "The Sundial"
-        color "red"
+        color "blue"
     ]
     node [
         id 4735592
@@ -1978,7 +1978,7 @@ graph [
     node [
         id 328297
         label "Absurd"
-        color "red"
+        color "blue"
     ]
     node [
         id 1262187
@@ -1988,7 +1988,7 @@ graph [
     node [
         id 1753710
         label "Devastation"
-        color "red"
+        color "blue"
     ]
     node [
         id 311920
@@ -2003,12 +2003,12 @@ graph [
     node [
         id 1098354
         label "Necroart"
-        color "red"
+        color "blue"
     ]
     node [
         id 164467
         label "Periphery"
-        color "red"
+        color "blue"
     ]
     node [
         id 6022
@@ -2018,7 +2018,7 @@ graph [
     node [
         id 1131127
         label "Oblivion Machine"
-        color "red"
+        color "blue"
     ]
     node [
         id 1131128
@@ -2073,7 +2073,7 @@ graph [
     node [
         id 2704008
         label "Fake Idols"
-        color "red"
+        color "blue"
     ]
     node [
         id 1000074
@@ -2113,7 +2113,7 @@ graph [
     node [
         id 2315715
         label "Ivan Mihaljevic & Side Effects"
-        color "red"
+        color "purple"
     ]
     node [
         id 2015892
@@ -2183,12 +2183,12 @@ graph [
     node [
         id 344742
         label "Sabaton"
-        color "red"
+        color "blue"
     ]
     node [
         id 115367
         label "Schweisser"
-        color "red"
+        color "purple"
     ]
     node [
         id 680
@@ -2198,7 +2198,7 @@ graph [
     node [
         id 721577
         label "Fates Warning"
-        color "red"
+        color "purple"
     ]
     node [
         id 325063
@@ -2208,7 +2208,7 @@ graph [
     node [
         id 901804
         label "Analog"
-        color "red"
+        color "blue"
     ]
     node [
         id 27421
@@ -2223,7 +2223,7 @@ graph [
     node [
         id 344179
         label "Spock's Beard"
-        color "red"
+        color "purple"
     ]
     node [
         id 692
@@ -2233,7 +2233,7 @@ graph [
     node [
         id 1753785
         label "A BloodBath In Boston"
-        color "red"
+        color "blue"
     ]
     node [
         id 1802939
@@ -2248,7 +2248,7 @@ graph [
     node [
         id 589941
         label "Sadist"
-        color "red"
+        color "purple"
     ]
     node [
         id 704
@@ -2263,7 +2263,7 @@ graph [
     node [
         id 492231
         label "CONAN"
-        color "red"
+        color "purple"
     ]
     node [
         id 712
@@ -2278,17 +2278,17 @@ graph [
     node [
         id 1999563
         label "The Advent Equation"
-        color "red"
+        color "blue"
     ]
     node [
         id 983756
         label "Ritual carnage"
-        color "red"
+        color "blue"
     ]
     node [
         id 803533
         label "Paria"
-        color "red"
+        color "blue"
     ]
     node [
         id 220432
@@ -2308,7 +2308,7 @@ graph [
     node [
         id 361170
         label "Bloodbath"
-        color "red"
+        color "blue"
     ]
     node [
         id 2108195
@@ -2323,12 +2323,12 @@ graph [
     node [
         id 655224
         label "Dunce"
-        color "red"
+        color "blue"
     ]
     node [
         id 1006046
         label "Megaton"
-        color "red"
+        color "purple"
     ]
     node [
         id 13775
@@ -2338,7 +2338,7 @@ graph [
     node [
         id 3030071
         label "Primer 55"
-        color "red"
+        color "blue"
     ]
     node [
         id 853372
@@ -2373,17 +2373,17 @@ graph [
     node [
         id 1196775
         label "Khold"
-        color "red"
+        color "blue"
     ]
     node [
         id 885480
         label "Mystifier"
-        color "red"
+        color "blue"
     ]
     node [
         id 1950441
         label "Destructor"
-        color "red"
+        color "blue"
     ]
     node [
         id 30162
@@ -2403,7 +2403,7 @@ graph [
     node [
         id 551720
         label "Cold Colours"
-        color "red"
+        color "blue"
     ]
     node [
         id 33522
@@ -2418,7 +2418,7 @@ graph [
     node [
         id 344826
         label "Bench"
-        color "red"
+        color "blue"
     ]
     node [
         id 115451
@@ -2438,7 +2438,7 @@ graph [
     node [
         id 2687742
         label "Mixe1"
-        color "red"
+        color "blue"
     ]
     node [
         id 30165
@@ -2448,7 +2448,7 @@ graph [
     node [
         id 1884928
         label "Lucifugum"
-        color "red"
+        color "blue"
     ]
     node [
         id 770
@@ -2478,7 +2478,7 @@ graph [
     node [
         id 312071
         label "Madder Mortem"
-        color "red"
+        color "blue"
     ]
     node [
         id 625452
@@ -2498,17 +2498,17 @@ graph [
     node [
         id 1229587
         label "Ingested"
-        color "red"
+        color "blue"
     ]
     node [
         id 869140
         label "Kings of Belgium"
-        color "red"
+        color "blue"
     ]
     node [
         id 551726
         label "Adorned Brood"
-        color "red"
+        color "blue"
     ]
     node [
         id 1934102
@@ -2523,7 +2523,7 @@ graph [
     node [
         id 1377050
         label "Dead On"
-        color "red"
+        color "blue"
     ]
     node [
         id 2279397
@@ -2588,7 +2588,7 @@ graph [
     node [
         id 328491
         label "The Burning"
-        color "red"
+        color "blue"
     ]
     node [
         id 117554
@@ -2613,32 +2613,32 @@ graph [
     node [
         id 1180465
         label "Talon"
-        color "red"
+        color "blue"
     ]
     node [
         id 1393461
         label "Cenobites"
-        color "red"
+        color "purple"
     ]
     node [
         id 2736950
         label "Dark Legacy"
-        color "red"
+        color "blue"
     ]
     node [
         id 672567
         label "Persuader"
-        color "red"
+        color "purple"
     ]
     node [
         id 3031864
         label "Iron Reagan"
-        color "red"
+        color "blue"
     ]
     node [
         id 707380
         label "Unisonic"
-        color "red"
+        color "purple"
     ]
     node [
         id 470934
@@ -2653,12 +2653,12 @@ graph [
     node [
         id 1835839
         label "Lagerstein"
-        color "red"
+        color "blue"
     ]
     node [
         id 1213248
         label "Jack Starr's Burning Starr"
-        color "red"
+        color "blue"
     ]
     node [
         id 246593
@@ -2673,7 +2673,7 @@ graph [
     node [
         id 508739
         label "Headshot"
-        color "red"
+        color "purple"
     ]
     node [
         id 1568822
@@ -2693,7 +2693,7 @@ graph [
     node [
         id 426827
         label "Royal Hunt"
-        color "red"
+        color "purple"
     ]
     node [
         id 99148
@@ -2708,7 +2708,7 @@ graph [
     node [
         id 677884
         label "Manic Depression"
-        color "red"
+        color "blue"
     ]
     node [
         id 794765
@@ -2718,7 +2718,7 @@ graph [
     node [
         id 2285400
         label "Braveride"
-        color "red"
+        color "blue"
     ]
     node [
         id 412472
@@ -2733,12 +2733,12 @@ graph [
     node [
         id 648705
         label "Darkest Era"
-        color "red"
+        color "blue"
     ]
     node [
         id 1425550
         label "Xysma"
-        color "red"
+        color "purple"
     ]
     node [
         id 3746617
@@ -2748,12 +2748,12 @@ graph [
     node [
         id 2315748
         label "Death Makes Pretty"
-        color "red"
+        color "blue"
     ]
     node [
         id 1196891
         label "Blood Red Throne"
-        color "red"
+        color "purple"
     ]
     node [
         id 17245
@@ -2763,7 +2763,7 @@ graph [
     node [
         id 2935714
         label "Dimension"
-        color "red"
+        color "blue"
     ]
     node [
         id 17250
@@ -2798,7 +2798,7 @@ graph [
     node [
         id 295787
         label "Spasm"
-        color "red"
+        color "purple"
     ]
     node [
         id 328556
@@ -2823,7 +2823,7 @@ graph [
     node [
         id 426868
         label "Truckfighters"
-        color "red"
+        color "purple"
     ]
     node [
         id 27454
@@ -2833,17 +2833,17 @@ graph [
     node [
         id 426872
         label "UnSun"
-        color "red"
+        color "blue"
     ]
     node [
         id 164729
         label "Of Mice & Men"
-        color "red"
+        color "purple"
     ]
     node [
         id 426874
         label "Acid Drinkers"
-        color "red"
+        color "purple"
     ]
     node [
         id 297791
@@ -2863,7 +2863,7 @@ graph [
     node [
         id 1966974
         label "Huldra"
-        color "red"
+        color "blue"
     ]
     node [
         id 1590143
@@ -2893,17 +2893,17 @@ graph [
     node [
         id 2223753
         label "Abroad Experiments"
-        color "red"
+        color "purple"
     ]
     node [
         id 623499
         label "Valhalla"
-        color "red"
+        color "purple"
     ]
     node [
         id 557965
         label "Hammerforce"
-        color "red"
+        color "blue"
     ]
     node [
         id 426894
@@ -2913,12 +2913,12 @@ graph [
     node [
         id 1278863
         label "Chris Laney"
-        color "red"
+        color "blue"
     ]
     node [
         id 327561
         label "White Lightning"
-        color "red"
+        color "purple"
     ]
     node [
         id 913
@@ -2948,7 +2948,7 @@ graph [
     node [
         id 3064730
         label "Cries Of The Captive"
-        color "red"
+        color "blue"
     ]
     node [
         id 71151
@@ -2958,7 +2958,7 @@ graph [
     node [
         id 705436
         label "Fallen"
-        color "red"
+        color "purple"
     ]
     node [
         id 2363964
@@ -2973,7 +2973,7 @@ graph [
     node [
         id 917659
         label "The Red Shore"
-        color "red"
+        color "blue"
     ]
     node [
         id 932
@@ -2988,17 +2988,17 @@ graph [
     node [
         id 2277765
         label "Confliction"
-        color "red"
+        color "purple"
     ]
     node [
         id 2763511
         label "IO Echo"
-        color "red"
+        color "purple"
     ]
     node [
         id 2605995
         label "Malrun"
-        color "red"
+        color "purple"
     ]
     node [
         id 557996
@@ -3013,12 +3013,12 @@ graph [
     node [
         id 564691
         label "Shamrain"
-        color "red"
+        color "blue"
     ]
     node [
         id 2883741
         label "Triumphator"
-        color "red"
+        color "blue"
     ]
     node [
         id 1917872
@@ -3048,17 +3048,17 @@ graph [
     node [
         id 820151
         label "Degradead"
-        color "red"
+        color "blue"
     ]
     node [
         id 410552
         label "Melechesh"
-        color "red"
+        color "purple"
     ]
     node [
         id 230329
         label "Chthonic"
-        color "red"
+        color "blue"
     ]
     node [
         id 1630367
@@ -3068,12 +3068,12 @@ graph [
     node [
         id 1819581
         label "Lance King"
-        color "red"
+        color "blue"
     ]
     node [
         id 1639358
         label "Suffokate"
-        color "red"
+        color "blue"
     ]
     node [
         id 333372
@@ -3103,12 +3103,12 @@ graph [
     node [
         id 1639366
         label "Belay My Last"
-        color "red"
+        color "blue"
     ]
     node [
         id 1878958
         label "Admonish"
-        color "red"
+        color "blue"
     ]
     node [
         id 3916744
@@ -3118,7 +3118,7 @@ graph [
     node [
         id 1639369
         label "Burning The Masses"
-        color "red"
+        color "blue"
     ]
     node [
         id 970
@@ -3128,22 +3128,22 @@ graph [
     node [
         id 2163659
         label "Uriah"
-        color "red"
+        color "blue"
     ]
     node [
         id 1639374
         label "Murder Death Kill"
-        color "red"
+        color "blue"
     ]
     node [
         id 1639377
         label "King Conquer"
-        color "red"
+        color "blue"
     ]
     node [
         id 3261394
         label "Charred Walls of the Damned"
-        color "red"
+        color "purple"
     ]
     node [
         id 1933475
@@ -3163,7 +3163,7 @@ graph [
     node [
         id 292553
         label "Helltrain"
-        color "red"
+        color "purple"
     ]
     node [
         id 2214735
@@ -3173,12 +3173,12 @@ graph [
     node [
         id 426973
         label "Insomnium"
-        color "red"
+        color "blue"
     ]
     node [
         id 33758
         label "Kiuas"
-        color "red"
+        color "blue"
     ]
     node [
         id 115679
@@ -3193,7 +3193,7 @@ graph [
     node [
         id 2544765
         label "Frozen Ocean"
-        color "red"
+        color "blue"
     ]
     node [
         id 417958
@@ -3208,7 +3208,7 @@ graph [
     node [
         id 345063
         label "Coronatus"
-        color "red"
+        color "blue"
     ]
     node [
         id 50152
@@ -3218,7 +3218,7 @@ graph [
     node [
         id 1786859
         label "Abinchova"
-        color "red"
+        color "blue"
     ]
     node [
         id 132080
@@ -3233,7 +3233,7 @@ graph [
     node [
         id 328690
         label "Sargeist"
-        color "red"
+        color "blue"
     ]
     node [
         id 125779
@@ -3243,7 +3243,7 @@ graph [
     node [
         id 1721332
         label "Hevilan"
-        color "red"
+        color "blue"
     ]
     node [
         id 115701
@@ -3263,7 +3263,7 @@ graph [
     node [
         id 345080
         label "Withering Surface"
-        color "red"
+        color "blue"
     ]
     node [
         id 1017
@@ -3293,7 +3293,7 @@ graph [
     node [
         id 1229828
         label "Ice Nine Kills"
-        color "red"
+        color "blue"
     ]
     node [
         id 50181
@@ -3308,17 +3308,17 @@ graph [
     node [
         id 1246217
         label "Sed lex"
-        color "red"
+        color "blue"
     ]
     node [
         id 1295370
         label "Obereg"
-        color "red"
+        color "blue"
     ]
     node [
         id 82961
         label "April Wine"
-        color "red"
+        color "purple"
     ]
     node [
         id 246803
@@ -3338,12 +3338,12 @@ graph [
     node [
         id 966776
         label "Eigensinn"
-        color "red"
+        color "purple"
     ]
     node [
         id 345115
         label "Hell Militia"
-        color "red"
+        color "blue"
     ]
     node [
         id 82972
@@ -3353,12 +3353,12 @@ graph [
     node [
         id 3057482
         label "Brimstone Coven"
-        color "red"
+        color "purple"
     ]
     node [
         id 2751865
         label "Wrathful Plague"
-        color "red"
+        color "blue"
     ]
     node [
         id 3277856
@@ -3368,7 +3368,7 @@ graph [
     node [
         id 25131
         label "Brian Auger"
-        color "red"
+        color "blue"
     ]
     node [
         id 82978
@@ -3378,7 +3378,7 @@ graph [
     node [
         id 2606117
         label "Thalarion"
-        color "red"
+        color "blue"
     ]
     node [
         id 1000486
@@ -3393,7 +3393,7 @@ graph [
     node [
         id 4762818
         label "Blacksmoker"
-        color "red"
+        color "blue"
     ]
     node [
         id 1950763
@@ -3423,12 +3423,12 @@ graph [
     node [
         id 1892531
         label "Disforia"
-        color "red"
+        color "blue"
     ]
     node [
         id 214068
         label "Frank Diez"
-        color "red"
+        color "blue"
     ]
     node [
         id 99381
@@ -3468,7 +3468,7 @@ graph [
     node [
         id 1393730
         label "Fen"
-        color "red"
+        color "purple"
     ]
     node [
         id 50243
@@ -3513,7 +3513,7 @@ graph [
     node [
         id 1719982
         label "Synastry"
-        color "red"
+        color "blue"
     ]
     node [
         id 2262093
@@ -3523,12 +3523,12 @@ graph [
     node [
         id 640078
         label "Judas Iscariot"
-        color "red"
+        color "purple"
     ]
     node [
         id 754768
         label "Exiles"
-        color "red"
+        color "blue"
     ]
     node [
         id 4097105
@@ -3543,17 +3543,17 @@ graph [
     node [
         id 2032724
         label "Ghost of War"
-        color "red"
+        color "blue"
     ]
     node [
         id 1197141
         label "Serpent"
-        color "red"
+        color "purple"
     ]
     node [
         id 1197142
         label "Carbonized"
-        color "red"
+        color "blue"
     ]
     node [
         id 1111
@@ -3578,7 +3578,7 @@ graph [
     node [
         id 2327644
         label "Masquerage"
-        color "red"
+        color "blue"
     ]
     node [
         id 2184233
@@ -3608,12 +3608,12 @@ graph [
     node [
         id 853096
         label "Blasphemy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1439238
         label "Viking"
-        color "red"
+        color "blue"
     ]
     node [
         id 50284
@@ -3628,12 +3628,12 @@ graph [
     node [
         id 417981
         label "Coppelius"
-        color "red"
+        color "blue"
     ]
     node [
         id 115825
         label "Lofofora"
-        color "red"
+        color "purple"
     ]
     node [
         id 83058
@@ -3663,7 +3663,7 @@ graph [
     node [
         id 3998841
         label "Babymetal"
-        color "red"
+        color "purple"
     ]
     node [
         id 645987
@@ -3718,7 +3718,7 @@ graph [
     node [
         id 427154
         label "Старый Город"
-        color "red"
+        color "blue"
     ]
     node [
         id 2072771
@@ -3728,12 +3728,12 @@ graph [
     node [
         id 1046831
         label "Smash Into Pieces"
-        color "red"
+        color "purple"
     ]
     node [
         id 427159
         label "Хвангур"
-        color "red"
+        color "blue"
     ]
     node [
         id 673006
@@ -3743,7 +3743,7 @@ graph [
     node [
         id 139460
         label "Reanimator"
-        color "red"
+        color "purple"
     ]
     node [
         id 115866
@@ -3753,7 +3753,7 @@ graph [
     node [
         id 427163
         label "Symfomania"
-        color "red"
+        color "blue"
     ]
     node [
         id 296093
@@ -3763,12 +3763,12 @@ graph [
     node [
         id 1000607
         label "Inanimate Existence"
-        color "red"
+        color "blue"
     ]
     node [
         id 2933920
         label "Those Who Fear"
-        color "red"
+        color "purple"
     ]
     node [
         id 607393
@@ -3778,7 +3778,7 @@ graph [
     node [
         id 1213603
         label "Shaolin Death Squad"
-        color "red"
+        color "purple"
     ]
     node [
         id 1950884
@@ -3788,7 +3788,7 @@ graph [
     node [
         id 426182
         label "Non Immemor Mei"
-        color "red"
+        color "purple"
     ]
     node [
         id 1950886
@@ -3798,7 +3798,7 @@ graph [
     node [
         id 1557671
         label "Devast"
-        color "red"
+        color "blue"
     ]
     node [
         id 4080809
@@ -3838,7 +3838,7 @@ graph [
     node [
         id 296116
         label "Southern Cross"
-        color "red"
+        color "purple"
     ]
     node [
         id 656566
@@ -3853,7 +3853,7 @@ graph [
     node [
         id 2540729
         label "Crown Of Glory"
-        color "red"
+        color "blue"
     ]
     node [
         id 1590458
@@ -3863,7 +3863,7 @@ graph [
     node [
         id 83131
         label "Hawkwind"
-        color "red"
+        color "purple"
     ]
     node [
         id 83132
@@ -3893,7 +3893,7 @@ graph [
     node [
         id 426187
         label "БеZумные Усилия"
-        color "red"
+        color "blue"
     ]
     node [
         id 1158006
@@ -3903,12 +3903,12 @@ graph [
     node [
         id 885959
         label "Blynd"
-        color "red"
+        color "blue"
     ]
     node [
         id 165065
         label "Warpath"
-        color "red"
+        color "purple"
     ]
     node [
         id 359568
@@ -3933,12 +3933,12 @@ graph [
     node [
         id 427214
         label "Lizzy Borden"
-        color "red"
+        color "purple"
     ]
     node [
         id 642213
         label "Carrier Flux"
-        color "red"
+        color "blue"
     ]
     node [
         id 345296
@@ -3953,7 +3953,7 @@ graph [
     node [
         id 2606290
         label "Fort Hope"
-        color "red"
+        color "purple"
     ]
     node [
         id 71203
@@ -3963,7 +3963,7 @@ graph [
     node [
         id 427220
         label "Rigor Mortis"
-        color "red"
+        color "blue"
     ]
     node [
         id 296149
@@ -3978,12 +3978,12 @@ graph [
     node [
         id 2196696
         label "Before You Fall"
-        color "red"
+        color "blue"
     ]
     node [
         id 1280550
         label "Ninth Circle"
-        color "red"
+        color "purple"
     ]
     node [
         id 760559
@@ -4003,7 +4003,7 @@ graph [
     node [
         id 83172
         label "Great White"
-        color "red"
+        color "purple"
     ]
     node [
         id 2045478
@@ -4013,7 +4013,7 @@ graph [
     node [
         id 1148134
         label "Addiction for destruction"
-        color "red"
+        color "blue"
     ]
     node [
         id 214247
@@ -4023,7 +4023,7 @@ graph [
     node [
         id 1641340
         label "Incredible' Me"
-        color "red"
+        color "blue"
     ]
     node [
         id 2561575
@@ -4058,7 +4058,7 @@ graph [
     node [
         id 2735890
         label "Orisonata"
-        color "red"
+        color "blue"
     ]
     node [
         id 38441
@@ -4093,17 +4093,17 @@ graph [
     node [
         id 352469
         label "Stream Of Passion"
-        color "red"
+        color "purple"
     ]
     node [
         id 17664
         label "Alice Cooper"
-        color "red"
+        color "purple"
     ]
     node [
         id 516147
         label "Human Decay"
-        color "red"
+        color "blue"
     ]
     node [
         id 115970
@@ -4123,7 +4123,7 @@ graph [
     node [
         id 1049862
         label "House of Wolves"
-        color "red"
+        color "blue"
     ]
     node [
         id 3998983
@@ -4133,7 +4133,7 @@ graph [
     node [
         id 195355
         label "Ranger"
-        color "red"
+        color "purple"
     ]
     node [
         id 136748
@@ -4148,7 +4148,7 @@ graph [
     node [
         id 2606348
         label "Exumer"
-        color "red"
+        color "blue"
     ]
     node [
         id 2366704
@@ -4178,7 +4178,7 @@ graph [
     node [
         id 509202
         label "Hämatom"
-        color "red"
+        color "purple"
     ]
     node [
         id 50451
@@ -4193,7 +4193,7 @@ graph [
     node [
         id 2262294
         label "Wardrum"
-        color "red"
+        color "blue"
     ]
     node [
         id 1407601
@@ -4203,12 +4203,12 @@ graph [
     node [
         id 1983768
         label "Screaming Savior"
-        color "red"
+        color "blue"
     ]
     node [
         id 347012
         label "Severe Torture"
-        color "red"
+        color "purple"
     ]
     node [
         id 3687707
@@ -4238,12 +4238,12 @@ graph [
     node [
         id 775048
         label "Lynch."
-        color "red"
+        color "purple"
     ]
     node [
         id 2377020
         label "Sioux 66"
-        color "red"
+        color "blue"
     ]
     node [
         id 509225
@@ -4293,7 +4293,7 @@ graph [
     node [
         id 1606965
         label "Teodor Tuff"
-        color "red"
+        color "blue"
     ]
     node [
         id 50486
@@ -4308,7 +4308,7 @@ graph [
     node [
         id 408127
         label "Cinerary"
-        color "red"
+        color "blue"
     ]
     node [
         id 247098
@@ -4328,7 +4328,7 @@ graph [
     node [
         id 71221
         label "American Heritage"
-        color "red"
+        color "purple"
     ]
     node [
         id 2180416
@@ -4348,32 +4348,32 @@ graph [
     node [
         id 1606979
         label "Tallboy"
-        color "red"
+        color "purple"
     ]
     node [
         id 804164
         label "Maxxwell"
-        color "red"
+        color "purple"
     ]
     node [
         id 165189
         label "Silent Civilian"
-        color "red"
+        color "blue"
     ]
     node [
         id 34118
         label "Finntroll"
-        color "red"
+        color "blue"
     ]
     node [
         id 1000775
         label "Edge of Paradise"
-        color "red"
+        color "blue"
     ]
     node [
         id 673097
         label "Nasum"
-        color "red"
+        color "blue"
     ]
     node [
         id 509258
@@ -4393,7 +4393,7 @@ graph [
     node [
         id 361807
         label "Frankenbok"
-        color "red"
+        color "purple"
     ]
     node [
         id 1279312
@@ -4408,7 +4408,7 @@ graph [
     node [
         id 1475926
         label "Funhouse"
-        color "red"
+        color "purple"
     ]
     node [
         id 247127
@@ -4428,17 +4428,17 @@ graph [
     node [
         id 673114
         label "Rob Johnson"
-        color "red"
+        color "purple"
     ]
     node [
         id 2180443
         label "Odenwrath"
-        color "red"
+        color "blue"
     ]
     node [
         id 1508704
         label "Ken Mode"
-        color "red"
+        color "blue"
     ]
     node [
         id 3179873
@@ -4448,7 +4448,7 @@ graph [
     node [
         id 230756
         label "Thy Serpent"
-        color "red"
+        color "blue"
     ]
     node [
         id 1067171
@@ -4458,17 +4458,17 @@ graph [
     node [
         id 165222
         label "Nevermore"
-        color "red"
+        color "purple"
     ]
     node [
         id 165223
         label "Warrel Dane"
-        color "red"
+        color "blue"
     ]
     node [
         id 165224
         label "Jeff Loomis"
-        color "red"
+        color "blue"
     ]
     node [
         id 165225
@@ -4498,7 +4498,7 @@ graph [
     node [
         id 1508719
         label "Anciients"
-        color "red"
+        color "blue"
     ]
     node [
         id 886128
@@ -4508,7 +4508,7 @@ graph [
     node [
         id 71252
         label "Widow"
-        color "red"
+        color "blue"
     ]
     node [
         id 968051
@@ -4518,7 +4518,7 @@ graph [
     node [
         id 312692
         label "The Murder of My Sweet"
-        color "red"
+        color "purple"
     ]
     node [
         id 1324606
@@ -4528,7 +4528,7 @@ graph [
     node [
         id 105886
         label "Otep"
-        color "red"
+        color "blue"
     ]
     node [
         id 509303
@@ -4583,7 +4583,7 @@ graph [
     node [
         id 2180491
         label "Yellowtooth"
-        color "red"
+        color "blue"
     ]
     node [
         id 13890
@@ -4603,7 +4603,7 @@ graph [
     node [
         id 2164113
         label "Superior"
-        color "red"
+        color "blue"
     ]
     node [
         id 1754514
@@ -4618,7 +4618,7 @@ graph [
     node [
         id 893166
         label "Mayan"
-        color "red"
+        color "purple"
     ]
     node [
         id 2655638
@@ -4633,17 +4633,17 @@ graph [
     node [
         id 2639256
         label "Cemetary 1213"
-        color "red"
+        color "blue"
     ]
     node [
         id 607642
         label "Harms Way"
-        color "red"
+        color "blue"
     ]
     node [
         id 1638639
         label "Psycho Choke"
-        color "red"
+        color "blue"
     ]
     node [
         id 2655645
@@ -4658,17 +4658,17 @@ graph [
     node [
         id 2557344
         label "Molchanoff"
-        color "red"
+        color "blue"
     ]
     node [
         id 303344
         label "The CNK"
-        color "red"
+        color "blue"
     ]
     node [
         id 1442
         label "Doro Pesch"
-        color "red"
+        color "purple"
     ]
     node [
         id 4816296
@@ -4698,12 +4698,12 @@ graph [
     node [
         id 1901995
         label "Beyond Threshold"
-        color "red"
+        color "blue"
     ]
     node [
         id 1453
         label "Warlock"
-        color "red"
+        color "blue"
     ]
     node [
         id 591279
@@ -4723,7 +4723,7 @@ graph [
     node [
         id 1328563
         label "Embellish"
-        color "red"
+        color "blue"
     ]
     node [
         id 1461
@@ -4733,7 +4733,7 @@ graph [
     node [
         id 2273418
         label "Ordinary Mile"
-        color "red"
+        color "purple"
     ]
     node [
         id 902906
@@ -4743,7 +4743,7 @@ graph [
     node [
         id 116153
         label "The Brave"
-        color "red"
+        color "blue"
     ]
     node [
         id 1574330
@@ -4753,7 +4753,7 @@ graph [
     node [
         id 116155
         label "Terra"
-        color "red"
+        color "purple"
     ]
     node [
         id 359531
@@ -4763,7 +4763,7 @@ graph [
     node [
         id 38308
         label "Deathlike Silence"
-        color "red"
+        color "purple"
     ]
     node [
         id 17855
@@ -4793,12 +4793,12 @@ graph [
     node [
         id 230856
         label "Silentium"
-        color "red"
+        color "blue"
     ]
     node [
         id 289193
         label "Hardline"
-        color "red"
+        color "purple"
     ]
     node [
         id 1899873
@@ -4808,7 +4808,7 @@ graph [
     node [
         id 2647921
         label "Solamnia"
-        color "red"
+        color "blue"
     ]
     node [
         id 296397
@@ -4823,12 +4823,12 @@ graph [
     node [
         id 1000911
         label "Hideous Divinity"
-        color "red"
+        color "blue"
     ]
     node [
         id 329168
         label "Vision Divine"
-        color "red"
+        color "purple"
     ]
     node [
         id 1490
@@ -4838,7 +4838,7 @@ graph [
     node [
         id 2186263
         label "Bare Infinity"
-        color "red"
+        color "blue"
     ]
     node [
         id 411092
@@ -4848,7 +4848,7 @@ graph [
     node [
         id 2016726
         label "Eyes of Noctum"
-        color "red"
+        color "blue"
     ]
     node [
         id 853465
@@ -4858,12 +4858,12 @@ graph [
     node [
         id 1574363
         label "Iniquity"
-        color "red"
+        color "blue"
     ]
     node [
         id 1459676
         label "Impetigo"
-        color "red"
+        color "blue"
     ]
     node [
         id 50653
@@ -4873,7 +4873,7 @@ graph [
     node [
         id 624094
         label "Guitar Metal Heroes"
-        color "red"
+        color "blue"
     ]
     node [
         id 2934241
@@ -4888,7 +4888,7 @@ graph [
     node [
         id 1610212
         label "Hellbringer"
-        color "red"
+        color "purple"
     ]
     node [
         id 40422
@@ -4898,7 +4898,7 @@ graph [
     node [
         id 1988178
         label "The Bad Light"
-        color "red"
+        color "purple"
     ]
     node [
         id 1754606
@@ -4928,7 +4928,7 @@ graph [
     node [
         id 677270
         label "Gory Blister"
-        color "red"
+        color "blue"
     ]
     node [
         id 1525
@@ -4938,12 +4938,12 @@ graph [
     node [
         id 280054
         label "Visitor"
-        color "red"
+        color "blue"
     ]
     node [
         id 2606583
         label "The New Low"
-        color "red"
+        color "purple"
     ]
     node [
         id 132600
@@ -4958,7 +4958,7 @@ graph [
     node [
         id 1260598
         label "Nostra Morte"
-        color "red"
+        color "blue"
     ]
     node [
         id 296443
@@ -4968,7 +4968,7 @@ graph [
     node [
         id 656893
         label "Cheech"
-        color "red"
+        color "blue"
     ]
     node [
         id 374357
@@ -4993,7 +4993,7 @@ graph [
     node [
         id 591369
         label "Nachtblut"
-        color "red"
+        color "purple"
     ]
     node [
         id 1279498
@@ -5003,17 +5003,17 @@ graph [
     node [
         id 2471511
         label "Speedfinger"
-        color "red"
+        color "blue"
     ]
     node [
         id 401666
         label "Circle Of Dead Children"
-        color "red"
+        color "blue"
     ]
     node [
         id 427535
         label "Brymir"
-        color "red"
+        color "blue"
     ]
     node [
         id 1552
@@ -5023,22 +5023,22 @@ graph [
     node [
         id 312849
         label "Anaal Nathrakh"
-        color "red"
+        color "blue"
     ]
     node [
         id 312850
         label "Deströyer 666"
-        color "red"
+        color "blue"
     ]
     node [
         id 312851
         label "Green Carnation"
-        color "red"
+        color "purple"
     ]
     node [
         id 312852
         label "Tsjuder"
-        color "red"
+        color "purple"
     ]
     node [
         id 84910
@@ -5058,17 +5058,17 @@ graph [
     node [
         id 1787416
         label "Cole Rolland"
-        color "red"
+        color "blue"
     ]
     node [
         id 247323
         label "Amberian Dawn"
-        color "red"
+        color "purple"
     ]
     node [
         id 2606620
         label "Numbnuts"
-        color "red"
+        color "blue"
     ]
     node [
         id 1164829
@@ -5093,7 +5093,7 @@ graph [
     node [
         id 296482
         label "Santa Cruz"
-        color "red"
+        color "purple"
     ]
     node [
         id 17955
@@ -5118,17 +5118,17 @@ graph [
     node [
         id 427559
         label "Orange Goblin"
-        color "red"
+        color "purple"
     ]
     node [
         id 4392488
         label "Кувалда"
-        color "red"
+        color "purple"
     ]
     node [
         id 2606633
         label "Aloop"
-        color "red"
+        color "blue"
     ]
     node [
         id 853546
@@ -5148,7 +5148,7 @@ graph [
     node [
         id 2419030
         label "Doyle Airence"
-        color "red"
+        color "blue"
     ]
     node [
         id 362032
@@ -5163,12 +5163,12 @@ graph [
     node [
         id 2639410
         label "Fúria Louca"
-        color "red"
+        color "blue"
     ]
     node [
         id 1447518
         label "Unsteadycore"
-        color "red"
+        color "blue"
     ]
     node [
         id 362040
@@ -5188,7 +5188,7 @@ graph [
     node [
         id 2180667
         label "Thrown to the Sun"
-        color "red"
+        color "blue"
     ]
     node [
         id 545618
@@ -5203,7 +5203,7 @@ graph [
     node [
         id 1214015
         label "Interment"
-        color "red"
+        color "blue"
     ]
     node [
         id 1349216
@@ -5213,7 +5213,7 @@ graph [
     node [
         id 1282131
         label "Almost Dead"
-        color "red"
+        color "blue"
     ]
     node [
         id 48129
@@ -5223,7 +5223,7 @@ graph [
     node [
         id 1018806
         label "Ink City"
-        color "red"
+        color "blue"
     ]
     node [
         id 50758
@@ -5233,17 +5233,17 @@ graph [
     node [
         id 296520
         label "Dalriada"
-        color "red"
+        color "blue"
     ]
     node [
         id 3327561
         label "Engel"
-        color "red"
+        color "blue"
     ]
     node [
         id 4760654
         label "Damned Pilots"
-        color "red"
+        color "blue"
     ]
     node [
         id 22114
@@ -5258,12 +5258,12 @@ graph [
     node [
         id 936888
         label "Division Alpha"
-        color "red"
+        color "purple"
     ]
     node [
         id 1164883
         label "Clawhammer"
-        color "red"
+        color "purple"
     ]
     node [
         id 3973390
@@ -5273,12 +5273,12 @@ graph [
     node [
         id 1214039
         label "Diskreet"
-        color "red"
+        color "blue"
     ]
     node [
         id 640601
         label "Even Vast"
-        color "red"
+        color "blue"
     ]
     node [
         id 1738330
@@ -5313,7 +5313,7 @@ graph [
     node [
         id 2446950
         label "Make Believe Me"
-        color "red"
+        color "blue"
     ]
     node [
         id 1164902
@@ -5373,12 +5373,12 @@ graph [
     node [
         id 296569
         label "Viper"
-        color "red"
+        color "blue"
     ]
     node [
         id 2453461
         label "Hail of Bullets"
-        color "red"
+        color "blue"
     ]
     node [
         id 50811
@@ -5388,7 +5388,7 @@ graph [
     node [
         id 1885821
         label "Tomohiro Nishimura"
-        color "red"
+        color "blue"
     ]
     node [
         id 2175223
@@ -5408,12 +5408,12 @@ graph [
     node [
         id 296579
         label "Sonic Syndicate"
-        color "red"
+        color "purple"
     ]
     node [
         id 296581
         label "Sylosis"
-        color "red"
+        color "blue"
     ]
     node [
         id 296582
@@ -5423,7 +5423,7 @@ graph [
     node [
         id 1427079
         label "Lady Fuel"
-        color "red"
+        color "blue"
     ]
     node [
         id 1721993
@@ -5483,7 +5483,7 @@ graph [
     node [
         id 196889
         label "Brand New Sin"
-        color "red"
+        color "purple"
     ]
     node [
         id 18073
@@ -5498,7 +5498,7 @@ graph [
     node [
         id 2061935
         label "Deadlight"
-        color "red"
+        color "blue"
     ]
     node [
         id 50844
@@ -5508,12 +5508,12 @@ graph [
     node [
         id 296605
         label "Threshold"
-        color "red"
+        color "blue"
     ]
     node [
         id 296606
         label "Communic"
-        color "red"
+        color "purple"
     ]
     node [
         id 3013
@@ -5523,7 +5523,7 @@ graph [
     node [
         id 362144
         label "Time Of Orchids"
-        color "red"
+        color "purple"
     ]
     node [
         id 2098849
@@ -5538,7 +5538,7 @@ graph [
     node [
         id 902822
         label "Kadenzza"
-        color "red"
+        color "blue"
     ]
     node [
         id 1935016
@@ -5553,17 +5553,17 @@ graph [
     node [
         id 2918059
         label "Gore Infamous"
-        color "red"
+        color "blue"
     ]
     node [
         id 18092
         label "Bunny Brunel"
-        color "red"
+        color "blue"
     ]
     node [
         id 313005
         label "Luciferion"
-        color "red"
+        color "blue"
     ]
     node [
         id 1885870
@@ -5578,7 +5578,7 @@ graph [
     node [
         id 2279089
         label "Last Days of Humanity"
-        color "red"
+        color "blue"
     ]
     node [
         id 2790665
@@ -5588,17 +5588,17 @@ graph [
     node [
         id 139550
         label "Texas In July"
-        color "red"
+        color "purple"
     ]
     node [
         id 2131640
         label "Krallice"
-        color "red"
+        color "blue"
     ]
     node [
         id 1197753
         label "Levi / Werstler"
-        color "red"
+        color "blue"
     ]
     node [
         id 638100
@@ -5608,7 +5608,7 @@ graph [
     node [
         id 984764
         label "Mystic Circle"
-        color "red"
+        color "blue"
     ]
     node [
         id 142282
@@ -5618,7 +5618,7 @@ graph [
     node [
         id 2067362
         label "A Breach of Silence"
-        color "red"
+        color "blue"
     ]
     node [
         id 194165
@@ -5643,7 +5643,7 @@ graph [
     node [
         id 71286
         label "M.O.D."
-        color "red"
+        color "purple"
     ]
     node [
         id 2000582
@@ -5663,12 +5663,12 @@ graph [
     node [
         id 290219
         label "V:28"
-        color "red"
+        color "purple"
     ]
     node [
         id 2770636
         label "Dead Kelly"
-        color "red"
+        color "blue"
     ]
     node [
         id 1649613
@@ -5683,7 +5683,7 @@ graph [
     node [
         id 1066706
         label "Naraka"
-        color "red"
+        color "blue"
     ]
     node [
         id 50250
@@ -5693,7 +5693,7 @@ graph [
     node [
         id 34519
         label "Saliva"
-        color "red"
+        color "purple"
     ]
     node [
         id 74020
@@ -5733,7 +5733,7 @@ graph [
     node [
         id 830790
         label "November-7"
-        color "red"
+        color "blue"
     ]
     node [
         id 67300
@@ -5748,7 +5748,7 @@ graph [
     node [
         id 1768
         label "In Extremo"
-        color "red"
+        color "blue"
     ]
     node [
         id 317052
@@ -5763,7 +5763,7 @@ graph [
     node [
         id 2541293
         label "Powerstorm"
-        color "red"
+        color "blue"
     ]
     node [
         id 67310
@@ -5778,12 +5778,12 @@ graph [
     node [
         id 149232
         label "Larceny"
-        color "red"
+        color "blue"
     ]
     node [
         id 313076
         label "Drudkh"
-        color "red"
+        color "blue"
     ]
     node [
         id 1181429
@@ -5793,12 +5793,12 @@ graph [
     node [
         id 1808548
         label "Fallen Martyr"
-        color "red"
+        color "blue"
     ]
     node [
         id 313079
         label "Ava Inferi"
-        color "red"
+        color "purple"
     ]
     node [
         id 1198914
@@ -5823,17 +5823,17 @@ graph [
     node [
         id 313084
         label "Otargos"
-        color "red"
+        color "blue"
     ]
     node [
         id 296701
         label "Eluveitie"
-        color "red"
+        color "purple"
     ]
     node [
         id 296702
         label "Equilibrium"
-        color "red"
+        color "blue"
     ]
     node [
         id 76757
@@ -5858,7 +5858,7 @@ graph [
     node [
         id 338902
         label "Ventana"
-        color "red"
+        color "blue"
     ]
     node [
         id 74028
@@ -5883,7 +5883,7 @@ graph [
     node [
         id 575247
         label "Strapping Young Lad"
-        color "red"
+        color "blue"
     ]
     node [
         id 1918736
@@ -5903,7 +5903,7 @@ graph [
     node [
         id 1362336
         label "Angel Blake"
-        color "red"
+        color "blue"
     ]
     node [
         id 3376916
@@ -5933,12 +5933,12 @@ graph [
     node [
         id 1279769
         label "Blind Dog"
-        color "red"
+        color "blue"
     ]
     node [
         id 608026
         label "Arthemis"
-        color "red"
+        color "blue"
     ]
     node [
         id 4081435
@@ -5948,7 +5948,7 @@ graph [
     node [
         id 231196
         label "Keel"
-        color "red"
+        color "purple"
     ]
     node [
         id 608030
@@ -5958,7 +5958,7 @@ graph [
     node [
         id 1820450
         label "Maegi"
-        color "red"
+        color "blue"
     ]
     node [
         id 142299
@@ -5988,12 +5988,12 @@ graph [
     node [
         id 198445
         label "SOiL"
-        color "red"
+        color "blue"
     ]
     node [
         id 318671
         label "Hollenthon"
-        color "red"
+        color "purple"
     ]
     node [
         id 1174117
@@ -6003,7 +6003,7 @@ graph [
     node [
         id 2641687
         label "The Vintage Caravan"
-        color "red"
+        color "purple"
     ]
     node [
         id 427825
@@ -6018,17 +6018,17 @@ graph [
     node [
         id 2885427
         label "Oceano"
-        color "red"
+        color "blue"
     ]
     node [
         id 231221
         label "The Beauty of Gemina"
-        color "red"
+        color "purple"
     ]
     node [
         id 1181495
         label "All Pigs Must Die"
-        color "red"
+        color "blue"
     ]
     node [
         id 188724
@@ -6038,12 +6038,12 @@ graph [
     node [
         id 1852
         label "Richie Sambora"
-        color "red"
+        color "purple"
     ]
     node [
         id 860469
         label "Sin Deadly Sin"
-        color "red"
+        color "blue"
     ]
     node [
         id 968512
@@ -6088,22 +6088,22 @@ graph [
     node [
         id 624456
         label "Nightshade"
-        color "red"
+        color "purple"
     ]
     node [
         id 2606922
         label "Forcentury"
-        color "red"
+        color "blue"
     ]
     node [
         id 844087
         label "Early Seasons"
-        color "red"
+        color "blue"
     ]
     node [
         id 329548
         label "Dignity"
-        color "red"
+        color "purple"
     ]
     node [
         id 1328973
@@ -6128,7 +6128,7 @@ graph [
     node [
         id 2295636
         label "Tragodia"
-        color "red"
+        color "purple"
     ]
     node [
         id 833166
@@ -6158,7 +6158,7 @@ graph [
     node [
         id 149341
         label "Lynch Mob"
-        color "red"
+        color "purple"
     ]
     node [
         id 1230686
@@ -6168,17 +6168,17 @@ graph [
     node [
         id 1197922
         label "East Of The Wall"
-        color "red"
+        color "purple"
     ]
     node [
         id 1754979
         label "Dream Death"
-        color "red"
+        color "blue"
     ]
     node [
         id 1647499
         label "Adam Law"
-        color "red"
+        color "purple"
     ]
     node [
         id 1894
@@ -6188,12 +6188,12 @@ graph [
     node [
         id 316
         label "Felix Martin"
-        color "red"
+        color "purple"
     ]
     node [
         id 643503
         label "Good Morning"
-        color "red"
+        color "blue"
     ]
     node [
         id 149355
@@ -6208,7 +6208,7 @@ graph [
     node [
         id 67437
         label "System Of A Down"
-        color "red"
+        color "purple"
     ]
     node [
         id 1902
@@ -6223,12 +6223,12 @@ graph [
     node [
         id 1905
         label "Steel Panther"
-        color "red"
+        color "purple"
     ]
     node [
         id 67442
         label "Rage Against The Machine"
-        color "red"
+        color "purple"
     ]
     node [
         id 3491699
@@ -6253,7 +6253,7 @@ graph [
     node [
         id 2393978
         label "Autopsy"
-        color "red"
+        color "purple"
     ]
     node [
         id 1640318
@@ -6263,7 +6263,7 @@ graph [
     node [
         id 1488533
         label "The Afterimage"
-        color "red"
+        color "blue"
     ]
     node [
         id 161551
@@ -6278,12 +6278,12 @@ graph [
     node [
         id 1922
         label "Ajattara"
-        color "red"
+        color "blue"
     ]
     node [
         id 292502
         label "All Shall Perish"
-        color "red"
+        color "blue"
     ]
     node [
         id 2262918
@@ -6298,7 +6298,7 @@ graph [
     node [
         id 591753
         label "Von Benzo"
-        color "red"
+        color "purple"
     ]
     node [
         id 34698
@@ -6313,7 +6313,7 @@ graph [
     node [
         id 34701
         label "Discharge"
-        color "red"
+        color "purple"
     ]
     node [
         id 3123
@@ -6333,7 +6333,7 @@ graph [
     node [
         id 1984402
         label "Lumus"
-        color "red"
+        color "blue"
     ]
     node [
         id 1329043
@@ -6343,12 +6343,12 @@ graph [
     node [
         id 149396
         label "Metal Church"
-        color "red"
+        color "purple"
     ]
     node [
         id 2487841
         label "Behind the Revolver"
-        color "red"
+        color "blue"
     ]
     node [
         id 34710
@@ -6358,7 +6358,7 @@ graph [
     node [
         id 2066327
         label "Psychostatus"
-        color "red"
+        color "blue"
     ]
     node [
         id 34712
@@ -6388,7 +6388,7 @@ graph [
     node [
         id 1558432
         label "Nocturnia"
-        color "red"
+        color "blue"
     ]
     node [
         id 34721
@@ -6403,7 +6403,7 @@ graph [
     node [
         id 346019
         label "Mortemia"
-        color "red"
+        color "blue"
     ]
     node [
         id 34726
@@ -6423,7 +6423,7 @@ graph [
     node [
         id 1116073
         label "Kreyskull"
-        color "red"
+        color "purple"
     ]
     node [
         id 835911
@@ -6448,12 +6448,12 @@ graph [
     node [
         id 1968047
         label "I Shall Devour"
-        color "red"
+        color "blue"
     ]
     node [
         id 701662
         label "Mucky Pup"
-        color "red"
+        color "blue"
     ]
     node [
         id 3475377
@@ -6463,7 +6463,7 @@ graph [
     node [
         id 432037
         label "The Air I Breathe"
-        color "red"
+        color "blue"
     ]
     node [
         id 197560
@@ -6478,7 +6478,7 @@ graph [
     node [
         id 1181622
         label "Putrid Pile"
-        color "red"
+        color "purple"
     ]
     node [
         id 67513
@@ -6488,7 +6488,7 @@ graph [
     node [
         id 1216299
         label "Loma Prieta"
-        color "red"
+        color "blue"
     ]
     node [
         id 4147132
@@ -6513,7 +6513,7 @@ graph [
     node [
         id 460740
         label "Nightwalkers"
-        color "red"
+        color "blue"
     ]
     node [
         id 1364135
@@ -6523,7 +6523,7 @@ graph [
     node [
         id 378826
         label "Doom Unit"
-        color "red"
+        color "purple"
     ]
     node [
         id 1995
@@ -6533,7 +6533,7 @@ graph [
     node [
         id 67532
         label "Earth"
-        color "red"
+        color "purple"
     ]
     node [
         id 2197453
@@ -6553,7 +6553,7 @@ graph [
     node [
         id 100305
         label "Kamelot"
-        color "red"
+        color "purple"
     ]
     node [
         id 13000
@@ -6563,7 +6563,7 @@ graph [
     node [
         id 1837012
         label "Crimson Sky"
-        color "red"
+        color "blue"
     ]
     node [
         id 4755880
@@ -6573,7 +6573,7 @@ graph [
     node [
         id 1755095
         label "Fractal Gates"
-        color "red"
+        color "blue"
     ]
     node [
         id 559065
@@ -6613,7 +6613,7 @@ graph [
     node [
         id 1394659
         label "Sovern"
-        color "red"
+        color "purple"
     ]
     node [
         id 2020
@@ -6638,7 +6638,7 @@ graph [
     node [
         id 296937
         label "Napalm Death"
-        color "red"
+        color "blue"
     ]
     node [
         id 116714
@@ -6653,12 +6653,12 @@ graph [
     node [
         id 2295788
         label "DRAGON RED"
-        color "red"
+        color "purple"
     ]
     node [
         id 917842
         label "Marrok"
-        color "red"
+        color "blue"
     ]
     node [
         id 67566
@@ -6678,17 +6678,17 @@ graph [
     node [
         id 1160872
         label "Pelican"
-        color "red"
+        color "purple"
     ]
     node [
         id 2230260
         label "Kublai Khan"
-        color "red"
+        color "blue"
     ]
     node [
         id 291376
         label "Samael"
-        color "red"
+        color "purple"
     ]
     node [
         id 1536871
@@ -6698,7 +6698,7 @@ graph [
     node [
         id 359593
         label "Круиз"
-        color "red"
+        color "purple"
     ]
     node [
         id 1198077
@@ -6708,32 +6708,32 @@ graph [
     node [
         id 1824983
         label "Halcyon Way"
-        color "red"
+        color "purple"
     ]
     node [
         id 4120917
         label "Fireland"
-        color "red"
+        color "blue"
     ]
     node [
         id 1460224
         label "Alkimya"
-        color "red"
+        color "blue"
     ]
     node [
         id 993542
         label "Stuart Hamm"
-        color "red"
+        color "purple"
     ]
     node [
         id 251563
         label "Mass Hysteria"
-        color "red"
+        color "purple"
     ]
     node [
         id 329733
         label "Revolution Renaissance"
-        color "red"
+        color "purple"
     ]
     node [
         id 428038
@@ -6748,7 +6748,7 @@ graph [
     node [
         id 329737
         label "Decadence"
-        color "red"
+        color "purple"
     ]
     node [
         id 755722
@@ -6763,12 +6763,12 @@ graph [
     node [
         id 657420
         label "Man Made Man"
-        color "red"
+        color "blue"
     ]
     node [
         id 1042289
         label "Rezet"
-        color "red"
+        color "blue"
     ]
     node [
         id 34831
@@ -6788,12 +6788,12 @@ graph [
     node [
         id 4704275
         label "The Great Old Ones"
-        color "red"
+        color "blue"
     ]
     node [
         id 702915
         label "Thera"
-        color "red"
+        color "purple"
     ]
     node [
         id 2070
@@ -6803,7 +6803,7 @@ graph [
     node [
         id 524549
         label "Gods Tower"
-        color "red"
+        color "blue"
     ]
     node [
         id 935963
@@ -6818,17 +6818,17 @@ graph [
     node [
         id 379288
         label "Martyr Defiled"
-        color "red"
+        color "blue"
     ]
     node [
         id 322565
         label "Wren"
-        color "red"
+        color "blue"
     ]
     node [
         id 2623520
         label "Mike Terrana"
-        color "red"
+        color "purple"
     ]
     node [
         id 2492450
@@ -6843,7 +6843,7 @@ graph [
     node [
         id 3655721
         label "Nomans Land"
-        color "red"
+        color "blue"
     ]
     node [
         id 100394
@@ -6863,7 +6863,7 @@ graph [
     node [
         id 164189
         label "Dissection"
-        color "red"
+        color "purple"
     ]
     node [
         id 329776
@@ -6873,17 +6873,17 @@ graph [
     node [
         id 1607729
         label "Eumeria"
-        color "red"
+        color "blue"
     ]
     node [
         id 164190
         label "Eidolon"
-        color "red"
+        color "purple"
     ]
     node [
         id 142345
         label "Miss May I"
-        color "red"
+        color "purple"
     ]
     node [
         id 346168
@@ -6903,7 +6903,7 @@ graph [
     node [
         id 124459
         label "Deus Ex Machina"
-        color "red"
+        color "purple"
     ]
     node [
         id 329794
@@ -6918,7 +6918,7 @@ graph [
     node [
         id 71350
         label "Veil Of Maya"
-        color "red"
+        color "blue"
     ]
     node [
         id 133190
@@ -6953,7 +6953,7 @@ graph [
     node [
         id 493638
         label "Agate"
-        color "red"
+        color "purple"
     ]
     node [
         id 198736
@@ -6963,7 +6963,7 @@ graph [
     node [
         id 3049553
         label "Demon's Eye"
-        color "red"
+        color "purple"
     ]
     node [
         id 2426964
@@ -6978,7 +6978,7 @@ graph [
     node [
         id 636601
         label "The Mourning After"
-        color "red"
+        color "purple"
     ]
     node [
         id 67672
@@ -6993,7 +6993,7 @@ graph [
     node [
         id 1935450
         label "Anacrusis"
-        color "red"
+        color "blue"
     ]
     node [
         id 93199
@@ -7018,7 +7018,7 @@ graph [
     node [
         id 1595849
         label "Our Theory"
-        color "red"
+        color "blue"
     ]
     node [
         id 100451
@@ -7028,7 +7028,7 @@ graph [
     node [
         id 1345636
         label "Gaias Pendulum"
-        color "red"
+        color "blue"
     ]
     node [
         id 100453
@@ -7048,12 +7048,12 @@ graph [
     node [
         id 336231
         label "Pyramaze"
-        color "red"
+        color "purple"
     ]
     node [
         id 431805
         label "KYPCK"
-        color "red"
+        color "blue"
     ]
     node [
         id 4096360
@@ -7073,7 +7073,7 @@ graph [
     node [
         id 317118
         label "Diabolical Masquerade"
-        color "red"
+        color "blue"
     ]
     node [
         id 319849
@@ -7088,7 +7088,7 @@ graph [
     node [
         id 919677
         label "Screaming eyes"
-        color "red"
+        color "blue"
     ]
     node [
         id 18560
@@ -7128,7 +7128,7 @@ graph [
     node [
         id 592010
         label "Trillium"
-        color "red"
+        color "blue"
     ]
     node [
         id 493708
@@ -7153,12 +7153,12 @@ graph [
     node [
         id 292547
         label "Evereve"
-        color "red"
+        color "blue"
     ]
     node [
         id 1640598
         label "Katalepsy"
-        color "red"
+        color "blue"
     ]
     node [
         id 116887
@@ -7178,7 +7178,7 @@ graph [
     node [
         id 2012117
         label "First Signs Of Frost"
-        color "red"
+        color "purple"
     ]
     node [
         id 3277857
@@ -7188,7 +7188,7 @@ graph [
     node [
         id 34494
         label "Brimstone"
-        color "red"
+        color "blue"
     ]
     node [
         id 4360350
@@ -7198,7 +7198,7 @@ graph [
     node [
         id 4311200
         label "Code Orange"
-        color "red"
+        color "blue"
     ]
     node [
         id 1214627
@@ -7253,7 +7253,7 @@ graph [
     node [
         id 882376
         label "Stealing Axion"
-        color "red"
+        color "blue"
     ]
     node [
         id 706738
@@ -7268,17 +7268,17 @@ graph [
     node [
         id 297141
         label "Hackneyed"
-        color "red"
+        color "blue"
     ]
     node [
         id 297142
         label "Chrome Division"
-        color "red"
+        color "purple"
     ]
     node [
         id 297143
         label "Scar Symmetry"
-        color "red"
+        color "purple"
     ]
     node [
         id 1607864
@@ -7288,7 +7288,7 @@ graph [
     node [
         id 1900916
         label "Arkhan"
-        color "red"
+        color "blue"
     ]
     node [
         id 6621
@@ -7308,7 +7308,7 @@ graph [
     node [
         id 444607
         label "Oni"
-        color "red"
+        color "blue"
     ]
     node [
         id 35009
@@ -7323,7 +7323,7 @@ graph [
     node [
         id 313540
         label "Abigor"
-        color "red"
+        color "purple"
     ]
     node [
         id 3166781
@@ -7338,12 +7338,12 @@ graph [
     node [
         id 2082423
         label "Hellbeard"
-        color "red"
+        color "blue"
     ]
     node [
         id 2918602
         label "Light Your Anchor"
-        color "red"
+        color "blue"
     ]
     node [
         id 2902220
@@ -7353,7 +7353,7 @@ graph [
     node [
         id 2836685
         label "Survive the Demise"
-        color "red"
+        color "blue"
     ]
     node [
         id 1146407
@@ -7363,17 +7363,17 @@ graph [
     node [
         id 854224
         label "Ondskapt"
-        color "red"
+        color "blue"
     ]
     node [
         id 1575122
         label "Twins Crew"
-        color "red"
+        color "blue"
     ]
     node [
         id 2918613
         label "Vanhelgd"
-        color "red"
+        color "blue"
     ]
     node [
         id 108097
@@ -7418,12 +7418,12 @@ graph [
     node [
         id 1177296
         label "Valerian"
-        color "red"
+        color "purple"
     ]
     node [
         id 545095
         label "Septem Voices"
-        color "red"
+        color "blue"
     ]
     node [
         id 15897
@@ -7468,7 +7468,7 @@ graph [
     node [
         id 100591
         label "Oh, Sleeper"
-        color "red"
+        color "blue"
     ]
     node [
         id 289832
@@ -7478,7 +7478,7 @@ graph [
     node [
         id 166130
         label "Fleshgod Apocalypse"
-        color "red"
+        color "blue"
     ]
     node [
         id 18675
@@ -7518,27 +7518,27 @@ graph [
     node [
         id 837885
         label "Coldworker"
-        color "red"
+        color "blue"
     ]
     node [
         id 289835
         label "Twisted Tower Dire"
-        color "red"
+        color "purple"
     ]
     node [
         id 645145
         label "Kells"
-        color "red"
+        color "blue"
     ]
     node [
         id 82305
         label "Spoken"
-        color "red"
+        color "purple"
     ]
     node [
         id 289836
         label "Racer X"
-        color "red"
+        color "purple"
     ]
     node [
         id 67850
@@ -7553,17 +7553,17 @@ graph [
     node [
         id 149773
         label "Zephaniah"
-        color "red"
+        color "blue"
     ]
     node [
         id 1870094
         label "Synkvervet"
-        color "red"
+        color "blue"
     ]
     node [
         id 289837
         label "Primal Fear"
-        color "red"
+        color "purple"
     ]
     node [
         id 3041957
@@ -7583,7 +7583,7 @@ graph [
     node [
         id 1474947
         label "Golden Resurrection"
-        color "red"
+        color "blue"
     ]
     node [
         id 125998
@@ -7603,17 +7603,17 @@ graph [
     node [
         id 559386
         label "Black Light Discipline"
-        color "red"
+        color "purple"
     ]
     node [
         id 1076271
         label "Diablo Swing Orchestra"
-        color "red"
+        color "blue"
     ]
     node [
         id 1378588
         label "Desert"
-        color "red"
+        color "blue"
     ]
     node [
         id 30426
@@ -7628,12 +7628,12 @@ graph [
     node [
         id 1297456
         label "Strych9Hollow"
-        color "red"
+        color "blue"
     ]
     node [
         id 559397
         label "Cold Cold Ground"
-        color "red"
+        color "purple"
     ]
     node [
         id 1050918
@@ -7683,7 +7683,7 @@ graph [
     node [
         id 575792
         label "Suicidal Angels"
-        color "red"
+        color "purple"
     ]
     node [
         id 328072
@@ -7698,12 +7698,12 @@ graph [
     node [
         id 1001779
         label "Khors"
-        color "red"
+        color "blue"
     ]
     node [
         id 1018166
         label "Briar"
-        color "red"
+        color "purple"
     ]
     node [
         id 2017591
@@ -7718,7 +7718,7 @@ graph [
     node [
         id 1125428
         label "Nervosa"
-        color "red"
+        color "purple"
     ]
     node [
         id 575802
@@ -7728,7 +7728,7 @@ graph [
     node [
         id 919867
         label "Shivan"
-        color "red"
+        color "blue"
     ]
     node [
         id 1192150
@@ -7738,12 +7738,12 @@ graph [
     node [
         id 867527
         label "Survival"
-        color "red"
+        color "purple"
     ]
     node [
         id 624960
         label "SCAMP"
-        color "red"
+        color "blue"
     ]
     node [
         id 1182018
@@ -7753,7 +7753,7 @@ graph [
     node [
         id 313668
         label "Blacklodge"
-        color "red"
+        color "blue"
     ]
     node [
         id 1575237
@@ -7783,7 +7783,7 @@ graph [
     node [
         id 819597
         label "Devil In Me"
-        color "red"
+        color "blue"
     ]
     node [
         id 3435576
@@ -7798,7 +7798,7 @@ graph [
     node [
         id 59546
         label "Poison"
-        color "red"
+        color "purple"
     ]
     node [
         id 1280345
@@ -7808,7 +7808,7 @@ graph [
     node [
         id 522991
         label "In The Woods..."
-        color "red"
+        color "purple"
     ]
     node [
         id 84315
@@ -7818,7 +7818,7 @@ graph [
     node [
         id 346460
         label "Vanden Plas"
-        color "red"
+        color "purple"
     ]
     node [
         id 2623837
@@ -7833,7 +7833,7 @@ graph [
     node [
         id 1509728
         label "Crisix"
-        color "red"
+        color "blue"
     ]
     node [
         id 1941904
@@ -7858,12 +7858,12 @@ graph [
     node [
         id 575849
         label "Mary Fay"
-        color "red"
+        color "purple"
     ]
     node [
         id 335057
         label "Night"
-        color "red"
+        color "purple"
     ]
     node [
         id 149867
@@ -7873,17 +7873,17 @@ graph [
     node [
         id 18796
         label "Tank"
-        color "red"
+        color "purple"
     ]
     node [
         id 1132910
         label "Crushing blow"
-        color "red"
+        color "blue"
     ]
     node [
         id 1132911
         label "Demon Tool"
-        color "red"
+        color "blue"
     ]
     node [
         id 149872
@@ -7898,7 +7898,7 @@ graph [
     node [
         id 4688249
         label "Rising Steel"
-        color "red"
+        color "blue"
     ]
     node [
         id 540190
@@ -7938,7 +7938,7 @@ graph [
     node [
         id 1984301
         label "Steel Raiser"
-        color "red"
+        color "blue"
     ]
     node [
         id 543110
@@ -8003,7 +8003,7 @@ graph [
     node [
         id 833705
         label "Polarization"
-        color "red"
+        color "blue"
     ]
     node [
         id 2565415
@@ -8018,7 +8018,7 @@ graph [
     node [
         id 199749
         label "Xandria"
-        color "red"
+        color "blue"
     ]
     node [
         id 412064
@@ -8038,7 +8038,7 @@ graph [
     node [
         id 477604
         label "Made Of Hate"
-        color "red"
+        color "purple"
     ]
     node [
         id 117157
@@ -8058,17 +8058,17 @@ graph [
     node [
         id 477608
         label "Mekong Delta"
-        color "red"
+        color "purple"
     ]
     node [
         id 477609
         label "Helstar"
-        color "red"
+        color "purple"
     ]
     node [
         id 477610
         label "Almah"
-        color "red"
+        color "blue"
     ]
     node [
         id 1870919
@@ -8078,7 +8078,7 @@ graph [
     node [
         id 1624492
         label "The New Dominion"
-        color "red"
+        color "purple"
     ]
     node [
         id 477613
@@ -8103,7 +8103,7 @@ graph [
     node [
         id 477618
         label "Kotipelto"
-        color "red"
+        color "purple"
     ]
     node [
         id 592307
@@ -8123,7 +8123,7 @@ graph [
     node [
         id 346550
         label "Torment"
-        color "red"
+        color "purple"
     ]
     node [
         id 314441
@@ -8168,12 +8168,12 @@ graph [
     node [
         id 1870923
         label "Kreyson"
-        color "red"
+        color "purple"
     ]
     node [
         id 1509828
         label "Saraya"
-        color "red"
+        color "blue"
     ]
     node [
         id 641477
@@ -8193,12 +8193,12 @@ graph [
     node [
         id 557253
         label "Frank Johansen"
-        color "red"
+        color "blue"
     ]
     node [
         id 2247117
         label "Sirgaus"
-        color "red"
+        color "blue"
     ]
     node [
         id 2640973
@@ -8208,12 +8208,12 @@ graph [
     node [
         id 477649
         label "Gwydion"
-        color "red"
+        color "purple"
     ]
     node [
         id 35283
         label "Utopia"
-        color "red"
+        color "purple"
     ]
     node [
         id 183939
@@ -8223,7 +8223,7 @@ graph [
     node [
         id 84437
         label "Axxis"
-        color "red"
+        color "blue"
     ]
     node [
         id 297430
@@ -8233,7 +8233,7 @@ graph [
     node [
         id 887256
         label "Bloodwork"
-        color "red"
+        color "blue"
     ]
     node [
         id 936410
@@ -8243,7 +8243,7 @@ graph [
     node [
         id 1903067
         label "Beneath the Veil"
-        color "red"
+        color "blue"
     ]
     node [
         id 903644
@@ -8253,17 +8253,17 @@ graph [
     node [
         id 71418
         label "August Burns Red"
-        color "red"
+        color "blue"
     ]
     node [
         id 297440
         label "SikTh"
-        color "red"
+        color "blue"
     ]
     node [
         id 1744801
         label "Flametal"
-        color "red"
+        color "blue"
     ]
     node [
         id 1673699
@@ -8278,7 +8278,7 @@ graph [
     node [
         id 942502
         label "Distorted"
-        color "red"
+        color "blue"
     ]
     node [
         id 1231334
@@ -8288,7 +8288,7 @@ graph [
     node [
         id 1817907
         label "Rintrah"
-        color "red"
+        color "blue"
     ]
     node [
         id 35308
@@ -8318,7 +8318,7 @@ graph [
     node [
         id 3793944
         label "Percival Schuttenbach"
-        color "red"
+        color "blue"
     ]
     node [
         id 297463
@@ -8328,7 +8328,7 @@ graph [
     node [
         id 870904
         label "Sacramento"
-        color "red"
+        color "purple"
     ]
     node [
         id 1799935
@@ -8338,7 +8338,7 @@ graph [
     node [
         id 674301
         label "Aella"
-        color "red"
+        color "blue"
     ]
     node [
         id 27733
@@ -8353,7 +8353,7 @@ graph [
     node [
         id 2012928
         label "Virus Garage"
-        color "red"
+        color "blue"
     ]
     node [
         id 2771458
@@ -8363,12 +8363,12 @@ graph [
     node [
         id 297476
         label "Аркона"
-        color "red"
+        color "blue"
     ]
     node [
         id 150021
         label "Jacks Of All Trades"
-        color "red"
+        color "blue"
     ]
     node [
         id 68105
@@ -8388,7 +8388,7 @@ graph [
     node [
         id 964354
         label "Cydia"
-        color "red"
+        color "blue"
     ]
     node [
         id 1952270
@@ -8398,7 +8398,7 @@ graph [
     node [
         id 2062867
         label "Of An Empire"
-        color "red"
+        color "blue"
     ]
     node [
         id 27736
@@ -8413,17 +8413,17 @@ graph [
     node [
         id 502873
         label "Magica"
-        color "red"
+        color "blue"
     ]
     node [
         id 104196
         label "The Black"
-        color "red"
+        color "purple"
     ]
     node [
         id 674330
         label "Mental Home"
-        color "red"
+        color "blue"
     ]
     node [
         id 231964
@@ -8433,7 +8433,7 @@ graph [
     node [
         id 674333
         label "Антикира"
-        color "red"
+        color "blue"
     ]
     node [
         id 1821218
@@ -8458,7 +8458,7 @@ graph [
     node [
         id 1526310
         label "Laster"
-        color "red"
+        color "blue"
     ]
     node [
         id 2951719
@@ -8473,12 +8473,12 @@ graph [
     node [
         id 674349
         label "Багира"
-        color "red"
+        color "blue"
     ]
     node [
         id 1870382
         label "Red Descending"
-        color "red"
+        color "blue"
     ]
     node [
         id 35375
@@ -8488,7 +8488,7 @@ graph [
     node [
         id 426173
         label "Viper Inc."
-        color "red"
+        color "blue"
     ]
     node [
         id 57779
@@ -8503,7 +8503,7 @@ graph [
     node [
         id 674357
         label "Иван Царевич"
-        color "red"
+        color "blue"
     ]
     node [
         id 1754624
@@ -8528,12 +8528,12 @@ graph [
     node [
         id 292618
         label "New Eden"
-        color "red"
+        color "blue"
     ]
     node [
         id 2364566
         label "Tommy Ermolli"
-        color "red"
+        color "blue"
     ]
     node [
         id 2017855
@@ -8543,7 +8543,7 @@ graph [
     node [
         id 84544
         label "Nightingale"
-        color "red"
+        color "blue"
     ]
     node [
         id 1647468
@@ -8568,7 +8568,7 @@ graph [
     node [
         id 3574084
         label "Thrash Or Die"
-        color "red"
+        color "blue"
     ]
     node [
         id 2378314
@@ -8578,7 +8578,7 @@ graph [
     node [
         id 3015095
         label "Aetolia"
-        color "red"
+        color "blue"
     ]
     node [
         id 821838
@@ -8593,7 +8593,7 @@ graph [
     node [
         id 674384
         label "Темнозорь"
-        color "red"
+        color "blue"
     ]
     node [
         id 3263059
@@ -8603,7 +8603,7 @@ graph [
     node [
         id 1542740
         label "Ani Lo. Projekt"
-        color "red"
+        color "blue"
     ]
     node [
         id 63246
@@ -8653,12 +8653,12 @@ graph [
     node [
         id 329064
         label "Crimfall"
-        color "red"
+        color "blue"
     ]
     node [
         id 1608290
         label "No More Fear"
-        color "red"
+        color "purple"
     ]
     node [
         id 723557
@@ -8668,7 +8668,7 @@ graph [
     node [
         id 349969
         label "Johan Olsen"
-        color "red"
+        color "purple"
     ]
     node [
         id 19050
@@ -8678,7 +8678,7 @@ graph [
     node [
         id 3189863
         label "Kyle Lucas"
-        color "red"
+        color "blue"
     ]
     node [
         id 19052
@@ -8713,7 +8713,7 @@ graph [
     node [
         id 297588
         label "Spiders & Snakes"
-        color "red"
+        color "purple"
     ]
     node [
         id 84599
@@ -8723,12 +8723,12 @@ graph [
     node [
         id 2634649
         label "Temnein"
-        color "red"
+        color "blue"
     ]
     node [
         id 1736649
         label "The Last Word"
-        color "red"
+        color "purple"
     ]
     node [
         id 197055
@@ -8738,7 +8738,7 @@ graph [
     node [
         id 64466
         label "The Agony Scene"
-        color "red"
+        color "purple"
     ]
     node [
         id 641666
@@ -8768,7 +8768,7 @@ graph [
     node [
         id 964375
         label "Druknroll"
-        color "red"
+        color "blue"
     ]
     node [
         id 117388
@@ -8803,7 +8803,7 @@ graph [
     node [
         id 1297042
         label "Post Mortem"
-        color "red"
+        color "blue"
     ]
     node [
         id 2886292
@@ -8813,12 +8813,12 @@ graph [
     node [
         id 264853
         label "Obus"
-        color "red"
+        color "purple"
     ]
     node [
         id 735001
         label "Akoma"
-        color "red"
+        color "blue"
     ]
     node [
         id 586027
@@ -8828,12 +8828,12 @@ graph [
     node [
         id 1395354
         label "Cavalcade"
-        color "red"
+        color "blue"
     ]
     node [
         id 4401266
         label "Worshipper"
-        color "red"
+        color "blue"
     ]
     node [
         id 123333
@@ -8848,7 +8848,7 @@ graph [
     node [
         id 1619739
         label "White Shadow"
-        color "red"
+        color "blue"
     ]
     node [
         id 84650
@@ -8858,7 +8858,7 @@ graph [
     node [
         id 2181803
         label "Viraemia"
-        color "red"
+        color "blue"
     ]
     node [
         id 2280109
@@ -8873,12 +8873,12 @@ graph [
     node [
         id 330415
         label "Floor"
-        color "red"
+        color "blue"
     ]
     node [
         id 1418678
         label "Laconic"
-        color "red"
+        color "blue"
     ]
     node [
         id 762312
@@ -8913,12 +8913,12 @@ graph [
     node [
         id 576185
         label "Nhor"
-        color "red"
+        color "purple"
     ]
     node [
         id 641724
         label "Acid Death"
-        color "red"
+        color "purple"
     ]
     node [
         id 19133
@@ -8928,7 +8928,7 @@ graph [
     node [
         id 2819589
         label "Beartooth"
-        color "red"
+        color "purple"
     ]
     node [
         id 512377
@@ -8953,7 +8953,7 @@ graph [
     node [
         id 2771562
         label "Battlecross"
-        color "red"
+        color "blue"
     ]
     node [
         id 1346247
@@ -8978,7 +8978,7 @@ graph [
     node [
         id 2037538
         label "CAMION"
-        color "red"
+        color "purple"
     ]
     node [
         id 281294
@@ -8988,7 +8988,7 @@ graph [
     node [
         id 2902736
         label "The End At The Beginning"
-        color "red"
+        color "blue"
     ]
     node [
         id 2427601
@@ -8998,7 +8998,7 @@ graph [
     node [
         id 3050194
         label "Forever It Shall Be"
-        color "red"
+        color "blue"
     ]
     node [
         id 1198803
@@ -9018,12 +9018,12 @@ graph [
     node [
         id 510680
         label "Mantus"
-        color "red"
+        color "blue"
     ]
     node [
         id 821977
         label "Archspire"
-        color "red"
+        color "blue"
     ]
     node [
         id 35546
@@ -9033,7 +9033,7 @@ graph [
     node [
         id 543451
         label "Burst"
-        color "red"
+        color "blue"
     ]
     node [
         id 1952478
@@ -9063,7 +9063,7 @@ graph [
     node [
         id 723685
         label "Grime"
-        color "red"
+        color "purple"
     ]
     node [
         id 1264358
@@ -9073,7 +9073,7 @@ graph [
     node [
         id 713329
         label "Greensleeves"
-        color "red"
+        color "blue"
     ]
     node [
         id 527084
@@ -9083,12 +9083,12 @@ graph [
     node [
         id 1870573
         label "Living Corpse"
-        color "red"
+        color "blue"
     ]
     node [
         id 985839
         label "Mystik Motorcycles"
-        color "red"
+        color "purple"
     ]
     node [
         id 101105
@@ -9103,12 +9103,12 @@ graph [
     node [
         id 1903349
         label "Annúlond"
-        color "red"
+        color "blue"
     ]
     node [
         id 494326
         label "Keef"
-        color "red"
+        color "blue"
     ]
     node [
         id 281335
@@ -9118,7 +9118,7 @@ graph [
     node [
         id 281337
         label "Sarcófago"
-        color "red"
+        color "blue"
     ]
     node [
         id 51962
@@ -9143,7 +9143,7 @@ graph [
     node [
         id 641790
         label "Nasty Savage"
-        color "red"
+        color "blue"
     ]
     node [
         id 8661
@@ -9158,7 +9158,7 @@ graph [
     node [
         id 1116929
         label "A Forest Of Stars"
-        color "red"
+        color "purple"
     ]
     node [
         id 1312448
@@ -9173,7 +9173,7 @@ graph [
     node [
         id 1864835
         label "Seedless"
-        color "red"
+        color "blue"
     ]
     node [
         id 27372
@@ -9188,7 +9188,7 @@ graph [
     node [
         id 1395464
         label "Mythological Cold Towers"
-        color "red"
+        color "purple"
     ]
     node [
         id 1395465
@@ -9203,7 +9203,7 @@ graph [
     node [
         id 338890
         label "The Ungrateful"
-        color "red"
+        color "blue"
     ]
     node [
         id 674580
@@ -9223,17 +9223,17 @@ graph [
     node [
         id 1044868
         label "Terror 2000"
-        color "red"
+        color "blue"
     ]
     node [
         id 1623696
         label "Death Of An Era"
-        color "red"
+        color "blue"
     ]
     node [
         id 1439535
         label "Hats"
-        color "red"
+        color "blue"
     ]
     node [
         id 854814
@@ -9248,17 +9248,17 @@ graph [
     node [
         id 3023957
         label "Deceptic"
-        color "red"
+        color "blue"
     ]
     node [
         id 2410401
         label "Suddenlash"
-        color "red"
+        color "blue"
     ]
     node [
         id 1590701
         label "Violette"
-        color "red"
+        color "purple"
     ]
     node [
         id 3033893
@@ -9268,12 +9268,12 @@ graph [
     node [
         id 71473
         label "Fallbrawl"
-        color "red"
+        color "blue"
     ]
     node [
         id 1133354
         label "NunFuckRitual"
-        color "red"
+        color "blue"
     ]
     node [
         id 587123
@@ -9283,12 +9283,12 @@ graph [
     node [
         id 1985324
         label "Pottymouth"
-        color "red"
+        color "blue"
     ]
     node [
         id 494382
         label "Svart"
-        color "red"
+        color "blue"
     ]
     node [
         id 707375
@@ -9323,7 +9323,7 @@ graph [
     node [
         id 1409502
         label "Aron Lyrd"
-        color "red"
+        color "blue"
     ]
     node [
         id 4606774
@@ -9343,7 +9343,7 @@ graph [
     node [
         id 84794
         label "Manowar"
-        color "red"
+        color "blue"
     ]
     node [
         id 2875
@@ -9368,7 +9368,7 @@ graph [
     node [
         id 1057248
         label "Mindflow"
-        color "red"
+        color "purple"
     ]
     node [
         id 101186
@@ -9403,7 +9403,7 @@ graph [
     node [
         id 2891
         label "Robben Ford"
-        color "red"
+        color "blue"
     ]
     node [
         id 2893
@@ -9418,17 +9418,17 @@ graph [
     node [
         id 35663
         label "Steve Smith"
-        color "red"
+        color "blue"
     ]
     node [
         id 4721488
         label "Furiam"
-        color "red"
+        color "blue"
     ]
     node [
         id 2001745
         label "Viter"
-        color "red"
+        color "blue"
     ]
     node [
         id 1985362
@@ -9448,7 +9448,7 @@ graph [
     node [
         id 1611150
         label "The New Roses"
-        color "red"
+        color "purple"
     ]
     node [
         id 84825
@@ -9463,12 +9463,12 @@ graph [
     node [
         id 2542735
         label "Art of Shock"
-        color "red"
+        color "purple"
     ]
     node [
         id 359624
         label "Hellraiser"
-        color "red"
+        color "blue"
     ]
     node [
         id 543582
@@ -9513,7 +9513,7 @@ graph [
     node [
         id 1198957
         label "Woe"
-        color "red"
+        color "blue"
     ]
     node [
         id 510830
@@ -9523,7 +9523,7 @@ graph [
     node [
         id 1428335
         label "DIMICANDUM"
-        color "red"
+        color "blue"
     ]
     node [
         id 1919858
@@ -9533,7 +9533,7 @@ graph [
     node [
         id 84852
         label "Blind Guardian"
-        color "red"
+        color "purple"
     ]
     node [
         id 674677
@@ -9553,7 +9553,7 @@ graph [
     node [
         id 925619
         label "Vera Cruz"
-        color "red"
+        color "blue"
     ]
     node [
         id 1127235
@@ -9563,7 +9563,7 @@ graph [
     node [
         id 87871
         label "Marty Friedman"
-        color "red"
+        color "purple"
     ]
     node [
         id 1870716
@@ -9583,7 +9583,7 @@ graph [
     node [
         id 2067331
         label "GEVOLT"
-        color "red"
+        color "blue"
     ]
     node [
         id 1919876
@@ -9603,7 +9603,7 @@ graph [
     node [
         id 1445015
         label "Dreamquest"
-        color "red"
+        color "blue"
     ]
     node [
         id 84877
@@ -9613,7 +9613,7 @@ graph [
     node [
         id 311789
         label "October Falls"
-        color "red"
+        color "blue"
     ]
     node [
         id 19345
@@ -9623,7 +9623,7 @@ graph [
     node [
         id 2182034
         label "Necrovation"
-        color "red"
+        color "blue"
     ]
     node [
         id 1166227
@@ -9638,12 +9638,12 @@ graph [
     node [
         id 347030
         label "Thulcandra"
-        color "red"
+        color "purple"
     ]
     node [
         id 359626
         label "П.о.С.Т."
-        color "red"
+        color "blue"
     ]
     node [
         id 84889
@@ -9658,7 +9658,7 @@ graph [
     node [
         id 936865
         label "Legenda"
-        color "red"
+        color "blue"
     ]
     node [
         id 297890
@@ -9668,7 +9668,7 @@ graph [
     node [
         id 914466
         label "Furious zoo"
-        color "red"
+        color "blue"
     ]
     node [
         id 3699030
@@ -9678,12 +9678,12 @@ graph [
     node [
         id 576421
         label "Mercenary"
-        color "red"
+        color "purple"
     ]
     node [
         id 936870
         label "Yearning"
-        color "red"
+        color "purple"
     ]
     node [
         id 297895
@@ -9698,12 +9698,12 @@ graph [
     node [
         id 297898
         label "Root"
-        color "red"
+        color "purple"
     ]
     node [
         id 297900
         label "Elvira Madigan"
-        color "red"
+        color "blue"
     ]
     node [
         id 330670
@@ -9713,7 +9713,7 @@ graph [
     node [
         id 936879
         label "Natron"
-        color "red"
+        color "blue"
     ]
     node [
         id 84912
@@ -9723,7 +9723,7 @@ graph [
     node [
         id 1865544
         label "Sirius Devastation"
-        color "red"
+        color "blue"
     ]
     node [
         id 789426
@@ -9733,17 +9733,17 @@ graph [
     node [
         id 936883
         label "Soulgrind"
-        color "red"
+        color "blue"
     ]
     node [
         id 1781915
         label "In the Eyes of a Mistress"
-        color "red"
+        color "blue"
     ]
     node [
         id 359627
         label "Артерия"
-        color "red"
+        color "blue"
     ]
     node [
         id 19383
@@ -9773,7 +9773,7 @@ graph [
     node [
         id 494528
         label "Ancient"
-        color "red"
+        color "blue"
     ]
     node [
         id 85152
@@ -9783,7 +9783,7 @@ graph [
     node [
         id 1199043
         label "Demonic Resurrection"
-        color "red"
+        color "blue"
     ]
     node [
         id 150468
@@ -9823,7 +9823,7 @@ graph [
     node [
         id 2460624
         label "Steel Wolf"
-        color "red"
+        color "purple"
     ]
     node [
         id 150481
@@ -9848,7 +9848,7 @@ graph [
     node [
         id 658390
         label "I Killed The Prom Queen"
-        color "red"
+        color "purple"
     ]
     node [
         id 68568
@@ -9873,22 +9873,22 @@ graph [
     node [
         id 1985503
         label "Scavenger"
-        color "red"
+        color "purple"
     ]
     node [
         id 3041
         label "Ensiferum"
-        color "red"
+        color "blue"
     ]
     node [
         id 1854435
         label "Brocas Helm"
-        color "red"
+        color "blue"
     ]
     node [
         id 658405
         label "Chimp Spanner"
-        color "red"
+        color "blue"
     ]
     node [
         id 68582
@@ -9898,7 +9898,7 @@ graph [
     node [
         id 609255
         label "Septic Cemetery"
-        color "red"
+        color "blue"
     ]
     node [
         id 789480
@@ -9943,7 +9943,7 @@ graph [
     node [
         id 723953
         label "Chastain"
-        color "red"
+        color "purple"
     ]
     node [
         id 2903028
@@ -9973,17 +9973,17 @@ graph [
     node [
         id 1053063
         label "Dark Horizon"
-        color "red"
+        color "blue"
     ]
     node [
         id 314362
         label "Svartsot"
-        color "red"
+        color "purple"
     ]
     node [
         id 330747
         label "Deathstars"
-        color "red"
+        color "purple"
     ]
     node [
         id 527357
@@ -9998,7 +9998,7 @@ graph [
     node [
         id 259925
         label "TesseracT"
-        color "red"
+        color "blue"
     ]
     node [
         id 217237
@@ -10013,12 +10013,12 @@ graph [
     node [
         id 936964
         label "One-way Mirror"
-        color "red"
+        color "blue"
     ]
     node [
         id 658437
         label "Palisades"
-        color "red"
+        color "purple"
     ]
     node [
         id 52230
@@ -10028,12 +10028,12 @@ graph [
     node [
         id 1805319
         label "Holy Blood"
-        color "red"
+        color "blue"
     ]
     node [
         id 822280
         label "Thug"
-        color "red"
+        color "blue"
     ]
     node [
         id 232620
@@ -10043,7 +10043,7 @@ graph [
     node [
         id 292695
         label "Hypocrisy"
-        color "red"
+        color "blue"
     ]
     node [
         id 11437
@@ -10078,12 +10078,12 @@ graph [
     node [
         id 986140
         label "Hacktivist"
-        color "red"
+        color "blue"
     ]
     node [
         id 1002525
         label "Sound Storm"
-        color "red"
+        color "blue"
     ]
     node [
         id 150558
@@ -10093,7 +10093,7 @@ graph [
     node [
         id 298015
         label "Dr. Acula"
-        color "red"
+        color "purple"
     ]
     node [
         id 3104
@@ -10103,17 +10103,17 @@ graph [
     node [
         id 2572988
         label "Kruger"
-        color "red"
+        color "blue"
     ]
     node [
         id 68644
         label "Vicious Rumors"
-        color "red"
+        color "blue"
     ]
     node [
         id 1264677
         label "Rose Funeral"
-        color "red"
+        color "blue"
     ]
     node [
         id 199718
@@ -10123,22 +10123,22 @@ graph [
     node [
         id 3114
         label "For My Pain..."
-        color "red"
+        color "blue"
     ]
     node [
         id 314349
         label "Nola"
-        color "red"
+        color "blue"
     ]
     node [
         id 2198573
         label "Montezuma's Revenge"
-        color "red"
+        color "blue"
     ]
     node [
         id 1739823
         label "Imaginary Flying Machines"
-        color "red"
+        color "blue"
     ]
     node [
         id 3120
@@ -10148,7 +10148,7 @@ graph [
     node [
         id 3121
         label "Metallica"
-        color "red"
+        color "blue"
     ]
     node [
         id 3122
@@ -10158,7 +10158,7 @@ graph [
     node [
         id 1559603
         label "Skull Fist"
-        color "red"
+        color "purple"
     ]
     node [
         id 19508
@@ -10168,22 +10168,22 @@ graph [
     node [
         id 2100277
         label "Shovelhead"
-        color "red"
+        color "purple"
     ]
     node [
         id 2214968
         label "In Vice Versa"
-        color "red"
+        color "blue"
     ]
     node [
         id 330810
         label "Dawn of Relic"
-        color "red"
+        color "purple"
     ]
     node [
         id 199740
         label "The Dogma"
-        color "red"
+        color "blue"
     ]
     node [
         id 1887293
@@ -10193,12 +10193,12 @@ graph [
     node [
         id 1441487
         label "Arms Like Anchors"
-        color "red"
+        color "blue"
     ]
     node [
         id 1592501
         label "Sacred Blood"
-        color "red"
+        color "blue"
     ]
     node [
         id 85057
@@ -10208,22 +10208,22 @@ graph [
     node [
         id 347202
         label "Imperium Dekadenz"
-        color "red"
+        color "purple"
     ]
     node [
         id 1166405
         label "Hexen"
-        color "red"
+        color "blue"
     ]
     node [
         id 1133638
         label "Hatriot"
-        color "red"
+        color "blue"
     ]
     node [
         id 298055
         label "Mortal Sin"
-        color "red"
+        color "purple"
     ]
     node [
         id 35912
@@ -10238,22 +10238,22 @@ graph [
     node [
         id 2657354
         label "Adavant"
-        color "red"
+        color "blue"
     ]
     node [
         id 35915
         label "Danzig"
-        color "red"
+        color "purple"
     ]
     node [
         id 199757
         label "The Sorrow"
-        color "red"
+        color "blue"
     ]
     node [
         id 68686
         label "Britny Fox"
-        color "red"
+        color "purple"
     ]
     node [
         id 74253
@@ -10263,7 +10263,7 @@ graph [
     node [
         id 1477713
         label "Ghost"
-        color "red"
+        color "purple"
     ]
     node [
         id 117843
@@ -10288,7 +10288,7 @@ graph [
     node [
         id 1065048
         label "Evil Wings"
-        color "red"
+        color "blue"
     ]
     node [
         id 838746
@@ -10298,12 +10298,12 @@ graph [
     node [
         id 3624031
         label "Sicks Deep"
-        color "red"
+        color "blue"
     ]
     node [
         id 199779
         label "Eisheilig"
-        color "red"
+        color "purple"
     ]
     node [
         id 412774
@@ -10323,7 +10323,7 @@ graph [
     node [
         id 2018411
         label "ArnoCorps"
-        color "red"
+        color "blue"
     ]
     node [
         id 19565
@@ -10358,12 +10358,12 @@ graph [
     node [
         id 126142
         label "Nothingface"
-        color "red"
+        color "blue"
     ]
     node [
         id 905744
         label "Amaseffer"
-        color "red"
+        color "purple"
     ]
     node [
         id 1576055
@@ -10388,7 +10388,7 @@ graph [
     node [
         id 1202026
         label "Hirax"
-        color "red"
+        color "blue"
     ]
     node [
         id 643129
@@ -10398,12 +10398,12 @@ graph [
     node [
         id 1199231
         label "Control Denied"
-        color "red"
+        color "blue"
     ]
     node [
         id 855168
         label "Hellbats"
-        color "red"
+        color "purple"
     ]
     node [
         id 838787
@@ -10418,7 +10418,7 @@ graph [
     node [
         id 3115283
         label "9ELECTRIC"
-        color "red"
+        color "blue"
     ]
     node [
         id 330890
@@ -10468,7 +10468,7 @@ graph [
     node [
         id 2575519
         label "Emperors and Elephants"
-        color "red"
+        color "blue"
     ]
     node [
         id 232608
@@ -10478,7 +10478,7 @@ graph [
     node [
         id 123267
         label "Heaven & Hell"
-        color "red"
+        color "purple"
     ]
     node [
         id 68773
@@ -10503,7 +10503,7 @@ graph [
     node [
         id 199852
         label "Misery Speaks"
-        color "red"
+        color "blue"
     ]
     node [
         id 134317
@@ -10543,12 +10543,12 @@ graph [
     node [
         id 150709
         label "The Dillinger Escape Plan"
-        color "red"
+        color "purple"
     ]
     node [
         id 1908832
         label "Cognitive"
-        color "red"
+        color "blue"
     ]
     node [
         id 4712699
@@ -10563,17 +10563,17 @@ graph [
     node [
         id 150713
         label "Ligeia"
-        color "red"
+        color "purple"
     ]
     node [
         id 2657466
         label "Above This Burning Sky"
-        color "red"
+        color "blue"
     ]
     node [
         id 150715
         label "Hellmouth"
-        color "red"
+        color "blue"
     ]
     node [
         id 1723580
@@ -10583,7 +10583,7 @@ graph [
     node [
         id 1445053
         label "Devourment"
-        color "red"
+        color "blue"
     ]
     node [
         id 4590783
@@ -10603,7 +10603,7 @@ graph [
     node [
         id 150723
         label "Attack Attack!"
-        color "red"
+        color "purple"
     ]
     node [
         id 150724
@@ -10623,12 +10623,12 @@ graph [
     node [
         id 429257
         label "Place Of Skulls"
-        color "red"
+        color "blue"
     ]
     node [
         id 3274
         label "Ozzy Osbourne"
-        color "red"
+        color "blue"
     ]
     node [
         id 1857399
@@ -10638,7 +10638,7 @@ graph [
     node [
         id 3276
         label "Black Sabbath"
-        color "red"
+        color "blue"
     ]
     node [
         id 2444493
@@ -10653,27 +10653,27 @@ graph [
     node [
         id 4575763
         label "Земля Ветров"
-        color "red"
+        color "blue"
     ]
     node [
         id 1445073
         label "Askival"
-        color "red"
+        color "blue"
     ]
     node [
         id 576726
         label "Mundanus Imperium"
-        color "red"
+        color "blue"
     ]
     node [
         id 576727
         label "Secret Sphere"
-        color "red"
+        color "purple"
     ]
     node [
         id 172580
         label "Emil Bulls"
-        color "red"
+        color "blue"
     ]
     node [
         id 227610
@@ -10688,7 +10688,7 @@ graph [
     node [
         id 1002716
         label "Ben Woods"
-        color "red"
+        color "purple"
     ]
     node [
         id 3293
@@ -10703,12 +10703,12 @@ graph [
     node [
         id 1592545
         label "Roma Ivakov"
-        color "red"
+        color "purple"
     ]
     node [
         id 1445090
         label "Black Angel"
-        color "red"
+        color "purple"
     ]
     node [
         id 281827
@@ -10718,7 +10718,7 @@ graph [
     node [
         id 380132
         label "Yob"
-        color "red"
+        color "blue"
     ]
     node [
         id 33318
@@ -10728,12 +10728,12 @@ graph [
     node [
         id 3771623
         label "September Mourning"
-        color "red"
+        color "blue"
     ]
     node [
         id 2247912
         label "Dark Mirror"
-        color "red"
+        color "blue"
     ]
     node [
         id 3263721
@@ -10748,7 +10748,7 @@ graph [
     node [
         id 1854700
         label "Sacred Heart"
-        color "red"
+        color "purple"
     ]
     node [
         id 109778
@@ -10758,7 +10758,7 @@ graph [
     node [
         id 576751
         label "Enslaved"
-        color "red"
+        color "purple"
     ]
     node [
         id 101616
@@ -10783,12 +10783,12 @@ graph [
     node [
         id 101620
         label "Any Given Day"
-        color "red"
+        color "blue"
     ]
     node [
         id 1374078
         label "Soulcage"
-        color "red"
+        color "purple"
     ]
     node [
         id 150775
@@ -10803,17 +10803,17 @@ graph [
     node [
         id 303245
         label "Darkane"
-        color "red"
+        color "blue"
     ]
     node [
         id 2264314
         label "Amiensus"
-        color "red"
+        color "blue"
     ]
     node [
         id 675067
         label "Solitude"
-        color "red"
+        color "blue"
     ]
     node [
         id 675068
@@ -10823,7 +10823,7 @@ graph [
     node [
         id 2657533
         label "Feridea"
-        color "red"
+        color "blue"
     ]
     node [
         id 265470
@@ -10833,12 +10833,12 @@ graph [
     node [
         id 1772799
         label "The Day Everything Became Nothing"
-        color "red"
+        color "blue"
     ]
     node [
         id 2397869
         label "Lion Twin"
-        color "red"
+        color "blue"
     ]
     node [
         id 1021954
@@ -10868,12 +10868,12 @@ graph [
     node [
         id 576779
         label "Cipher System"
-        color "red"
+        color "purple"
     ]
     node [
         id 292738
         label "Acheron"
-        color "red"
+        color "purple"
     ]
     node [
         id 188973
@@ -10888,22 +10888,22 @@ graph [
     node [
         id 346545
         label "Flowing Tears"
-        color "red"
+        color "purple"
     ]
     node [
         id 1161091
         label "Obscura"
-        color "red"
+        color "blue"
     ]
     node [
         id 1395989
         label "Minotauri"
-        color "red"
+        color "blue"
     ]
     node [
         id 1395990
         label "Subscribe"
-        color "red"
+        color "blue"
     ]
     node [
         id 232727
@@ -10943,7 +10943,7 @@ graph [
     node [
         id 2196016
         label "T.C.F."
-        color "red"
+        color "blue"
     ]
     node [
         id 134363
@@ -10953,7 +10953,7 @@ graph [
     node [
         id 936847
         label "Marionette"
-        color "red"
+        color "purple"
     ]
     node [
         id 30598
@@ -10968,7 +10968,7 @@ graph [
     node [
         id 328241
         label "Conspiracy"
-        color "red"
+        color "blue"
     ]
     node [
         id 265513
@@ -10998,7 +10998,7 @@ graph [
     node [
         id 346546
         label "Machine Men"
-        color "red"
+        color "blue"
     ]
     node [
         id 101680
@@ -11008,7 +11008,7 @@ graph [
     node [
         id 3280094
         label "Orchid"
-        color "red"
+        color "blue"
     ]
     node [
         id 77023
@@ -11023,7 +11023,7 @@ graph [
     node [
         id 1920317
         label "Blinded Colony"
-        color "red"
+        color "blue"
     ]
     node [
         id 2903358
@@ -11038,7 +11038,7 @@ graph [
     node [
         id 1822016
         label "Strikken"
-        color "red"
+        color "blue"
     ]
     node [
         id 347459
@@ -11058,7 +11058,7 @@ graph [
     node [
         id 2000700
         label "Surface 2 Air"
-        color "red"
+        color "purple"
     ]
     node [
         id 19784
@@ -11078,12 +11078,12 @@ graph [
     node [
         id 2826807
         label "Bereft"
-        color "red"
+        color "blue"
     ]
     node [
         id 477607
         label "Dezperadoz"
-        color "red"
+        color "purple"
     ]
     node [
         id 724301
@@ -11108,7 +11108,7 @@ graph [
     node [
         id 347474
         label "Neurosis"
-        color "red"
+        color "purple"
     ]
     node [
         id 265443
@@ -11118,7 +11118,7 @@ graph [
     node [
         id 1543508
         label "Lost Society"
-        color "red"
+        color "purple"
     ]
     node [
         id 14222
@@ -11133,12 +11133,12 @@ graph [
     node [
         id 801003
         label "Hate Forest"
-        color "red"
+        color "blue"
     ]
     node [
         id 429402
         label "The Plot In You"
-        color "red"
+        color "purple"
     ]
     node [
         id 1578895
@@ -11153,7 +11153,7 @@ graph [
     node [
         id 478558
         label "Witchcraft"
-        color "red"
+        color "purple"
     ]
     node [
         id 150757
@@ -11173,7 +11173,7 @@ graph [
     node [
         id 1223911
         label "Shoeilager"
-        color "red"
+        color "blue"
     ]
     node [
         id 101740
@@ -11183,7 +11183,7 @@ graph [
     node [
         id 101741
         label "Stryper"
-        color "red"
+        color "purple"
     ]
     node [
         id 1146892
@@ -11198,7 +11198,7 @@ graph [
     node [
         id 2764008
         label "Albert 2 Stone"
-        color "red"
+        color "purple"
     ]
     node [
         id 68978
@@ -11213,12 +11213,12 @@ graph [
     node [
         id 71038
         label "Botch"
-        color "red"
+        color "blue"
     ]
     node [
         id 3085173
         label "Crossbreed"
-        color "red"
+        color "blue"
     ]
     node [
         id 249210
@@ -11228,17 +11228,17 @@ graph [
     node [
         id 1344387
         label "Antiquus"
-        color "red"
+        color "blue"
     ]
     node [
         id 937342
         label "Desolated"
-        color "red"
+        color "blue"
     ]
     node [
         id 347519
         label "His Statue Falls"
-        color "red"
+        color "blue"
     ]
     node [
         id 593280
@@ -11258,22 +11258,22 @@ graph [
     node [
         id 1617131
         label "The Autumn Descent"
-        color "red"
+        color "blue"
     ]
     node [
         id 347524
         label "Siegfried"
-        color "red"
+        color "purple"
     ]
     node [
         id 314760
         label "Trail of Tears"
-        color "red"
+        color "blue"
     ]
     node [
         id 346549
         label "Dragonland"
-        color "red"
+        color "purple"
     ]
     node [
         id 871819
@@ -11288,7 +11288,7 @@ graph [
     node [
         id 2550417
         label "Black West"
-        color "red"
+        color "blue"
     ]
     node [
         id 1019117
@@ -11298,7 +11298,7 @@ graph [
     node [
         id 3280160
         label "Conquer Divide"
-        color "red"
+        color "blue"
     ]
     node [
         id 1772945
@@ -11313,7 +11313,7 @@ graph [
     node [
         id 314771
         label "Whitechapel"
-        color "red"
+        color "blue"
     ]
     node [
         id 69012
@@ -11328,7 +11328,7 @@ graph [
     node [
         id 2142004
         label "Show Your Face"
-        color "red"
+        color "blue"
     ]
     node [
         id 85404
@@ -11338,27 +11338,27 @@ graph [
     node [
         id 292762
         label "Sinergy"
-        color "red"
+        color "blue"
     ]
     node [
         id 885317
         label "Sikh"
-        color "red"
+        color "blue"
     ]
     node [
         id 789920
         label "Hate"
-        color "red"
+        color "purple"
     ]
     node [
         id 314786
         label "Bile"
-        color "red"
+        color "purple"
     ]
     node [
         id 192915
         label "Autumn"
-        color "red"
+        color "purple"
     ]
     node [
         id 757156
@@ -11408,7 +11408,7 @@ graph [
     node [
         id 937396
         label "Switchtense"
-        color "red"
+        color "blue"
     ]
     node [
         id 1174882
@@ -11443,7 +11443,7 @@ graph [
     node [
         id 532043
         label "Pure Inc."
-        color "red"
+        color "purple"
     ]
     node [
         id 4609953
@@ -11468,7 +11468,7 @@ graph [
     node [
         id 789965
         label "Black Witchery"
-        color "red"
+        color "blue"
     ]
     node [
         id 3395022
@@ -11483,7 +11483,7 @@ graph [
     node [
         id 1019128
         label "Church of Misery"
-        color "red"
+        color "purple"
     ]
     node [
         id 183762
@@ -11493,12 +11493,12 @@ graph [
     node [
         id 1537955
         label "Horrific"
-        color "red"
+        color "blue"
     ]
     node [
         id 467534
         label "Sundown"
-        color "red"
+        color "blue"
     ]
     node [
         id 85463
@@ -11533,7 +11533,7 @@ graph [
     node [
         id 298462
         label "Klone"
-        color "red"
+        color "purple"
     ]
     node [
         id 796325
@@ -11548,7 +11548,7 @@ graph [
     node [
         id 2982480
         label "Komatsu"
-        color "red"
+        color "blue"
     ]
     node [
         id 69090
@@ -11568,7 +11568,7 @@ graph [
     node [
         id 642536
         label "Hortus Animae"
-        color "red"
+        color "purple"
     ]
     node [
         id 167401
@@ -11613,17 +11613,17 @@ graph [
     node [
         id 69106
         label "Hell"
-        color "red"
+        color "purple"
     ]
     node [
         id 1065555
         label "Echidna"
-        color "red"
+        color "blue"
     ]
     node [
         id 2739700
         label "Diabolical Breed"
-        color "red"
+        color "blue"
     ]
     node [
         id 3573
@@ -11648,7 +11648,7 @@ graph [
     node [
         id 298491
         label "Black & White"
-        color "red"
+        color "blue"
     ]
     node [
         id 265724
@@ -11668,7 +11668,7 @@ graph [
     node [
         id 2444801
         label "HARDBONE"
-        color "red"
+        color "purple"
     ]
     node [
         id 3588
@@ -11683,7 +11683,7 @@ graph [
     node [
         id 675334
         label "Yashin"
-        color "red"
+        color "purple"
     ]
     node [
         id 298503
@@ -11713,7 +11713,7 @@ graph [
     node [
         id 1199629
         label "Helms Alee"
-        color "red"
+        color "purple"
     ]
     node [
         id 1035791
@@ -11798,12 +11798,12 @@ graph [
     node [
         id 2774095
         label "We Are The Damned"
-        color "red"
+        color "blue"
     ]
     node [
         id 560681
         label "Jonne Järvelä"
-        color "red"
+        color "blue"
     ]
     node [
         id 1248810
@@ -11813,7 +11813,7 @@ graph [
     node [
         id 314923
         label "The Old Dead Tree"
-        color "red"
+        color "blue"
     ]
     node [
         id 20014
@@ -11843,7 +11843,7 @@ graph [
     node [
         id 2723382
         label "Drakwald"
-        color "red"
+        color "blue"
     ]
     node [
         id 3639
@@ -11858,12 +11858,12 @@ graph [
     node [
         id 134713
         label "Loudness"
-        color "red"
+        color "blue"
     ]
     node [
         id 1618267
         label "Magnus Karlsson’s Free Fall"
-        color "red"
+        color "blue"
     ]
     node [
         id 3211871
@@ -11878,7 +11878,7 @@ graph [
     node [
         id 822846
         label "Gorod"
-        color "red"
+        color "blue"
     ]
     node [
         id 20031
@@ -11888,12 +11888,12 @@ graph [
     node [
         id 1206697
         label "Zyklon"
-        color "red"
+        color "purple"
     ]
     node [
         id 560705
         label "Forlorn"
-        color "red"
+        color "purple"
     ]
     node [
         id 38311
@@ -11918,7 +11918,7 @@ graph [
     node [
         id 1265229
         label "Ghoul"
-        color "red"
+        color "purple"
     ]
     node [
         id 4519037
@@ -11928,7 +11928,7 @@ graph [
     node [
         id 547547
         label "Triosphere"
-        color "red"
+        color "purple"
     ]
     node [
         id 560722
@@ -11938,7 +11938,7 @@ graph [
     node [
         id 2199124
         label "Perc3ption"
-        color "red"
+        color "blue"
     ]
     node [
         id 101973
@@ -11953,12 +11953,12 @@ graph [
     node [
         id 773722
         label "One Minute Silence"
-        color "red"
+        color "purple"
     ]
     node [
         id 1069358
         label "Crocell"
-        color "red"
+        color "blue"
     ]
     node [
         id 249436
@@ -11978,7 +11978,7 @@ graph [
     node [
         id 265825
         label "Dimmu Borgir"
-        color "red"
+        color "blue"
     ]
     node [
         id 1867046
@@ -11993,7 +11993,7 @@ graph [
     node [
         id 2901983
         label "WINGS IN MOTION"
-        color "red"
+        color "blue"
     ]
     node [
         id 3378792
@@ -12003,7 +12003,7 @@ graph [
     node [
         id 675433
         label "Hour of Penance"
-        color "red"
+        color "blue"
     ]
     node [
         id 1277836
@@ -12018,7 +12018,7 @@ graph [
     node [
         id 265839
         label "Hibria"
-        color "red"
+        color "purple"
     ]
     node [
         id 3347
@@ -12038,7 +12038,7 @@ graph [
     node [
         id 4800420
         label "Elixir"
-        color "red"
+        color "blue"
     ]
     node [
         id 200313
@@ -12063,7 +12063,7 @@ graph [
     node [
         id 1281663
         label "Devilyn"
-        color "red"
+        color "blue"
     ]
     node [
         id 2381946
@@ -12073,7 +12073,7 @@ graph [
     node [
         id 380547
         label "Destruction of a Rose"
-        color "red"
+        color "purple"
     ]
     node [
         id 167190
@@ -12093,12 +12093,12 @@ graph [
     node [
         id 315018
         label "Shade Empire"
-        color "red"
+        color "blue"
     ]
     node [
         id 183948
         label "Warrant"
-        color "red"
+        color "purple"
     ]
     node [
         id 85645
@@ -12108,12 +12108,12 @@ graph [
     node [
         id 347792
         label "Avalanch"
-        color "red"
+        color "purple"
     ]
     node [
         id 724625
         label "Full Of Hell"
-        color "red"
+        color "blue"
     ]
     node [
         id 3731
@@ -12123,7 +12123,7 @@ graph [
     node [
         id 282260
         label "M.A.N"
-        color "red"
+        color "blue"
     ]
     node [
         id 85653
@@ -12138,7 +12138,7 @@ graph [
     node [
         id 300996
         label "Resurrection"
-        color "red"
+        color "purple"
     ]
     node [
         id 4465263
@@ -12153,7 +12153,7 @@ graph [
     node [
         id 2487901
         label "Vomitile"
-        color "red"
+        color "blue"
     ]
     node [
         id 1865669
@@ -12168,7 +12168,7 @@ graph [
     node [
         id 233123
         label "Element Eighty"
-        color "red"
+        color "blue"
     ]
     node [
         id 659108
@@ -12183,7 +12183,7 @@ graph [
     node [
         id 1878824
         label "ChoiceFatal"
-        color "red"
+        color "blue"
     ]
     node [
         id 3244657
@@ -12193,7 +12193,7 @@ graph [
     node [
         id 757416
         label "Cannabis Corpse"
-        color "red"
+        color "blue"
     ]
     node [
         id 69289
@@ -12263,17 +12263,17 @@ graph [
     node [
         id 2291658
         label "Illusory"
-        color "red"
+        color "blue"
     ]
     node [
         id 265918
         label "Kylesa"
-        color "red"
+        color "purple"
     ]
     node [
         id 265919
         label "War From A Harlots Mouth"
-        color "red"
+        color "blue"
     ]
     node [
         id 1216192
@@ -12298,22 +12298,22 @@ graph [
     node [
         id 1818494
         label "Mancubus"
-        color "red"
+        color "blue"
     ]
     node [
         id 298694
         label "Catamenia"
-        color "red"
+        color "purple"
     ]
     node [
         id 2051784
         label "My Missing Half"
-        color "red"
+        color "blue"
     ]
     node [
         id 2739914
         label "Celestial Crown"
-        color "red"
+        color "blue"
     ]
     node [
         id 2133707
@@ -12323,12 +12323,12 @@ graph [
     node [
         id 478926
         label "Conqueror"
-        color "red"
+        color "purple"
     ]
     node [
         id 538573
         label "Demolition Hammer"
-        color "red"
+        color "blue"
     ]
     node [
         id 1986256
@@ -12338,7 +12338,7 @@ graph [
     node [
         id 1861286
         label "Harter Attack"
-        color "red"
+        color "blue"
     ]
     node [
         id 233171
@@ -12358,12 +12358,12 @@ graph [
     node [
         id 359639
         label "Стыров"
-        color "red"
+        color "blue"
     ]
     node [
         id 659162
         label "Beatallica"
-        color "red"
+        color "purple"
     ]
     node [
         id 2367762
@@ -12388,7 +12388,7 @@ graph [
     node [
         id 315109
         label "Daiquirí"
-        color "red"
+        color "blue"
     ]
     node [
         id 20199
@@ -12403,7 +12403,7 @@ graph [
     node [
         id 3468583
         label "Сатанакозёл"
-        color "red"
+        color "blue"
     ]
     node [
         id 4591340
@@ -12423,7 +12423,7 @@ graph [
     node [
         id 3826
         label "Kreator"
-        color "red"
+        color "blue"
     ]
     node [
         id 1560308
@@ -12448,7 +12448,7 @@ graph [
     node [
         id 1806074
         label "Canobliss"
-        color "red"
+        color "blue"
     ]
     node [
         id 672383
@@ -12463,7 +12463,7 @@ graph [
     node [
         id 757503
         label "City Of Ships"
-        color "red"
+        color "purple"
     ]
     node [
         id 3842
@@ -12473,12 +12473,12 @@ graph [
     node [
         id 1740075
         label "The Body Politic"
-        color "red"
+        color "purple"
     ]
     node [
         id 1628118
         label "Liquid Rain"
-        color "red"
+        color "blue"
     ]
     node [
         id 331526
@@ -12493,7 +12493,7 @@ graph [
     node [
         id 2117385
         label "Etched In Red"
-        color "red"
+        color "blue"
     ]
     node [
         id 3441282
@@ -12503,12 +12503,12 @@ graph [
     node [
         id 593680
         label "Wolves At The Gate"
-        color "red"
+        color "purple"
     ]
     node [
         id 298769
         label "The Rock Heroes"
-        color "red"
+        color "purple"
     ]
     node [
         id 331541
@@ -12558,7 +12558,7 @@ graph [
     node [
         id 538587
         label "GWAR"
-        color "red"
+        color "purple"
     ]
     node [
         id 184100
@@ -12573,7 +12573,7 @@ graph [
     node [
         id 672391
         label "Corbin King"
-        color "red"
+        color "purple"
     ]
     node [
         id 200492
@@ -12583,7 +12583,7 @@ graph [
     node [
         id 429869
         label "Theatres Des Vampires"
-        color "red"
+        color "blue"
     ]
     node [
         id 3051311
@@ -12603,7 +12603,7 @@ graph [
     node [
         id 315189
         label "Monstrosity"
-        color "red"
+        color "blue"
     ]
     node [
         id 315192
@@ -12613,7 +12613,7 @@ graph [
     node [
         id 1204749
         label "Wo Fat"
-        color "red"
+        color "purple"
     ]
     node [
         id 773947
@@ -12628,22 +12628,22 @@ graph [
     node [
         id 331581
         label "Tankard"
-        color "red"
+        color "purple"
     ]
     node [
         id 331582
         label "Necrophobic"
-        color "red"
+        color "blue"
     ]
     node [
         id 2250040
         label "Z3r0c00l"
-        color "red"
+        color "blue"
     ]
     node [
         id 1249088
         label "Liva"
-        color "red"
+        color "purple"
     ]
     node [
         id 2439136
@@ -12653,7 +12653,7 @@ graph [
     node [
         id 331586
         label "Iron Savior"
-        color "red"
+        color "purple"
     ]
     node [
         id 4378435
@@ -12668,7 +12668,7 @@ graph [
     node [
         id 511813
         label "Emergency Gate"
-        color "red"
+        color "purple"
     ]
     node [
         id 1199942
@@ -12683,7 +12683,7 @@ graph [
     node [
         id 315209
         label "Axenstar"
-        color "red"
+        color "purple"
     ]
     node [
         id 429898
@@ -12703,27 +12703,27 @@ graph [
     node [
         id 331598
         label "Tristania"
-        color "red"
+        color "purple"
     ]
     node [
         id 266067
         label "Unlight"
-        color "red"
+        color "purple"
     ]
     node [
         id 331606
         label "Deadborn"
-        color "red"
+        color "purple"
     ]
     node [
         id 757591
         label "The Charm The Fury"
-        color "red"
+        color "blue"
     ]
     node [
         id 741209
         label "The Great American Beast"
-        color "red"
+        color "blue"
     ]
     node [
         id 1276878
@@ -12733,7 +12733,7 @@ graph [
     node [
         id 48686
         label "Mastodon"
-        color "red"
+        color "blue"
     ]
     node [
         id 1363804
@@ -12748,7 +12748,7 @@ graph [
     node [
         id 151391
         label "Nocturnal Rites"
-        color "red"
+        color "blue"
     ]
     node [
         id 1036128
@@ -12758,12 +12758,12 @@ graph [
     node [
         id 1008272
         label "Morbus Chron"
-        color "red"
+        color "blue"
     ]
     node [
         id 757602
         label "Windhand"
-        color "red"
+        color "purple"
     ]
     node [
         id 2038362
@@ -12773,7 +12773,7 @@ graph [
     node [
         id 380773
         label "Silverlane"
-        color "red"
+        color "blue"
     ]
     node [
         id 2204305
@@ -12788,7 +12788,7 @@ graph [
     node [
         id 151402
         label "The Agonist"
-        color "red"
+        color "purple"
     ]
     node [
         id 4591468
@@ -12798,12 +12798,12 @@ graph [
     node [
         id 413550
         label "Crystal Ball"
-        color "red"
+        color "purple"
     ]
     node [
         id 798013
         label "Eleanor"
-        color "red"
+        color "purple"
     ]
     node [
         id 36720
@@ -12823,17 +12823,17 @@ graph [
     node [
         id 970611
         label "SEKS"
-        color "red"
+        color "blue"
     ]
     node [
         id 708468
         label "Bury Tomorrow"
-        color "red"
+        color "blue"
     ]
     node [
         id 708469
         label "No Consequence"
-        color "red"
+        color "blue"
     ]
     node [
         id 2101110
@@ -12843,7 +12843,7 @@ graph [
     node [
         id 708471
         label "Fellsilent"
-        color "red"
+        color "blue"
     ]
     node [
         id 36729
@@ -12853,7 +12853,7 @@ graph [
     node [
         id 1773435
         label "Faithful Darkness"
-        color "red"
+        color "purple"
     ]
     node [
         id 3231612
@@ -12883,7 +12883,7 @@ graph [
     node [
         id 151427
         label "Armageddon"
-        color "red"
+        color "blue"
     ]
     node [
         id 151428
@@ -12903,12 +12903,12 @@ graph [
     node [
         id 151432
         label "Asphyx"
-        color "red"
+        color "blue"
     ]
     node [
         id 315273
         label "T.H.C."
-        color "red"
+        color "blue"
     ]
     node [
         id 36749
@@ -12918,7 +12918,7 @@ graph [
     node [
         id 84695
         label "Falconer"
-        color "red"
+        color "blue"
     ]
     node [
         id 36753
@@ -12933,12 +12933,12 @@ graph [
     node [
         id 151444
         label "Orphaned Land"
-        color "red"
+        color "purple"
     ]
     node [
         id 874478
         label "Scarab"
-        color "red"
+        color "purple"
     ]
     node [
         id 200598
@@ -12948,7 +12948,7 @@ graph [
     node [
         id 642967
         label "Kaizen"
-        color "red"
+        color "blue"
     ]
     node [
         id 19780
@@ -12963,12 +12963,12 @@ graph [
     node [
         id 2234351
         label "Drop Forged"
-        color "red"
+        color "blue"
     ]
     node [
         id 2215837
         label "Disturbed Angel"
-        color "red"
+        color "blue"
     ]
     node [
         id 642263
@@ -12978,12 +12978,12 @@ graph [
     node [
         id 151455
         label "Lacuna Coil"
-        color "red"
+        color "blue"
     ]
     node [
         id 1542991
         label "Black Deep White"
-        color "red"
+        color "blue"
     ]
     node [
         id 36773
@@ -12993,7 +12993,7 @@ graph [
     node [
         id 561066
         label "Ice Ages"
-        color "red"
+        color "blue"
     ]
     node [
         id 1200043
@@ -13048,7 +13048,7 @@ graph [
     node [
         id 593852
         label "Elm Street"
-        color "red"
+        color "blue"
     ]
     node [
         id 2265021
@@ -13063,7 +13063,7 @@ graph [
     node [
         id 85952
         label "Cromwell"
-        color "red"
+        color "purple"
     ]
     node [
         id 118722
@@ -13078,7 +13078,7 @@ graph [
     node [
         id 1281988
         label "Liers In Wait"
-        color "red"
+        color "blue"
     ]
     node [
         id 135109
@@ -13103,7 +13103,7 @@ graph [
     node [
         id 413642
         label "Bishop Of Hexen"
-        color "red"
+        color "blue"
     ]
     node [
         id 36811
@@ -13113,7 +13113,7 @@ graph [
     node [
         id 643020
         label "World Under Blood"
-        color "red"
+        color "blue"
     ]
     node [
         id 2712226
@@ -13133,7 +13133,7 @@ graph [
     node [
         id 266196
         label "Rhapsody Of Fire"
-        color "red"
+        color "blue"
     ]
     node [
         id 1019862
@@ -13163,7 +13163,7 @@ graph [
     node [
         id 1873485
         label "Neverwake"
-        color "red"
+        color "purple"
     ]
     node [
         id 36830
@@ -13183,22 +13183,22 @@ graph [
     node [
         id 1901636
         label "Sacred 13"
-        color "red"
+        color "purple"
     ]
     node [
         id 823267
         label "Totalselfhatred"
-        color "red"
+        color "blue"
     ]
     node [
         id 20452
         label "Mushroomhead"
-        color "red"
+        color "blue"
     ]
     node [
         id 983718
         label "Phazm"
-        color "red"
+        color "purple"
     ]
     node [
         id 872422
@@ -13208,12 +13208,12 @@ graph [
     node [
         id 1789265
         label "Legion of Doom"
-        color "red"
+        color "blue"
     ]
     node [
         id 20456
         label "Hatebreed"
-        color "red"
+        color "blue"
     ]
     node [
         id 36841
@@ -13228,7 +13228,7 @@ graph [
     node [
         id 4342439
         label "Аметист"
-        color "red"
+        color "blue"
     ]
     node [
         id 823276
@@ -13268,7 +13268,7 @@ graph [
     node [
         id 1611774
         label "Disillusion"
-        color "red"
+        color "blue"
     ]
     node [
         id 4088
@@ -13308,7 +13308,7 @@ graph [
     node [
         id 593711
         label "J.J. Hrubovcak"
-        color "red"
+        color "blue"
     ]
     node [
         id 184322
@@ -13318,7 +13318,7 @@ graph [
     node [
         id 430083
         label "Хамер"
-        color "red"
+        color "blue"
     ]
     node [
         id 36868
@@ -13338,7 +13338,7 @@ graph [
     node [
         id 708616
         label "Stepfather Fred"
-        color "red"
+        color "blue"
     ]
     node [
         id 593931
@@ -13348,7 +13348,7 @@ graph [
     node [
         id 2234370
         label "Attick Demons"
-        color "red"
+        color "blue"
     ]
     node [
         id 184334
@@ -13373,7 +13373,7 @@ graph [
     node [
         id 1289307
         label "Vampillia"
-        color "red"
+        color "purple"
     ]
     node [
         id 36883
@@ -13383,7 +13383,7 @@ graph [
     node [
         id 1724436
         label "Dol Theeta"
-        color "red"
+        color "purple"
     ]
     node [
         id 320174
@@ -13403,12 +13403,12 @@ graph [
     node [
         id 1733167
         label "Extirpated"
-        color "red"
+        color "blue"
     ]
     node [
         id 2966191
         label "Diapsiquir"
-        color "red"
+        color "blue"
     ]
     node [
         id 36892
@@ -13433,12 +13433,12 @@ graph [
     node [
         id 1335135
         label "Mark Cook"
-        color "red"
+        color "purple"
     ]
     node [
         id 2837851
         label "Psycrence"
-        color "red"
+        color "blue"
     ]
     node [
         id 1069093
@@ -13453,7 +13453,7 @@ graph [
     node [
         id 348199
         label "Grenouer"
-        color "red"
+        color "purple"
     ]
     node [
         id 675880
@@ -13468,12 +13468,12 @@ graph [
     node [
         id 315435
         label "Estatic Fear"
-        color "red"
+        color "blue"
     ]
     node [
         id 167980
         label "Exodus"
-        color "red"
+        color "blue"
     ]
     node [
         id 646736
@@ -13483,12 +13483,12 @@ graph [
     node [
         id 20529
         label "Origin"
-        color "red"
+        color "blue"
     ]
     node [
         id 2330674
         label "Hoth"
-        color "red"
+        color "blue"
     ]
     node [
         id 1770163
@@ -13508,7 +13508,7 @@ graph [
     node [
         id 708663
         label "For The Win"
-        color "red"
+        color "purple"
     ]
     node [
         id 167992
@@ -13568,7 +13568,7 @@ graph [
     node [
         id 2887751
         label "Lords of Black"
-        color "red"
+        color "blue"
     ]
     node [
         id 3199048
@@ -13583,12 +13583,12 @@ graph [
     node [
         id 2723915
         label "Artaius"
-        color "red"
+        color "blue"
     ]
     node [
         id 36941
         label "Drowning Pool"
-        color "red"
+        color "blue"
     ]
     node [
         id 118862
@@ -13603,12 +13603,12 @@ graph [
     node [
         id 896355
         label "Adrana"
-        color "red"
+        color "blue"
     ]
     node [
         id 819461
         label "Carach Angren"
-        color "red"
+        color "purple"
     ]
     node [
         id 1106545
@@ -13633,7 +13633,7 @@ graph [
     node [
         id 4788320
         label "Patterns"
-        color "red"
+        color "blue"
     ]
     node [
         id 36961
@@ -13673,7 +13673,7 @@ graph [
     node [
         id 1069162
         label "Dyslesia"
-        color "red"
+        color "blue"
     ]
     node [
         id 888939
@@ -13693,7 +13693,7 @@ graph [
     node [
         id 1201136
         label "Ides Of Gemini"
-        color "red"
+        color "purple"
     ]
     node [
         id 118895
@@ -13708,7 +13708,7 @@ graph [
     node [
         id 2658421
         label "Electric Age"
-        color "red"
+        color "blue"
     ]
     node [
         id 185737
@@ -13718,7 +13718,7 @@ graph [
     node [
         id 2904183
         label "Alterbeast"
-        color "red"
+        color "blue"
     ]
     node [
         id 544888
@@ -13758,7 +13758,7 @@ graph [
     node [
         id 249985
         label "Czar"
-        color "red"
+        color "purple"
     ]
     node [
         id 413826
@@ -13768,12 +13768,12 @@ graph [
     node [
         id 1183875
         label "Black Tusk"
-        color "red"
+        color "blue"
     ]
     node [
         id 2107816
         label "Fortress Under Siege"
-        color "red"
+        color "blue"
     ]
     node [
         id 20616
@@ -13783,7 +13783,7 @@ graph [
     node [
         id 478572
         label "Dark Empire"
-        color "red"
+        color "blue"
     ]
     node [
         id 168075
@@ -13793,7 +13793,7 @@ graph [
     node [
         id 1516226
         label "Dawn of Memories"
-        color "red"
+        color "blue"
     ]
     node [
         id 37009
@@ -13803,17 +13803,17 @@ graph [
     node [
         id 331922
         label "Rob Rock"
-        color "red"
+        color "purple"
     ]
     node [
         id 610451
         label "Scalpel"
-        color "red"
+        color "blue"
     ]
     node [
         id 4244
         label "Inferno"
-        color "red"
+        color "blue"
     ]
     node [
         id 1200277
@@ -13823,7 +13823,7 @@ graph [
     node [
         id 3182742
         label "Theocracy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1980441
@@ -13833,7 +13833,7 @@ graph [
     node [
         id 102552
         label "Bang"
-        color "red"
+        color "purple"
     ]
     node [
         id 626842
@@ -13848,17 +13848,17 @@ graph [
     node [
         id 315548
         label "Moxy"
-        color "red"
+        color "purple"
     ]
     node [
         id 137242
         label "Krokus"
-        color "red"
+        color "purple"
     ]
     node [
         id 168094
         label "Grand Magus"
-        color "red"
+        color "purple"
     ]
     node [
         id 1368773
@@ -13883,17 +13883,17 @@ graph [
     node [
         id 2232487
         label "Akaitsuki"
-        color "red"
+        color "blue"
     ]
     node [
         id 2921097
         label "Son of Aurelius"
-        color "red"
+        color "purple"
     ]
     node [
         id 479402
         label "Bastard"
-        color "red"
+        color "purple"
     ]
     node [
         id 1622727
@@ -13903,12 +13903,12 @@ graph [
     node [
         id 2821490
         label "Serpent Skies"
-        color "red"
+        color "blue"
     ]
     node [
         id 1590340
         label "Destroy She Said"
-        color "red"
+        color "blue"
     ]
     node [
         id 1478835
@@ -13933,12 +13933,12 @@ graph [
     node [
         id 25784
         label "Alchemist"
-        color "red"
+        color "blue"
     ]
     node [
         id 2298045
         label "Moron Police"
-        color "red"
+        color "purple"
     ]
     node [
         id 37054
@@ -13983,17 +13983,17 @@ graph [
     node [
         id 315595
         label "Winterborn"
-        color "red"
+        color "purple"
     ]
     node [
         id 1783842
         label "Trashcan Darlings"
-        color "red"
+        color "purple"
     ]
     node [
         id 141990
         label "Incite"
-        color "red"
+        color "blue"
     ]
     node [
         id 1961995
@@ -14048,17 +14048,17 @@ graph [
     node [
         id 1069277
         label "Aeternitas"
-        color "red"
+        color "purple"
     ]
     node [
         id 479454
         label "Enforcer"
-        color "red"
+        color "purple"
     ]
     node [
         id 305543
         label "Nattefrost"
-        color "red"
+        color "blue"
     ]
     node [
         id 1380577
@@ -14093,7 +14093,7 @@ graph [
     node [
         id 289839
         label "Steel Prophet"
-        color "red"
+        color "blue"
     ]
     node [
         id 184555
@@ -14108,7 +14108,7 @@ graph [
     node [
         id 839917
         label "The Jezabels"
-        color "red"
+        color "blue"
     ]
     node [
         id 20718
@@ -14133,12 +14133,12 @@ graph [
     node [
         id 1986001
         label "The Drake Equation"
-        color "red"
+        color "blue"
     ]
     node [
         id 2258238
         label "Enslavement of Beauty"
-        color "red"
+        color "blue"
     ]
     node [
         id 1886253
@@ -14178,7 +14178,7 @@ graph [
     node [
         id 677930
         label "Tantal"
-        color "red"
+        color "blue"
     ]
     node [
         id 2674942
@@ -14188,12 +14188,12 @@ graph [
     node [
         id 2658559
         label "Windir"
-        color "red"
+        color "blue"
     ]
     node [
         id 4624354
         label "Raising Adonai"
-        color "red"
+        color "blue"
     ]
     node [
         id 774402
@@ -14223,7 +14223,7 @@ graph [
     node [
         id 2396427
         label "Cookiebreed"
-        color "red"
+        color "blue"
     ]
     node [
         id 2658574
@@ -14233,7 +14233,7 @@ graph [
     node [
         id 1151247
         label "Cephalic Carnage"
-        color "red"
+        color "blue"
     ]
     node [
         id 102672
@@ -14248,7 +14248,7 @@ graph [
     node [
         id 1151250
         label "Unearthly Trance"
-        color "red"
+        color "purple"
     ]
     node [
         id 1577235
@@ -14258,42 +14258,42 @@ graph [
     node [
         id 1151252
         label "Regurgitate"
-        color "red"
+        color "blue"
     ]
     node [
         id 292910
         label "Unleashed"
-        color "red"
+        color "blue"
     ]
     node [
         id 1795600
         label "So This Is Suffering"
-        color "red"
+        color "blue"
     ]
     node [
         id 851227
         label "Rauschhardt"
-        color "red"
+        color "purple"
     ]
     node [
         id 1151257
         label "Cryptic Slaughter"
-        color "red"
+        color "blue"
     ]
     node [
         id 430364
         label "Death Destruction"
-        color "red"
+        color "blue"
     ]
     node [
         id 479520
         label "Game Over"
-        color "red"
+        color "blue"
     ]
     node [
         id 2609441
         label "Shotgun Revolution"
-        color "red"
+        color "purple"
     ]
     node [
         id 185933
@@ -14338,7 +14338,7 @@ graph [
     node [
         id 643374
         label "Eskimo Callboy"
-        color "red"
+        color "purple"
     ]
     node [
         id 1020207
@@ -14353,7 +14353,7 @@ graph [
     node [
         id 2396467
         label "Dischord"
-        color "red"
+        color "purple"
     ]
     node [
         id 2042742
@@ -14408,7 +14408,7 @@ graph [
     node [
         id 2543940
         label "Tomorrow's Eve"
-        color "red"
+        color "blue"
     ]
     node [
         id 1347911
@@ -14433,7 +14433,7 @@ graph [
     node [
         id 124481
         label "Nucleus"
-        color "red"
+        color "blue"
     ]
     node [
         id 282957
@@ -14443,7 +14443,7 @@ graph [
     node [
         id 1151310
         label "Agoraphobic Nosebleed"
-        color "red"
+        color "blue"
     ]
     node [
         id 2034319
@@ -14453,7 +14453,7 @@ graph [
     node [
         id 1151312
         label "Alabama Thunderpussy"
-        color "red"
+        color "blue"
     ]
     node [
         id 2611256
@@ -14468,12 +14468,12 @@ graph [
     node [
         id 1049315
         label "Invasion"
-        color "red"
+        color "blue"
     ]
     node [
         id 643412
         label "Synk;yet"
-        color "red"
+        color "purple"
     ]
     node [
         id 348502
@@ -14493,7 +14493,7 @@ graph [
     node [
         id 168283
         label "Pathology"
-        color "red"
+        color "purple"
     ]
     node [
         id 619218
@@ -14508,12 +14508,12 @@ graph [
     node [
         id 2232600
         label "Intentions"
-        color "red"
+        color "purple"
     ]
     node [
         id 348511
         label "American Dog"
-        color "red"
+        color "purple"
     ]
     node [
         id 1757536
@@ -14523,7 +14523,7 @@ graph [
     node [
         id 1308731
         label "Diabold"
-        color "red"
+        color "blue"
     ]
     node [
         id 4454
@@ -14538,7 +14538,7 @@ graph [
     node [
         id 2036073
         label "Ploy for Extinction"
-        color "red"
+        color "blue"
     ]
     node [
         id 412474
@@ -14548,7 +14548,7 @@ graph [
     node [
         id 512363
         label "Insense"
-        color "red"
+        color "purple"
     ]
     node [
         id 545132
@@ -14558,7 +14558,7 @@ graph [
     node [
         id 986514
         label "Bad Bones"
-        color "red"
+        color "blue"
     ]
     node [
         id 233838
@@ -14573,7 +14573,7 @@ graph [
     node [
         id 1397107
         label "Uncle Acid & The Deadbeats"
-        color "red"
+        color "purple"
     ]
     node [
         id 233844
@@ -14583,12 +14583,12 @@ graph [
     node [
         id 2310071
         label "Vaindustry"
-        color "red"
+        color "blue"
     ]
     node [
         id 1151350
         label "Coliseum"
-        color "red"
+        color "blue"
     ]
     node [
         id 4473
@@ -14628,7 +14628,7 @@ graph [
     node [
         id 1618295
         label "Adramelch"
-        color "red"
+        color "purple"
     ]
     node [
         id 3165590
@@ -14638,12 +14638,12 @@ graph [
     node [
         id 2036102
         label "Beheading Of A King"
-        color "red"
+        color "blue"
     ]
     node [
         id 1134983
         label "Sarcasm"
-        color "red"
+        color "blue"
     ]
     node [
         id 1954184
@@ -14663,7 +14663,7 @@ graph [
     node [
         id 4634690
         label "Pikes Edge"
-        color "red"
+        color "blue"
     ]
     node [
         id 860909
@@ -14688,7 +14688,7 @@ graph [
     node [
         id 2029635
         label "Curt Shaw"
-        color "red"
+        color "blue"
     ]
     node [
         id 135572
@@ -14723,7 +14723,7 @@ graph [
     node [
         id 643483
         label "Demented Are Go"
-        color "red"
+        color "purple"
     ]
     node [
         id 4508
@@ -14738,7 +14738,7 @@ graph [
     node [
         id 217504
         label "Dreamworld"
-        color "red"
+        color "blue"
     ]
     node [
         id 299426
@@ -14753,7 +14753,7 @@ graph [
     node [
         id 1033823
         label "Abacus"
-        color "red"
+        color "purple"
     ]
     node [
         id 4517
@@ -14763,7 +14763,7 @@ graph [
     node [
         id 590577
         label "Silent Screams"
-        color "red"
+        color "purple"
     ]
     node [
         id 643496
@@ -14778,12 +14778,12 @@ graph [
     node [
         id 905642
         label "Symphony X"
-        color "red"
+        color "blue"
     ]
     node [
         id 856491
         label "Hacride"
-        color "red"
+        color "purple"
     ]
     node [
         id 4524
@@ -14793,12 +14793,12 @@ graph [
     node [
         id 4559277
         label "Ulfdallir"
-        color "red"
+        color "blue"
     ]
     node [
         id 1266095
         label "Metal"
-        color "red"
+        color "purple"
     ]
     node [
         id 86449
@@ -14818,12 +14818,12 @@ graph [
     node [
         id 168372
         label "Кипелов"
-        color "red"
+        color "blue"
     ]
     node [
         id 627125
         label "Niobeth"
-        color "red"
+        color "blue"
     ]
     node [
         id 3412409
@@ -14848,7 +14848,7 @@ graph [
     node [
         id 905663
         label "Dead Soul Tribe"
-        color "red"
+        color "purple"
     ]
     node [
         id 905664
@@ -14883,7 +14883,7 @@ graph [
     node [
         id 1102282
         label "Vanessa Van Basten"
-        color "red"
+        color "blue"
     ]
     node [
         id 1905099
@@ -14903,7 +14903,7 @@ graph [
     node [
         id 627150
         label "Heljareyga"
-        color "red"
+        color "blue"
     ]
     node [
         id 1298895
@@ -14923,7 +14923,7 @@ graph [
     node [
         id 2363858
         label "Nyceria"
-        color "red"
+        color "blue"
     ]
     node [
         id 109987
@@ -14933,7 +14933,7 @@ graph [
     node [
         id 1233364
         label "Zandelle"
-        color "red"
+        color "blue"
     ]
     node [
         id 1937877
@@ -14958,17 +14958,17 @@ graph [
     node [
         id 266715
         label "Times Of Grace"
-        color "red"
+        color "blue"
     ]
     node [
         id 168412
         label "Angelus Apatrida"
-        color "red"
+        color "blue"
     ]
     node [
         id 738042
         label "Caulfield"
-        color "red"
+        color "blue"
     ]
     node [
         id 20958
@@ -14978,7 +14978,7 @@ graph [
     node [
         id 1479136
         label "Weirdland"
-        color "red"
+        color "blue"
     ]
     node [
         id 2724321
@@ -14988,7 +14988,7 @@ graph [
     node [
         id 905699
         label "Evocation"
-        color "red"
+        color "purple"
     ]
     node [
         id 135652
@@ -15033,12 +15033,12 @@ graph [
     node [
         id 633554
         label "Bloodthorn"
-        color "red"
+        color "blue"
     ]
     node [
         id 905721
         label "Sieges Even"
-        color "red"
+        color "blue"
     ]
     node [
         id 594426
@@ -15053,7 +15053,7 @@ graph [
     node [
         id 1839614
         label "Sirocco"
-        color "red"
+        color "blue"
     ]
     node [
         id 299520
@@ -15088,7 +15088,7 @@ graph [
     node [
         id 348681
         label "Dawn Of Solace"
-        color "red"
+        color "blue"
     ]
     node [
         id 1839628
@@ -15113,7 +15113,7 @@ graph [
     node [
         id 1167892
         label "Imminence"
-        color "red"
+        color "purple"
     ]
     node [
         id 2960814
@@ -15153,17 +15153,17 @@ graph [
     node [
         id 1217055
         label "Spawn of Possession"
-        color "red"
+        color "blue"
     ]
     node [
         id 643616
         label "Troops of Tomorrow"
-        color "red"
+        color "purple"
     ]
     node [
         id 332321
         label "Morgul"
-        color "red"
+        color "purple"
     ]
     node [
         id 202843
@@ -15173,7 +15173,7 @@ graph [
     node [
         id 2343686
         label "Alterity"
-        color "red"
+        color "blue"
     ]
     node [
         id 4646
@@ -15203,7 +15203,7 @@ graph [
     node [
         id 1544747
         label "Madam X"
-        color "red"
+        color "purple"
     ]
     node [
         id 929122
@@ -15213,12 +15213,12 @@ graph [
     node [
         id 1544750
         label "Maxine Petrucci"
-        color "red"
+        color "blue"
     ]
     node [
         id 4613247
         label "Amodeus"
-        color "red"
+        color "blue"
     ]
     node [
         id 1439901
@@ -15233,12 +15233,12 @@ graph [
     node [
         id 905778
         label "Adrenaline Mob"
-        color "red"
+        color "purple"
     ]
     node [
         id 1082556
         label "Gynger Lynn"
-        color "red"
+        color "purple"
     ]
     node [
         id 905780
@@ -15278,7 +15278,7 @@ graph [
     node [
         id 905791
         label "Evergrey"
-        color "red"
+        color "blue"
     ]
     node [
         id 4672
@@ -15298,7 +15298,7 @@ graph [
     node [
         id 2986033
         label "Patty Walters"
-        color "red"
+        color "blue"
     ]
     node [
         id 4678
@@ -15323,17 +15323,17 @@ graph [
     node [
         id 37452
         label "Helloween"
-        color "red"
+        color "purple"
     ]
     node [
         id 1593933
         label "Pantommind"
-        color "red"
+        color "purple"
     ]
     node [
         id 758351
         label "Southern"
-        color "red"
+        color "purple"
     ]
     node [
         id 3658320
@@ -15348,12 +15348,12 @@ graph [
     node [
         id 987731
         label "Noctiferia"
-        color "red"
+        color "blue"
     ]
     node [
         id 545364
         label "Leiden"
-        color "red"
+        color "blue"
     ]
     node [
         id 2413142
@@ -15363,12 +15363,12 @@ graph [
     node [
         id 290233
         label "Dagoba"
-        color "red"
+        color "blue"
     ]
     node [
         id 135768
         label "Whale"
-        color "red"
+        color "blue"
     ]
     node [
         id 1177700
@@ -15378,7 +15378,7 @@ graph [
     node [
         id 1462875
         label "At The Dawn"
-        color "red"
+        color "blue"
     ]
     node [
         id 168540
@@ -15393,7 +15393,7 @@ graph [
     node [
         id 168410
         label "Witchery"
-        color "red"
+        color "blue"
     ]
     node [
         id 147459
@@ -15423,12 +15423,12 @@ graph [
     node [
         id 2515729
         label "Prejudice Reborn"
-        color "red"
+        color "blue"
     ]
     node [
         id 1970793
         label "Atomwinter"
-        color "red"
+        color "purple"
     ]
     node [
         id 4714
@@ -15443,12 +15443,12 @@ graph [
     node [
         id 1643116
         label "Megadriver"
-        color "red"
+        color "blue"
     ]
     node [
         id 919434
         label "Qantice"
-        color "red"
+        color "blue"
     ]
     node [
         id 2231518
@@ -15483,7 +15483,7 @@ graph [
     node [
         id 332406
         label "Lock Up"
-        color "red"
+        color "purple"
     ]
     node [
         id 1822890
@@ -15498,7 +15498,7 @@ graph [
     node [
         id 414332
         label "Blinded Rain"
-        color "red"
+        color "purple"
     ]
     node [
         id 172556
@@ -15508,7 +15508,7 @@ graph [
     node [
         id 545408
         label "Deathchain"
-        color "red"
+        color "blue"
     ]
     node [
         id 123023
@@ -15518,7 +15518,7 @@ graph [
     node [
         id 1200772
         label "Sourvein"
-        color "red"
+        color "purple"
     ]
     node [
         id 4743
@@ -15528,7 +15528,7 @@ graph [
     node [
         id 1577608
         label "Trouser Mouth"
-        color "red"
+        color "purple"
     ]
     node [
         id 610953
@@ -15543,7 +15543,7 @@ graph [
     node [
         id 119435
         label "40 Below Summer"
-        color "red"
+        color "purple"
     ]
     node [
         id 217740
@@ -15558,17 +15558,17 @@ graph [
     node [
         id 119438
         label "Downthesun"
-        color "red"
+        color "blue"
     ]
     node [
         id 1086095
         label "Tread"
-        color "red"
+        color "blue"
     ]
     node [
         id 905873
         label "Marduk"
-        color "red"
+        color "purple"
     ]
     node [
         id 2453527
@@ -15578,7 +15578,7 @@ graph [
     node [
         id 119445
         label "Spineshank"
-        color "red"
+        color "blue"
     ]
     node [
         id 1151638
@@ -15593,7 +15593,7 @@ graph [
     node [
         id 1151640
         label "Blood Tsunami"
-        color "red"
+        color "purple"
     ]
     node [
         id 905881
@@ -15608,7 +15608,7 @@ graph [
     node [
         id 4608670
         label "Sin Against Sin"
-        color "red"
+        color "blue"
     ]
     node [
         id 430752
@@ -15628,7 +15628,7 @@ graph [
     node [
         id 1039108
         label "Hectic Patterns"
-        color "red"
+        color "blue"
     ]
     node [
         id 718571
@@ -15663,22 +15663,22 @@ graph [
     node [
         id 2644918
         label "Marathonmann"
-        color "red"
+        color "blue"
     ]
     node [
         id 987827
         label "Reverence"
-        color "red"
+        color "blue"
     ]
     node [
         id 1630715
         label "The Goat and Your Mom"
-        color "red"
+        color "blue"
     ]
     node [
         id 1868574
         label "Orion's Reign"
-        color "red"
+        color "blue"
     ]
     node [
         id 4792
@@ -15703,12 +15703,12 @@ graph [
     node [
         id 4616731
         label "Dreamfall in Vain"
-        color "red"
+        color "blue"
     ]
     node [
         id 49952
         label "Chevelle"
-        color "red"
+        color "blue"
     ]
     node [
         id 119490
@@ -15733,12 +15733,12 @@ graph [
     node [
         id 1610440
         label "Lorenguard"
-        color "red"
+        color "blue"
     ]
     node [
         id 3658441
         label "Abbath"
-        color "red"
+        color "blue"
     ]
     node [
         id 168650
@@ -15748,12 +15748,12 @@ graph [
     node [
         id 165337
         label "Quartz"
-        color "red"
+        color "blue"
     ]
     node [
         id 168653
         label "Bullet For My Valentine"
-        color "red"
+        color "blue"
     ]
     node [
         id 2052814
@@ -15783,7 +15783,7 @@ graph [
     node [
         id 414423
         label "Rock Goddess"
-        color "red"
+        color "purple"
     ]
     node [
         id 414424
@@ -15818,7 +15818,7 @@ graph [
     node [
         id 1282782
         label "Asesino"
-        color "red"
+        color "blue"
     ]
     node [
         id 426789
@@ -15828,17 +15828,17 @@ graph [
     node [
         id 2635899
         label "Metalsteel"
-        color "red"
+        color "blue"
     ]
     node [
         id 676581
         label "Deals Death"
-        color "red"
+        color "blue"
     ]
     node [
         id 3379942
         label "Havok"
-        color "red"
+        color "purple"
     ]
     node [
         id 86759
@@ -15853,7 +15853,7 @@ graph [
     node [
         id 2728743
         label "Александр Невский"
-        color "red"
+        color "blue"
     ]
     node [
         id 185070
@@ -15873,12 +15873,12 @@ graph [
     node [
         id 1299187
         label "Impending Doom"
-        color "red"
+        color "blue"
     ]
     node [
         id 643830
         label "Seeker"
-        color "red"
+        color "purple"
     ]
     node [
         id 8745
@@ -15918,12 +15918,12 @@ graph [
     node [
         id 2937605
         label "Transmetal"
-        color "red"
+        color "purple"
     ]
     node [
         id 784877
         label "Impaled Nazarene"
-        color "red"
+        color "blue"
     ]
     node [
         id 430856
@@ -15933,7 +15933,7 @@ graph [
     node [
         id 86793
         label "Kutless"
-        color "red"
+        color "blue"
     ]
     node [
         id 185099
@@ -15943,7 +15943,7 @@ graph [
     node [
         id 905996
         label "Jim Matheos"
-        color "red"
+        color "blue"
     ]
     node [
         id 1151762
@@ -15953,12 +15953,12 @@ graph [
     node [
         id 1151764
         label "Odious Mortem"
-        color "red"
+        color "blue"
     ]
     node [
         id 1151765
         label "Ron Jarzombek"
-        color "red"
+        color "blue"
     ]
     node [
         id 265689
@@ -15968,7 +15968,7 @@ graph [
     node [
         id 496408
         label "Heroes"
-        color "red"
+        color "blue"
     ]
     node [
         id 4890
@@ -15983,7 +15983,7 @@ graph [
     node [
         id 2741022
         label "Beyond Violet"
-        color "red"
+        color "blue"
     ]
     node [
         id 332577
@@ -16003,7 +16003,7 @@ graph [
     node [
         id 1822172
         label "Anthriel"
-        color "red"
+        color "blue"
     ]
     node [
         id 119597
@@ -16013,12 +16013,12 @@ graph [
     node [
         id 2003758
         label "No Remorse No Retreat"
-        color "red"
+        color "blue"
     ]
     node [
         id 2090223
         label "Highlight Kenosis"
-        color "red"
+        color "blue"
     ]
     node [
         id 1652872
@@ -16038,7 +16038,7 @@ graph [
     node [
         id 1822174
         label "Mindsplit"
-        color "red"
+        color "blue"
     ]
     node [
         id 906038
@@ -16048,7 +16048,7 @@ graph [
     node [
         id 1610552
         label "Mechanization"
-        color "red"
+        color "blue"
     ]
     node [
         id 906041
@@ -16058,7 +16058,7 @@ graph [
     node [
         id 594746
         label "Drago"
-        color "red"
+        color "blue"
     ]
     node [
         id 1859995
@@ -16073,12 +16073,12 @@ graph [
     node [
         id 201534
         label "Brujeria"
-        color "red"
+        color "purple"
     ]
     node [
         id 987967
         label "Disclose"
-        color "red"
+        color "blue"
     ]
     node [
         id 37696
@@ -16088,12 +16088,12 @@ graph [
     node [
         id 742209
         label "Blacksmith"
-        color "red"
+        color "purple"
     ]
     node [
         id 633565
         label "Agonizer"
-        color "red"
+        color "blue"
     ]
     node [
         id 37700
@@ -16103,7 +16103,7 @@ graph [
     node [
         id 873285
         label "Atomizer"
-        color "red"
+        color "purple"
     ]
     node [
         id 37702
@@ -16113,7 +16113,7 @@ graph [
     node [
         id 4386273
         label "Лешак"
-        color "red"
+        color "purple"
     ]
     node [
         id 1856328
@@ -16123,12 +16123,12 @@ graph [
     node [
         id 809100
         label "Six Ft Ditch"
-        color "red"
+        color "blue"
     ]
     node [
         id 37706
         label "Pythia"
-        color "red"
+        color "purple"
     ]
     node [
         id 1352620
@@ -16143,7 +16143,7 @@ graph [
     node [
         id 3554
         label "Ian Gillan"
-        color "red"
+        color "purple"
     ]
     node [
         id 430927
@@ -16163,12 +16163,12 @@ graph [
     node [
         id 2136206
         label "Logon"
-        color "red"
+        color "blue"
     ]
     node [
         id 873302
         label "The Drugs"
-        color "red"
+        color "blue"
     ]
     node [
         id 1364823
@@ -16178,7 +16178,7 @@ graph [
     node [
         id 103256
         label "Paul Di'Anno"
-        color "red"
+        color "purple"
     ]
     node [
         id 316249
@@ -16188,12 +16188,12 @@ graph [
     node [
         id 349018
         label "Cro-mags"
-        color "red"
+        color "blue"
     ]
     node [
         id 2081029
         label "Bill Majoros"
-        color "red"
+        color "purple"
     ]
     node [
         id 316253
@@ -16213,12 +16213,12 @@ graph [
     node [
         id 217955
         label "Firewind"
-        color "red"
+        color "blue"
     ]
     node [
         id 217956
         label "Gus G."
-        color "red"
+        color "blue"
     ]
     node [
         id 454118
@@ -16278,7 +16278,7 @@ graph [
     node [
         id 1250162
         label "Delusions of Grandeur"
-        color "red"
+        color "purple"
     ]
     node [
         id 1643379
@@ -16298,7 +16298,7 @@ graph [
     node [
         id 316278
         label "Alas"
-        color "red"
+        color "blue"
     ]
     node [
         id 201591
@@ -16313,12 +16313,12 @@ graph [
     node [
         id 562042
         label "Rex Mundi"
-        color "red"
+        color "blue"
     ]
     node [
         id 873339
         label "Eyefear"
-        color "red"
+        color "blue"
     ]
     node [
         id 1086332
@@ -16328,12 +16328,12 @@ graph [
     node [
         id 633567
         label "Cadacross"
-        color "red"
+        color "blue"
     ]
     node [
         id 1086335
         label "Thorgen"
-        color "red"
+        color "blue"
     ]
     node [
         id 662482
@@ -16343,12 +16343,12 @@ graph [
     node [
         id 1233793
         label "Scarpoint"
-        color "red"
+        color "purple"
     ]
     node [
         id 332674
         label "Engage"
-        color "red"
+        color "purple"
     ]
     node [
         id 250755
@@ -16373,7 +16373,7 @@ graph [
     node [
         id 4068232
         label "Morokh"
-        color "red"
+        color "purple"
     ]
     node [
         id 1250185
@@ -16413,12 +16413,12 @@ graph [
     node [
         id 1641772
         label "Woslom"
-        color "red"
+        color "blue"
     ]
     node [
         id 906136
         label "Labyrinth"
-        color "red"
+        color "purple"
     ]
     node [
         id 5018
@@ -16438,7 +16438,7 @@ graph [
     node [
         id 758687
         label "Lahmia"
-        color "red"
+        color "blue"
     ]
     node [
         id 709536
@@ -16463,7 +16463,7 @@ graph [
     node [
         id 906148
         label "Vallenfyre"
-        color "red"
+        color "blue"
     ]
     node [
         id 2614086
@@ -16473,7 +16473,7 @@ graph [
     node [
         id 2413478
         label "The Crimson Armada"
-        color "red"
+        color "blue"
     ]
     node [
         id 906152
@@ -16493,12 +16493,12 @@ graph [
     node [
         id 611243
         label "Till We Drop"
-        color "red"
+        color "blue"
     ]
     node [
         id 1215986
         label "Braveyoung"
-        color "red"
+        color "purple"
     ]
     node [
         id 21422
@@ -16533,12 +16533,12 @@ graph [
     node [
         id 478600
         label "Penumbra"
-        color "red"
+        color "blue"
     ]
     node [
         id 4314047
         label "Wardruna"
-        color "red"
+        color "blue"
     ]
     node [
         id 1037248
@@ -16558,7 +16558,7 @@ graph [
     node [
         id 1950479
         label "Destroy by Design"
-        color "red"
+        color "blue"
     ]
     node [
         id 4385411
@@ -16573,7 +16573,7 @@ graph [
     node [
         id 316361
         label "Aghora"
-        color "red"
+        color "blue"
     ]
     node [
         id 37834
@@ -16588,7 +16588,7 @@ graph [
     node [
         id 1397713
         label "Drunkards"
-        color "red"
+        color "blue"
     ]
     node [
         id 1650844
@@ -16628,7 +16628,7 @@ graph [
     node [
         id 168921
         label "Stick To Your Guns"
-        color "red"
+        color "purple"
     ]
     node [
         id 159376
@@ -16638,7 +16638,7 @@ graph [
     node [
         id 2922061
         label "Ymir's Blood"
-        color "red"
+        color "blue"
     ]
     node [
         id 218077
@@ -16683,7 +16683,7 @@ graph [
     node [
         id 2537639
         label "American Witch"
-        color "red"
+        color "blue"
     ]
     node [
         id 1131126
@@ -16708,7 +16708,7 @@ graph [
     node [
         id 5106
         label "Motörhead"
-        color "red"
+        color "blue"
     ]
     node [
         id 361299
@@ -16718,7 +16718,7 @@ graph [
     node [
         id 316404
         label "Saratoga"
-        color "red"
+        color "blue"
     ]
     node [
         id 218102
@@ -16733,7 +16733,7 @@ graph [
     node [
         id 166321
         label "Jettblack"
-        color "red"
+        color "purple"
     ]
     node [
         id 103417
@@ -16743,7 +16743,7 @@ graph [
     node [
         id 1332355
         label "Warning"
-        color "red"
+        color "blue"
     ]
     node [
         id 1889277
@@ -16753,12 +16753,12 @@ graph [
     node [
         id 2876965
         label "I The Breather"
-        color "red"
+        color "purple"
     ]
     node [
         id 435093
         label "Rude"
-        color "red"
+        color "purple"
     ]
     node [
         id 2331649
@@ -16778,7 +16778,7 @@ graph [
     node [
         id 800700
         label "Skam Dust"
-        color "red"
+        color "blue"
     ]
     node [
         id 807943
@@ -16793,27 +16793,27 @@ graph [
     node [
         id 627721
         label "Bai Bang"
-        color "red"
+        color "purple"
     ]
     node [
         id 5130
         label "Papa Roach"
-        color "red"
+        color "purple"
     ]
     node [
         id 1155927
         label "Xerath"
-        color "red"
+        color "blue"
     ]
     node [
         id 758796
         label "Glass Cloud"
-        color "red"
+        color "blue"
     ]
     node [
         id 1889294
         label "Currents"
-        color "red"
+        color "purple"
     ]
     node [
         id 4028589
@@ -16823,12 +16823,12 @@ graph [
     node [
         id 971792
         label "Crash Alley"
-        color "red"
+        color "purple"
     ]
     node [
         id 1627153
         label "Gyze"
-        color "red"
+        color "blue"
     ]
     node [
         id 1805297
@@ -16853,7 +16853,7 @@ graph [
     node [
         id 720317
         label "Finisterre"
-        color "red"
+        color "purple"
     ]
     node [
         id 1971228
@@ -16868,7 +16868,7 @@ graph [
     node [
         id 70687
         label "ASG"
-        color "red"
+        color "purple"
     ]
     node [
         id 726049
@@ -16878,7 +16878,7 @@ graph [
     node [
         id 2597061
         label "Vesperia"
-        color "red"
+        color "blue"
     ]
     node [
         id 1725476
@@ -16908,7 +16908,7 @@ graph [
     node [
         id 1172591
         label "Peccatum"
-        color "red"
+        color "purple"
     ]
     node [
         id 37932
@@ -16918,12 +16918,12 @@ graph [
     node [
         id 2167853
         label "Ground Zero System"
-        color "red"
+        color "blue"
     ]
     node [
         id 119855
         label "Dorn"
-        color "red"
+        color "blue"
     ]
     node [
         id 1971248
@@ -16958,7 +16958,7 @@ graph [
     node [
         id 312781
         label "Metal Militia"
-        color "red"
+        color "blue"
     ]
     node [
         id 861023
@@ -16983,7 +16983,7 @@ graph [
     node [
         id 2724928
         label "Immoralist"
-        color "red"
+        color "blue"
     ]
     node [
         id 1905729
@@ -17008,7 +17008,7 @@ graph [
     node [
         id 316486
         label "Dark Age"
-        color "red"
+        color "purple"
     ]
     node [
         id 303969
@@ -17043,12 +17043,12 @@ graph [
     node [
         id 1544122
         label "Persefone"
-        color "red"
+        color "blue"
     ]
     node [
         id 1119313
         label "Wolfpakk"
-        color "red"
+        color "purple"
     ]
     node [
         id 1846651
@@ -17068,7 +17068,7 @@ graph [
     node [
         id 347663
         label "Harsh Reality"
-        color "red"
+        color "blue"
     ]
     node [
         id 39098
@@ -17078,7 +17078,7 @@ graph [
     node [
         id 1348702
         label "Hammers of Misfortune"
-        color "red"
+        color "purple"
     ]
     node [
         id 1494544
@@ -17138,12 +17138,12 @@ graph [
     node [
         id 1430644
         label "Skepticism"
-        color "red"
+        color "purple"
     ]
     node [
         id 414837
         label "Tad Morose"
-        color "red"
+        color "blue"
     ]
     node [
         id 54390
@@ -17188,7 +17188,7 @@ graph [
     node [
         id 1447038
         label "Charing Cross"
-        color "red"
+        color "purple"
     ]
     node [
         id 857215
@@ -17208,12 +17208,12 @@ graph [
     node [
         id 1430658
         label "Raventale"
-        color "red"
+        color "purple"
     ]
     node [
         id 1184899
         label "Christian Mistress"
-        color "red"
+        color "purple"
     ]
     node [
         id 87173
@@ -17228,7 +17228,7 @@ graph [
     node [
         id 1430663
         label "Nunslaughter"
-        color "red"
+        color "blue"
     ]
     node [
         id 33644
@@ -17258,7 +17258,7 @@ graph [
     node [
         id 2233487
         label "Acelsia"
-        color "red"
+        color "purple"
     ]
     node [
         id 54416
@@ -17268,7 +17268,7 @@ graph [
     node [
         id 2184338
         label "Demon Eye"
-        color "red"
+        color "purple"
     ]
     node [
         id 2020499
@@ -17278,7 +17278,7 @@ graph [
     node [
         id 1430676
         label "Nova Art"
-        color "red"
+        color "blue"
     ]
     node [
         id 595093
@@ -17293,12 +17293,12 @@ graph [
     node [
         id 1348764
         label "Vainglory"
-        color "red"
+        color "blue"
     ]
     node [
         id 87197
         label "UFO"
-        color "red"
+        color "purple"
     ]
     node [
         id 2029765
@@ -17308,12 +17308,12 @@ graph [
     node [
         id 87200
         label "Armored Saint"
-        color "red"
+        color "blue"
     ]
     node [
         id 1594531
         label "Sutratma"
-        color "red"
+        color "blue"
     ]
     node [
         id 1119397
@@ -17323,7 +17323,7 @@ graph [
     node [
         id 2130801
         label "Artizan"
-        color "red"
+        color "blue"
     ]
     node [
         id 726184
@@ -17353,7 +17353,7 @@ graph [
     node [
         id 2446512
         label "The Ruins Of Beverast"
-        color "red"
+        color "purple"
     ]
     node [
         id 1987761
@@ -17363,12 +17363,12 @@ graph [
     node [
         id 2902204
         label "Killer Be Killed"
-        color "red"
+        color "blue"
     ]
     node [
         id 1905843
         label "Combat Astronomy"
-        color "red"
+        color "blue"
     ]
     node [
         id 136373
@@ -17383,7 +17383,7 @@ graph [
     node [
         id 726199
         label "As I Lay Dying"
-        color "red"
+        color "blue"
     ]
     node [
         id 600371
@@ -17393,12 +17393,12 @@ graph [
     node [
         id 1430713
         label "Toxaemia"
-        color "red"
+        color "blue"
     ]
     node [
         id 218298
         label "Арда"
-        color "red"
+        color "blue"
     ]
     node [
         id 4739500
@@ -17408,17 +17408,17 @@ graph [
     node [
         id 611516
         label "Den Saakaldte"
-        color "red"
+        color "blue"
     ]
     node [
         id 611517
         label "Glorior Belli"
-        color "red"
+        color "purple"
     ]
     node [
         id 38078
         label "Warmen"
-        color "red"
+        color "purple"
     ]
     node [
         id 118304
@@ -17428,7 +17428,7 @@ graph [
     node [
         id 1152194
         label "Michael Lee Firkins"
-        color "red"
+        color "purple"
     ]
     node [
         id 112843
@@ -17443,17 +17443,17 @@ graph [
     node [
         id 1889478
         label "Elric Phares"
-        color "red"
+        color "purple"
     ]
     node [
         id 1512647
         label "Atomic Blast"
-        color "red"
+        color "blue"
     ]
     node [
         id 513224
         label "Mooncry"
-        color "red"
+        color "purple"
     ]
     node [
         id 5323
@@ -17488,7 +17488,7 @@ graph [
     node [
         id 1627348
         label "Feed Her to the Sharks"
-        color "red"
+        color "blue"
     ]
     node [
         id 2905302
@@ -17518,17 +17518,17 @@ graph [
     node [
         id 431324
         label "Omega Lithium"
-        color "red"
+        color "blue"
     ]
     node [
         id 2692317
         label "Austrian Death Machine"
-        color "red"
+        color "blue"
     ]
     node [
         id 95106
         label "Ruoska"
-        color "red"
+        color "purple"
     ]
     node [
         id 13275
@@ -17538,7 +17538,7 @@ graph [
     node [
         id 677224
         label "The Bree-TeenZ"
-        color "red"
+        color "blue"
     ]
     node [
         id 1066212
@@ -17548,12 +17548,12 @@ graph [
     node [
         id 2741478
         label "Deva Obida"
-        color "red"
+        color "blue"
     ]
     node [
         id 2544871
         label "Girl Scout Hand Grenade"
-        color "red"
+        color "blue"
     ]
     node [
         id 218344
@@ -17573,7 +17573,7 @@ graph [
     node [
         id 727655
         label "Antonamasia"
-        color "red"
+        color "blue"
     ]
     node [
         id 251118
@@ -17588,7 +17588,7 @@ graph [
     node [
         id 2682408
         label "Soreption"
-        color "red"
+        color "blue"
     ]
     node [
         id 1712707
@@ -17608,12 +17608,12 @@ graph [
     node [
         id 922870
         label "Vlad in Tears"
-        color "red"
+        color "purple"
     ]
     node [
         id 298537
         label "Asmegin"
-        color "red"
+        color "purple"
     ]
     node [
         id 300280
@@ -17623,7 +17623,7 @@ graph [
     node [
         id 185594
         label "Pretty Maids"
-        color "red"
+        color "purple"
     ]
     node [
         id 185595
@@ -17643,7 +17643,7 @@ graph [
     node [
         id 1021183
         label "Heavenwood"
-        color "red"
+        color "blue"
     ]
     node [
         id 873730
@@ -17653,7 +17653,7 @@ graph [
     node [
         id 414979
         label "Odd Logic"
-        color "red"
+        color "purple"
     ]
     node [
         id 333060
@@ -17668,22 +17668,22 @@ graph [
     node [
         id 1217799
         label "Old Man Gloom"
-        color "red"
+        color "blue"
     ]
     node [
         id 2233608
         label "Decades of Despair"
-        color "red"
+        color "blue"
     ]
     node [
         id 218377
         label "My Autumn"
-        color "red"
+        color "blue"
     ]
     node [
         id 333066
         label "Sarah Jezebel Deva"
-        color "red"
+        color "purple"
     ]
     node [
         id 333067
@@ -17698,7 +17698,7 @@ graph [
     node [
         id 333069
         label "The Gathering"
-        color "red"
+        color "purple"
     ]
     node [
         id 333071
@@ -17713,12 +17713,12 @@ graph [
     node [
         id 3102375
         label "Philm"
-        color "red"
+        color "blue"
     ]
     node [
         id 738179
         label "Weekend Nachos"
-        color "red"
+        color "purple"
     ]
     node [
         id 1571966
@@ -17728,7 +17728,7 @@ graph [
     node [
         id 1234198
         label "The Breathing Process"
-        color "red"
+        color "blue"
     ]
     node [
         id 21783
@@ -17743,7 +17743,7 @@ graph [
     node [
         id 1234202
         label "Hate Eternal"
-        color "red"
+        color "purple"
     ]
     node [
         id 611611
@@ -17753,7 +17753,7 @@ graph [
     node [
         id 1751258
         label "Ikd-Sj"
-        color "red"
+        color "purple"
     ]
     node [
         id 1889567
@@ -17773,12 +17773,12 @@ graph [
     node [
         id 1348900
         label "Meliah Rage"
-        color "red"
+        color "purple"
     ]
     node [
         id 124533
         label "ZAAR"
-        color "red"
+        color "blue"
     ]
     node [
         id 15456
@@ -17793,7 +17793,7 @@ graph [
     node [
         id 87339
         label "Bosse"
-        color "red"
+        color "purple"
     ]
     node [
         id 3659052
@@ -17808,7 +17808,7 @@ graph [
     node [
         id 70958
         label "Blind Witness"
-        color "red"
+        color "purple"
     ]
     node [
         id 234799
@@ -17828,7 +17828,7 @@ graph [
     node [
         id 857396
         label "Driller Killer"
-        color "red"
+        color "blue"
     ]
     node [
         id 644407
@@ -17868,7 +17868,7 @@ graph [
     node [
         id 1332542
         label "Egypt"
-        color "red"
+        color "blue"
     ]
     node [
         id 70977
@@ -17893,12 +17893,12 @@ graph [
     node [
         id 1017660
         label "Skull"
-        color "red"
+        color "blue"
     ]
     node [
         id 300361
         label "Laaz Rockit"
-        color "red"
+        color "purple"
     ]
     node [
         id 1250634
@@ -17913,7 +17913,7 @@ graph [
     node [
         id 218444
         label "Stratovarius"
-        color "red"
+        color "purple"
     ]
     node [
         id 316749
@@ -17923,7 +17923,7 @@ graph [
     node [
         id 70990
         label "Christian Death"
-        color "red"
+        color "purple"
     ]
     node [
         id 29060
@@ -17933,7 +17933,7 @@ graph [
     node [
         id 2004305
         label "Cadaverous Condition"
-        color "red"
+        color "blue"
     ]
     node [
         id 70995
@@ -17953,7 +17953,7 @@ graph [
     node [
         id 742744
         label "Amanda Lepre"
-        color "red"
+        color "blue"
     ]
     node [
         id 2561369
@@ -18003,12 +18003,12 @@ graph [
     node [
         id 890213
         label "Headcharger"
-        color "red"
+        color "purple"
     ]
     node [
         id 300390
         label "Opera IX"
-        color "red"
+        color "purple"
     ]
     node [
         id 1622929
@@ -18018,7 +18018,7 @@ graph [
     node [
         id 300392
         label "Throes Of Dawn"
-        color "red"
+        color "blue"
     ]
     node [
         id 300394
@@ -18028,12 +18028,12 @@ graph [
     node [
         id 300395
         label "Astarte"
-        color "red"
+        color "blue"
     ]
     node [
         id 1447277
         label "black gene for the next scene"
-        color "red"
+        color "purple"
     ]
     node [
         id 2341426
@@ -18063,7 +18063,7 @@ graph [
     node [
         id 560702
         label "Dominion III"
-        color "red"
+        color "blue"
     ]
     node [
         id 38262
@@ -18073,7 +18073,7 @@ graph [
     node [
         id 702325
         label "Holy Moses"
-        color "red"
+        color "blue"
     ]
     node [
         id 1301901
@@ -18083,7 +18083,7 @@ graph [
     node [
         id 1842556
         label "KeyDragon"
-        color "red"
+        color "blue"
     ]
     node [
         id 595322
@@ -18093,7 +18093,7 @@ graph [
     node [
         id 71035
         label "Cave In"
-        color "red"
+        color "purple"
     ]
     node [
         id 38268
@@ -18113,12 +18113,12 @@ graph [
     node [
         id 320405
         label "Hydrogyn"
-        color "red"
+        color "purple"
     ]
     node [
         id 595328
         label "Мегамасс"
-        color "red"
+        color "blue"
     ]
     node [
         id 136577
@@ -18128,7 +18128,7 @@ graph [
     node [
         id 677250
         label "Ancient Rites"
-        color "red"
+        color "purple"
     ]
     node [
         id 38275
@@ -18163,17 +18163,17 @@ graph [
     node [
         id 38283
         label "Tarot"
-        color "red"
+        color "purple"
     ]
     node [
         id 38284
         label "Elias Viljanen"
-        color "red"
+        color "blue"
     ]
     node [
         id 677262
         label "Souldrainer"
-        color "red"
+        color "blue"
     ]
     node [
         id 1613965
@@ -18193,7 +18193,7 @@ graph [
     node [
         id 38292
         label "Dead by April"
-        color "red"
+        color "purple"
     ]
     node [
         id 2807189
@@ -18203,17 +18203,17 @@ graph [
     node [
         id 38294
         label "Kalmah"
-        color "red"
+        color "blue"
     ]
     node [
         id 677271
         label "Greg Howe"
-        color "red"
+        color "purple"
     ]
     node [
         id 38296
         label "Moonsorrow"
-        color "red"
+        color "blue"
     ]
     node [
         id 5529
@@ -18223,12 +18223,12 @@ graph [
     node [
         id 300442
         label "Saint Deamon"
-        color "red"
+        color "blue"
     ]
     node [
         id 38301
         label "Backyard Babies"
-        color "red"
+        color "purple"
     ]
     node [
         id 71070
@@ -18263,12 +18263,12 @@ graph [
     node [
         id 3429797
         label "Shape Of Despair"
-        color "red"
+        color "blue"
     ]
     node [
         id 38310
         label "Celesty"
-        color "red"
+        color "blue"
     ]
     node [
         id 644519
@@ -18308,7 +18308,7 @@ graph [
     node [
         id 1611784
         label "The Arcane Order"
-        color "red"
+        color "blue"
     ]
     node [
         id 5559
@@ -18318,7 +18318,7 @@ graph [
     node [
         id 71096
         label "Despite"
-        color "red"
+        color "blue"
     ]
     node [
         id 2545081
@@ -18333,7 +18333,7 @@ graph [
     node [
         id 1136059
         label "Funeral"
-        color "red"
+        color "purple"
     ]
     node [
         id 349628
@@ -18343,7 +18343,7 @@ graph [
     node [
         id 316861
         label "Angel Witch"
-        color "red"
+        color "purple"
     ]
     node [
         id 1563229
@@ -18358,12 +18358,12 @@ graph [
     node [
         id 808384
         label "Arkaik"
-        color "red"
+        color "blue"
     ]
     node [
         id 1867089
         label "In Virtue"
-        color "red"
+        color "blue"
     ]
     node [
         id 509264
@@ -18373,7 +18373,7 @@ graph [
     node [
         id 21955
         label "Dennis Chambers"
-        color "red"
+        color "blue"
     ]
     node [
         id 611780
@@ -18383,22 +18383,22 @@ graph [
     node [
         id 1299915
         label "Fragmenta"
-        color "red"
+        color "blue"
     ]
     node [
         id 267725
         label "Bal-Sagoth"
-        color "red"
+        color "purple"
     ]
     node [
         id 2559565
         label "Bane of Winterstorm"
-        color "red"
+        color "blue"
     ]
     node [
         id 641311
         label "Bumblefoot"
-        color "red"
+        color "purple"
     ]
     node [
         id 2398456
@@ -18408,7 +18408,7 @@ graph [
     node [
         id 1012242
         label "Detonator"
-        color "red"
+        color "blue"
     ]
     node [
         id 21971
@@ -18428,7 +18428,7 @@ graph [
     node [
         id 218587
         label "Atomic Rooster"
-        color "red"
+        color "purple"
     ]
     node [
         id 6394
@@ -18438,12 +18438,12 @@ graph [
     node [
         id 2154077
         label "Bangladeafy"
-        color "red"
+        color "purple"
     ]
     node [
         id 890339
         label "Zuul Fx"
-        color "red"
+        color "blue"
     ]
     node [
         id 1529316
@@ -18453,7 +18453,7 @@ graph [
     node [
         id 1529317
         label "Bruce Bouillet"
-        color "red"
+        color "purple"
     ]
     node [
         id 1078223
@@ -18463,17 +18463,17 @@ graph [
     node [
         id 1922535
         label "Maestro Alex Gregory"
-        color "red"
+        color "purple"
     ]
     node [
         id 1894554
         label "Concerto Moon"
-        color "red"
+        color "blue"
     ]
     node [
         id 1005034
         label "Wrathchild"
-        color "red"
+        color "purple"
     ]
     node [
         id 21995
@@ -18488,7 +18488,7 @@ graph [
     node [
         id 447983
         label "Battle Beast"
-        color "red"
+        color "blue"
     ]
     node [
         id 71152
@@ -18508,7 +18508,7 @@ graph [
     node [
         id 1398262
         label "Samandriel"
-        color "red"
+        color "blue"
     ]
     node [
         id 247328
@@ -18518,7 +18518,7 @@ graph [
     node [
         id 2807288
         label "Devil You Know"
-        color "red"
+        color "purple"
     ]
     node [
         id 200276
@@ -18538,17 +18538,17 @@ graph [
     node [
         id 1807869
         label "Obidil"
-        color "red"
+        color "blue"
     ]
     node [
         id 1011949
         label "Wizard"
-        color "red"
+        color "blue"
     ]
     node [
         id 3151359
         label "It Lives, It Breathes"
-        color "red"
+        color "purple"
     ]
     node [
         id 136704
@@ -18578,7 +18578,7 @@ graph [
     node [
         id 205740
         label "H-Blockx"
-        color "red"
+        color "purple"
     ]
     node [
         id 54794
@@ -18593,7 +18593,7 @@ graph [
     node [
         id 2561548
         label "Bucovina"
-        color "red"
+        color "blue"
     ]
     node [
         id 1287085
@@ -18613,7 +18613,7 @@ graph [
     node [
         id 824850
         label "Outcast"
-        color "red"
+        color "purple"
     ]
     node [
         id 325891
@@ -18628,7 +18628,7 @@ graph [
     node [
         id 4421486
         label "Северные врата"
-        color "red"
+        color "purple"
     ]
     node [
         id 309057
@@ -18638,12 +18638,12 @@ graph [
     node [
         id 2160901
         label "Antidemon"
-        color "red"
+        color "blue"
     ]
     node [
         id 710176
         label "Viking Skull"
-        color "red"
+        color "purple"
     ]
     node [
         id 2024368
@@ -18653,17 +18653,17 @@ graph [
     node [
         id 71202
         label "The Hidden Hand"
-        color "red"
+        color "blue"
     ]
     node [
         id 1191515
         label "Skinless"
-        color "red"
+        color "blue"
     ]
     node [
         id 153125
         label "Dark Fortress"
-        color "red"
+        color "blue"
     ]
     node [
         id 2725414
@@ -18673,12 +18673,12 @@ graph [
     node [
         id 1365543
         label "Resist The Thought"
-        color "red"
+        color "blue"
     ]
     node [
         id 2741653
         label "Me In A Million"
-        color "red"
+        color "blue"
     ]
     node [
         id 3676
@@ -18688,12 +18688,12 @@ graph [
     node [
         id 2643499
         label "Black Book Lodge"
-        color "red"
+        color "blue"
     ]
     node [
         id 153132
         label "Dream Evil"
-        color "red"
+        color "blue"
     ]
     node [
         id 185901
@@ -18703,12 +18703,12 @@ graph [
     node [
         id 71214
         label "Carrion"
-        color "red"
+        color "purple"
     ]
     node [
         id 970333
         label "Swordmaster"
-        color "red"
+        color "blue"
     ]
     node [
         id 3686759
@@ -18718,22 +18718,22 @@ graph [
     node [
         id 1916759
         label "Desert Storm"
-        color "red"
+        color "purple"
     ]
     node [
         id 1022879
         label "Octavion"
-        color "red"
+        color "blue"
     ]
     node [
         id 71224
         label "Killwhitneydead"
-        color "red"
+        color "purple"
     ]
     node [
         id 1054265
         label "Marcel Coenen"
-        color "red"
+        color "blue"
     ]
     node [
         id 1545787
@@ -18743,7 +18743,7 @@ graph [
     node [
         id 1119804
         label "Sinew"
-        color "red"
+        color "purple"
     ]
     node [
         id 677437
@@ -18768,7 +18768,7 @@ graph [
     node [
         id 1620235
         label "Hopes of Freedom"
-        color "red"
+        color "blue"
     ]
     node [
         id 197558
@@ -18783,12 +18783,12 @@ graph [
     node [
         id 855649
         label "Dublin Death Patrol"
-        color "red"
+        color "blue"
     ]
     node [
         id 185929
         label "Hanoi Rocks"
-        color "red"
+        color "purple"
     ]
     node [
         id 3797364
@@ -18798,22 +18798,22 @@ graph [
     node [
         id 710219
         label "Stoneburner"
-        color "red"
+        color "blue"
     ]
     node [
         id 831631
         label "Nokturnal Mortum"
-        color "red"
+        color "blue"
     ]
     node [
         id 71245
         label "From Autumn to Ashes"
-        color "red"
+        color "purple"
     ]
     node [
         id 22094
         label "Dreamtale"
-        color "red"
+        color "purple"
     ]
     node [
         id 185935
@@ -18833,17 +18833,17 @@ graph [
     node [
         id 71250
         label "Canvas Solaris"
-        color "red"
+        color "blue"
     ]
     node [
         id 185940
         label "Barbarossa"
-        color "red"
+        color "blue"
     ]
     node [
         id 80781
         label "Martyr"
-        color "red"
+        color "purple"
     ]
     node [
         id 1349213
@@ -18878,12 +18878,12 @@ graph [
     node [
         id 1639355
         label "As Blood Runs Black"
-        color "red"
+        color "blue"
     ]
     node [
         id 87654
         label "Demon Hunter"
-        color "red"
+        color "blue"
     ]
     node [
         id 1611368
@@ -18903,7 +18903,7 @@ graph [
     node [
         id 972399
         label "Svartby"
-        color "red"
+        color "purple"
     ]
     node [
         id 120432
@@ -18943,7 +18943,7 @@ graph [
     node [
         id 2283133
         label "Hellish War"
-        color "red"
+        color "blue"
     ]
     node [
         id 2725502
@@ -18953,7 +18953,7 @@ graph [
     node [
         id 1398404
         label "Shake Well Before"
-        color "red"
+        color "blue"
     ]
     node [
         id 22151
@@ -18968,7 +18968,7 @@ graph [
     node [
         id 726339
         label "Cattle Decapitation"
-        color "red"
+        color "blue"
     ]
     node [
         id 54926
@@ -18983,17 +18983,17 @@ graph [
     node [
         id 54931
         label "The Business"
-        color "red"
+        color "purple"
     ]
     node [
         id 1611412
         label "Noumena"
-        color "red"
+        color "purple"
     ]
     node [
         id 2436718
         label "Grave Declaration"
-        color "red"
+        color "blue"
     ]
     node [
         id 4052630
@@ -19018,7 +19018,7 @@ graph [
     node [
         id 71324
         label "Ed Gein"
-        color "red"
+        color "blue"
     ]
     node [
         id 146404
@@ -19028,12 +19028,12 @@ graph [
     node [
         id 638860
         label "Impalers"
-        color "red"
+        color "blue"
     ]
     node [
         id 140167
         label "Beseech"
-        color "red"
+        color "purple"
     ]
     node [
         id 4632176
@@ -19043,7 +19043,7 @@ graph [
     node [
         id 1808034
         label "Rizon"
-        color "red"
+        color "blue"
     ]
     node [
         id 235171
@@ -19053,7 +19053,7 @@ graph [
     node [
         id 1054372
         label "Black Sheep Wall"
-        color "red"
+        color "blue"
     ]
     node [
         id 317093
@@ -19063,12 +19063,12 @@ graph [
     node [
         id 644774
         label "Erra"
-        color "red"
+        color "blue"
     ]
     node [
         id 1968046
         label "A Night In Texas"
-        color "red"
+        color "blue"
     ]
     node [
         id 218793
@@ -19078,7 +19078,7 @@ graph [
     node [
         id 775851
         label "Pay No Respect"
-        color "red"
+        color "blue"
     ]
     node [
         id 333484
@@ -19088,7 +19088,7 @@ graph [
     node [
         id 1054381
         label "Eths"
-        color "red"
+        color "purple"
     ]
     node [
         id 2634211
@@ -19108,7 +19108,7 @@ graph [
     node [
         id 71348
         label "Brain Drill"
-        color "red"
+        color "blue"
     ]
     node [
         id 906934
@@ -19123,7 +19123,7 @@ graph [
     node [
         id 431800
         label "Stam1na"
-        color "red"
+        color "purple"
     ]
     node [
         id 28276
@@ -19133,42 +19133,42 @@ graph [
     node [
         id 235194
         label "Gotthard"
-        color "red"
+        color "purple"
     ]
     node [
         id 71355
         label "Internal Suffering"
-        color "red"
+        color "blue"
     ]
     node [
         id 431804
         label "Timo Rautiainen & Trio Niskalaukaus"
-        color "red"
+        color "purple"
     ]
     node [
         id 71357
         label "Disgorge"
-        color "red"
+        color "blue"
     ]
     node [
         id 71358
         label "Severed Savior"
-        color "red"
+        color "blue"
     ]
     node [
         id 71359
         label "Psycroptic"
-        color "red"
+        color "blue"
     ]
     node [
         id 71360
         label "Aeon"
-        color "red"
+        color "purple"
     ]
     node [
         id 71361
         label "Inherit Disease"
-        color "red"
+        color "blue"
     ]
     node [
         id 1639371
@@ -19198,7 +19198,7 @@ graph [
     node [
         id 71369
         label "Cryptopsy"
-        color "red"
+        color "purple"
     ]
     node [
         id 431818
@@ -19208,12 +19208,12 @@ graph [
     node [
         id 71371
         label "Beneath The Massacre"
-        color "red"
+        color "blue"
     ]
     node [
         id 431821
         label "Verjnuarmu"
-        color "red"
+        color "purple"
     ]
     node [
         id 2348750
@@ -19233,7 +19233,7 @@ graph [
     node [
         id 290424
         label "Martyrdod"
-        color "red"
+        color "blue"
     ]
     node [
         id 2692818
@@ -19243,7 +19243,7 @@ graph [
     node [
         id 2348758
         label "Seax"
-        color "red"
+        color "blue"
     ]
     node [
         id 188960
@@ -19253,7 +19253,7 @@ graph [
     node [
         id 551723
         label "Warhead"
-        color "red"
+        color "blue"
     ]
     node [
         id 38618
@@ -19263,12 +19263,12 @@ graph [
     node [
         id 209191
         label "Breakwar"
-        color "red"
+        color "blue"
     ]
     node [
         id 536186
         label "Vela"
-        color "red"
+        color "blue"
     ]
     node [
         id 58523
@@ -19278,7 +19278,7 @@ graph [
     node [
         id 546527
         label "Adastra"
-        color "red"
+        color "purple"
     ]
     node [
         id 2724682
@@ -19328,7 +19328,7 @@ graph [
     node [
         id 595697
         label "Spies Like Us"
-        color "red"
+        color "blue"
     ]
     node [
         id 595698
@@ -19338,7 +19338,7 @@ graph [
     node [
         id 1483731
         label "InAllSenses"
-        color "red"
+        color "blue"
     ]
     node [
         id 1038069
@@ -19353,12 +19353,12 @@ graph [
     node [
         id 284410
         label "Hangar"
-        color "red"
+        color "blue"
     ]
     node [
         id 426282
         label "Melancholy"
-        color "red"
+        color "purple"
     ]
     node [
         id 1616705
@@ -19378,7 +19378,7 @@ graph [
     node [
         id 1791748
         label "Lotus Pedal"
-        color "red"
+        color "purple"
     ]
     node [
         id 202511
@@ -19408,7 +19408,7 @@ graph [
     node [
         id 2332439
         label "Daedalean Complex"
-        color "red"
+        color "blue"
     ]
     node [
         id 38683
@@ -19418,7 +19418,7 @@ graph [
     node [
         id 251676
         label "Seigmen"
-        color "red"
+        color "purple"
     ]
     node [
         id 10017
@@ -19428,7 +19428,7 @@ graph [
     node [
         id 659077
         label "First Blood"
-        color "red"
+        color "purple"
     ]
     node [
         id 38688
@@ -19448,7 +19448,7 @@ graph [
     node [
         id 1300262
         label "Mugwart"
-        color "red"
+        color "blue"
     ]
     node [
         id 1336917
@@ -19458,27 +19458,27 @@ graph [
     node [
         id 71466
         label "Ulcerate"
-        color "red"
+        color "blue"
     ]
     node [
         id 218923
         label "Spiritual Beggars"
-        color "red"
+        color "purple"
     ]
     node [
         id 1824559
         label "Gardarika"
-        color "red"
+        color "blue"
     ]
     node [
         id 235313
         label "Rage"
-        color "red"
+        color "purple"
     ]
     node [
         id 71474
         label "Amenra"
-        color "red"
+        color "blue"
     ]
     node [
         id 2683832
@@ -19498,12 +19498,12 @@ graph [
     node [
         id 850188
         label "Fallen fate"
-        color "red"
+        color "blue"
     ]
     node [
         id 1152823
         label "Down I Go"
-        color "red"
+        color "purple"
     ]
     node [
         id 5944
@@ -19513,7 +19513,7 @@ graph [
     node [
         id 585354
         label "Selva"
-        color "red"
+        color "blue"
     ]
     node [
         id 5950
@@ -19533,7 +19533,7 @@ graph [
     node [
         id 677697
         label "Folkstone"
-        color "red"
+        color "purple"
     ]
     node [
         id 431940
@@ -19563,7 +19563,7 @@ graph [
     node [
         id 224908
         label "Powerman 5000"
-        color "red"
+        color "purple"
     ]
     node [
         id 1238631
@@ -19573,12 +19573,12 @@ graph [
     node [
         id 1169229
         label "Ildjarn"
-        color "red"
+        color "blue"
     ]
     node [
         id 1602523
         label "Dark Sermon"
-        color "red"
+        color "blue"
     ]
     node [
         id 743247
@@ -19593,7 +19593,7 @@ graph [
     node [
         id 3151697
         label "Shokran"
-        color "red"
+        color "blue"
     ]
     node [
         id 808786
@@ -19608,7 +19608,7 @@ graph [
     node [
         id 3433985
         label "Terror"
-        color "red"
+        color "purple"
     ]
     node [
         id 2366358
@@ -19653,7 +19653,7 @@ graph [
     node [
         id 1961115
         label "At A Downfall"
-        color "red"
+        color "purple"
     ]
     node [
         id 1562465
@@ -19663,12 +19663,12 @@ graph [
     node [
         id 1988450
         label "Suspyre"
-        color "red"
+        color "purple"
     ]
     node [
         id 1562467
         label "Zombie Scars"
-        color "red"
+        color "blue"
     ]
     node [
         id 137060
@@ -19683,7 +19683,7 @@ graph [
     node [
         id 87910
         label "Underøath"
-        color "red"
+        color "purple"
     ]
     node [
         id 183953
@@ -19693,17 +19693,17 @@ graph [
     node [
         id 317288
         label "Twin Method"
-        color "red"
+        color "blue"
     ]
     node [
         id 300906
         label "Fejd"
-        color "red"
+        color "purple"
     ]
     node [
         id 2430828
         label "In Other Climes"
-        color "red"
+        color "blue"
     ]
     node [
         id 2152303
@@ -19713,7 +19713,7 @@ graph [
     node [
         id 1988464
         label "Medieval Steel"
-        color "red"
+        color "blue"
     ]
     node [
         id 183955
@@ -19728,7 +19728,7 @@ graph [
     node [
         id 336873
         label "Saturnus"
-        color "red"
+        color "blue"
     ]
     node [
         id 634692
@@ -19743,17 +19743,17 @@ graph [
     node [
         id 87937
         label "The Showdown"
-        color "red"
+        color "purple"
     ]
     node [
         id 2531227
         label "Midnite Hellion"
-        color "red"
+        color "blue"
     ]
     node [
         id 546693
         label "Alicate"
-        color "red"
+        color "purple"
     ]
     node [
         id 104326
@@ -19768,12 +19768,12 @@ graph [
     node [
         id 710537
         label "Arkana"
-        color "red"
+        color "blue"
     ]
     node [
         id 1169290
         label "Ticket To The Moon"
-        color "red"
+        color "blue"
     ]
     node [
         id 939915
@@ -19788,12 +19788,12 @@ graph [
     node [
         id 1152909
         label "Old Man's Child"
-        color "red"
+        color "blue"
     ]
     node [
         id 1152910
         label "Mithotyn"
-        color "red"
+        color "blue"
     ]
     node [
         id 677775
@@ -19813,22 +19813,22 @@ graph [
     node [
         id 1529749
         label "Powerwolf"
-        color "red"
+        color "purple"
     ]
     node [
         id 2447254
         label "The Shotgun Message"
-        color "red"
+        color "blue"
     ]
     node [
         id 1529751
         label "King of Asgard"
-        color "red"
+        color "blue"
     ]
     node [
         id 2168731
         label ".bipolar."
-        color "red"
+        color "blue"
     ]
     node [
         id 2343403
@@ -19848,7 +19848,7 @@ graph [
     node [
         id 1589414
         label "Ac City"
-        color "red"
+        color "blue"
     ]
     node [
         id 4591475
@@ -19878,12 +19878,12 @@ graph [
     node [
         id 301383
         label "Fear Of Eternity"
-        color "red"
+        color "blue"
     ]
     node [
         id 2185132
         label "Other View"
-        color "red"
+        color "blue"
     ]
     node [
         id 2926559
@@ -19908,7 +19908,7 @@ graph [
     node [
         id 251828
         label "Pink Cream 69"
-        color "red"
+        color "blue"
     ]
     node [
         id 6072
@@ -19918,7 +19918,7 @@ graph [
     node [
         id 664564
         label "Goatwhore"
-        color "red"
+        color "purple"
     ]
     node [
         id 1791930
@@ -19938,12 +19938,12 @@ graph [
     node [
         id 841661
         label "Crystallion"
-        color "red"
+        color "blue"
     ]
     node [
         id 743358
         label "Municipal Waste"
-        color "red"
+        color "purple"
     ]
     node [
         id 38847
@@ -19953,12 +19953,12 @@ graph [
     node [
         id 317377
         label "Shining"
-        color "red"
+        color "purple"
     ]
     node [
         id 759748
         label "Antagonist"
-        color "red"
+        color "blue"
     ]
     node [
         id 709437
@@ -19968,17 +19968,17 @@ graph [
     node [
         id 1546183
         label "Cephalotripsy"
-        color "red"
+        color "blue"
     ]
     node [
         id 890824
         label "Demoniac"
-        color "red"
+        color "blue"
     ]
     node [
         id 2876967
         label "Structures"
-        color "red"
+        color "purple"
     ]
     node [
         id 2480074
@@ -19993,7 +19993,7 @@ graph [
     node [
         id 563151
         label "Soldier"
-        color "red"
+        color "purple"
     ]
     node [
         id 2037713
@@ -20003,12 +20003,12 @@ graph [
     node [
         id 1595346
         label "Bombus"
-        color "red"
+        color "blue"
     ]
     node [
         id 1225542
         label "Emerald Night"
-        color "red"
+        color "blue"
     ]
     node [
         id 1775574
@@ -20018,12 +20018,12 @@ graph [
     node [
         id 1464279
         label "Evangelist"
-        color "red"
+        color "purple"
     ]
     node [
         id 757412
         label "Inter Arma"
-        color "red"
+        color "purple"
     ]
     node [
         id 296445
@@ -20038,12 +20038,12 @@ graph [
     node [
         id 841695
         label "Unit 731"
-        color "red"
+        color "purple"
     ]
     node [
         id 1431521
         label "Deathhammer"
-        color "red"
+        color "blue"
     ]
     node [
         id 759778
@@ -20053,7 +20053,7 @@ graph [
     node [
         id 1431523
         label "Syphilic"
-        color "red"
+        color "blue"
     ]
     node [
         id 650517
@@ -20083,7 +20083,7 @@ graph [
     node [
         id 677867
         label "Deviant Syndrome"
-        color "red"
+        color "blue"
     ]
     node [
         id 757448
@@ -20093,7 +20093,7 @@ graph [
     node [
         id 677869
         label "Devilish Distance"
-        color "red"
+        color "blue"
     ]
     node [
         id 2921159
@@ -20113,7 +20113,7 @@ graph [
     node [
         id 1611762
         label "Liege Lord"
-        color "red"
+        color "blue"
     ]
     node [
         id 47443
@@ -20123,7 +20123,7 @@ graph [
     node [
         id 677876
         label "Illidiance"
-        color "red"
+        color "blue"
     ]
     node [
         id 1153013
@@ -20133,7 +20133,7 @@ graph [
     node [
         id 1628150
         label "Mamont"
-        color "red"
+        color "purple"
     ]
     node [
         id 1841143
@@ -20143,7 +20143,7 @@ graph [
     node [
         id 1611768
         label "Vomitory"
-        color "red"
+        color "blue"
     ]
     node [
         id 415737
@@ -20153,7 +20153,7 @@ graph [
     node [
         id 1431546
         label "Ephel Duath"
-        color "red"
+        color "purple"
     ]
     node [
         id 22523
@@ -20163,7 +20163,7 @@ graph [
     node [
         id 1431548
         label "Acherontas"
-        color "red"
+        color "blue"
     ]
     node [
         id 1153022
@@ -20183,12 +20183,12 @@ graph [
     node [
         id 1611778
         label "Neaera"
-        color "red"
+        color "blue"
     ]
     node [
         id 1611781
         label "Cellador"
-        color "red"
+        color "blue"
     ]
     node [
         id 22534
@@ -20208,7 +20208,7 @@ graph [
     node [
         id 765612
         label "Affiance"
-        color "red"
+        color "blue"
     ]
     node [
         id 2005002
@@ -20223,12 +20223,12 @@ graph [
     node [
         id 1431564
         label "The Furor"
-        color "red"
+        color "blue"
     ]
     node [
         id 1611789
         label "Anterior"
-        color "red"
+        color "blue"
     ]
     node [
         id 219150
@@ -20238,17 +20238,17 @@ graph [
     node [
         id 315053
         label "Abysmal Dawn"
-        color "red"
+        color "blue"
     ]
     node [
         id 317456
         label "TREIBHAUS"
-        color "red"
+        color "purple"
     ]
     node [
         id 317458
         label "Bleed The Sky"
-        color "red"
+        color "blue"
     ]
     node [
         id 251924
@@ -20298,7 +20298,7 @@ graph [
     node [
         id 290480
         label "Confessor"
-        color "red"
+        color "purple"
     ]
     node [
         id 612386
@@ -20318,7 +20318,7 @@ graph [
     node [
         id 677927
         label "Spaint"
-        color "red"
+        color "blue"
     ]
     node [
         id 55644
@@ -20328,7 +20328,7 @@ graph [
     node [
         id 415786
         label "Demonoid"
-        color "red"
+        color "blue"
     ]
     node [
         id 2073607
@@ -20338,7 +20338,7 @@ graph [
     node [
         id 677932
         label "Tent"
-        color "red"
+        color "blue"
     ]
     node [
         id 1153070
@@ -20363,7 +20363,7 @@ graph [
     node [
         id 825399
         label "Smash Hit Combo"
-        color "red"
+        color "blue"
     ]
     node [
         id 301112
@@ -20383,17 +20383,17 @@ graph [
     node [
         id 120895
         label "Billy Sheehan"
-        color "red"
+        color "purple"
     ]
     node [
         id 120896
         label "Richie Kotzen"
-        color "red"
+        color "purple"
     ]
     node [
         id 2876971
         label "City In The Sea"
-        color "red"
+        color "blue"
     ]
     node [
         id 661574
@@ -20403,12 +20403,12 @@ graph [
     node [
         id 1202247
         label "Vinterblot"
-        color "red"
+        color "blue"
     ]
     node [
         id 2037832
         label "Death Dealer"
-        color "red"
+        color "purple"
     ]
     node [
         id 6218
@@ -20418,12 +20418,12 @@ graph [
     node [
         id 2150072
         label "Lingua Mortis Orchestra"
-        color "red"
+        color "blue"
     ]
     node [
         id 1267795
         label "Circus of Dead Squirrels"
-        color "red"
+        color "blue"
     ]
     node [
         id 317525
@@ -20433,7 +20433,7 @@ graph [
     node [
         id 1972310
         label "System Decay"
-        color "red"
+        color "blue"
     ]
     node [
         id 249594
@@ -20463,17 +20463,17 @@ graph [
     node [
         id 805876
         label "Unsolved"
-        color "red"
+        color "blue"
     ]
     node [
         id 2876972
         label "Dayshell"
-        color "red"
+        color "purple"
     ]
     node [
         id 1808480
         label "The Room Colored Charlatan"
-        color "red"
+        color "blue"
     ]
     node [
         id 662385
@@ -20488,7 +20488,7 @@ graph [
     node [
         id 2512996
         label "Seventh Calling"
-        color "red"
+        color "blue"
     ]
     node [
         id 1955941
@@ -20503,7 +20503,7 @@ graph [
     node [
         id 3037287
         label "Cripper"
-        color "red"
+        color "blue"
     ]
     node [
         id 2070635
@@ -20528,7 +20528,7 @@ graph [
     node [
         id 1792117
         label "The Equinox Ov the Gods"
-        color "red"
+        color "blue"
     ]
     node [
         id 1749185
@@ -20538,7 +20538,7 @@ graph [
     node [
         id 891001
         label "Eden Weint Im Grab"
-        color "red"
+        color "purple"
     ]
     node [
         id 6266
@@ -20548,7 +20548,7 @@ graph [
     node [
         id 678011
         label "No Return"
-        color "red"
+        color "blue"
     ]
     node [
         id 2201724
@@ -20588,7 +20588,7 @@ graph [
     node [
         id 2782187
         label "Savn"
-        color "red"
+        color "blue"
     ]
     node [
         id 1333612
@@ -20598,7 +20598,7 @@ graph [
     node [
         id 120970
         label "Arcadia"
-        color "red"
+        color "purple"
     ]
     node [
         id 6284
@@ -20618,7 +20618,7 @@ graph [
     node [
         id 3463312
         label "Murg"
-        color "red"
+        color "blue"
     ]
     node [
         id 173080
@@ -20633,7 +20633,7 @@ graph [
     node [
         id 498030
         label "Gravestone"
-        color "red"
+        color "purple"
     ]
     node [
         id 6294
@@ -20643,12 +20643,12 @@ graph [
     node [
         id 1644696
         label "Ashes of Your Enemy"
-        color "red"
+        color "blue"
     ]
     node [
         id 2690756
         label "Sawblade"
-        color "red"
+        color "blue"
     ]
     node [
         id 1178630
@@ -20673,7 +20673,7 @@ graph [
     node [
         id 331462
         label "Lizard"
-        color "red"
+        color "purple"
     ]
     node [
         id 153766
@@ -20683,12 +20683,12 @@ graph [
     node [
         id 219505
         label "Lullacry"
-        color "red"
+        color "purple"
     ]
     node [
         id 743594
         label "Winterfylleth"
-        color "red"
+        color "blue"
     ]
     node [
         id 121004
@@ -20698,12 +20698,12 @@ graph [
     node [
         id 2972018
         label "Ultratumba"
-        color "red"
+        color "purple"
     ]
     node [
         id 55470
         label "Skinner"
-        color "red"
+        color "purple"
     ]
     node [
         id 219311
@@ -20718,17 +20718,17 @@ graph [
     node [
         id 22705
         label "Y&T"
-        color "red"
+        color "purple"
     ]
     node [
         id 1349810
         label "Indungeon"
-        color "red"
+        color "blue"
     ]
     node [
         id 4086131
         label "Время жатвы"
-        color "red"
+        color "blue"
     ]
     node [
         id 4561076
@@ -20748,12 +20748,12 @@ graph [
     node [
         id 219324
         label "Rossomahaar"
-        color "red"
+        color "purple"
     ]
     node [
         id 322937
         label "Dreamers"
-        color "red"
+        color "purple"
     ]
     node [
         id 301246
@@ -20773,7 +20773,7 @@ graph [
     node [
         id 678082
         label "Hands Like Houses"
-        color "red"
+        color "purple"
     ]
     node [
         id 956611
@@ -20833,7 +20833,7 @@ graph [
     node [
         id 995023
         label "Doppler"
-        color "red"
+        color "purple"
     ]
     node [
         id 145786
@@ -20843,12 +20843,12 @@ graph [
     node [
         id 4761358
         label "The Silence Broken"
-        color "red"
+        color "blue"
     ]
     node [
         id 6371
         label "Tarja Turunen"
-        color "red"
+        color "purple"
     ]
     node [
         id 71908
@@ -20858,7 +20858,7 @@ graph [
     node [
         id 1197094
         label "Hatchet"
-        color "red"
+        color "blue"
     ]
     node [
         id 145788
@@ -20868,7 +20868,7 @@ graph [
     node [
         id 3430635
         label "Avatar"
-        color "red"
+        color "blue"
     ]
     node [
         id 22766
@@ -20878,7 +20878,7 @@ graph [
     node [
         id 317680
         label "Hatred"
-        color "red"
+        color "blue"
     ]
     node [
         id 697384
@@ -20893,12 +20893,12 @@ graph [
     node [
         id 1874229
         label "Arbiter"
-        color "red"
+        color "blue"
     ]
     node [
         id 825590
         label "Tempesta"
-        color "red"
+        color "purple"
     ]
     node [
         id 6391
@@ -20913,7 +20913,7 @@ graph [
     node [
         id 1363668
         label "Clair Cassis"
-        color "red"
+        color "blue"
     ]
     node [
         id 268538
@@ -20943,12 +20943,12 @@ graph [
     node [
         id 1082982
         label "Dark ages"
-        color "red"
+        color "purple"
     ]
     node [
         id 2775300
         label "Fronzilla"
-        color "red"
+        color "blue"
     ]
     node [
         id 4593925
@@ -20958,12 +20958,12 @@ graph [
     node [
         id 1366279
         label "Claps for Caroline"
-        color "red"
+        color "purple"
     ]
     node [
         id 1202441
         label "Adai"
-        color "red"
+        color "blue"
     ]
     node [
         id 2169100
@@ -20988,27 +20988,27 @@ graph [
     node [
         id 1120536
         label "Crossplane"
-        color "red"
+        color "purple"
     ]
     node [
         id 1022234
         label "Cyril Achard"
-        color "red"
+        color "blue"
     ]
     node [
         id 301340
         label "Numbers"
-        color "red"
+        color "blue"
     ]
     node [
         id 3423089
         label "Beyond The Black"
-        color "red"
+        color "blue"
     ]
     node [
         id 891168
         label "Saints of Ruin"
-        color "red"
+        color "blue"
     ]
     node [
         id 2013349
@@ -21023,7 +21023,7 @@ graph [
     node [
         id 1483761
         label "Cranial Osteotomy"
-        color "red"
+        color "blue"
     ]
     node [
         id 6439
@@ -21033,17 +21033,17 @@ graph [
     node [
         id 2267433
         label "Devium"
-        color "red"
+        color "blue"
     ]
     node [
         id 1726763
         label "Seven Kingdoms"
-        color "red"
+        color "blue"
     ]
     node [
         id 2228302
         label "Frost Like Ashes"
-        color "red"
+        color "blue"
     ]
     node [
         id 2267438
@@ -21058,7 +21058,7 @@ graph [
     node [
         id 883080
         label "Dog Fashion Disco"
-        color "red"
+        color "purple"
     ]
     node [
         id 2327603
@@ -21068,12 +21068,12 @@ graph [
     node [
         id 762369
         label "Doomsword"
-        color "red"
+        color "blue"
     ]
     node [
         id 1847006
         label "The Hysteria"
-        color "red"
+        color "blue"
     ]
     node [
         id 2005303
@@ -21083,7 +21083,7 @@ graph [
     node [
         id 1939769
         label "Troldhaugen"
-        color "red"
+        color "blue"
     ]
     node [
         id 2464058
@@ -21093,7 +21093,7 @@ graph [
     node [
         id 1038651
         label "Reality Slap"
-        color "red"
+        color "blue"
     ]
     node [
         id 727931
@@ -21123,7 +21123,7 @@ graph [
     node [
         id 710981
         label "Sybreed"
-        color "red"
+        color "blue"
     ]
     node [
         id 481606
@@ -21133,12 +21133,12 @@ graph [
     node [
         id 514375
         label "Slaves"
-        color "red"
+        color "purple"
     ]
     node [
         id 301384
         label "Xasthur"
-        color "red"
+        color "purple"
     ]
     node [
         id 121161
@@ -21148,7 +21148,7 @@ graph [
     node [
         id 4626762
         label "Brutai"
-        color "red"
+        color "blue"
     ]
     node [
         id 2021708
@@ -21183,7 +21183,7 @@ graph [
     node [
         id 891222
         label "Elysian Blaze"
-        color "red"
+        color "blue"
     ]
     node [
         id 678231
@@ -21198,22 +21198,22 @@ graph [
     node [
         id 4686392
         label "МИССИЯ"
-        color "red"
+        color "blue"
     ]
     node [
         id 209192
         label "Satarial"
-        color "red"
+        color "purple"
     ]
     node [
         id 3840348
         label "Sunburst"
-        color "red"
+        color "purple"
     ]
     node [
         id 1834439
         label "Eyes On Fire"
-        color "red"
+        color "blue"
     ]
     node [
         id 1727475
@@ -21228,7 +21228,7 @@ graph [
     node [
         id 1161616
         label "Secret Illusion"
-        color "red"
+        color "blue"
     ]
     node [
         id 325373
@@ -21248,7 +21248,7 @@ graph [
     node [
         id 252262
         label "GERM"
-        color "red"
+        color "purple"
     ]
     node [
         id 1481063
@@ -21273,7 +21273,7 @@ graph [
     node [
         id 1937518
         label "Strafe Run"
-        color "red"
+        color "blue"
     ]
     node [
         id 1907054
@@ -21328,7 +21328,7 @@ graph [
     node [
         id 6526
         label "Mötley Crüe"
-        color "red"
+        color "purple"
     ]
     node [
         id 282347
@@ -21358,7 +21358,7 @@ graph [
     node [
         id 1069525
         label "Masterstroke"
-        color "red"
+        color "blue"
     ]
     node [
         id 137611
@@ -21373,12 +21373,12 @@ graph [
     node [
         id 1880057
         label "Empyreal"
-        color "red"
+        color "blue"
     ]
     node [
         id 1792403
         label "Morior Invictus"
-        color "red"
+        color "blue"
     ]
     node [
         id 3877003
@@ -21438,7 +21438,7 @@ graph [
     node [
         id 481705
         label "Attila"
-        color "red"
+        color "blue"
     ]
     node [
         id 367018
@@ -21448,7 +21448,7 @@ graph [
     node [
         id 304199
         label "Fall Of Serenity"
-        color "red"
+        color "blue"
     ]
     node [
         id 1433418
@@ -21463,12 +21463,12 @@ graph [
     node [
         id 2002988
         label "Taperedmind"
-        color "red"
+        color "blue"
     ]
     node [
         id 645552
         label "Ommatidia"
-        color "red"
+        color "blue"
     ]
     node [
         id 645553
@@ -21478,12 +21478,12 @@ graph [
     node [
         id 645554
         label "Benighted"
-        color "red"
+        color "purple"
     ]
     node [
         id 431801
         label "Rytmihäiriö"
-        color "red"
+        color "purple"
     ]
     node [
         id 22964
@@ -21493,17 +21493,17 @@ graph [
     node [
         id 645557
         label "Silent Stream of Godless Elegy"
-        color "red"
+        color "blue"
     ]
     node [
         id 645558
         label "Nightbringer"
-        color "red"
+        color "purple"
     ]
     node [
         id 645559
         label "Morbid Angel"
-        color "red"
+        color "blue"
     ]
     node [
         id 22968
@@ -21513,17 +21513,17 @@ graph [
     node [
         id 645561
         label "Generation Kill"
-        color "red"
+        color "blue"
     ]
     node [
         id 645563
         label "Elitist"
-        color "red"
+        color "purple"
     ]
     node [
         id 645564
         label "Thy Catafalque"
-        color "red"
+        color "purple"
     ]
     node [
         id 2917450
@@ -21543,22 +21543,22 @@ graph [
     node [
         id 88514
         label "Iron Maiden"
-        color "red"
+        color "blue"
     ]
     node [
         id 88515
         label "Bruce Dickinson"
-        color "red"
+        color "purple"
     ]
     node [
         id 369567
         label "Cirith Ungol"
-        color "red"
+        color "purple"
     ]
     node [
         id 317894
         label "Gojira"
-        color "red"
+        color "blue"
     ]
     node [
         id 678344
@@ -21603,7 +21603,7 @@ graph [
     node [
         id 1714931
         label "Judicator"
-        color "red"
+        color "blue"
     ]
     node [
         id 1860845
@@ -21613,12 +21613,12 @@ graph [
     node [
         id 1563264
         label "The Last Ten Seconds of Life"
-        color "red"
+        color "blue"
     ]
     node [
         id 924124
         label "Jabberwocky"
-        color "red"
+        color "blue"
     ]
     node [
         id 192250
@@ -21643,12 +21643,12 @@ graph [
     node [
         id 2054628
         label "GrimWolf"
-        color "red"
+        color "blue"
     ]
     node [
         id 973286
         label "Words Of Farewell"
-        color "red"
+        color "purple"
     ]
     node [
         id 1219048
@@ -21673,17 +21673,17 @@ graph [
     node [
         id 3037677
         label "Aspherium"
-        color "red"
+        color "blue"
     ]
     node [
         id 416241
         label "Nashville Pussy"
-        color "red"
+        color "purple"
     ]
     node [
         id 317938
         label "Mörk Gryning"
-        color "red"
+        color "purple"
     ]
     node [
         id 2768418
@@ -21713,7 +21713,7 @@ graph [
     node [
         id 1068799
         label "Elektradrive"
-        color "red"
+        color "blue"
     ]
     node [
         id 301564
@@ -21738,7 +21738,7 @@ graph [
     node [
         id 1088003
         label "Jumper Lace"
-        color "red"
+        color "blue"
     ]
     node [
         id 3824133
@@ -21753,7 +21753,7 @@ graph [
     node [
         id 2603436
         label "Headsource"
-        color "red"
+        color "blue"
     ]
     node [
         id 4097111
@@ -21763,7 +21763,7 @@ graph [
     node [
         id 1249026
         label "The Deep End"
-        color "red"
+        color "blue"
     ]
     node [
         id 835482
@@ -21778,7 +21778,7 @@ graph [
     node [
         id 6672
         label "Reverend Bizarre"
-        color "red"
+        color "blue"
     ]
     node [
         id 3262701
@@ -21793,7 +21793,7 @@ graph [
     node [
         id 6677
         label "Colosseum"
-        color "red"
+        color "purple"
     ]
     node [
         id 317975
@@ -21803,12 +21803,12 @@ graph [
     node [
         id 1743384
         label "DANIEL BAND"
-        color "red"
+        color "purple"
     ]
     node [
         id 1169945
         label "Behexen"
-        color "red"
+        color "purple"
     ]
     node [
         id 72218
@@ -21878,7 +21878,7 @@ graph [
     node [
         id 989736
         label "Mars Red Sky"
-        color "red"
+        color "purple"
     ]
     node [
         id 2117383
@@ -21908,12 +21908,12 @@ graph [
     node [
         id 2513460
         label "Nivaira"
-        color "red"
+        color "blue"
     ]
     node [
         id 2071093
         label "Aftershok"
-        color "red"
+        color "blue"
     ]
     node [
         id 2812563
@@ -21923,17 +21923,17 @@ graph [
     node [
         id 318009
         label "Hellfueled"
-        color "red"
+        color "purple"
     ]
     node [
         id 2497082
         label "Alkira"
-        color "red"
+        color "blue"
     ]
     node [
         id 468063
         label "Alley"
-        color "red"
+        color "blue"
     ]
     node [
         id 1579583
@@ -21948,7 +21948,7 @@ graph [
     node [
         id 3027564
         label "Voodoopriest"
-        color "red"
+        color "blue"
     ]
     node [
         id 1579586
@@ -21958,7 +21958,7 @@ graph [
     node [
         id 2251331
         label "Arise From Oblivion"
-        color "red"
+        color "blue"
     ]
     node [
         id 3217988
@@ -21968,7 +21968,7 @@ graph [
     node [
         id 612933
         label "Облачный край"
-        color "red"
+        color "blue"
     ]
     node [
         id 1579590
@@ -22008,7 +22008,7 @@ graph [
     node [
         id 1038776
         label "Deluka"
-        color "red"
+        color "purple"
     ]
     node [
         id 2081891
@@ -22023,12 +22023,12 @@ graph [
     node [
         id 39512
         label "Gillan"
-        color "red"
+        color "purple"
     ]
     node [
         id 39514
         label "Morse"
-        color "red"
+        color "blue"
     ]
     node [
         id 481885
@@ -22043,12 +22043,12 @@ graph [
     node [
         id 2016357
         label "Windfaerer"
-        color "red"
+        color "blue"
     ]
     node [
         id 2071137
         label "Afterimage"
-        color "red"
+        color "purple"
     ]
     node [
         id 170427
@@ -22068,7 +22068,7 @@ graph [
     node [
         id 318055
         label "Noidz"
-        color "red"
+        color "blue"
     ]
     node [
         id 2382440
@@ -22093,7 +22093,7 @@ graph [
     node [
         id 252525
         label "Hate Squad"
-        color "red"
+        color "purple"
     ]
     node [
         id 825966
@@ -22103,7 +22103,7 @@ graph [
     node [
         id 1383023
         label "D.N.A"
-        color "red"
+        color "blue"
     ]
     node [
         id 28049
@@ -22158,7 +22158,7 @@ graph [
     node [
         id 252544
         label "Forbidden"
-        color "red"
+        color "blue"
     ]
     node [
         id 290476
@@ -22183,7 +22183,7 @@ graph [
     node [
         id 2668039
         label "POLIGON"
-        color "red"
+        color "blue"
     ]
     node [
         id 1483884
@@ -22198,17 +22198,17 @@ graph [
     node [
         id 1170059
         label "Archgoat"
-        color "red"
+        color "purple"
     ]
     node [
         id 301708
         label "Havok"
-        color "red"
+        color "blue"
     ]
     node [
         id 711309
         label "Hollow Earth"
-        color "red"
+        color "blue"
     ]
     node [
         id 23182
@@ -22218,7 +22218,7 @@ graph [
     node [
         id 4645997
         label "Perfect Limbs"
-        color "red"
+        color "blue"
     ]
     node [
         id 4568577
@@ -22228,7 +22228,7 @@ graph [
     node [
         id 1612435
         label "Synthetic Breed"
-        color "red"
+        color "blue"
     ]
     node [
         id 1317526
@@ -22238,7 +22238,7 @@ graph [
     node [
         id 290585
         label "Dreamland"
-        color "red"
+        color "blue"
     ]
     node [
         id 1010613
@@ -22258,7 +22258,7 @@ graph [
     node [
         id 1006237
         label "Terra Australis"
-        color "red"
+        color "blue"
     ]
     node [
         id 170655
@@ -22278,17 +22278,17 @@ graph [
     node [
         id 1153698
         label "Burzum"
-        color "red"
+        color "blue"
     ]
     node [
         id 2436891
         label "Silent On Fifth Street"
-        color "red"
+        color "blue"
     ]
     node [
         id 170660
         label "Эпидемия"
-        color "red"
+        color "blue"
     ]
     node [
         id 1142451
@@ -22298,7 +22298,7 @@ graph [
     node [
         id 350886
         label "Hatesphere"
-        color "red"
+        color "blue"
     ]
     node [
         id 137895
@@ -22333,7 +22333,7 @@ graph [
     node [
         id 456993
         label "7 Horns 7 Eyes"
-        color "red"
+        color "blue"
     ]
     node [
         id 1912605
@@ -22343,22 +22343,22 @@ graph [
     node [
         id 334512
         label "Taake"
-        color "red"
+        color "purple"
     ]
     node [
         id 1120946
         label "Heaven Rain"
-        color "red"
+        color "purple"
     ]
     node [
         id 2218675
         label "Lich King"
-        color "red"
+        color "blue"
     ]
     node [
         id 2431671
         label "Cromlech"
-        color "red"
+        color "blue"
     ]
     node [
         id 268985
@@ -22368,12 +22368,12 @@ graph [
     node [
         id 1940324
         label "Bloody Hammers"
-        color "red"
+        color "purple"
     ]
     node [
         id 3906236
         label "Rapture"
-        color "red"
+        color "blue"
     ]
     node [
         id 826045
@@ -22383,12 +22383,12 @@ graph [
     node [
         id 330983
         label "Morpheus"
-        color "red"
+        color "purple"
     ]
     node [
         id 1301184
         label "Hocculta"
-        color "red"
+        color "blue"
     ]
     node [
         id 1350337
@@ -22408,7 +22408,7 @@ graph [
     node [
         id 858823
         label "My Own Private Alaska"
-        color "red"
+        color "purple"
     ]
     node [
         id 35034
@@ -22438,27 +22438,27 @@ graph [
     node [
         id 596691
         label "Conditioned Response"
-        color "red"
+        color "blue"
     ]
     node [
         id 170708
         label "In This Moment"
-        color "red"
+        color "blue"
     ]
     node [
         id 1311865
         label "Heavy Mellow"
-        color "red"
+        color "blue"
     ]
     node [
         id 989912
         label "Noxious"
-        color "red"
+        color "purple"
     ]
     node [
         id 170713
         label "Devil Sold His Soul"
-        color "red"
+        color "purple"
     ]
     node [
         id 2437160
@@ -22473,22 +22473,22 @@ graph [
     node [
         id 301790
         label "Wolfchant"
-        color "red"
+        color "blue"
     ]
     node [
         id 2923235
         label "TERROR INSIDE"
-        color "red"
+        color "blue"
     ]
     node [
         id 1615235
         label "Traitor"
-        color "red"
+        color "blue"
     ]
     node [
         id 1472977
         label "Doom:VS"
-        color "red"
+        color "blue"
     ]
     node [
         id 6891
@@ -22503,17 +22503,17 @@ graph [
     node [
         id 1053510
         label "Clobberin´ Time"
-        color "red"
+        color "blue"
     ]
     node [
         id 318191
         label "Midnattsol"
-        color "red"
+        color "blue"
     ]
     node [
         id 1432304
         label "Aeternam"
-        color "red"
+        color "purple"
     ]
     node [
         id 6898
@@ -22538,7 +22538,7 @@ graph [
     node [
         id 2988835
         label "Strike"
-        color "red"
+        color "purple"
     ]
     node [
         id 6906
@@ -22573,7 +22573,7 @@ graph [
     node [
         id 334594
         label "We Came As Romans"
-        color "red"
+        color "purple"
     ]
     node [
         id 6915
@@ -22608,7 +22608,7 @@ graph [
     node [
         id 6921
         label "Rainbow"
-        color "red"
+        color "purple"
     ]
     node [
         id 6922
@@ -22618,7 +22618,7 @@ graph [
     node [
         id 2104075
         label "Gallows End"
-        color "red"
+        color "blue"
     ]
     node [
         id 6924
@@ -22638,7 +22638,7 @@ graph [
     node [
         id 331565
         label "White Skull"
-        color "red"
+        color "blue"
     ]
     node [
         id 6928
@@ -22648,7 +22648,7 @@ graph [
     node [
         id 997848
         label "Handsome Beasts"
-        color "red"
+        color "blue"
     ]
     node [
         id 432914
@@ -22663,7 +22663,7 @@ graph [
     node [
         id 350997
         label "Hemlock"
-        color "red"
+        color "blue"
     ]
     node [
         id 6934
@@ -22673,7 +22673,7 @@ graph [
     node [
         id 350999
         label "Ministry & Co-Conspirators"
-        color "red"
+        color "blue"
     ]
     node [
         id 432920
@@ -22698,7 +22698,7 @@ graph [
     node [
         id 6941
         label "Kingdom Come"
-        color "red"
+        color "purple"
     ]
     node [
         id 1022750
@@ -22708,7 +22708,7 @@ graph [
     node [
         id 1342321
         label "Deathbound"
-        color "red"
+        color "blue"
     ]
     node [
         id 4578081
@@ -22728,7 +22728,7 @@ graph [
     node [
         id 6948
         label "Sólstafir"
-        color "red"
+        color "blue"
     ]
     node [
         id 1764043
@@ -22758,7 +22758,7 @@ graph [
     node [
         id 1153837
         label "This Haven"
-        color "red"
+        color "blue"
     ]
     node [
         id 793391
@@ -22778,17 +22778,17 @@ graph [
     node [
         id 6964
         label "Five Finger Death Punch"
-        color "red"
+        color "blue"
     ]
     node [
         id 1841973
         label "Hydria"
-        color "red"
+        color "purple"
     ]
     node [
         id 861321
         label "The Mercury Arc"
-        color "red"
+        color "blue"
     ]
     node [
         id 1727288
@@ -22838,12 +22838,12 @@ graph [
     node [
         id 2322938
         label "A Plea for Purging"
-        color "red"
+        color "purple"
     ]
     node [
         id 2169667
         label "Gothic Knights"
-        color "red"
+        color "blue"
     ]
     node [
         id 203588
@@ -22853,12 +22853,12 @@ graph [
     node [
         id 1612614
         label "Abnormal Thought Patterns"
-        color "red"
+        color "blue"
     ]
     node [
         id 2643295
         label "Optimist"
-        color "red"
+        color "blue"
     ]
     node [
         id 756822
@@ -22873,7 +22873,7 @@ graph [
     node [
         id 1945399
         label "Illuminandi"
-        color "red"
+        color "blue"
     ]
     node [
         id 2935918
@@ -22898,7 +22898,7 @@ graph [
     node [
         id 2202450
         label "Twilight Of The Gods"
-        color "red"
+        color "blue"
     ]
     node [
         id 121683
@@ -22908,7 +22908,7 @@ graph [
     node [
         id 1759680
         label "Metalhead"
-        color "red"
+        color "purple"
     ]
     node [
         id 334679
@@ -22923,12 +22923,12 @@ graph [
     node [
         id 1547099
         label "Darkness Dynamite"
-        color "red"
+        color "blue"
     ]
     node [
         id 334685
         label "Auras"
-        color "red"
+        color "purple"
     ]
     node [
         id 432990
@@ -22943,12 +22943,12 @@ graph [
     node [
         id 3326731
         label "Emperor"
-        color "red"
+        color "purple"
     ]
     node [
         id 1483920
         label "Vulvectomy"
-        color "red"
+        color "blue"
     ]
     node [
         id 2579298
@@ -22998,12 +22998,12 @@ graph [
     node [
         id 1809264
         label "Will The Thrill"
-        color "red"
+        color "blue"
     ]
     node [
         id 1432040
         label "Ramesses"
-        color "red"
+        color "purple"
     ]
     node [
         id 23411
@@ -23023,7 +23023,7 @@ graph [
     node [
         id 124052
         label "Heathen"
-        color "red"
+        color "purple"
     ]
     node [
         id 315199
@@ -23048,7 +23048,7 @@ graph [
     node [
         id 4447107
         label "Twilight Force"
-        color "red"
+        color "blue"
     ]
     node [
         id 1594921
@@ -23068,17 +23068,17 @@ graph [
     node [
         id 449004
         label "Voivod"
-        color "red"
+        color "purple"
     ]
     node [
         id 1989514
         label "Machinatx"
-        color "red"
+        color "blue"
     ]
     node [
         id 416651
         label "Anorexia Nervosa"
-        color "red"
+        color "purple"
     ]
     node [
         id 154508
@@ -23088,12 +23088,12 @@ graph [
     node [
         id 315202
         label "Righteous Pigs"
-        color "red"
+        color "blue"
     ]
     node [
         id 301966
         label "Fairyland"
-        color "red"
+        color "purple"
     ]
     node [
         id 1891215
@@ -23123,7 +23123,7 @@ graph [
     node [
         id 760726
         label "Volumes"
-        color "red"
+        color "blue"
     ]
     node [
         id 2281788
@@ -23133,7 +23133,7 @@ graph [
     node [
         id 564121
         label "Dordeduh"
-        color "red"
+        color "purple"
     ]
     node [
         id 564122
@@ -23148,7 +23148,7 @@ graph [
     node [
         id 1825694
         label "Outline in Color"
-        color "red"
+        color "purple"
     ]
     node [
         id 151365
@@ -23163,12 +23163,12 @@ graph [
     node [
         id 564131
         label "Savage Circus"
-        color "red"
+        color "blue"
     ]
     node [
         id 564132
         label "Herman Frank"
-        color "red"
+        color "blue"
     ]
     node [
         id 1792937
@@ -23183,7 +23183,7 @@ graph [
     node [
         id 2055083
         label "Silversyde"
-        color "red"
+        color "purple"
     ]
     node [
         id 1864977
@@ -23193,7 +23193,7 @@ graph [
     node [
         id 564143
         label "Luca Turilli"
-        color "red"
+        color "purple"
     ]
     node [
         id 138162
@@ -23208,12 +23208,12 @@ graph [
     node [
         id 564150
         label "Crystal Viper"
-        color "red"
+        color "purple"
     ]
     node [
         id 429897
         label "Symfonia"
-        color "red"
+        color "blue"
     ]
     node [
         id 136001
@@ -23293,17 +23293,17 @@ graph [
     node [
         id 702294
         label "Naglfar"
-        color "red"
+        color "blue"
     ]
     node [
         id 2876579
         label "Katumus"
-        color "red"
+        color "blue"
     ]
     node [
         id 416724
         label "Minsk"
-        color "red"
+        color "purple"
     ]
     node [
         id 187353
@@ -23343,12 +23343,12 @@ graph [
     node [
         id 564196
         label "Stahlmann"
-        color "red"
+        color "purple"
     ]
     node [
         id 2218981
         label "Stuck Underwater"
-        color "red"
+        color "purple"
     ]
     node [
         id 7142
@@ -23368,7 +23368,7 @@ graph [
     node [
         id 7147
         label "Kiss"
-        color "red"
+        color "blue"
     ]
     node [
         id 3277447
@@ -23463,17 +23463,17 @@ graph [
     node [
         id 2661389
         label "Dead.last"
-        color "red"
+        color "blue"
     ]
     node [
         id 645556
         label "Endstille"
-        color "red"
+        color "blue"
     ]
     node [
         id 2907153
         label "Wovenwar"
-        color "red"
+        color "blue"
     ]
     node [
         id 629778
@@ -23498,17 +23498,17 @@ graph [
     node [
         id 323417
         label "Cough"
-        color "red"
+        color "blue"
     ]
     node [
         id 73345
         label "Cavalera Conspiracy"
-        color "red"
+        color "purple"
     ]
     node [
         id 309764
         label "Phenix"
-        color "red"
+        color "blue"
     ]
     node [
         id 1344275
@@ -23518,12 +23518,12 @@ graph [
     node [
         id 203805
         label "John Norum"
-        color "red"
+        color "purple"
     ]
     node [
         id 318494
         label "Atrox"
-        color "red"
+        color "blue"
     ]
     node [
         id 7200
@@ -23538,7 +23538,7 @@ graph [
     node [
         id 2628644
         label "Circular Ruins"
-        color "red"
+        color "blue"
     ]
     node [
         id 33969
@@ -23548,7 +23548,7 @@ graph [
     node [
         id 236585
         label "Volbeat"
-        color "red"
+        color "purple"
     ]
     node [
         id 739696
@@ -23558,12 +23558,12 @@ graph [
     node [
         id 744495
         label "Ripe"
-        color "red"
+        color "purple"
     ]
     node [
         id 138289
         label "Between The Buried & Me"
-        color "red"
+        color "blue"
     ]
     node [
         id 1383476
@@ -23593,12 +23593,12 @@ graph [
     node [
         id 1252412
         label "Ethernity"
-        color "red"
+        color "blue"
     ]
     node [
         id 154687
         label "Length Of Time"
-        color "red"
+        color "blue"
     ]
     node [
         id 138305
@@ -23613,7 +23613,7 @@ graph [
     node [
         id 138310
         label "Emmure"
-        color "red"
+        color "purple"
     ]
     node [
         id 1926631
@@ -23623,12 +23623,12 @@ graph [
     node [
         id 1154120
         label "Trap Them"
-        color "red"
+        color "purple"
     ]
     node [
         id 2251849
         label "Teramaze"
-        color "red"
+        color "blue"
     ]
     node [
         id 1219660
@@ -23643,17 +23643,17 @@ graph [
     node [
         id 2563152
         label "Ovid's Withering"
-        color "red"
+        color "blue"
     ]
     node [
         id 1967288
         label "In Malice's Wake"
-        color "red"
+        color "blue"
     ]
     node [
         id 2563154
         label "Satanic Assault Division"
-        color "red"
+        color "blue"
     ]
     node [
         id 40019
@@ -23663,17 +23663,17 @@ graph [
     node [
         id 138324
         label "Carnifex"
-        color "red"
+        color "purple"
     ]
     node [
         id 1809494
         label "I Legion"
-        color "red"
+        color "purple"
     ]
     node [
         id 154712
         label "Fozzy"
-        color "red"
+        color "purple"
     ]
     node [
         id 138329
@@ -23698,37 +23698,37 @@ graph [
     node [
         id 1416285
         label "Hells Heaven"
-        color "red"
+        color "blue"
     ]
     node [
         id 2272520
         label "Dan Johansen"
-        color "red"
+        color "blue"
     ]
     node [
         id 302175
         label "Týr"
-        color "red"
+        color "blue"
     ]
     node [
         id 302176
         label "Icon In Me"
-        color "red"
+        color "purple"
     ]
     node [
         id 2677859
         label "Thrashback"
-        color "red"
+        color "blue"
     ]
     node [
         id 2522389
         label "Meden Agan"
-        color "red"
+        color "blue"
     ]
     node [
         id 138341
         label "Destrophy"
-        color "red"
+        color "purple"
     ]
     node [
         id 2366567
@@ -23758,7 +23758,7 @@ graph [
     node [
         id 1483965
         label "Demoncy"
-        color "red"
+        color "blue"
     ]
     node [
         id 2895720
@@ -23778,7 +23778,7 @@ graph [
     node [
         id 7285
         label "To/Die/For"
-        color "red"
+        color "purple"
     ]
     node [
         id 219014
@@ -23793,12 +23793,12 @@ graph [
     node [
         id 2628731
         label "Paradox"
-        color "red"
+        color "purple"
     ]
     node [
         id 2022527
         label "Silent Opera"
-        color "red"
+        color "blue"
     ]
     node [
         id 1492160
@@ -23808,22 +23808,22 @@ graph [
     node [
         id 1203331
         label "Latitudes"
-        color "red"
+        color "purple"
     ]
     node [
         id 138373
         label "Pathosray"
-        color "red"
+        color "blue"
     ]
     node [
         id 1760390
         label "Motör Militia"
-        color "red"
+        color "blue"
     ]
     node [
         id 2581697
         label "Bronze Honey"
-        color "red"
+        color "blue"
     ]
     node [
         id 1257324
@@ -23838,7 +23838,7 @@ graph [
     node [
         id 728204
         label "Butcher Babies"
-        color "red"
+        color "blue"
     ]
     node [
         id 4695234
@@ -23848,12 +23848,12 @@ graph [
     node [
         id 1924238
         label "Celtic Legacy"
-        color "red"
+        color "purple"
     ]
     node [
         id 547983
         label "Battalion"
-        color "red"
+        color "purple"
     ]
     node [
         id 122001
@@ -23863,7 +23863,7 @@ graph [
     node [
         id 2137234
         label "Dimidium"
-        color "red"
+        color "purple"
     ]
     node [
         id 220307
@@ -23883,12 +23883,12 @@ graph [
     node [
         id 2030105
         label "Q5"
-        color "red"
+        color "purple"
     ]
     node [
         id 859290
         label "Pan.thy.monium"
-        color "red"
+        color "blue"
     ]
     node [
         id 89243
@@ -23898,7 +23898,7 @@ graph [
     node [
         id 785078
         label "the vendetta"
-        color "red"
+        color "purple"
     ]
     node [
         id 2822000
@@ -23913,7 +23913,7 @@ graph [
     node [
         id 2284708
         label "Alphabet Insanity"
-        color "red"
+        color "blue"
     ]
     node [
         id 2907303
@@ -23928,7 +23928,7 @@ graph [
     node [
         id 1181938
         label "Royal Thunder"
-        color "red"
+        color "purple"
     ]
     node [
         id 2940018
@@ -23943,7 +23943,7 @@ graph [
     node [
         id 236719
         label "Dirkschneider"
-        color "red"
+        color "blue"
     ]
     node [
         id 2514097
@@ -23953,7 +23953,7 @@ graph [
     node [
         id 151411
         label "Dark Tranquillity"
-        color "red"
+        color "blue"
     ]
     node [
         id 2189745
@@ -23983,7 +23983,7 @@ graph [
     node [
         id 302270
         label "Born From Pain"
-        color "red"
+        color "blue"
     ]
     node [
         id 23744
@@ -23998,12 +23998,12 @@ graph [
     node [
         id 637400
         label "Astroqueen"
-        color "red"
+        color "blue"
     ]
     node [
         id 1843392
         label "Masquerade of Shadows"
-        color "red"
+        color "blue"
     ]
     node [
         id 23073
@@ -24028,7 +24028,7 @@ graph [
     node [
         id 318668
         label "Draconian"
-        color "red"
+        color "blue"
     ]
     node [
         id 1776162
@@ -24038,7 +24038,7 @@ graph [
     node [
         id 318670
         label "Katra"
-        color "red"
+        color "purple"
     ]
     node [
         id 122063
@@ -24048,17 +24048,17 @@ graph [
     node [
         id 318672
         label "Isole"
-        color "red"
+        color "purple"
     ]
     node [
         id 318673
         label "Alestorm"
-        color "red"
+        color "blue"
     ]
     node [
         id 318674
         label "Stuck Mojo"
-        color "red"
+        color "purple"
     ]
     node [
         id 105683
@@ -24078,17 +24078,17 @@ graph [
     node [
         id 1629398
         label "Author & Punisher"
-        color "red"
+        color "blue"
     ]
     node [
         id 1449175
         label "Cnoc An Tursa"
-        color "red"
+        color "blue"
     ]
     node [
         id 2561128
         label "Sopor"
-        color "red"
+        color "blue"
     ]
     node [
         id 1154267
@@ -24143,12 +24143,12 @@ graph [
     node [
         id 2071785
         label "Chileanmetal"
-        color "red"
+        color "blue"
     ]
     node [
         id 1621120
         label "Once Beloved"
-        color "red"
+        color "blue"
     ]
     node [
         id 1924331
@@ -24163,7 +24163,7 @@ graph [
     node [
         id 449774
         label "Randy Piper's Animal"
-        color "red"
+        color "blue"
     ]
     node [
         id 1842415
@@ -24173,17 +24173,17 @@ graph [
     node [
         id 318704
         label "Eternal Oath"
-        color "red"
+        color "blue"
     ]
     node [
         id 317992
         label "Tona"
-        color "red"
+        color "blue"
     ]
     node [
         id 1068926
         label "Mojo Filter"
-        color "red"
+        color "purple"
     ]
     node [
         id 417016
@@ -24213,12 +24213,12 @@ graph [
     node [
         id 335102
         label "Dagon"
-        color "red"
+        color "blue"
     ]
     node [
         id 582869
         label "The Tangent"
-        color "red"
+        color "purple"
     ]
     node [
         id 302336
@@ -24238,17 +24238,17 @@ graph [
     node [
         id 312534
         label "Ureas"
-        color "red"
+        color "blue"
     ]
     node [
         id 89352
         label "Nasty"
-        color "red"
+        color "blue"
     ]
     node [
         id 1848172
         label "Steve Cone"
-        color "red"
+        color "purple"
     ]
     node [
         id 1746592
@@ -24268,7 +24268,7 @@ graph [
     node [
         id 3218753
         label "The Flight Of Sleipnir"
-        color "red"
+        color "blue"
     ]
     node [
         id 2013741
@@ -24278,7 +24278,7 @@ graph [
     node [
         id 548112
         label "The Sins Of Thy Beloved"
-        color "red"
+        color "purple"
     ]
     node [
         id 318737
@@ -24288,7 +24288,7 @@ graph [
     node [
         id 2903939
         label "Save Us from the Archon"
-        color "red"
+        color "blue"
     ]
     node [
         id 7444
@@ -24298,7 +24298,7 @@ graph [
     node [
         id 2907413
         label "Black Breath"
-        color "red"
+        color "blue"
     ]
     node [
         id 72982
@@ -24318,12 +24318,12 @@ graph [
     node [
         id 548122
         label "Summoning"
-        color "red"
+        color "blue"
     ]
     node [
         id 1473071
         label "Dead Conspiracy"
-        color "red"
+        color "blue"
     ]
     node [
         id 859420
@@ -24333,7 +24333,7 @@ graph [
     node [
         id 359601
         label "Рогатые трупоеды"
-        color "red"
+        color "blue"
     ]
     node [
         id 171294
@@ -24343,12 +24343,12 @@ graph [
     node [
         id 433439
         label "Christian Älvestam"
-        color "red"
+        color "blue"
     ]
     node [
         id 72994
         label "Dethklok"
-        color "red"
+        color "blue"
     ]
     node [
         id 597283
@@ -24363,7 +24363,7 @@ graph [
     node [
         id 417062
         label "Fall of Eden"
-        color "red"
+        color "blue"
     ]
     node [
         id 121393
@@ -24383,7 +24383,7 @@ graph [
     node [
         id 171309
         label "Judas Priest"
-        color "red"
+        color "blue"
     ]
     node [
         id 171310
@@ -24393,7 +24393,7 @@ graph [
     node [
         id 548143
         label "Mactätus"
-        color "red"
+        color "purple"
     ]
     node [
         id 1088816
@@ -24408,7 +24408,7 @@ graph [
     node [
         id 515380
         label "R"
-        color "red"
+        color "blue"
     ]
     node [
         id 40245
@@ -24423,12 +24423,12 @@ graph [
     node [
         id 3202360
         label "Enterprise Earth"
-        color "red"
+        color "blue"
     ]
     node [
         id 122169
         label "Ascension"
-        color "red"
+        color "purple"
     ]
     node [
         id 1435011
@@ -24443,7 +24443,7 @@ graph [
     node [
         id 2960510
         label "Save The Clock Tower"
-        color "red"
+        color "blue"
     ]
     node [
         id 7485
@@ -24453,12 +24453,12 @@ graph [
     node [
         id 255200
         label "Carajo"
-        color "red"
+        color "blue"
     ]
     node [
         id 548162
         label "Einherjer"
-        color "red"
+        color "purple"
     ]
     node [
         id 1383747
@@ -24473,12 +24473,12 @@ graph [
     node [
         id 122181
         label "Blaspheme"
-        color "red"
+        color "blue"
     ]
     node [
         id 1596742
         label "Storm The Sky"
-        color "red"
+        color "blue"
     ]
     node [
         id 7497
@@ -24513,7 +24513,7 @@ graph [
     node [
         id 154962
         label "Metsatöll"
-        color "red"
+        color "blue"
     ]
     node [
         id 1008867
@@ -24523,7 +24523,7 @@ graph [
     node [
         id 73044
         label "It Prevails"
-        color "red"
+        color "blue"
     ]
     node [
         id 36750
@@ -24533,12 +24533,12 @@ graph [
     node [
         id 73046
         label "Before Their Eyes"
-        color "red"
+        color "purple"
     ]
     node [
         id 1596759
         label "Forsaken"
-        color "red"
+        color "blue"
     ]
     node [
         id 1934278
@@ -24548,12 +24548,12 @@ graph [
     node [
         id 73049
         label "The Devil Wears Prada"
-        color "red"
+        color "purple"
     ]
     node [
         id 73050
         label "Cathérine"
-        color "red"
+        color "purple"
     ]
     node [
         id 7515
@@ -24568,7 +24568,7 @@ graph [
     node [
         id 73053
         label "American Me"
-        color "red"
+        color "purple"
     ]
     node [
         id 73054
@@ -24583,7 +24583,7 @@ graph [
     node [
         id 1205949
         label "Clandestine"
-        color "red"
+        color "blue"
     ]
     node [
         id 171362
@@ -24613,7 +24613,7 @@ graph [
     node [
         id 585001
         label "Fish!"
-        color "red"
+        color "purple"
     ]
     node [
         id 7535
@@ -24628,17 +24628,17 @@ graph [
     node [
         id 413587
         label "Need"
-        color "red"
+        color "purple"
     ]
     node [
         id 548212
         label "Berserker"
-        color "red"
+        color "blue"
     ]
     node [
         id 386281
         label "Cyan Velvet Project"
-        color "red"
+        color "blue"
     ]
     node [
         id 318861
@@ -24648,17 +24648,17 @@ graph [
     node [
         id 2936549
         label "Forget My Silence"
-        color "red"
+        color "blue"
     ]
     node [
         id 2104699
         label "Corvus"
-        color "red"
+        color "purple"
     ]
     node [
         id 171388
         label "Quiet Riot"
-        color "red"
+        color "blue"
     ]
     node [
         id 1778922
@@ -24683,12 +24683,12 @@ graph [
     node [
         id 1973634
         label "Desasterkids"
-        color "red"
+        color "blue"
     ]
     node [
         id 27341
         label "The Human Abstract"
-        color "red"
+        color "blue"
     ]
     node [
         id 2977686
@@ -24698,17 +24698,17 @@ graph [
     node [
         id 417159
         label "My Insanity"
-        color "red"
+        color "blue"
     ]
     node [
         id 2104713
         label "Valtari"
-        color "red"
+        color "blue"
     ]
     node [
         id 2292936
         label "Circus Dawn"
-        color "red"
+        color "purple"
     ]
     node [
         id 48807
@@ -24733,7 +24733,7 @@ graph [
     node [
         id 1744275
         label "Crud"
-        color "red"
+        color "blue"
     ]
     node [
         id 171412
@@ -24763,7 +24763,7 @@ graph [
     node [
         id 2432414
         label "Daybreak Embrace"
-        color "red"
+        color "purple"
     ]
     node [
         id 1252771
@@ -24818,7 +24818,7 @@ graph [
     node [
         id 1473097
         label "Avulsed"
-        color "red"
+        color "purple"
     ]
     node [
         id 40376
@@ -24833,7 +24833,7 @@ graph [
     node [
         id 990650
         label "Ihsahn"
-        color "red"
+        color "purple"
     ]
     node [
         id 1159579
@@ -24858,7 +24858,7 @@ graph [
     node [
         id 613826
         label "Gorilla"
-        color "red"
+        color "purple"
     ]
     node [
         id 14923
@@ -24868,17 +24868,17 @@ graph [
     node [
         id 1195041
         label "Tribulation"
-        color "red"
+        color "blue"
     ]
     node [
         id 1957318
         label "Neroargento"
-        color "red"
+        color "purple"
     ]
     node [
         id 1404833
         label "Keishah"
-        color "red"
+        color "blue"
     ]
     node [
         id 1859016
@@ -24888,7 +24888,7 @@ graph [
     node [
         id 2104777
         label "The Commander-in-Chief"
-        color "red"
+        color "blue"
     ]
     node [
         id 105930
@@ -24908,7 +24908,7 @@ graph [
     node [
         id 2497999
         label "Horror Vacui"
-        color "red"
+        color "blue"
     ]
     node [
         id 417232
@@ -24933,7 +24933,7 @@ graph [
     node [
         id 2809301
         label "DETACH"
-        color "red"
+        color "blue"
     ]
     node [
         id 1269206
@@ -24958,12 +24958,12 @@ graph [
     node [
         id 417247
         label "Leatherwolf"
-        color "red"
+        color "purple"
     ]
     node [
         id 1430726
         label "Vredehammer"
-        color "red"
+        color "purple"
     ]
     node [
         id 777702
@@ -25013,27 +25013,27 @@ graph [
     node [
         id 2170356
         label "Entrails"
-        color "red"
+        color "blue"
     ]
     node [
         id 1777141
         label "Fault Lines"
-        color "red"
+        color "blue"
     ]
     node [
         id 73207
         label "Divine Heresy"
-        color "red"
+        color "blue"
     ]
     node [
         id 843256
         label "Lifelover"
-        color "red"
+        color "purple"
     ]
     node [
         id 2334201
         label "Altar Of Oblivion"
-        color "red"
+        color "blue"
     ]
     node [
         id 843258
@@ -25048,17 +25048,17 @@ graph [
     node [
         id 733098
         label "Vougan"
-        color "red"
+        color "blue"
     ]
     node [
         id 73216
         label "Within Temptation"
-        color "red"
+        color "blue"
     ]
     node [
         id 3399171
         label "Gorgasm"
-        color "red"
+        color "blue"
     ]
     node [
         id 89604
@@ -25073,7 +25073,7 @@ graph [
     node [
         id 2910076
         label "Autumn's Dawn"
-        color "red"
+        color "blue"
     ]
     node [
         id 531976
@@ -25138,7 +25138,7 @@ graph [
     node [
         id 89624
         label "The Chariot"
-        color "red"
+        color "purple"
     ]
     node [
         id 564762
@@ -25148,7 +25148,7 @@ graph [
     node [
         id 1793565
         label "A Sound of Thunder"
-        color "red"
+        color "purple"
     ]
     node [
         id 40478
@@ -25168,12 +25168,12 @@ graph [
     node [
         id 1849947
         label "Hårdare Än Lok"
-        color "red"
+        color "blue"
     ]
     node [
         id 2086194
         label "All Tomorrows"
-        color "red"
+        color "blue"
     ]
     node [
         id 1154600
@@ -25188,7 +25188,7 @@ graph [
     node [
         id 1449514
         label "Anaemia"
-        color "red"
+        color "blue"
     ]
     node [
         id 56876
@@ -25238,7 +25238,7 @@ graph [
     node [
         id 604198
         label "The Emo Rock Stars"
-        color "red"
+        color "blue"
     ]
     node [
         id 2467082
@@ -25258,7 +25258,7 @@ graph [
     node [
         id 1473120
         label "Antagony"
-        color "red"
+        color "blue"
     ]
     node [
         id 224485
@@ -25273,7 +25273,7 @@ graph [
     node [
         id 1381083
         label "IXION"
-        color "red"
+        color "blue"
     ]
     node [
         id 6753
@@ -25298,22 +25298,22 @@ graph [
     node [
         id 2606349
         label "Job For A Cowboy"
-        color "red"
+        color "blue"
     ]
     node [
         id 351824
         label "Omen"
-        color "red"
+        color "blue"
     ]
     node [
         id 1449554
         label "Rain Paint"
-        color "red"
+        color "blue"
     ]
     node [
         id 1473123
         label "Evoken"
-        color "red"
+        color "blue"
     ]
     node [
         id 73301
@@ -25343,12 +25343,12 @@ graph [
     node [
         id 761436
         label "Psychotic Waltz"
-        color "red"
+        color "purple"
     ]
     node [
         id 3031955
         label "The Shrine"
-        color "red"
+        color "purple"
     ]
     node [
         id 384606
@@ -25363,7 +25363,7 @@ graph [
     node [
         id 2606352
         label "Downfall of Gaia"
-        color "red"
+        color "blue"
     ]
     node [
         id 876131
@@ -25393,7 +25393,7 @@ graph [
     node [
         id 2210343
         label "Of Blackest Oceans"
-        color "red"
+        color "blue"
     ]
     node [
         id 302699
@@ -25408,7 +25408,7 @@ graph [
     node [
         id 2334319
         label "Undecimber"
-        color "red"
+        color "blue"
     ]
     node [
         id 761456
@@ -25418,7 +25418,7 @@ graph [
     node [
         id 1547892
         label "Bongripper"
-        color "red"
+        color "blue"
     ]
     node [
         id 307134
@@ -25428,7 +25428,7 @@ graph [
     node [
         id 2203255
         label "Vulture Industries"
-        color "red"
+        color "blue"
     ]
     node [
         id 2842233
@@ -25448,7 +25448,7 @@ graph [
     node [
         id 532093
         label "Circle II Circle"
-        color "red"
+        color "purple"
     ]
     node [
         id 1443093
@@ -25478,17 +25478,17 @@ graph [
     node [
         id 335495
         label "Voices Of Destiny"
-        color "red"
+        color "blue"
     ]
     node [
         id 3546760
         label "Impellitteri"
-        color "red"
+        color "blue"
     ]
     node [
         id 4169353
         label "Wildways"
-        color "red"
+        color "purple"
     ]
     node [
         id 73354
@@ -25498,12 +25498,12 @@ graph [
     node [
         id 1031054
         label "Islander"
-        color "red"
+        color "purple"
     ]
     node [
         id 2630293
         label "KharmaGuess"
-        color "red"
+        color "purple"
     ]
     node [
         id 515727
@@ -25513,7 +25513,7 @@ graph [
     node [
         id 610317
         label "Psideralica"
-        color "red"
+        color "blue"
     ]
     node [
         id 1078297
@@ -25528,7 +25528,7 @@ graph [
     node [
         id 532120
         label "Cruachan"
-        color "red"
+        color "blue"
     ]
     node [
         id 73369
@@ -25543,7 +25543,7 @@ graph [
     node [
         id 342639
         label "Leprous"
-        color "red"
+        color "purple"
     ]
     node [
         id 532124
@@ -25568,7 +25568,7 @@ graph [
     node [
         id 73377
         label "Midnight"
-        color "red"
+        color "purple"
     ]
     node [
         id 3268258
@@ -25578,7 +25578,7 @@ graph [
     node [
         id 532131
         label "Debauchery"
-        color "red"
+        color "purple"
     ]
     node [
         id 12809
@@ -25588,12 +25588,12 @@ graph [
     node [
         id 73381
         label "Toxik"
-        color "red"
+        color "blue"
     ]
     node [
         id 220838
         label "AqME"
-        color "red"
+        color "blue"
     ]
     node [
         id 512989
@@ -25603,7 +25603,7 @@ graph [
     node [
         id 2268840
         label "Soul Remnants"
-        color "red"
+        color "blue"
     ]
     node [
         id 7850
@@ -25628,12 +25628,12 @@ graph [
     node [
         id 1973935
         label "Weregoat"
-        color "red"
+        color "blue"
     ]
     node [
         id 532146
         label "Heavenly"
-        color "red"
+        color "purple"
     ]
     node [
         id 73395
@@ -25658,17 +25658,17 @@ graph [
     node [
         id 3038905
         label "Zodiac"
-        color "red"
+        color "purple"
     ]
     node [
         id 597690
         label "Mother's Army"
-        color "red"
+        color "blue"
     ]
     node [
         id 2055867
         label "Of Shadow People"
-        color "red"
+        color "blue"
     ]
     node [
         id 36810
@@ -25698,7 +25698,7 @@ graph [
     node [
         id 1302214
         label "Lucifer's Legion"
-        color "red"
+        color "blue"
     ]
     node [
         id 614087
@@ -25718,12 +25718,12 @@ graph [
     node [
         id 1859277
         label "Unleash The Archers"
-        color "red"
+        color "blue"
     ]
     node [
         id 892622
         label "Coffins"
-        color "red"
+        color "blue"
     ]
     node [
         id 7887
@@ -25753,22 +25753,22 @@ graph [
     node [
         id 2396110
         label "Hellions"
-        color "red"
+        color "blue"
     ]
     node [
         id 2360007
         label "Skew Siskin"
-        color "red"
+        color "purple"
     ]
     node [
         id 2232490
         label "Angmar"
-        color "red"
+        color "blue"
     ]
     node [
         id 302811
         label "Glittertind"
-        color "red"
+        color "purple"
     ]
     node [
         id 614108
@@ -25778,12 +25778,12 @@ graph [
     node [
         id 252538
         label "Onkel Tom"
-        color "red"
+        color "purple"
     ]
     node [
         id 736191
         label "Galactic Cowboys"
-        color "red"
+        color "purple"
     ]
     node [
         id 1335008
@@ -25803,12 +25803,12 @@ graph [
     node [
         id 335592
         label "This Or The Apocalypse"
-        color "red"
+        color "blue"
     ]
     node [
         id 73449
         label "Ángeles del Infierno"
-        color "red"
+        color "blue"
     ]
     node [
         id 1171178
@@ -25818,7 +25818,7 @@ graph [
     node [
         id 1254695
         label "Murder FM"
-        color "red"
+        color "blue"
     ]
     node [
         id 876268
@@ -25838,7 +25838,7 @@ graph [
     node [
         id 4677360
         label "Fall from Perfection"
-        color "red"
+        color "blue"
     ]
     node [
         id 331188
@@ -25848,12 +25848,12 @@ graph [
     node [
         id 934271
         label "Hatetyler"
-        color "red"
+        color "blue"
     ]
     node [
         id 1515257
         label "Subliminal Crusher"
-        color "red"
+        color "purple"
     ]
     node [
         id 1253114
@@ -25863,7 +25863,7 @@ graph [
     node [
         id 252543
         label "Grave Digger"
-        color "red"
+        color "purple"
     ]
     node [
         id 155388
@@ -25888,7 +25888,7 @@ graph [
     node [
         id 829523
         label "Eraldo Bernocchi"
-        color "red"
+        color "purple"
     ]
     node [
         id 204547
@@ -25908,12 +25908,12 @@ graph [
     node [
         id 1343991
         label "My Shameful"
-        color "red"
+        color "blue"
     ]
     node [
         id 1929574
         label "Dorgmooth"
-        color "red"
+        color "blue"
     ]
     node [
         id 302859
@@ -25943,7 +25943,7 @@ graph [
     node [
         id 1576920
         label "Xanthochroid"
-        color "red"
+        color "blue"
     ]
     node [
         id 594385
@@ -25953,7 +25953,7 @@ graph [
     node [
         id 1718249
         label "Wakeless"
-        color "red"
+        color "blue"
     ]
     node [
         id 7957
@@ -25968,7 +25968,7 @@ graph [
     node [
         id 1482521
         label "Horrid"
-        color "red"
+        color "blue"
     ]
     node [
         id 300439
@@ -25978,12 +25978,12 @@ graph [
     node [
         id 1924891
         label "Lost Nation"
-        color "red"
+        color "blue"
     ]
     node [
         id 335645
         label "Kill The Romance"
-        color "red"
+        color "blue"
     ]
     node [
         id 171806
@@ -25993,7 +25993,7 @@ graph [
     node [
         id 2072351
         label "Ancesttral"
-        color "red"
+        color "blue"
     ]
     node [
         id 2393659
@@ -26003,7 +26003,7 @@ graph [
     node [
         id 1482530
         label "Anal Nosorog"
-        color "red"
+        color "blue"
     ]
     node [
         id 2559963
@@ -26018,7 +26018,7 @@ graph [
     node [
         id 73509
         label "Krüger"
-        color "red"
+        color "blue"
     ]
     node [
         id 171814
@@ -26058,12 +26058,12 @@ graph [
     node [
         id 1458561
         label "Metal Drive"
-        color "red"
+        color "purple"
     ]
     node [
         id 1433394
         label "Guttural Secrete"
-        color "red"
+        color "blue"
     ]
     node [
         id 1099295
@@ -26088,7 +26088,7 @@ graph [
     node [
         id 3333944
         label "Silencer"
-        color "red"
+        color "blue"
     ]
     node [
         id 40762
@@ -26098,27 +26098,27 @@ graph [
     node [
         id 1482555
         label "Rise to Fall"
-        color "red"
+        color "blue"
     ]
     node [
         id 3333948
         label "Code"
-        color "red"
+        color "blue"
     ]
     node [
         id 242497
         label "Buried In Verona"
-        color "red"
+        color "blue"
     ]
     node [
         id 40768
         label "Propaganda"
-        color "red"
+        color "blue"
     ]
     node [
         id 85984
         label "Saxon"
-        color "red"
+        color "blue"
     ]
     node [
         id 39547
@@ -26128,7 +26128,7 @@ graph [
     node [
         id 1594953
         label "Horde Casket"
-        color "red"
+        color "blue"
     ]
     node [
         id 36833
@@ -26163,7 +26163,7 @@ graph [
     node [
         id 1482573
         label "Obsidian Kingdom"
-        color "red"
+        color "blue"
     ]
     node [
         id 515918
@@ -26173,12 +26173,12 @@ graph [
     node [
         id 909136
         label "Ananta"
-        color "red"
+        color "blue"
     ]
     node [
         id 335697
         label "Warped Kidz"
-        color "red"
+        color "purple"
     ]
     node [
         id 1630034
@@ -26193,12 +26193,12 @@ graph [
     node [
         id 744078
         label "Heights"
-        color "red"
+        color "purple"
     ]
     node [
         id 909143
         label "Broken Mirrors"
-        color "red"
+        color "blue"
     ]
     node [
         id 188248
@@ -26213,12 +26213,12 @@ graph [
     node [
         id 1605865
         label "Istapp"
-        color "red"
+        color "blue"
     ]
     node [
         id 319325
         label "Arkan"
-        color "red"
+        color "blue"
     ]
     node [
         id 630622
@@ -26233,7 +26233,7 @@ graph [
     node [
         id 237408
         label "Heller"
-        color "red"
+        color "purple"
     ]
     node [
         id 171873
@@ -26263,7 +26263,7 @@ graph [
     node [
         id 1449832
         label "Fit For A King"
-        color "red"
+        color "blue"
     ]
     node [
         id 2891625
@@ -26273,7 +26273,7 @@ graph [
     node [
         id 1892203
         label "Shapist"
-        color "red"
+        color "blue"
     ]
     node [
         id 188268
@@ -26288,7 +26288,7 @@ graph [
     node [
         id 4595566
         label "Anever"
-        color "red"
+        color "blue"
     ]
     node [
         id 24432
@@ -26298,12 +26298,12 @@ graph [
     node [
         id 1175415
         label "Mysticum"
-        color "red"
+        color "purple"
     ]
     node [
         id 1449845
         label "In Solitude"
-        color "red"
+        color "blue"
     ]
     node [
         id 73590
@@ -26318,12 +26318,12 @@ graph [
     node [
         id 201036
         label "VIA"
-        color "red"
+        color "purple"
     ]
     node [
         id 1482619
         label "Warfect"
-        color "red"
+        color "purple"
     ]
     node [
         id 40828
@@ -26333,7 +26333,7 @@ graph [
     node [
         id 2308554
         label "Holyhell"
-        color "red"
+        color "blue"
     ]
     node [
         id 188291
@@ -26348,7 +26348,7 @@ graph [
     node [
         id 188294
         label "Molly Hatchet"
-        color "red"
+        color "purple"
     ]
     node [
         id 1318791
@@ -26358,7 +26358,7 @@ graph [
     node [
         id 188297
         label "Fastway"
-        color "red"
+        color "purple"
     ]
     node [
         id 2400142
@@ -26368,12 +26368,12 @@ graph [
     node [
         id 2039695
         label "Black Tongue"
-        color "red"
+        color "blue"
     ]
     node [
         id 3596176
         label "A Sense of Gravity"
-        color "red"
+        color "blue"
     ]
     node [
         id 2891666
@@ -26383,17 +26383,17 @@ graph [
     node [
         id 42307
         label "Hanging Garden"
-        color "red"
+        color "purple"
     ]
     node [
         id 532374
         label "Erase"
-        color "red"
+        color "blue"
     ]
     node [
         id 1825433
         label "Ancient Spell"
-        color "red"
+        color "purple"
     ]
     node [
         id 33159
@@ -26418,12 +26418,12 @@ graph [
     node [
         id 319392
         label "Undertow"
-        color "red"
+        color "purple"
     ]
     node [
         id 827297
         label "Ram-Zet"
-        color "red"
+        color "blue"
     ]
     node [
         id 350875
@@ -26438,12 +26438,12 @@ graph [
     node [
         id 778153
         label "Burning Point"
-        color "red"
+        color "blue"
     ]
     node [
         id 681526
         label "Dysentery"
-        color "red"
+        color "blue"
     ]
     node [
         id 673095
@@ -26453,7 +26453,7 @@ graph [
     node [
         id 292693
         label "Pyogenesis"
-        color "red"
+        color "purple"
     ]
     node [
         id 1089454
@@ -26468,7 +26468,7 @@ graph [
     node [
         id 1859506
         label "Valentine Wolfe"
-        color "red"
+        color "blue"
     ]
     node [
         id 827315
@@ -26478,12 +26478,12 @@ graph [
     node [
         id 1056693
         label "Red Harvest"
-        color "red"
+        color "blue"
     ]
     node [
         id 2088886
         label "Crimson Moonlight"
-        color "red"
+        color "blue"
     ]
     node [
         id 1549641
@@ -26508,12 +26508,12 @@ graph [
     node [
         id 38460
         label "Nile"
-        color "red"
+        color "purple"
     ]
     node [
         id 2657506
         label "Memorized Dreams"
-        color "red"
+        color "blue"
     ]
     node [
         id 106440
@@ -26523,12 +26523,12 @@ graph [
     node [
         id 352201
         label "Frontside"
-        color "red"
+        color "blue"
     ]
     node [
         id 1788633
         label "Tempting Tragedy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1630156
@@ -26538,7 +26538,7 @@ graph [
     node [
         id 727714
         label "Wendigo"
-        color "red"
+        color "blue"
     ]
     node [
         id 761806
@@ -26563,12 +26563,12 @@ graph [
     node [
         id 4290049
         label "Sahg"
-        color "red"
+        color "blue"
     ]
     node [
         id 1630167
         label "Thalion"
-        color "red"
+        color "blue"
     ]
     node [
         id 1839371
@@ -26598,12 +26598,12 @@ graph [
     node [
         id 1882789
         label "aFREUDIANSLIP"
-        color "red"
+        color "blue"
     ]
     node [
         id 157008
         label "Avsky"
-        color "red"
+        color "blue"
     ]
     node [
         id 2400228
@@ -26613,7 +26613,7 @@ graph [
     node [
         id 123242
         label "Early Man"
-        color "red"
+        color "blue"
     ]
     node [
         id 679915
@@ -26623,7 +26623,7 @@ graph [
     node [
         id 2062604
         label "A Doom"
-        color "red"
+        color "blue"
     ]
     node [
         id 188399
@@ -26663,7 +26663,7 @@ graph [
     node [
         id 991225
         label "SDI"
-        color "red"
+        color "blue"
     ]
     node [
         id 188410
@@ -26688,7 +26688,7 @@ graph [
     node [
         id 20480
         label "4 Lyn"
-        color "red"
+        color "blue"
     ]
     node [
         id 2415275
@@ -26713,12 +26713,12 @@ graph [
     node [
         id 1253383
         label "Persistence In Mourning"
-        color "red"
+        color "blue"
     ]
     node [
         id 1433609
         label "Holy Grail"
-        color "red"
+        color "purple"
     ]
     node [
         id 1433610
@@ -26778,12 +26778,12 @@ graph [
     node [
         id 3711008
         label "Nekrogoblikon"
-        color "red"
+        color "blue"
     ]
     node [
         id 827425
         label "Vic Vergeat"
-        color "red"
+        color "purple"
     ]
     node [
         id 2498594
@@ -26813,7 +26813,7 @@ graph [
     node [
         id 679976
         label "For Today"
-        color "red"
+        color "blue"
     ]
     node [
         id 811051
@@ -26833,7 +26833,7 @@ graph [
     node [
         id 1351726
         label "lords of decadence"
-        color "red"
+        color "blue"
     ]
     node [
         id 958512
@@ -26853,7 +26853,7 @@ graph [
     node [
         id 532535
         label "The Devastator"
-        color "red"
+        color "blue"
     ]
     node [
         id 3612728
@@ -26893,7 +26893,7 @@ graph [
     node [
         id 319554
         label "Solitude Aeturnus"
-        color "red"
+        color "purple"
     ]
     node [
         id 36875
@@ -26933,12 +26933,12 @@ graph [
     node [
         id 64518
         label "Deicide"
-        color "red"
+        color "blue"
     ]
     node [
         id 1368142
         label "Centurian"
-        color "red"
+        color "blue"
     ]
     node [
         id 41039
@@ -26948,7 +26948,7 @@ graph [
     node [
         id 2223218
         label "Haji's Kitchen"
-        color "red"
+        color "blue"
     ]
     node [
         id 24663
@@ -26973,12 +26973,12 @@ graph [
     node [
         id 1227450
         label "Crucible"
-        color "red"
+        color "blue"
     ]
     node [
         id 1281993
         label "Denial"
-        color "red"
+        color "blue"
     ]
     node [
         id 41055
@@ -27023,12 +27023,12 @@ graph [
     node [
         id 335976
         label "Warhorse"
-        color "red"
+        color "purple"
     ]
     node [
         id 645820
         label "Soen"
-        color "red"
+        color "purple"
     ]
     node [
         id 73834
@@ -27038,7 +27038,7 @@ graph [
     node [
         id 1738087
         label "Vindicator"
-        color "red"
+        color "purple"
     ]
     node [
         id 699145
@@ -27053,7 +27053,7 @@ graph [
     node [
         id 907965
         label "Legs Diamond"
-        color "red"
+        color "purple"
     ]
     node [
         id 41072
@@ -27063,7 +27063,7 @@ graph [
     node [
         id 420907
         label "Everyone Dies In Utah"
-        color "red"
+        color "blue"
     ]
     node [
         id 41075
@@ -27073,7 +27073,7 @@ graph [
     node [
         id 101206
         label "Genitorturers"
-        color "red"
+        color "blue"
     ]
     node [
         id 2678901
@@ -27103,7 +27103,7 @@ graph [
     node [
         id 1441114
         label "AzaZello"
-        color "red"
+        color "purple"
     ]
     node [
         id 155773
@@ -27113,12 +27113,12 @@ graph [
     node [
         id 2171006
         label "Artillery"
-        color "red"
+        color "blue"
     ]
     node [
         id 1129152
         label "Glacier"
-        color "red"
+        color "blue"
     ]
     node [
         id 254082
@@ -27153,7 +27153,7 @@ graph [
     node [
         id 319625
         label "Cataract"
-        color "red"
+        color "blue"
     ]
     node [
         id 41098
@@ -27163,7 +27163,7 @@ graph [
     node [
         id 520215
         label "Paragon Of Beauty"
-        color "red"
+        color "purple"
     ]
     node [
         id 41101
@@ -27193,7 +27193,7 @@ graph [
     node [
         id 2744469
         label "X-Hero"
-        color "red"
+        color "blue"
     ]
     node [
         id 2597014
@@ -27233,7 +27233,7 @@ graph [
     node [
         id 3711135
         label "Goatblood"
-        color "red"
+        color "blue"
     ]
     node [
         id 41120
@@ -27253,7 +27253,7 @@ graph [
     node [
         id 303270
         label "Machinae Supremacy"
-        color "red"
+        color "blue"
     ]
     node [
         id 73895
@@ -27268,7 +27268,7 @@ graph [
     node [
         id 1324897
         label "Free Fall"
-        color "red"
+        color "purple"
     ]
     node [
         id 188586
@@ -27278,7 +27278,7 @@ graph [
     node [
         id 2007211
         label "Intrinsic"
-        color "red"
+        color "blue"
     ]
     node [
         id 41133
@@ -27348,12 +27348,12 @@ graph [
     node [
         id 139455
         label "Magrudergrind"
-        color "red"
+        color "blue"
     ]
     node [
         id 622693
         label "Vanishing Point"
-        color "red"
+        color "purple"
     ]
     node [
         id 41154
@@ -27378,7 +27378,7 @@ graph [
     node [
         id 2397492
         label "Slowrun"
-        color "red"
+        color "purple"
     ]
     node [
         id 1810633
@@ -27403,7 +27403,7 @@ graph [
     node [
         id 1014691
         label "Thumpermonkey"
-        color "red"
+        color "blue"
     ]
     node [
         id 172242
@@ -27428,12 +27428,12 @@ graph [
     node [
         id 1155286
         label "IXXI"
-        color "red"
+        color "blue"
     ]
     node [
         id 2678999
         label "Angra"
-        color "red"
+        color "purple"
     ]
     node [
         id 2040025
@@ -27448,7 +27448,7 @@ graph [
     node [
         id 785103
         label "Omaha Bitch"
-        color "red"
+        color "blue"
     ]
     node [
         id 5190
@@ -27458,7 +27458,7 @@ graph [
     node [
         id 2105566
         label "Torpedoes"
-        color "red"
+        color "blue"
     ]
     node [
         id 41183
@@ -27488,7 +27488,7 @@ graph [
     node [
         id 167975
         label "Glassjaw"
-        color "red"
+        color "purple"
     ]
     node [
         id 24812
@@ -27508,7 +27508,7 @@ graph [
     node [
         id 1433840
         label "Dead Sara"
-        color "red"
+        color "purple"
     ]
     node [
         id 1499377
@@ -27518,12 +27518,12 @@ graph [
     node [
         id 359610
         label "Gaina"
-        color "red"
+        color "blue"
     ]
     node [
         id 352500
         label "Marshall Law"
-        color "red"
+        color "purple"
     ]
     node [
         id 73975
@@ -27538,12 +27538,12 @@ graph [
     node [
         id 1956564
         label "Emerald"
-        color "red"
+        color "blue"
     ]
     node [
         id 1359829
         label "Raising Fear"
-        color "red"
+        color "blue"
     ]
     node [
         id 57595
@@ -27553,7 +27553,7 @@ graph [
     node [
         id 41212
         label "Дети лабиринта"
-        color "red"
+        color "blue"
     ]
     node [
         id 41213
@@ -27613,7 +27613,7 @@ graph [
     node [
         id 958732
         label "Near Death Experience"
-        color "red"
+        color "blue"
     ]
     node [
         id 71205
@@ -27633,7 +27633,7 @@ graph [
     node [
         id 155922
         label "Gamma Ray"
-        color "red"
+        color "blue"
     ]
     node [
         id 140675
@@ -27668,7 +27668,7 @@ graph [
     node [
         id 3039521
         label "Fallujah"
-        color "red"
+        color "blue"
     ]
     node [
         id 535143
@@ -27688,7 +27688,7 @@ graph [
     node [
         id 336166
         label "XXX"
-        color "red"
+        color "purple"
     ]
     node [
         id 1433895
@@ -27708,7 +27708,7 @@ graph [
     node [
         id 71206
         label "Earthride"
-        color "red"
+        color "blue"
     ]
     node [
         id 8492
@@ -27718,7 +27718,7 @@ graph [
     node [
         id 1794349
         label "Shattered"
-        color "red"
+        color "purple"
     ]
     node [
         id 74030
@@ -27728,12 +27728,12 @@ graph [
     node [
         id 1024303
         label "Майтрейя"
-        color "red"
+        color "blue"
     ]
     node [
         id 312712
         label "Razors Edge"
-        color "red"
+        color "purple"
     ]
     node [
         id 8498
@@ -27743,7 +27743,7 @@ graph [
     node [
         id 1241139
         label "Ceremonial Oath"
-        color "red"
+        color "blue"
     ]
     node [
         id 57652
@@ -27753,7 +27753,7 @@ graph [
     node [
         id 74037
         label "Blackmore"
-        color "red"
+        color "blue"
     ]
     node [
         id 2187575
@@ -27763,7 +27763,7 @@ graph [
     node [
         id 303416
         label "Sirenia"
-        color "red"
+        color "blue"
     ]
     node [
         id 352569
@@ -27813,7 +27813,7 @@ graph [
     node [
         id 3354678
         label "Satan"
-        color "red"
+        color "blue"
     ]
     node [
         id 1794377
@@ -27823,12 +27823,12 @@ graph [
     node [
         id 1515852
         label "Digitalife"
-        color "red"
+        color "blue"
     ]
     node [
         id 1345213
         label "Deathwish"
-        color "red"
+        color "blue"
     ]
     node [
         id 2302286
@@ -27843,7 +27843,7 @@ graph [
     node [
         id 3041189
         label "Blood God"
-        color "red"
+        color "purple"
     ]
     node [
         id 680273
@@ -27853,12 +27853,12 @@ graph [
     node [
         id 4127459
         label "Dawn Heist"
-        color "red"
+        color "blue"
     ]
     node [
         id 1474382
         label "Agathocles"
-        color "red"
+        color "blue"
     ]
     node [
         id 751527
@@ -27873,7 +27873,7 @@ graph [
     node [
         id 3354681
         label "Earth"
-        color "red"
+        color "purple"
     ]
     node [
         id 989487
@@ -27888,7 +27888,7 @@ graph [
     node [
         id 1122655
         label "The Meads of Asphodel"
-        color "red"
+        color "blue"
     ]
     node [
         id 74082
@@ -27918,7 +27918,7 @@ graph [
     node [
         id 3465578
         label "Der Weg Einer Freiheit"
-        color "red"
+        color "blue"
     ]
     node [
         id 1220972
@@ -27938,7 +27938,7 @@ graph [
     node [
         id 516465
         label "Benjamin Woods"
-        color "red"
+        color "blue"
     ]
     node [
         id 57714
@@ -27978,7 +27978,7 @@ graph [
     node [
         id 74108
         label "Derek Sherinian"
-        color "red"
+        color "purple"
     ]
     node [
         id 1159611
@@ -27988,7 +27988,7 @@ graph [
     node [
         id 2243971
         label "Pathways"
-        color "red"
+        color "blue"
     ]
     node [
         id 57731
@@ -28003,7 +28003,7 @@ graph [
     node [
         id 8581
         label "Moore"
-        color "red"
+        color "purple"
     ]
     node [
         id 123271
@@ -28028,22 +28028,22 @@ graph [
     node [
         id 2220430
         label "Warnerbeast"
-        color "red"
+        color "blue"
     ]
     node [
         id 303504
         label "The Duskfall"
-        color "red"
+        color "blue"
     ]
     node [
         id 296344
         label "Junkie"
-        color "red"
+        color "purple"
     ]
     node [
         id 123282
         label "Mutiny Within"
-        color "red"
+        color "blue"
     ]
     node [
         id 424613
@@ -28058,12 +28058,12 @@ graph [
     node [
         id 296884
         label "Atrocity"
-        color "red"
+        color "purple"
     ]
     node [
         id 677878
         label "Inexist"
-        color "red"
+        color "blue"
     ]
     node [
         id 170735
@@ -28073,7 +28073,7 @@ graph [
     node [
         id 2351516
         label "Second to Fire"
-        color "red"
+        color "blue"
     ]
     node [
         id 50586
@@ -28093,7 +28093,7 @@ graph [
     node [
         id 2941347
         label "Nine Treasures"
-        color "red"
+        color "blue"
     ]
     node [
         id 16108
@@ -28103,7 +28103,7 @@ graph [
     node [
         id 303526
         label "Warhammer"
-        color "red"
+        color "blue"
     ]
     node [
         id 57767
@@ -28133,12 +28133,12 @@ graph [
     node [
         id 1156475
         label "Toxic Holocaust"
-        color "red"
+        color "purple"
     ]
     node [
         id 696750
         label "D.A.M"
-        color "red"
+        color "blue"
     ]
     node [
         id 1761712
@@ -28148,12 +28148,12 @@ graph [
     node [
         id 1122737
         label "Thy Art Is Murder"
-        color "red"
+        color "blue"
     ]
     node [
         id 123314
         label "Seven Witches"
-        color "red"
+        color "purple"
     ]
     node [
         id 2122163
@@ -28188,7 +28188,7 @@ graph [
     node [
         id 1909178
         label "Every Knee Shall Bow"
-        color "red"
+        color "blue"
     ]
     node [
         id 303551
@@ -28208,7 +28208,7 @@ graph [
     node [
         id 1876418
         label "Invasive"
-        color "red"
+        color "purple"
     ]
     node [
         id 123331
@@ -28223,17 +28223,17 @@ graph [
     node [
         id 123334
         label "Psychostick"
-        color "red"
+        color "purple"
     ]
     node [
         id 4699785
         label "Mute"
-        color "red"
+        color "blue"
     ]
     node [
         id 61516
         label "Anasarca"
-        color "red"
+        color "blue"
     ]
     node [
         id 762315
@@ -28243,7 +28243,7 @@ graph [
     node [
         id 483788
         label "Sebastien"
-        color "red"
+        color "purple"
     ]
     node [
         id 762318
@@ -28263,7 +28263,7 @@ graph [
     node [
         id 123346
         label "Spoil Engine"
-        color "red"
+        color "purple"
     ]
     node [
         id 123348
@@ -28293,7 +28293,7 @@ graph [
     node [
         id 1761755
         label "Hammerschmitt"
-        color "red"
+        color "purple"
     ]
     node [
         id 41437
@@ -28303,7 +28303,7 @@ graph [
     node [
         id 2187743
         label "Brutal Hand"
-        color "red"
+        color "purple"
     ]
     node [
         id 2318816
@@ -28313,7 +28313,7 @@ graph [
     node [
         id 1202366
         label "Backwoods Payback"
-        color "red"
+        color "purple"
     ]
     node [
         id 1352163
@@ -28333,12 +28333,12 @@ graph [
     node [
         id 61521
         label "Coalesce"
-        color "red"
+        color "purple"
     ]
     node [
         id 2263655
         label "Velvetcut"
-        color "red"
+        color "blue"
     ]
     node [
         id 74217
@@ -28368,7 +28368,7 @@ graph [
     node [
         id 319985
         label "Battlelore"
-        color "red"
+        color "purple"
     ]
     node [
         id 8690
@@ -28378,7 +28378,7 @@ graph [
     node [
         id 643155
         label "Noise Reaction"
-        color "red"
+        color "blue"
     ]
     node [
         id 1155572
@@ -28388,7 +28388,7 @@ graph [
     node [
         id 359166
         label "It Dies Today"
-        color "red"
+        color "purple"
     ]
     node [
         id 156151
@@ -28398,7 +28398,7 @@ graph [
     node [
         id 2462970
         label "Southern Whiskey Rebellion"
-        color "red"
+        color "blue"
     ]
     node [
         id 57850
@@ -28413,7 +28413,7 @@ graph [
     node [
         id 3766325
         label "Chaos Magic"
-        color "red"
+        color "blue"
     ]
     node [
         id 8702
@@ -28423,12 +28423,12 @@ graph [
     node [
         id 762367
         label "Domine"
-        color "red"
+        color "blue"
     ]
     node [
         id 844289
         label "MindTech"
-        color "red"
+        color "blue"
     ]
     node [
         id 1139203
@@ -28443,7 +28443,7 @@ graph [
     node [
         id 2318855
         label "Arabia"
-        color "red"
+        color "blue"
     ]
     node [
         id 248522
@@ -28483,7 +28483,7 @@ graph [
     node [
         id 924419
         label "Armonight"
-        color "red"
+        color "purple"
     ]
     node [
         id 2807190
@@ -28498,7 +28498,7 @@ graph [
     node [
         id 2453593
         label "Their Decay"
-        color "red"
+        color "blue"
     ]
     node [
         id 57881
@@ -28523,7 +28523,7 @@ graph [
     node [
         id 2217178
         label "Inferis"
-        color "red"
+        color "blue"
     ]
     node [
         id 1761824
@@ -28553,7 +28553,7 @@ graph [
     node [
         id 47878
         label "Walls of Jericho"
-        color "red"
+        color "purple"
     ]
     node [
         id 188966
@@ -28578,12 +28578,12 @@ graph [
     node [
         id 2356229
         label "Three Crowns"
-        color "red"
+        color "blue"
     ]
     node [
         id 2826795
         label "Agalloch"
-        color "red"
+        color "blue"
     ]
     node [
         id 57900
@@ -28618,7 +28618,7 @@ graph [
     node [
         id 2826803
         label "These Are They"
-        color "red"
+        color "blue"
     ]
     node [
         id 2634135
@@ -28633,7 +28633,7 @@ graph [
     node [
         id 336440
         label "Tribuzy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1157435
@@ -28643,22 +28643,22 @@ graph [
     node [
         id 708703
         label "Adestria"
-        color "red"
+        color "blue"
     ]
     node [
         id 74300
         label "Damageplan"
-        color "red"
+        color "blue"
     ]
     node [
         id 2253375
         label "Cloak & Dagger"
-        color "red"
+        color "blue"
     ]
     node [
         id 156226
         label "Mayhem"
-        color "red"
+        color "blue"
     ]
     node [
         id 1758648
@@ -28673,12 +28673,12 @@ graph [
     node [
         id 25158
         label "King Diamond"
-        color "red"
+        color "purple"
     ]
     node [
         id 1921121
         label "Phoenix Reign"
-        color "red"
+        color "blue"
     ]
     node [
         id 869157
@@ -28713,22 +28713,22 @@ graph [
     node [
         id 975440
         label "Schacht"
-        color "red"
+        color "blue"
     ]
     node [
         id 2024018
         label "Emerald Mind"
-        color "red"
+        color "blue"
     ]
     node [
         id 1991251
         label "Mortalicum"
-        color "red"
+        color "blue"
     ]
     node [
         id 2562830
         label "The Grand Astoria"
-        color "red"
+        color "purple"
     ]
     node [
         id 614998
@@ -28738,7 +28738,7 @@ graph [
     node [
         id 1488594
         label "Samhain"
-        color "red"
+        color "blue"
     ]
     node [
         id 533083
@@ -28748,17 +28748,17 @@ graph [
     node [
         id 303710
         label "Chinchilla"
-        color "red"
+        color "blue"
     ]
     node [
         id 680543
         label "Sideburn"
-        color "red"
+        color "purple"
     ]
     node [
         id 303712
         label "Six Feet Under"
-        color "red"
+        color "purple"
     ]
     node [
         id 1024610
@@ -28768,7 +28768,7 @@ graph [
     node [
         id 2433635
         label "Sirens & Sailors"
-        color "red"
+        color "blue"
     ]
     node [
         id 4198
@@ -28793,17 +28793,17 @@ graph [
     node [
         id 1299403
         label "Cemetary Urn"
-        color "red"
+        color "blue"
     ]
     node [
         id 311465
         label "Anvil"
-        color "red"
+        color "purple"
     ]
     node [
         id 1877437
         label "Worwyk"
-        color "red"
+        color "blue"
     ]
     node [
         id 189041
@@ -28818,12 +28818,12 @@ graph [
     node [
         id 2695795
         label "Doctor Livingstone"
-        color "red"
+        color "purple"
     ]
     node [
         id 992702
         label "Oceans Ate Alaska"
-        color "red"
+        color "blue"
     ]
     node [
         id 1519721
@@ -28838,12 +28838,12 @@ graph [
     node [
         id 533114
         label "Stormwarrior"
-        color "red"
+        color "purple"
     ]
     node [
         id 1818662
         label "Softshredding"
-        color "red"
+        color "blue"
     ]
     node [
         id 1434236
@@ -28868,22 +28868,22 @@ graph [
     node [
         id 1303170
         label "Piledriver"
-        color "red"
+        color "purple"
     ]
     node [
         id 1153814
         label "Menace Ruine"
-        color "red"
+        color "blue"
     ]
     node [
         id 189063
         label "Charon"
-        color "red"
+        color "purple"
     ]
     node [
         id 533129
         label "kneipenterroristen"
-        color "red"
+        color "purple"
     ]
     node [
         id 6935
@@ -28908,7 +28908,7 @@ graph [
     node [
         id 1712785
         label "Keep the Faith"
-        color "red"
+        color "blue"
     ]
     node [
         id 336531
@@ -28918,7 +28918,7 @@ graph [
     node [
         id 2155157
         label "Cyaegha"
-        color "red"
+        color "blue"
     ]
     node [
         id 4154006
@@ -28933,7 +28933,7 @@ graph [
     node [
         id 959129
         label "Eyes Wide Open"
-        color "red"
+        color "purple"
     ]
     node [
         id 336538
@@ -28943,7 +28943,7 @@ graph [
     node [
         id 221851
         label "Grim Reaper"
-        color "red"
+        color "blue"
     ]
     node [
         id 1647260
@@ -28973,12 +28973,12 @@ graph [
     node [
         id 893602
         label "SinHeresY"
-        color "red"
+        color "blue"
     ]
     node [
         id 2302627
         label "Lars Eric Mattsson"
-        color "red"
+        color "purple"
     ]
     node [
         id 2692113
@@ -28988,7 +28988,7 @@ graph [
     node [
         id 1761957
         label "Deadiron"
-        color "red"
+        color "blue"
     ]
     node [
         id 320168
@@ -29033,7 +29033,7 @@ graph [
     node [
         id 2400948
         label "Locus Titanic Funus"
-        color "red"
+        color "blue"
     ]
     node [
         id 432926
@@ -29053,7 +29053,7 @@ graph [
     node [
         id 1882643
         label "Ocean Grove"
-        color "red"
+        color "purple"
     ]
     node [
         id 8890
@@ -29068,7 +29068,7 @@ graph [
     node [
         id 1237692
         label "Kaira"
-        color "red"
+        color "purple"
     ]
     node [
         id 58045
@@ -29078,7 +29078,7 @@ graph [
     node [
         id 418494
         label "Bethlehem"
-        color "red"
+        color "purple"
     ]
     node [
         id 58047
@@ -29113,12 +29113,12 @@ graph [
     node [
         id 749504
         label "Saving Grace"
-        color "red"
+        color "purple"
     ]
     node [
         id 2483660
         label "Dead Horse"
-        color "red"
+        color "blue"
     ]
     node [
         id 25290
@@ -29128,22 +29128,22 @@ graph [
     node [
         id 2007755
         label "Wild Dogs"
-        color "red"
+        color "purple"
     ]
     node [
         id 74444
         label "Rhinoceros"
-        color "red"
+        color "purple"
     ]
     node [
         id 2393520
         label "Theories Divide"
-        color "red"
+        color "blue"
     ]
     node [
         id 2237135
         label "Spastic Ink"
-        color "red"
+        color "blue"
     ]
     node [
         id 1204944
@@ -29153,7 +29153,7 @@ graph [
     node [
         id 664273
         label "Vex"
-        color "red"
+        color "blue"
     ]
     node [
         id 271058
@@ -29168,17 +29168,17 @@ graph [
     node [
         id 1596620
         label "Guttural Engorgement"
-        color "red"
+        color "blue"
     ]
     node [
         id 1172181
         label "Psilocybe Larvae"
-        color "red"
+        color "blue"
     ]
     node [
         id 664278
         label "Skeletonwitch"
-        color "red"
+        color "purple"
     ]
     node [
         id 74455
@@ -29193,7 +29193,7 @@ graph [
     node [
         id 2308901
         label "Forever In Terror"
-        color "red"
+        color "blue"
     ]
     node [
         id 74464
@@ -29238,7 +29238,7 @@ graph [
     node [
         id 172781
         label "Firehouse"
-        color "red"
+        color "purple"
     ]
     node [
         id 172785
@@ -29248,7 +29248,7 @@ graph [
     node [
         id 1860338
         label "The Roxx"
-        color "red"
+        color "purple"
     ]
     node [
         id 1441135
@@ -29258,12 +29258,12 @@ graph [
     node [
         id 932900
         label "CIRITH GORGOR"
-        color "red"
+        color "blue"
     ]
     node [
         id 74487
         label "Testament"
-        color "red"
+        color "blue"
     ]
     node [
         id 1492
@@ -29273,7 +29273,7 @@ graph [
     node [
         id 1573162
         label "The Sound Bee Hd"
-        color "red"
+        color "blue"
     ]
     node [
         id 1565436
@@ -29298,7 +29298,7 @@ graph [
     node [
         id 1925889
         label "Sacred Guardian"
-        color "red"
+        color "blue"
     ]
     node [
         id 1915635
@@ -29338,7 +29338,7 @@ graph [
     node [
         id 25356
         label "Treponem Pal"
-        color "red"
+        color "purple"
     ]
     node [
         id 2088176
@@ -29358,7 +29358,7 @@ graph [
     node [
         id 762641
         label "Helldorados"
-        color "red"
+        color "blue"
     ]
     node [
         id 233603
@@ -29383,12 +29383,12 @@ graph [
     node [
         id 61572
         label "Dawn of Demise"
-        color "red"
+        color "blue"
     ]
     node [
         id 58138
         label "Michael Harris"
-        color "red"
+        color "purple"
     ]
     node [
         id 8987
@@ -29433,12 +29433,12 @@ graph [
     node [
         id 4721458
         label "Arkona"
-        color "red"
+        color "blue"
     ]
     node [
         id 2384687
         label "Taberah"
-        color "red"
+        color "blue"
     ]
     node [
         id 45192
@@ -29463,7 +29463,7 @@ graph [
     node [
         id 289995
         label "Silent Voices"
-        color "red"
+        color "blue"
     ]
     node [
         id 1565495
@@ -29473,7 +29473,7 @@ graph [
     node [
         id 2155320
         label "Autumns Eyes"
-        color "red"
+        color "blue"
     ]
     node [
         id 9018
@@ -29503,12 +29503,12 @@ graph [
     node [
         id 418630
         label "Aborted"
-        color "red"
+        color "blue"
     ]
     node [
         id 1237831
         label "April Divine"
-        color "red"
+        color "purple"
     ]
     node [
         id 4711240
@@ -29518,7 +29518,7 @@ graph [
     node [
         id 1106762
         label "Sacred Oath"
-        color "red"
+        color "purple"
     ]
     node [
         id 339181
@@ -29528,12 +29528,12 @@ graph [
     node [
         id 2237260
         label "Burlak"
-        color "red"
+        color "blue"
     ]
     node [
         id 418637
         label "The Crown"
-        color "red"
+        color "purple"
     ]
     node [
         id 74575
@@ -29553,7 +29553,7 @@ graph [
     node [
         id 353106
         label "Hysterica"
-        color "red"
+        color "blue"
     ]
     node [
         id 254804
@@ -29573,7 +29573,7 @@ graph [
     node [
         id 2298221
         label "Serenity Broken"
-        color "red"
+        color "purple"
     ]
     node [
         id 25435
@@ -29583,17 +29583,17 @@ graph [
     node [
         id 2761564
         label "Divine Realm"
-        color "red"
+        color "blue"
     ]
     node [
         id 140125
         label "OZ"
-        color "red"
+        color "blue"
     ]
     node [
         id 648030
         label "Inner Shrine"
-        color "red"
+        color "blue"
     ]
     node [
         id 58207
@@ -29628,7 +29628,7 @@ graph [
     node [
         id 1574374
         label "DispersE"
-        color "red"
+        color "purple"
     ]
     node [
         id 1111072
@@ -29638,12 +29638,12 @@ graph [
     node [
         id 156520
         label "Amarok"
-        color "red"
+        color "blue"
     ]
     node [
         id 222057
         label "Epica"
-        color "red"
+        color "blue"
     ]
     node [
         id 156522
@@ -29663,27 +29663,27 @@ graph [
     node [
         id 2040686
         label "Last Rites"
-        color "red"
+        color "purple"
     ]
     node [
         id 160698
         label "Mad Sin"
-        color "red"
+        color "purple"
     ]
     node [
         id 1450865
         label "Gutalax"
-        color "red"
+        color "blue"
     ]
     node [
         id 45203
         label "Skindred"
-        color "red"
+        color "purple"
     ]
     node [
         id 147619
         label "JASON BECKER"
-        color "red"
+        color "purple"
     ]
     node [
         id 418683
@@ -29693,7 +29693,7 @@ graph [
     node [
         id 648682
         label "The Absence"
-        color "red"
+        color "blue"
     ]
     node [
         id 2188158
@@ -29718,7 +29718,7 @@ graph [
     node [
         id 1598338
         label "Disentomb"
-        color "red"
+        color "blue"
     ]
     node [
         id 58245
@@ -29788,7 +29788,7 @@ graph [
     node [
         id 1598358
         label "Enmity"
-        color "red"
+        color "blue"
     ]
     node [
         id 2155415
@@ -29808,7 +29808,7 @@ graph [
     node [
         id 1959973
         label "Septerrus"
-        color "red"
+        color "blue"
     ]
     node [
         id 4668
@@ -29818,22 +29818,22 @@ graph [
     node [
         id 1647522
         label "Jinjer"
-        color "red"
+        color "blue"
     ]
     node [
         id 2515875
         label "Inventure"
-        color "red"
+        color "blue"
     ]
     node [
         id 926628
         label "Dead End Tragedy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1385382
         label "URN"
-        color "red"
+        color "blue"
     ]
     node [
         id 58279
@@ -29853,7 +29853,7 @@ graph [
     node [
         id 1598378
         label "Goratory"
-        color "red"
+        color "blue"
     ]
     node [
         id 41900
@@ -29878,7 +29878,7 @@ graph [
     node [
         id 2270131
         label "Ironhead"
-        color "red"
+        color "purple"
     ]
     node [
         id 84945
@@ -29888,12 +29888,12 @@ graph [
     node [
         id 123830
         label "Slam"
-        color "red"
+        color "blue"
     ]
     node [
         id 2450359
         label "Gordi"
-        color "red"
+        color "blue"
     ]
     node [
         id 1344031
@@ -29903,7 +29903,7 @@ graph [
     node [
         id 64681
         label "blessthefall"
-        color "red"
+        color "purple"
     ]
     node [
         id 2312409
@@ -29913,7 +29913,7 @@ graph [
     node [
         id 779195
         label "Gothminister"
-        color "red"
+        color "purple"
     ]
     node [
         id 58301
@@ -29953,12 +29953,12 @@ graph [
     node [
         id 1964876
         label "Dawn Of Valor"
-        color "red"
+        color "blue"
     ]
     node [
         id 2554920
         label "A Vulgar Picture"
-        color "red"
+        color "blue"
     ]
     node [
         id 58322
@@ -29978,7 +29978,7 @@ graph [
     node [
         id 1483735
         label "Claim the Throne"
-        color "red"
+        color "blue"
     ]
     node [
         id 4760536
@@ -29988,7 +29988,7 @@ graph [
     node [
         id 2745305
         label "Ravenscry"
-        color "red"
+        color "purple"
     ]
     node [
         id 58330
@@ -30008,7 +30008,7 @@ graph [
     node [
         id 2239850
         label "Grotesque"
-        color "red"
+        color "blue"
     ]
     node [
         id 360568
@@ -30018,12 +30018,12 @@ graph [
     node [
         id 1483744
         label "Insision"
-        color "red"
+        color "purple"
     ]
     node [
         id 1483746
         label "Grimoire"
-        color "red"
+        color "blue"
     ]
     node [
         id 2819579
@@ -30038,7 +30038,7 @@ graph [
     node [
         id 320486
         label "Skinlab"
-        color "red"
+        color "purple"
     ]
     node [
         id 2718545
@@ -30048,12 +30048,12 @@ graph [
     node [
         id 1443871
         label "Obake"
-        color "red"
+        color "blue"
     ]
     node [
         id 271337
         label "Pentagram"
-        color "red"
+        color "blue"
     ]
     node [
         id 3212453
@@ -30063,12 +30063,12 @@ graph [
     node [
         id 1483757
         label "Human Mastication"
-        color "red"
+        color "purple"
     ]
     node [
         id 680942
         label "While She Sleeps"
-        color "red"
+        color "blue"
     ]
     node [
         id 1745903
@@ -30088,7 +30088,7 @@ graph [
     node [
         id 664563
         label "All That Remains"
-        color "red"
+        color "blue"
     ]
     node [
         id 1778676
@@ -30118,7 +30118,7 @@ graph [
     node [
         id 2221567
         label "Pertness"
-        color "red"
+        color "blue"
     ]
     node [
         id 140285
@@ -30128,7 +30128,7 @@ graph [
     node [
         id 289487
         label "Vital Remains"
-        color "red"
+        color "blue"
     ]
     node [
         id 336896
@@ -30143,17 +30143,17 @@ graph [
     node [
         id 1483778
         label "Cerebral Incubation"
-        color "red"
+        color "blue"
     ]
     node [
         id 730115
         label "Jacobs Dream"
-        color "red"
+        color "blue"
     ]
     node [
         id 1483780
         label "Reido"
-        color "red"
+        color "blue"
     ]
     node [
         id 1172485
@@ -30163,7 +30163,7 @@ graph [
     node [
         id 1480236
         label "Ablaze My Sorrow"
-        color "red"
+        color "blue"
     ]
     node [
         id 615431
@@ -30173,22 +30173,22 @@ graph [
     node [
         id 2728969
         label "Silence The Messenger"
-        color "red"
+        color "blue"
     ]
     node [
         id 1582091
         label "Gates of hell"
-        color "red"
+        color "blue"
     ]
     node [
         id 74765
         label "White Lion"
-        color "red"
+        color "purple"
     ]
     node [
         id 1483790
         label "Nocturnal Depression"
-        color "red"
+        color "blue"
     ]
     node [
         id 1265837
@@ -30213,22 +30213,22 @@ graph [
     node [
         id 294367
         label "Dornenreich"
-        color "red"
+        color "purple"
     ]
     node [
         id 189464
         label "Hellyeah"
-        color "red"
+        color "purple"
     ]
     node [
         id 959515
         label "Diabulus In Musica"
-        color "red"
+        color "purple"
     ]
     node [
         id 1483804
         label "Anal Vomit"
-        color "red"
+        color "blue"
     ]
     node [
         id 326490
@@ -30243,12 +30243,12 @@ graph [
     node [
         id 979597
         label "Red Mourning"
-        color "red"
+        color "blue"
     ]
     node [
         id 3774474
         label "Slaughter to Prevail"
-        color "red"
+        color "blue"
     ]
     node [
         id 353315
@@ -30258,17 +30258,17 @@ graph [
     node [
         id 336932
         label "Iron Man"
-        color "red"
+        color "purple"
     ]
     node [
         id 2057253
         label "Stories from the Lost"
-        color "red"
+        color "purple"
     ]
     node [
         id 1483814
         label "In Loving Memory"
-        color "red"
+        color "purple"
     ]
     node [
         id 2299494
@@ -30278,17 +30278,17 @@ graph [
     node [
         id 1483816
         label "Forefather"
-        color "red"
+        color "blue"
     ]
     node [
         id 3499049
         label "Emerald Sun"
-        color "red"
+        color "blue"
     ]
     node [
         id 2339691
         label "Witch Mountain"
-        color "red"
+        color "blue"
     ]
     node [
         id 9262
@@ -30303,7 +30303,7 @@ graph [
     node [
         id 1271438
         label "Brutality Will Prevail"
-        color "red"
+        color "blue"
     ]
     node [
         id 1992200
@@ -30333,7 +30333,7 @@ graph [
     node [
         id 58427
         label "Ratt"
-        color "red"
+        color "purple"
     ]
     node [
         id 1816454
@@ -30343,12 +30343,12 @@ graph [
     node [
         id 1516605
         label "Adelaide"
-        color "red"
+        color "blue"
     ]
     node [
         id 9278
         label "Limp Bizkit"
-        color "red"
+        color "purple"
     ]
     node [
         id 1762367
@@ -30358,22 +30358,22 @@ graph [
     node [
         id 1483840
         label "Edenian"
-        color "red"
+        color "blue"
     ]
     node [
         id 2106433
         label "Haster"
-        color "red"
+        color "purple"
     ]
     node [
         id 140354
         label "Misery Index"
-        color "red"
+        color "blue"
     ]
     node [
         id 2384963
         label "Biosystem55"
-        color "red"
+        color "blue"
     ]
     node [
         id 58436
@@ -30383,12 +30383,12 @@ graph [
     node [
         id 2090053
         label "Ten of Swords"
-        color "red"
+        color "purple"
     ]
     node [
         id 1320007
         label "Vorum"
-        color "red"
+        color "blue"
     ]
     node [
         id 58441
@@ -30398,12 +30398,12 @@ graph [
     node [
         id 304202
         label "Leaves' Eyes"
-        color "red"
+        color "blue"
     ]
     node [
         id 140366
         label "Ion Dissonance"
-        color "red"
+        color "purple"
     ]
     node [
         id 411149
@@ -30413,7 +30413,7 @@ graph [
     node [
         id 140369
         label "Arsis"
-        color "red"
+        color "blue"
     ]
     node [
         id 432692
@@ -30428,7 +30428,7 @@ graph [
     node [
         id 2827348
         label "Invent, Animate"
-        color "red"
+        color "blue"
     ]
     node [
         id 74837
@@ -30443,7 +30443,7 @@ graph [
     node [
         id 7012
         label "Mars Bonfire"
-        color "red"
+        color "blue"
     ]
     node [
         id 25690
@@ -30473,7 +30473,7 @@ graph [
     node [
         id 1483874
         label "Сварга"
-        color "red"
+        color "blue"
     ]
     node [
         id 3335267
@@ -30483,7 +30483,7 @@ graph [
     node [
         id 58469
         label "Twisted Sister"
-        color "red"
+        color "blue"
     ]
     node [
         id 45592
@@ -30493,12 +30493,12 @@ graph [
     node [
         id 353386
         label "Eye Of The Storm"
-        color "red"
+        color "purple"
     ]
     node [
         id 1483883
         label "Ekklesiast"
-        color "red"
+        color "blue"
     ]
     node [
         id 58476
@@ -30518,12 +30518,12 @@ graph [
     node [
         id 3581039
         label "Artension"
-        color "red"
+        color "blue"
     ]
     node [
         id 74866
         label "Aton"
-        color "red"
+        color "blue"
     ]
     node [
         id 402548
@@ -30548,7 +30548,7 @@ graph [
     node [
         id 2689571
         label "Folk Metal Jacket"
-        color "red"
+        color "blue"
     ]
     node [
         id 525844
@@ -30563,17 +30563,17 @@ graph [
     node [
         id 1172607
         label "Centinex"
-        color "red"
+        color "purple"
     ]
     node [
         id 599168
         label "Speedealer"
-        color "red"
+        color "purple"
     ]
     node [
         id 2090114
         label "Day Six"
-        color "red"
+        color "blue"
     ]
     node [
         id 9347
@@ -30608,12 +30608,12 @@ graph [
     node [
         id 1303691
         label "Grayson Manor"
-        color "red"
+        color "blue"
     ]
     node [
         id 2614412
         label "Unhuman"
-        color "red"
+        color "blue"
     ]
     node [
         id 3158210
@@ -30653,12 +30653,12 @@ graph [
     node [
         id 140825
         label "Masters Of Reality"
-        color "red"
+        color "purple"
     ]
     node [
         id 3005284
         label "Back Door To Asylum"
-        color "red"
+        color "blue"
     ]
     node [
         id 58522
@@ -30668,7 +30668,7 @@ graph [
     node [
         id 1483931
         label "Wine from Tears"
-        color "red"
+        color "blue"
     ]
     node [
         id 189598
@@ -30693,7 +30693,7 @@ graph [
     node [
         id 599202
         label "High On Fire"
-        color "red"
+        color "purple"
     ]
     node [
         id 599203
@@ -30703,7 +30703,7 @@ graph [
     node [
         id 1582244
         label "Grave Desecrator"
-        color "red"
+        color "blue"
     ]
     node [
         id 140453
@@ -30723,7 +30723,7 @@ graph [
     node [
         id 2350061
         label "Nightside Glance"
-        color "red"
+        color "blue"
     ]
     node [
         id 648364
@@ -30733,7 +30733,7 @@ graph [
     node [
         id 1582254
         label "Gloryful"
-        color "red"
+        color "blue"
     ]
     node [
         id 3294749
@@ -30743,7 +30743,7 @@ graph [
     node [
         id 243089
         label "Running Wild"
-        color "red"
+        color "blue"
     ]
     node [
         id 42162
@@ -30753,12 +30753,12 @@ graph [
     node [
         id 2907810
         label "Abandoned By Light"
-        color "red"
+        color "blue"
     ]
     node [
         id 3434014
         label "Boris"
-        color "red"
+        color "purple"
     ]
     node [
         id 4367542
@@ -30773,12 +30773,12 @@ graph [
     node [
         id 2991288
         label "Myrkur"
-        color "red"
+        color "blue"
     ]
     node [
         id 450478
         label "Insane"
-        color "red"
+        color "blue"
     ]
     node [
         id 2024637
@@ -30788,12 +30788,12 @@ graph [
     node [
         id 3024062
         label "Ebon Arcanum"
-        color "red"
+        color "blue"
     ]
     node [
         id 1483968
         label "Bloodrain"
-        color "red"
+        color "blue"
     ]
     node [
         id 329248
@@ -30823,7 +30823,7 @@ graph [
     node [
         id 1287373
         label "Exmortem"
-        color "red"
+        color "purple"
     ]
     node [
         id 1980669
@@ -30833,7 +30833,7 @@ graph [
     node [
         id 353487
         label "Nahemah"
-        color "red"
+        color "blue"
     ]
     node [
         id 1615056
@@ -30843,17 +30843,17 @@ graph [
     node [
         id 1287377
         label "Nominon"
-        color "red"
+        color "blue"
     ]
     node [
         id 2049571
         label "Risen to Reclaim"
-        color "red"
+        color "blue"
     ]
     node [
         id 517332
         label "Antichrisis"
-        color "red"
+        color "purple"
     ]
     node [
         id 1352917
@@ -30868,17 +30868,17 @@ graph [
     node [
         id 1565540
         label "Suncrown"
-        color "red"
+        color "blue"
     ]
     node [
         id 1249487
         label "Diabolique"
-        color "red"
+        color "blue"
     ]
     node [
         id 2991326
         label "War Of Ages"
-        color "red"
+        color "purple"
     ]
     node [
         id 1312293
@@ -30893,12 +30893,12 @@ graph [
     node [
         id 1484002
         label "Damnation Angels"
-        color "red"
+        color "blue"
     ]
     node [
         id 304355
         label "Cadaveria"
-        color "red"
+        color "blue"
     ]
     node [
         id 1484004
@@ -30918,7 +30918,7 @@ graph [
     node [
         id 233681
         label "Lizzard"
-        color "red"
+        color "blue"
     ]
     node [
         id 648424
@@ -30948,7 +30948,7 @@ graph [
     node [
         id 271598
         label "Tankcsapda"
-        color "red"
+        color "purple"
     ]
     node [
         id 255215
@@ -30958,12 +30958,12 @@ graph [
     node [
         id 2876968
         label "The HAARP Machine"
-        color "red"
+        color "blue"
     ]
     node [
         id 1942771
         label "Sacred Gate"
-        color "red"
+        color "blue"
     ]
     node [
         id 1905244
@@ -30993,7 +30993,7 @@ graph [
     node [
         id 304379
         label "Creations"
-        color "red"
+        color "blue"
     ]
     node [
         id 91389
@@ -31008,7 +31008,7 @@ graph [
     node [
         id 1900690
         label "Rumors of Betrayal"
-        color "red"
+        color "blue"
     ]
     node [
         id 25857
@@ -31028,12 +31028,12 @@ graph [
     node [
         id 9476
         label "Twilightning"
-        color "red"
+        color "purple"
     ]
     node [
         id 517381
         label "Koldbrann"
-        color "red"
+        color "purple"
     ]
     node [
         id 648456
@@ -31053,12 +31053,12 @@ graph [
     node [
         id 1320203
         label "Greg Rapaport"
-        color "red"
+        color "purple"
     ]
     node [
         id 25870
         label "Dio"
-        color "red"
+        color "blue"
     ]
     node [
         id 25871
@@ -31068,22 +31068,22 @@ graph [
     node [
         id 25873
         label "Diamond Head"
-        color "red"
+        color "blue"
     ]
     node [
         id 1046164
         label "Dreadnought"
-        color "red"
+        color "blue"
     ]
     node [
         id 424835
         label "ANCKORA"
-        color "red"
+        color "blue"
     ]
     node [
         id 664852
         label "Scale the Summit"
-        color "red"
+        color "purple"
     ]
     node [
         id 25877
@@ -31108,7 +31108,7 @@ graph [
     node [
         id 25881
         label "L.A. Guns"
-        color "red"
+        color "purple"
     ]
     node [
         id 2885264
@@ -31118,12 +31118,12 @@ graph [
     node [
         id 25883
         label "Magnum"
-        color "red"
+        color "purple"
     ]
     node [
         id 25886
         label "Tygers Of Pan Tang"
-        color "red"
+        color "purple"
     ]
     node [
         id 3464069
@@ -31148,7 +31148,7 @@ graph [
     node [
         id 2155813
         label "Lastdayhere"
-        color "red"
+        color "blue"
     ]
     node [
         id 42545
@@ -31163,7 +31163,7 @@ graph [
     node [
         id 304425
         label "Sacred Steel"
-        color "red"
+        color "purple"
     ]
     node [
         id 1598763
@@ -31183,7 +31183,7 @@ graph [
     node [
         id 1510841
         label "Bullet Train Blast"
-        color "red"
+        color "purple"
     ]
     node [
         id 91439
@@ -31193,7 +31193,7 @@ graph [
     node [
         id 517424
         label "Verdict"
-        color "red"
+        color "purple"
     ]
     node [
         id 1221937
@@ -31218,7 +31218,7 @@ graph [
     node [
         id 1849237
         label "Guillaume Erard"
-        color "red"
+        color "purple"
     ]
     node [
         id 9529
@@ -31233,7 +31233,7 @@ graph [
     node [
         id 2142431
         label "Consortium Project I"
-        color "red"
+        color "blue"
     ]
     node [
         id 124220
@@ -31248,17 +31248,17 @@ graph [
     node [
         id 2139454
         label "Hound of Hades"
-        color "red"
+        color "blue"
     ]
     node [
         id 15243
         label "Anthrax"
-        color "red"
+        color "blue"
     ]
     node [
         id 271685
         label "Babylon"
-        color "red"
+        color "purple"
     ]
     node [
         id 156998
@@ -31273,7 +31273,7 @@ graph [
     node [
         id 337227
         label "Septicflesh"
-        color "red"
+        color "blue"
     ]
     node [
         id 1385804
@@ -31298,7 +31298,7 @@ graph [
     node [
         id 1729873
         label "Down & Dirty"
-        color "red"
+        color "purple"
     ]
     node [
         id 468306
@@ -31308,12 +31308,12 @@ graph [
     node [
         id 872675
         label "Snail"
-        color "red"
+        color "purple"
     ]
     node [
         id 1751950
         label "Fallen Man"
-        color "red"
+        color "blue"
     ]
     node [
         id 1189206
@@ -31328,22 +31328,22 @@ graph [
     node [
         id 2808391
         label "The Sean Baker Orchestra"
-        color "red"
+        color "blue"
     ]
     node [
         id 517468
         label "nonexistence"
-        color "red"
+        color "purple"
     ]
     node [
         id 877917
         label "From Dying Skies"
-        color "red"
+        color "blue"
     ]
     node [
         id 611518
         label "Manes"
-        color "red"
+        color "purple"
     ]
     node [
         id 2055056
@@ -31353,17 +31353,17 @@ graph [
     node [
         id 2188643
         label "Haiduk"
-        color "red"
+        color "blue"
     ]
     node [
         id 1615209
         label "Still I Wither"
-        color "red"
+        color "blue"
     ]
     node [
         id 517482
         label "Fjoergyn"
-        color "red"
+        color "purple"
     ]
     node [
         id 1189229
@@ -31378,7 +31378,7 @@ graph [
     node [
         id 828784
         label "Gollum"
-        color "red"
+        color "purple"
     ]
     node [
         id 9586
@@ -31398,17 +31398,17 @@ graph [
     node [
         id 763255
         label "Svyatogor"
-        color "red"
+        color "blue"
     ]
     node [
         id 845177
         label "Bolt"
-        color "red"
+        color "purple"
     ]
     node [
         id 353658
         label "Star Industry"
-        color "red"
+        color "purple"
     ]
     node [
         id 9791
@@ -31473,7 +31473,7 @@ graph [
     node [
         id 58764
         label "Feinstein"
-        color "red"
+        color "blue"
     ]
     node [
         id 25997
@@ -31508,7 +31508,7 @@ graph [
     node [
         id 1634833
         label "Rusted"
-        color "red"
+        color "purple"
     ]
     node [
         id 1167598
@@ -31518,17 +31518,17 @@ graph [
     node [
         id 424857
         label "Morbid"
-        color "red"
+        color "blue"
     ]
     node [
         id 140697
         label "Sworn Enemy"
-        color "red"
+        color "purple"
     ]
     node [
         id 2712988
         label "Andreas Scheinhütte"
-        color "red"
+        color "purple"
     ]
     node [
         id 1538970
@@ -31563,12 +31563,12 @@ graph [
     node [
         id 1716465
         label "Ashestoangels"
-        color "red"
+        color "purple"
     ]
     node [
         id 252828
         label "Rauhnacht"
-        color "red"
+        color "blue"
     ]
     node [
         id 4023722
@@ -31578,7 +31578,7 @@ graph [
     node [
         id 1467819
         label "Stolen Babies"
-        color "red"
+        color "purple"
     ]
     node [
         id 1046451
@@ -31588,12 +31588,12 @@ graph [
     node [
         id 665008
         label "Protector"
-        color "red"
+        color "purple"
     ]
     node [
         id 1568226
         label "Diary of Destruction"
-        color "red"
+        color "purple"
     ]
     node [
         id 2958772
@@ -31613,7 +31613,7 @@ graph [
     node [
         id 2803273
         label "Symbyosis"
-        color "red"
+        color "blue"
     ]
     node [
         id 1156537
@@ -31628,27 +31628,27 @@ graph [
     node [
         id 2153375
         label "Mystery Blue"
-        color "red"
+        color "blue"
     ]
     node [
         id 1200019
         label "The Nefilim"
-        color "red"
+        color "blue"
     ]
     node [
         id 1205693
         label "Gemini Syndrome"
-        color "red"
+        color "purple"
     ]
     node [
         id 730558
         label "Life As A Ghost"
-        color "red"
+        color "purple"
     ]
     node [
         id 159989
         label "The Haunted"
-        color "red"
+        color "purple"
     ]
     node [
         id 370112
@@ -31658,7 +31658,7 @@ graph [
     node [
         id 1483713
         label "Diminished"
-        color "red"
+        color "blue"
     ]
     node [
         id 9667
@@ -31673,7 +31673,7 @@ graph [
     node [
         id 1232788
         label "S.A. Adams"
-        color "red"
+        color "blue"
     ]
     node [
         id 75207
@@ -31693,7 +31693,7 @@ graph [
     node [
         id 2339063
         label "Seven System"
-        color "red"
+        color "blue"
     ]
     node [
         id 26060
@@ -31703,7 +31703,7 @@ graph [
     node [
         id 2374562
         label "Instead of a Kill"
-        color "red"
+        color "blue"
     ]
     node [
         id 402894
@@ -31718,22 +31718,22 @@ graph [
     node [
         id 1828304
         label "Guilty as Sin"
-        color "red"
+        color "blue"
     ]
     node [
         id 3810770
         label "Darktribe"
-        color "red"
+        color "blue"
     ]
     node [
         id 64419
         label "Obituary"
-        color "red"
+        color "blue"
     ]
     node [
         id 1107534
         label "Daughters"
-        color "red"
+        color "blue"
     ]
     node [
         id 435671
@@ -31763,12 +31763,12 @@ graph [
     node [
         id 2073470
         label "Walking Corpse Syndrome"
-        color "red"
+        color "blue"
     ]
     node [
         id 3401191
         label "Mortal Decay"
-        color "red"
+        color "blue"
     ]
     node [
         id 206314
@@ -31778,7 +31778,7 @@ graph [
     node [
         id 3828553
         label "Caterina Nix"
-        color "red"
+        color "blue"
     ]
     node [
         id 42480
@@ -31793,17 +31793,17 @@ graph [
     node [
         id 2401778
         label "Johansson & Speckmann"
-        color "red"
+        color "blue"
     ]
     node [
         id 3251891
         label "Kenn Nardi"
-        color "red"
+        color "blue"
     ]
     node [
         id 1121193
         label "The Graviators"
-        color "red"
+        color "purple"
     ]
     node [
         id 2663928
@@ -31813,7 +31813,7 @@ graph [
     node [
         id 774399
         label "Matenrou Opera"
-        color "red"
+        color "purple"
     ]
     node [
         id 3733399
@@ -31823,7 +31823,7 @@ graph [
     node [
         id 665086
         label "Animals as Leaders"
-        color "red"
+        color "purple"
     ]
     node [
         id 42495
@@ -31833,7 +31833,7 @@ graph [
     node [
         id 271873
         label "Arion"
-        color "red"
+        color "blue"
     ]
     node [
         id 2628523
@@ -31848,12 +31848,12 @@ graph [
     node [
         id 321030
         label "Exciter"
-        color "red"
+        color "blue"
     ]
     node [
         id 2213725
         label "Alex Masi"
-        color "red"
+        color "blue"
     ]
     node [
         id 42504
@@ -31863,12 +31863,12 @@ graph [
     node [
         id 2644908
         label "Daemonarch"
-        color "red"
+        color "blue"
     ]
     node [
         id 9739
         label "Anand"
-        color "red"
+        color "purple"
     ]
     node [
         id 1222156
@@ -31883,7 +31883,7 @@ graph [
     node [
         id 1926673
         label "Deadstar Assembly"
-        color "red"
+        color "blue"
     ]
     node [
         id 2057748
@@ -31893,7 +31893,7 @@ graph [
     node [
         id 2876950
         label "Upon A Burning Body"
-        color "red"
+        color "blue"
     ]
     node [
         id 2827799
@@ -31903,12 +31903,12 @@ graph [
     node [
         id 2827800
         label "Megosh"
-        color "red"
+        color "purple"
     ]
     node [
         id 2876953
         label "Mestís"
-        color "red"
+        color "purple"
     ]
     node [
         id 42523
@@ -31923,12 +31923,12 @@ graph [
     node [
         id 1041950
         label "Fueled By Fire"
-        color "red"
+        color "purple"
     ]
     node [
         id 1615394
         label "Teverts"
-        color "red"
+        color "blue"
     ]
     node [
         id 42531
@@ -31943,7 +31943,7 @@ graph [
     node [
         id 1418789
         label "Mindlock"
-        color "red"
+        color "blue"
     ]
     node [
         id 9767
@@ -31963,12 +31963,12 @@ graph [
     node [
         id 2876970
         label "Capture The Crown"
-        color "red"
+        color "blue"
     ]
     node [
         id 321067
         label "Urgent"
-        color "red"
+        color "blue"
     ]
     node [
         id 9772
@@ -31983,7 +31983,7 @@ graph [
     node [
         id 1173039
         label "Slumber"
-        color "red"
+        color "blue"
     ]
     node [
         id 1451568
@@ -32008,7 +32008,7 @@ graph [
     node [
         id 42590
         label "Скорая помощь"
-        color "red"
+        color "purple"
     ]
     node [
         id 2582070
@@ -32018,7 +32018,7 @@ graph [
     node [
         id 1500727
         label "Salhem"
-        color "red"
+        color "blue"
     ]
     node [
         id 231007
@@ -32028,17 +32028,17 @@ graph [
     node [
         id 124476
         label "Krakatoa"
-        color "red"
+        color "purple"
     ]
     node [
         id 517695
         label "Tech"
-        color "red"
+        color "blue"
     ]
     node [
         id 2082255
         label "The Pestilence Choir"
-        color "red"
+        color "blue"
     ]
     node [
         id 42561
@@ -32063,7 +32063,7 @@ graph [
     node [
         id 665185
         label "The Acacia Strain"
-        color "red"
+        color "blue"
     ]
     node [
         id 3418501
@@ -32138,12 +32138,12 @@ graph [
     node [
         id 2680417
         label "Lorna Shore"
-        color "red"
+        color "purple"
     ]
     node [
         id 452194
         label "Black Veil Brides"
-        color "red"
+        color "purple"
     ]
     node [
         id 42596
@@ -32153,7 +32153,7 @@ graph [
     node [
         id 853606
         label "In Blood We Trust"
-        color "red"
+        color "blue"
     ]
     node [
         id 140903
@@ -32163,7 +32163,7 @@ graph [
     node [
         id 2565736
         label "Exivious"
-        color "red"
+        color "blue"
     ]
     node [
         id 2218940
@@ -32178,7 +32178,7 @@ graph [
     node [
         id 304743
         label "Visions of Atlantis"
-        color "red"
+        color "purple"
     ]
     node [
         id 1216786
@@ -32228,7 +32228,7 @@ graph [
     node [
         id 1624202
         label "Noesis"
-        color "red"
+        color "purple"
     ]
     node [
         id 2806652
@@ -32248,7 +32248,7 @@ graph [
     node [
         id 910987
         label "Tony MacAlpine"
-        color "red"
+        color "blue"
     ]
     node [
         id 812684
@@ -32273,7 +32273,7 @@ graph [
     node [
         id 616081
         label "Rellik"
-        color "red"
+        color "blue"
     ]
     node [
         id 722542
@@ -32283,7 +32283,7 @@ graph [
     node [
         id 4744854
         label "Lacerated and Carbonized"
-        color "red"
+        color "blue"
     ]
     node [
         id 1828506
@@ -32313,17 +32313,17 @@ graph [
     node [
         id 648867
         label "Dawn of Ashes"
-        color "red"
+        color "blue"
     ]
     node [
         id 1042085
         label "Weena Morloch"
-        color "red"
+        color "purple"
     ]
     node [
         id 304806
         label "Gurd"
-        color "red"
+        color "purple"
     ]
     node [
         id 42663
@@ -32338,7 +32338,7 @@ graph [
     node [
         id 1642780
         label "The Great Airport Mystery"
-        color "red"
+        color "blue"
     ]
     node [
         id 1828522
@@ -32368,7 +32368,7 @@ graph [
     node [
         id 2926258
         label "Harrisons"
-        color "red"
+        color "blue"
     ]
     node [
         id 1615539
@@ -32423,7 +32423,7 @@ graph [
     node [
         id 2609440
         label "Freak Of Nature"
-        color "red"
+        color "purple"
     ]
     node [
         id 2647747
@@ -32443,7 +32443,7 @@ graph [
     node [
         id 1713865
         label "Primal Attack"
-        color "red"
+        color "blue"
     ]
     node [
         id 222922
@@ -32468,7 +32468,7 @@ graph [
     node [
         id 648910
         label "Amon Amarth"
-        color "red"
+        color "purple"
     ]
     node [
         id 187341
@@ -32483,7 +32483,7 @@ graph [
     node [
         id 2606977
         label "Compos Mentis"
-        color "red"
+        color "blue"
     ]
     node [
         id 26323
@@ -32493,12 +32493,12 @@ graph [
     node [
         id 9940
         label "Norther"
-        color "red"
+        color "blue"
     ]
     node [
         id 2374606
         label "Hope Drone"
-        color "red"
+        color "blue"
     ]
     node [
         id 108247
@@ -32508,12 +32508,12 @@ graph [
     node [
         id 2265380
         label "Beorn"
-        color "red"
+        color "blue"
     ]
     node [
         id 658828
         label "Evergreen Terrace"
-        color "red"
+        color "purple"
     ]
     node [
         id 2942686
@@ -32528,12 +32528,12 @@ graph [
     node [
         id 2139877
         label "Means End"
-        color "red"
+        color "blue"
     ]
     node [
         id 1735279
         label "An Ocean Between Us"
-        color "red"
+        color "blue"
     ]
     node [
         id 157415
@@ -32578,7 +32578,7 @@ graph [
     node [
         id 3008244
         label "Gotham City"
-        color "red"
+        color "blue"
     ]
     node [
         id 337654
@@ -32588,7 +32588,7 @@ graph [
     node [
         id 120902
         label "Paul Gilbert"
-        color "red"
+        color "purple"
     ]
     node [
         id 2696957
@@ -32598,7 +32598,7 @@ graph [
     node [
         id 1763071
         label "Scythia"
-        color "red"
+        color "purple"
     ]
     node [
         id 2746112
@@ -32623,7 +32623,7 @@ graph [
     node [
         id 3417860
         label "Spidergawd"
-        color "red"
+        color "purple"
     ]
     node [
         id 2628199
@@ -32633,12 +32633,12 @@ graph [
     node [
         id 1574529
         label "To the Rats and Wolves"
-        color "red"
+        color "blue"
     ]
     node [
         id 1913132
         label "King Weird"
-        color "red"
+        color "purple"
     ]
     node [
         id 108298
@@ -32663,7 +32663,7 @@ graph [
     node [
         id 2336529
         label "Foreign Objects"
-        color "red"
+        color "blue"
     ]
     node [
         id 512516
@@ -32683,22 +32683,22 @@ graph [
     node [
         id 64473
         label "Cynic"
-        color "red"
+        color "blue"
     ]
     node [
         id 157464
         label "Ignite"
-        color "red"
+        color "purple"
     ]
     node [
         id 1582874
         label "Dynazty"
-        color "red"
+        color "purple"
     ]
     node [
         id 1320732
         label "Dark the Suns"
-        color "red"
+        color "purple"
     ]
     node [
         id 2434845
@@ -32723,7 +32723,7 @@ graph [
     node [
         id 337698
         label "Lanfear"
-        color "red"
+        color "blue"
     ]
     node [
         id 26403
@@ -32738,7 +32738,7 @@ graph [
     node [
         id 1741105
         label "Bhayanak Maut"
-        color "red"
+        color "blue"
     ]
     node [
         id 3610883
@@ -32748,7 +32748,7 @@ graph [
     node [
         id 351196
         label "Canedy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1828650
@@ -32763,7 +32763,7 @@ graph [
     node [
         id 1754871
         label "SpellBlast"
-        color "red"
+        color "blue"
     ]
     node [
         id 419632
@@ -32813,7 +32813,7 @@ graph [
     node [
         id 517952
         label "Legenda Aurea"
-        color "red"
+        color "purple"
     ]
     node [
         id 2980832
@@ -32828,7 +32828,7 @@ graph [
     node [
         id 2402115
         label "Jomo from Kajiado"
-        color "red"
+        color "blue"
     ]
     node [
         id 3247791
@@ -32848,7 +32848,7 @@ graph [
     node [
         id 81624
         label "After The Burial"
-        color "red"
+        color "blue"
     ]
     node [
         id 75597
@@ -32858,7 +32858,7 @@ graph [
     node [
         id 1582928
         label "Huntress"
-        color "red"
+        color "blue"
     ]
     node [
         id 10065
@@ -32873,7 +32873,7 @@ graph [
     node [
         id 1615502
         label "Vomitron"
-        color "red"
+        color "blue"
     ]
     node [
         id 154596
@@ -32898,7 +32898,7 @@ graph [
     node [
         id 1133474
         label "Companion"
-        color "red"
+        color "blue"
     ]
     node [
         id 2475664
@@ -32918,7 +32918,7 @@ graph [
     node [
         id 2893467
         label "Graves At Sea"
-        color "red"
+        color "blue"
     ]
     node [
         id 4024166
@@ -32943,7 +32943,7 @@ graph [
     node [
         id 1574547
         label "Days We Are Even"
-        color "red"
+        color "blue"
     ]
     node [
         id 681845
@@ -32963,7 +32963,7 @@ graph [
     node [
         id 681852
         label "Black Power"
-        color "red"
+        color "blue"
     ]
     node [
         id 1833962
@@ -32973,7 +32973,7 @@ graph [
     node [
         id 1083542
         label "The Handsome Beasts"
-        color "red"
+        color "blue"
     ]
     node [
         id 59267
@@ -32993,22 +32993,22 @@ graph [
     node [
         id 1155130
         label "Midnight Idols"
-        color "red"
+        color "blue"
     ]
     node [
         id 518026
         label "TrollfesT"
-        color "red"
+        color "blue"
     ]
     node [
         id 518029
         label "Svarttjern"
-        color "red"
+        color "purple"
     ]
     node [
         id 356935
         label "Crowbar"
-        color "red"
+        color "purple"
     ]
     node [
         id 1288083
@@ -33028,7 +33028,7 @@ graph [
     node [
         id 4439858
         label "SevenSins"
-        color "red"
+        color "blue"
     ]
     node [
         id 650651
@@ -33038,7 +33038,7 @@ graph [
     node [
         id 1509018
         label "Bio-Cancer"
-        color "red"
+        color "blue"
     ]
     node [
         id 206750
@@ -33048,7 +33048,7 @@ graph [
     node [
         id 370593
         label "Bolero"
-        color "red"
+        color "purple"
     ]
     node [
         id 452515
@@ -33063,7 +33063,7 @@ graph [
     node [
         id 832870
         label "Girugamesh"
-        color "red"
+        color "blue"
     ]
     node [
         id 75686
@@ -33073,7 +33073,7 @@ graph [
     node [
         id 649127
         label "Allegaeon"
-        color "red"
+        color "purple"
     ]
     node [
         id 1484712
@@ -33083,7 +33083,7 @@ graph [
     node [
         id 518058
         label "Semargl"
-        color "red"
+        color "blue"
     ]
     node [
         id 1255339
@@ -33098,22 +33098,22 @@ graph [
     node [
         id 4359837
         label "Lionheart"
-        color "red"
+        color "blue"
     ]
     node [
         id 1896221
         label "Acrania"
-        color "red"
+        color "blue"
     ]
     node [
         id 2347359
         label "The Stranded"
-        color "red"
+        color "blue"
     ]
     node [
         id 3188659
         label "Breakdown of Sanity"
-        color "red"
+        color "blue"
     ]
     node [
         id 42932
@@ -33133,12 +33133,12 @@ graph [
     node [
         id 1924320
         label "Lazarus Sin"
-        color "red"
+        color "blue"
     ]
     node [
         id 1755281
         label "Avishay Mizrav"
-        color "red"
+        color "blue"
     ]
     node [
         id 436158
@@ -33168,12 +33168,12 @@ graph [
     node [
         id 4640915
         label "Eternal Idol"
-        color "red"
+        color "blue"
     ]
     node [
         id 305094
         label "Kampfar"
-        color "red"
+        color "purple"
     ]
     node [
         id 992929
@@ -33183,7 +33183,7 @@ graph [
     node [
         id 168373
         label "Сергей Маврин"
-        color "red"
+        color "purple"
     ]
     node [
         id 714698
@@ -33193,7 +33193,7 @@ graph [
     node [
         id 1277118
         label "Heart Of A Coward"
-        color "red"
+        color "blue"
     ]
     node [
         id 2222028
@@ -33213,12 +33213,12 @@ graph [
     node [
         id 2552141
         label "Abandon All Ships"
-        color "red"
+        color "blue"
     ]
     node [
         id 1991106
         label "Man Made Origin"
-        color "red"
+        color "blue"
     ]
     node [
         id 299483
@@ -33233,12 +33233,12 @@ graph [
     node [
         id 665555
         label "Chelsea Grin"
-        color "red"
+        color "purple"
     ]
     node [
         id 1583064
         label "IZAH"
-        color "red"
+        color "purple"
     ]
     node [
         id 26585
@@ -33278,7 +33278,7 @@ graph [
     node [
         id 2939899
         label "For I Am King"
-        color "red"
+        color "blue"
     ]
     node [
         id 763876
@@ -33308,7 +33308,7 @@ graph [
     node [
         id 1255080
         label "Odium"
-        color "red"
+        color "blue"
     ]
     node [
         id 626649
@@ -33318,7 +33318,7 @@ graph [
     node [
         id 1347923
         label "Exe"
-        color "red"
+        color "purple"
     ]
     node [
         id 1578422
@@ -33333,7 +33333,7 @@ graph [
     node [
         id 1486723
         label "State Of East London"
-        color "red"
+        color "blue"
     ]
     node [
         id 3336185
@@ -33348,12 +33348,12 @@ graph [
     node [
         id 976893
         label "Паук"
-        color "red"
+        color "blue"
     ]
     node [
         id 1861634
         label "The Shanklin Freak Show"
-        color "red"
+        color "purple"
     ]
     node [
         id 2451459
@@ -33373,7 +33373,7 @@ graph [
     node [
         id 64513
         label "Mercyful Fate"
-        color "red"
+        color "blue"
     ]
     node [
         id 2475692
@@ -33393,7 +33393,7 @@ graph [
     node [
         id 845837
         label "Sticky Boys"
-        color "red"
+        color "blue"
     ]
     node [
         id 3123214
@@ -33403,7 +33403,7 @@ graph [
     node [
         id 3827373
         label "Forever in Combat"
-        color "red"
+        color "blue"
     ]
     node [
         id 2656152
@@ -33423,7 +33423,7 @@ graph [
     node [
         id 2418714
         label "Death Remains"
-        color "red"
+        color "blue"
     ]
     node [
         id 2305676
@@ -33458,12 +33458,12 @@ graph [
     node [
         id 293894
         label "Limbonic Art"
-        color "red"
+        color "blue"
     ]
     node [
         id 2517030
         label "Book of Reflections"
-        color "red"
+        color "blue"
     ]
     node [
         id 124967
@@ -33493,7 +33493,7 @@ graph [
     node [
         id 157743
         label "Triptykon"
-        color "red"
+        color "blue"
     ]
     node [
         id 190512
@@ -33503,12 +33503,12 @@ graph [
     node [
         id 1342472
         label "Lost Autumn"
-        color "red"
+        color "purple"
     ]
     node [
         id 157746
         label "Poisonblack"
-        color "red"
+        color "blue"
     ]
     node [
         id 2058291
@@ -33543,17 +33543,17 @@ graph [
     node [
         id 2082219
         label "Monsters Scare You!"
-        color "red"
+        color "purple"
     ]
     node [
         id 982952
         label "A Traitor Like Judas"
-        color "red"
+        color "blue"
     ]
     node [
         id 895040
         label "Izegrim"
-        color "red"
+        color "blue"
     ]
     node [
         id 75845
@@ -33568,7 +33568,7 @@ graph [
     node [
         id 337991
         label "ReVamp"
-        color "red"
+        color "purple"
     ]
     node [
         id 813128
@@ -33578,7 +33578,7 @@ graph [
     node [
         id 2678522
         label "The Enigma Tng"
-        color "red"
+        color "blue"
     ]
     node [
         id 425884
@@ -33593,22 +33593,22 @@ graph [
     node [
         id 143827
         label "Black Sun Aeon"
-        color "red"
+        color "blue"
     ]
     node [
         id 337999
         label "The Order Of The Fly"
-        color "red"
+        color "blue"
     ]
     node [
         id 272466
         label "SMP"
-        color "red"
+        color "blue"
     ]
     node [
         id 272467
         label "Undisclosed"
-        color "red"
+        color "blue"
     ]
     node [
         id 1807546
@@ -33638,12 +33638,12 @@ graph [
     node [
         id 2189405
         label "Electrocution 250"
-        color "red"
+        color "blue"
     ]
     node [
         id 797960
         label "Betrayal"
-        color "red"
+        color "blue"
     ]
     node [
         id 534623
@@ -33653,17 +33653,17 @@ graph [
     node [
         id 534626
         label "69 Chambers"
-        color "red"
+        color "blue"
     ]
     node [
         id 1108067
         label "Winterlong"
-        color "red"
+        color "purple"
     ]
     node [
         id 43108
         label "Bring Me The Horizon"
-        color "red"
+        color "purple"
     ]
     node [
         id 854699
@@ -33678,12 +33678,12 @@ graph [
     node [
         id 1458094
         label "Coat of Arms"
-        color "red"
+        color "blue"
     ]
     node [
         id 472258
         label "Hellhammer"
-        color "red"
+        color "blue"
     ]
     node [
         id 1747050
@@ -33708,7 +33708,7 @@ graph [
     node [
         id 1648751
         label "Heldmaschine"
-        color "red"
+        color "blue"
     ]
     node [
         id 823986
@@ -33723,7 +33723,7 @@ graph [
     node [
         id 2435188
         label "Vildhjarta"
-        color "red"
+        color "blue"
     ]
     node [
         id 125045
@@ -33743,7 +33743,7 @@ graph [
     node [
         id 764025
         label "Bloodbound"
-        color "red"
+        color "purple"
     ]
     node [
         id 831850
@@ -33758,7 +33758,7 @@ graph [
     node [
         id 558784
         label "Half The World"
-        color "red"
+        color "purple"
     ]
     node [
         id 356715
@@ -33768,7 +33768,7 @@ graph [
     node [
         id 2426431
         label "Valas"
-        color "red"
+        color "blue"
     ]
     node [
         id 1288327
@@ -33778,7 +33778,7 @@ graph [
     node [
         id 2459351
         label "Strain of Sanity"
-        color "red"
+        color "blue"
     ]
     node [
         id 1861770
@@ -33788,17 +33788,17 @@ graph [
     node [
         id 1157259
         label "Savage Messiah"
-        color "red"
+        color "purple"
     ]
     node [
         id 43149
         label "Teräsbetoni"
-        color "red"
+        color "purple"
     ]
     node [
         id 288910
         label "Kismet"
-        color "red"
+        color "purple"
     ]
     node [
         id 813199
@@ -33813,17 +33813,17 @@ graph [
     node [
         id 1747090
         label "Grave Forsaken"
-        color "red"
+        color "blue"
     ]
     node [
         id 1590979
         label "Silence is a Virus"
-        color "red"
+        color "blue"
     ]
     node [
         id 2009236
         label "Dead Deities"
-        color "red"
+        color "blue"
     ]
     node [
         id 10389
@@ -33838,7 +33838,7 @@ graph [
     node [
         id 338073
         label "Monolith"
-        color "red"
+        color "purple"
     ]
     node [
         id 10394
@@ -33873,7 +33873,7 @@ graph [
     node [
         id 1124515
         label "Nemesea"
-        color "red"
+        color "blue"
     ]
     node [
         id 2401378
@@ -33898,7 +33898,7 @@ graph [
     node [
         id 1157290
         label "Torture Killer"
-        color "red"
+        color "blue"
     ]
     node [
         id 1583276
@@ -33963,7 +33963,7 @@ graph [
     node [
         id 633021
         label "Skitzo"
-        color "red"
+        color "blue"
     ]
     node [
         id 1184117
@@ -33988,7 +33988,7 @@ graph [
     node [
         id 764099
         label "Lyriel"
-        color "red"
+        color "blue"
     ]
     node [
         id 1222852
@@ -34058,17 +34058,17 @@ graph [
     node [
         id 917813
         label "As We Die For... Paradise Lost"
-        color "red"
+        color "blue"
     ]
     node [
         id 829660
         label "Scott Finch"
-        color "red"
+        color "purple"
     ]
     node [
         id 292771
         label "Opprobrium"
-        color "red"
+        color "blue"
     ]
     node [
         id 3942622
@@ -34083,7 +34083,7 @@ graph [
     node [
         id 1714401
         label "Black Cube"
-        color "red"
+        color "blue"
     ]
     node [
         id 451695
@@ -34093,12 +34093,12 @@ graph [
     node [
         id 145298
         label "XYZ"
-        color "red"
+        color "blue"
     ]
     node [
         id 1901097
         label "Embracing"
-        color "red"
+        color "blue"
     ]
     node [
         id 76006
@@ -34118,7 +34118,7 @@ graph [
     node [
         id 2549995
         label "Crom"
-        color "red"
+        color "blue"
     ]
     node [
         id 76012
@@ -34128,12 +34128,12 @@ graph [
     node [
         id 649453
         label "Red Fang"
-        color "red"
+        color "purple"
     ]
     node [
         id 977134
         label "Awoi"
-        color "red"
+        color "blue"
     ]
     node [
         id 87905
@@ -34143,32 +34143,32 @@ graph [
     node [
         id 1190130
         label "The Abominable Iron Sloth"
-        color "red"
+        color "blue"
     ]
     node [
         id 223476
         label "Sodom"
-        color "red"
+        color "blue"
     ]
     node [
         id 59270
         label "Magnet"
-        color "red"
+        color "blue"
     ]
     node [
         id 2989097
         label "Mütiilation"
-        color "red"
+        color "blue"
     ]
     node [
         id 4495805
         label "Motorowl"
-        color "red"
+        color "blue"
     ]
     node [
         id 307583
         label "Hexx"
-        color "red"
+        color "blue"
     ]
     node [
         id 616700
@@ -34183,12 +34183,12 @@ graph [
     node [
         id 305410
         label "Fireball Ministry"
-        color "red"
+        color "purple"
     ]
     node [
         id 2566403
         label "Ithilien"
-        color "red"
+        color "blue"
     ]
     node [
         id 141574
@@ -34208,22 +34208,22 @@ graph [
     node [
         id 1534217
         label "Geezer"
-        color "red"
+        color "purple"
     ]
     node [
         id 895243
         label "Pessimist"
-        color "red"
+        color "blue"
     ]
     node [
         id 4401420
         label "Алькасар"
-        color "red"
+        color "blue"
     ]
     node [
         id 39447
         label "Måntra"
-        color "red"
+        color "purple"
     ]
     node [
         id 58657
@@ -34243,17 +34243,17 @@ graph [
     node [
         id 2931758
         label "Planks"
-        color "red"
+        color "blue"
     ]
     node [
         id 1230553
         label "Asguard"
-        color "red"
+        color "blue"
     ]
     node [
         id 1290628
         label "Woe of Tyrants"
-        color "red"
+        color "blue"
     ]
     node [
         id 10522
@@ -34263,12 +34263,12 @@ graph [
     node [
         id 764187
         label "Iron Mask"
-        color "red"
+        color "purple"
     ]
     node [
         id 1348807
         label "Eternal Flight"
-        color "red"
+        color "blue"
     ]
     node [
         id 190749
@@ -34333,7 +34333,7 @@ graph [
     node [
         id 47815
         label "Commando"
-        color "red"
+        color "blue"
     ]
     node [
         id 149213
@@ -34343,7 +34343,7 @@ graph [
     node [
         id 633137
         label "Nocturnus"
-        color "red"
+        color "purple"
     ]
     node [
         id 289074
@@ -34373,17 +34373,17 @@ graph [
     node [
         id 1222968
         label "Ankor"
-        color "red"
+        color "blue"
     ]
     node [
         id 1222969
         label "Mechina"
-        color "red"
+        color "blue"
     ]
     node [
         id 1911099
         label "Cult Of Luna"
-        color "red"
+        color "purple"
     ]
     node [
         id 1157437
@@ -34398,17 +34398,17 @@ graph [
     node [
         id 1075520
         label "Freak On a Leash"
-        color "red"
+        color "purple"
     ]
     node [
         id 1075521
         label "Master of Puppets"
-        color "red"
+        color "blue"
     ]
     node [
         id 154678
         label "Beowülf"
-        color "red"
+        color "blue"
     ]
     node [
         id 1075526
@@ -34438,12 +34438,12 @@ graph [
     node [
         id 338253
         label "Stormlord"
-        color "red"
+        color "purple"
     ]
     node [
         id 1730897
         label "Dream Weaver"
-        color "red"
+        color "blue"
     ]
     node [
         id 1026388
@@ -34463,22 +34463,22 @@ graph [
     node [
         id 2402649
         label "The Wise Man's Fear"
-        color "red"
+        color "blue"
     ]
     node [
         id 2526101
         label "Dragonhammer"
-        color "red"
+        color "blue"
     ]
     node [
         id 1157469
         label "Occult"
-        color "red"
+        color "blue"
     ]
     node [
         id 125279
         label "Parkway Drive"
-        color "red"
+        color "blue"
     ]
     node [
         id 1861985
@@ -34488,17 +34488,17 @@ graph [
     node [
         id 1212308
         label "The Atlas Moth"
-        color "red"
+        color "blue"
     ]
     node [
         id 758688
         label "Mirrormaze"
-        color "red"
+        color "blue"
     ]
     node [
         id 2140516
         label "Sovereign"
-        color "red"
+        color "blue"
     ]
     node [
         id 1812837
@@ -34518,12 +34518,12 @@ graph [
     node [
         id 2366524
         label "Beneath My Feet"
-        color "red"
+        color "purple"
     ]
     node [
         id 682347
         label "Sixx: A.M."
-        color "red"
+        color "purple"
     ]
     node [
         id 272748
@@ -34538,7 +34538,7 @@ graph [
     node [
         id 1195069
         label "Joe Stump"
-        color "red"
+        color "blue"
     ]
     node [
         id 816874
@@ -34558,7 +34558,7 @@ graph [
     node [
         id 10612
         label "Godsmack"
-        color "red"
+        color "blue"
     ]
     node [
         id 26997
@@ -34568,7 +34568,7 @@ graph [
     node [
         id 1911161
         label "And Hell Followed With"
-        color "red"
+        color "purple"
     ]
     node [
         id 125306
@@ -34593,7 +34593,7 @@ graph [
     node [
         id 633215
         label "...And Oceans"
-        color "red"
+        color "blue"
     ]
     node [
         id 108928
@@ -34643,17 +34643,17 @@ graph [
     node [
         id 1483963
         label "Deaden"
-        color "red"
+        color "blue"
     ]
     node [
         id 305551
         label "Soilwork"
-        color "red"
+        color "blue"
     ]
     node [
         id 2972617
         label "Grey Heaven Fall"
-        color "red"
+        color "blue"
     ]
     node [
         id 2419090
@@ -34663,7 +34663,7 @@ graph [
     node [
         id 64579
         label "Malevolent Creation"
-        color "red"
+        color "blue"
     ]
     node [
         id 2025876
@@ -34678,7 +34678,7 @@ graph [
     node [
         id 1829273
         label "Passion of Death"
-        color "red"
+        color "blue"
     ]
     node [
         id 2451867
@@ -34693,7 +34693,7 @@ graph [
     node [
         id 1625844
         label "Itching"
-        color "red"
+        color "blue"
     ]
     node [
         id 1075614
@@ -34703,7 +34703,7 @@ graph [
     node [
         id 1777401
         label "The Construct"
-        color "red"
+        color "blue"
     ]
     node [
         id 27040
@@ -34718,7 +34718,7 @@ graph [
     node [
         id 1157538
         label "Anthropia"
-        color "red"
+        color "purple"
     ]
     node [
         id 10659
@@ -34728,27 +34728,27 @@ graph [
     node [
         id 3041700
         label "Sea"
-        color "red"
+        color "blue"
     ]
     node [
         id 1157541
         label "Derdian"
-        color "red"
+        color "purple"
     ]
     node [
         id 2697640
         label "Theory In Practice"
-        color "red"
+        color "blue"
     ]
     node [
         id 905628
         label "Devin Townsend Project"
-        color "red"
+        color "purple"
     ]
     node [
         id 289194
         label "House Of Lords"
-        color "red"
+        color "purple"
     ]
     node [
         id 125355
@@ -34773,7 +34773,7 @@ graph [
     node [
         id 1747377
         label "Beggars Ball"
-        color "red"
+        color "purple"
     ]
     node [
         id 790879
@@ -34788,12 +34788,12 @@ graph [
     node [
         id 1157556
         label "Baroness"
-        color "red"
+        color "purple"
     ]
     node [
         id 1911221
         label "Cauldron"
-        color "red"
+        color "purple"
     ]
     node [
         id 1206710
@@ -34803,7 +34803,7 @@ graph [
     node [
         id 2369975
         label "Halfdream"
-        color "red"
+        color "blue"
     ]
     node [
         id 1911224
@@ -34813,7 +34813,7 @@ graph [
     node [
         id 1325533
         label "This City Ignites"
-        color "red"
+        color "blue"
     ]
     node [
         id 1733023
@@ -34833,7 +34833,7 @@ graph [
     node [
         id 1255870
         label "Bbq Chickens"
-        color "red"
+        color "purple"
     ]
     node [
         id 1157567
@@ -34843,7 +34843,7 @@ graph [
     node [
         id 1239488
         label "No Zodiac"
-        color "red"
+        color "blue"
     ]
     node [
         id 305601
@@ -34858,12 +34858,12 @@ graph [
     node [
         id 48203
         label "Trivium"
-        color "red"
+        color "blue"
     ]
     node [
         id 895428
         label "Truth Corroded"
-        color "red"
+        color "purple"
     ]
     node [
         id 158150
@@ -34878,32 +34878,32 @@ graph [
     node [
         id 338378
         label "Horna"
-        color "red"
+        color "blue"
     ]
     node [
         id 109003
         label "Soul Embraced"
-        color "red"
+        color "blue"
     ]
     node [
         id 682444
         label "Sigh"
-        color "red"
+        color "blue"
     ]
     node [
         id 76238
         label "Eldritch"
-        color "red"
+        color "purple"
     ]
     node [
         id 973901
         label "Klogr"
-        color "red"
+        color "blue"
     ]
     node [
         id 2279727
         label "Birth And Burial"
-        color "red"
+        color "blue"
     ]
     node [
         id 4515
@@ -34913,7 +34913,7 @@ graph [
     node [
         id 1157588
         label "Bornholm"
-        color "red"
+        color "purple"
     ]
     node [
         id 27093
@@ -34928,7 +34928,7 @@ graph [
     node [
         id 2185890
         label "From the Dark"
-        color "red"
+        color "blue"
     ]
     node [
         id 643492
@@ -34938,7 +34938,7 @@ graph [
     node [
         id 2124250
         label "Chambers of Insanity"
-        color "red"
+        color "blue"
     ]
     node [
         id 2414399
@@ -34968,27 +34968,27 @@ graph [
     node [
         id 2612304
         label "Kraton"
-        color "red"
+        color "blue"
     ]
     node [
         id 307877
         label "Monument"
-        color "red"
+        color "purple"
     ]
     node [
         id 313083
         label "The Sign Of The Southern Cross"
-        color "red"
+        color "blue"
     ]
     node [
         id 190948
         label "Mudvayne"
-        color "red"
+        color "blue"
     ]
     node [
         id 68007
         label "Disciple"
-        color "red"
+        color "purple"
     ]
     node [
         id 744108
@@ -34998,7 +34998,7 @@ graph [
     node [
         id 551399
         label "Gonoreas"
-        color "red"
+        color "blue"
     ]
     node [
         id 1346266
@@ -35008,7 +35008,7 @@ graph [
     node [
         id 587641
         label "Autumnal"
-        color "red"
+        color "blue"
     ]
     node [
         id 1567210
@@ -35023,7 +35023,7 @@ graph [
     node [
         id 846317
         label "Rustless"
-        color "red"
+        color "blue"
     ]
     node [
         id 50941
@@ -35033,7 +35033,7 @@ graph [
     node [
         id 610728
         label "Doctor Butcher"
-        color "red"
+        color "blue"
     ]
     node [
         id 357305
@@ -35043,17 +35043,17 @@ graph [
     node [
         id 4753320
         label "Mojuba"
-        color "red"
+        color "blue"
     ]
     node [
         id 338420
         label "Chris Caffery"
-        color "red"
+        color "purple"
     ]
     node [
         id 338421
         label "Antaeus"
-        color "red"
+        color "blue"
     ]
     node [
         id 2091510
@@ -35068,17 +35068,17 @@ graph [
     node [
         id 212513
         label "Viikate"
-        color "red"
+        color "blue"
     ]
     node [
         id 2074367
         label "Strange Land"
-        color "red"
+        color "purple"
     ]
     node [
         id 2003370
         label "WarteX"
-        color "red"
+        color "purple"
     ]
     node [
         id 43519
@@ -35093,7 +35093,7 @@ graph [
     node [
         id 1206788
         label "The Black Dahlia Murder"
-        color "red"
+        color "purple"
     ]
     node [
         id 64598
@@ -35108,17 +35108,17 @@ graph [
     node [
         id 1148673
         label "Greenleaf"
-        color "red"
+        color "purple"
     ]
     node [
         id 4512181
         label "Sons Of Balaur"
-        color "red"
+        color "blue"
     ]
     node [
         id 780810
         label "Catalano"
-        color "red"
+        color "blue"
     ]
     node [
         id 149250
@@ -35138,7 +35138,7 @@ graph [
     node [
         id 3038849
         label "Без Поводка"
-        color "red"
+        color "blue"
     ]
     node [
         id 207377
@@ -35153,7 +35153,7 @@ graph [
     node [
         id 1911316
         label "Merciless Death"
-        color "red"
+        color "purple"
     ]
     node [
         id 2411019
@@ -35168,17 +35168,17 @@ graph [
     node [
         id 1911321
         label "Avenger of Blood"
-        color "red"
+        color "purple"
     ]
     node [
         id 610061
         label "Talesien"
-        color "red"
+        color "blue"
     ]
     node [
         id 2026013
         label "Enoria"
-        color "red"
+        color "blue"
     ]
     node [
         id 59934
@@ -35188,7 +35188,7 @@ graph [
     node [
         id 1747487
         label "Ewan Dobson"
-        color "red"
+        color "purple"
     ]
     node [
         id 27168
@@ -35198,7 +35198,7 @@ graph [
     node [
         id 851035
         label "Master's Hammer"
-        color "red"
+        color "blue"
     ]
     node [
         id 567845
@@ -35213,7 +35213,7 @@ graph [
     node [
         id 103982
         label "Blaze Bayley"
-        color "red"
+        color "purple"
     ]
     node [
         id 64604
@@ -35228,12 +35228,12 @@ graph [
     node [
         id 1855826
         label "Blunt Force Trauma"
-        color "red"
+        color "blue"
     ]
     node [
         id 1911345
         label "Exmortus"
-        color "red"
+        color "purple"
     ]
     node [
         id 10804
@@ -35248,7 +35248,7 @@ graph [
     node [
         id 1813046
         label "Al Estrada"
-        color "red"
+        color "purple"
     ]
     node [
         id 3379636
@@ -35263,22 +35263,22 @@ graph [
     node [
         id 851039
         label "Angelcorpse"
-        color "red"
+        color "blue"
     ]
     node [
         id 2452028
         label "Blues Pills"
-        color "red"
+        color "purple"
     ]
     node [
         id 1059389
         label "LOVELORN DOLLS"
-        color "red"
+        color "purple"
     ]
     node [
         id 1059391
         label "HELALYN FLOWERS"
-        color "red"
+        color "blue"
     ]
     node [
         id 617024
@@ -35298,7 +35298,7 @@ graph [
     node [
         id 3975747
         label "Crucify Me Gently"
-        color "red"
+        color "blue"
     ]
     node [
         id 1845829
@@ -35313,7 +35313,7 @@ graph [
     node [
         id 48225
         label "A Day To Remember"
-        color "red"
+        color "purple"
     ]
     node [
         id 813640
@@ -35338,7 +35338,7 @@ graph [
     node [
         id 1927758
         label "Anticosm"
-        color "red"
+        color "blue"
     ]
     node [
         id 815214
@@ -35358,7 +35358,7 @@ graph [
     node [
         id 1588323
         label "Warnot"
-        color "red"
+        color "blue"
     ]
     node [
         id 1336995
@@ -35368,22 +35368,22 @@ graph [
     node [
         id 584279
         label "Alda"
-        color "red"
+        color "purple"
     ]
     node [
         id 630632
         label "Killers"
-        color "red"
+        color "blue"
     ]
     node [
         id 1108574
         label "Sear Bliss"
-        color "red"
+        color "blue"
     ]
     node [
         id 92767
         label "Suburban Tribe"
-        color "red"
+        color "purple"
     ]
     node [
         id 240224
@@ -35393,12 +35393,12 @@ graph [
     node [
         id 207459
         label "The Union Underground"
-        color "red"
+        color "purple"
     ]
     node [
         id 2189924
         label "Jasad"
-        color "red"
+        color "blue"
     ]
     node [
         id 1981542
@@ -35443,7 +35443,7 @@ graph [
     node [
         id 633456
         label "Imperia"
-        color "red"
+        color "purple"
     ]
     node [
         id 43633
@@ -35453,12 +35453,12 @@ graph [
     node [
         id 993908
         label "High Power"
-        color "red"
+        color "blue"
     ]
     node [
         id 2697848
         label "Werner Nadolnys Jane"
-        color "red"
+        color "purple"
     ]
     node [
         id 67348
@@ -35483,7 +35483,7 @@ graph [
     node [
         id 928387
         label "The Heavy Metal Unit"
-        color "red"
+        color "blue"
     ]
     node [
         id 27270
@@ -35498,7 +35498,7 @@ graph [
     node [
         id 944776
         label "Dunwich"
-        color "red"
+        color "purple"
     ]
     node [
         id 518795
@@ -35508,22 +35508,22 @@ graph [
     node [
         id 1174156
         label "Dekapitator"
-        color "red"
+        color "blue"
     ]
     node [
         id 2747021
         label "The Royal"
-        color "red"
+        color "blue"
     ]
     node [
         id 1174159
         label "Necrophagist"
-        color "red"
+        color "blue"
     ]
     node [
         id 1174160
         label "Disembowelment"
-        color "red"
+        color "blue"
     ]
     node [
         id 1214232
@@ -35538,7 +35538,7 @@ graph [
     node [
         id 10899
         label "Nightwish"
-        color "red"
+        color "blue"
     ]
     node [
         id 10900
@@ -35563,7 +35563,7 @@ graph [
     node [
         id 1321625
         label "Tyranny"
-        color "red"
+        color "blue"
     ]
     node [
         id 27291
@@ -35578,22 +35578,22 @@ graph [
     node [
         id 3189406
         label "Dominia"
-        color "red"
+        color "blue"
     ]
     node [
         id 551583
         label "Pandemia"
-        color "red"
+        color "purple"
     ]
     node [
         id 1452706
         label "Witchmaster"
-        color "red"
+        color "purple"
     ]
     node [
         id 1567395
         label "Shadowside"
-        color "red"
+        color "blue"
     ]
     node [
         id 797348
@@ -35603,7 +35603,7 @@ graph [
     node [
         id 600741
         label "Ancient VVisdom"
-        color "red"
+        color "purple"
     ]
     node [
         id 207526
@@ -35623,7 +35623,7 @@ graph [
     node [
         id 600746
         label "Primevil"
-        color "red"
+        color "purple"
     ]
     node [
         id 305835
@@ -35633,12 +35633,12 @@ graph [
     node [
         id 1174188
         label "Bongzilla"
-        color "red"
+        color "blue"
     ]
     node [
         id 2042541
         label "Blue Aside"
-        color "red"
+        color "purple"
     ]
     node [
         id 1120765
@@ -35658,12 +35658,12 @@ graph [
     node [
         id 2547607
         label "Killing Season"
-        color "red"
+        color "blue"
     ]
     node [
         id 1059509
         label "Freakangel"
-        color "red"
+        color "blue"
     ]
     node [
         id 27319
@@ -35673,7 +35673,7 @@ graph [
     node [
         id 551609
         label "Sister Sin"
-        color "red"
+        color "purple"
     ]
     node [
         id 256700
@@ -35683,7 +35683,7 @@ graph [
     node [
         id 1452735
         label "Mortifera"
-        color "red"
+        color "blue"
     ]
     node [
         id 2091712
@@ -35698,12 +35698,12 @@ graph [
     node [
         id 1174210
         label "The Foreshadowing"
-        color "red"
+        color "purple"
     ]
     node [
         id 4200124
         label "Союз созидающих"
-        color "red"
+        color "blue"
     ]
     node [
         id 322245
@@ -35713,7 +35713,7 @@ graph [
     node [
         id 1501894
         label "Drain Sth"
-        color "red"
+        color "blue"
     ]
     node [
         id 191175
@@ -35723,7 +35723,7 @@ graph [
     node [
         id 666312
         label "Bronson"
-        color "red"
+        color "blue"
     ]
     node [
         id 1315276
@@ -35738,12 +35738,12 @@ graph [
     node [
         id 318583
         label "Kryptos"
-        color "red"
+        color "purple"
     ]
     node [
         id 289484
         label "Darkthrone"
-        color "red"
+        color "purple"
     ]
     node [
         id 157474
@@ -35753,7 +35753,7 @@ graph [
     node [
         id 1764047
         label "Hguols"
-        color "red"
+        color "purple"
     ]
     node [
         id 1157841
@@ -35763,7 +35763,7 @@ graph [
     node [
         id 289490
         label "My Dying Bride"
-        color "red"
+        color "purple"
     ]
     node [
         id 2779860
@@ -35783,7 +35783,7 @@ graph [
     node [
         id 1075928
         label "One Year Later"
-        color "red"
+        color "purple"
     ]
     node [
         id 1075929
@@ -35793,17 +35793,17 @@ graph [
     node [
         id 3009242
         label "Days of Confusion"
-        color "red"
+        color "purple"
     ]
     node [
         id 2419420
         label "Ashes Of Ares"
-        color "red"
+        color "blue"
     ]
     node [
         id 1649373
         label "Tengger Cavalry"
-        color "red"
+        color "purple"
     ]
     node [
         id 6912
@@ -35818,12 +35818,12 @@ graph [
     node [
         id 27363
         label "Avenged Sevenfold"
-        color "red"
+        color "purple"
     ]
     node [
         id 977636
         label "VerMin"
-        color "red"
+        color "purple"
     ]
     node [
         id 191206
@@ -35838,22 +35838,22 @@ graph [
     node [
         id 633577
         label "The Republic Of Desire"
-        color "red"
+        color "blue"
     ]
     node [
         id 1518314
         label "Relics Of Humanity"
-        color "red"
+        color "blue"
     ]
     node [
         id 633579
         label "Mors Principium Est"
-        color "red"
+        color "purple"
     ]
     node [
         id 469740
         label "Helmut"
-        color "red"
+        color "purple"
     ]
     node [
         id 666354
@@ -35868,12 +35868,12 @@ graph [
     node [
         id 3032747
         label "Огненный Шторм"
-        color "red"
+        color "blue"
     ]
     node [
         id 1747701
         label "Steryle"
-        color "red"
+        color "blue"
     ]
     node [
         id 191222
@@ -35888,7 +35888,7 @@ graph [
     node [
         id 994040
         label "Diabolos Rising"
-        color "red"
+        color "purple"
     ]
     node [
         id 1747705
@@ -35898,7 +35898,7 @@ graph [
     node [
         id 2550522
         label "Pagan Altar"
-        color "red"
+        color "blue"
     ]
     node [
         id 3975931
@@ -35908,7 +35908,7 @@ graph [
     node [
         id 305917
         label "Eisregen"
-        color "red"
+        color "purple"
     ]
     node [
         id 600831
@@ -35923,7 +35923,7 @@ graph [
     node [
         id 682753
         label "Dave Sharman"
-        color "red"
+        color "purple"
     ]
     node [
         id 294426
@@ -35938,7 +35938,7 @@ graph [
     node [
         id 1993476
         label "Seree Lee"
-        color "red"
+        color "blue"
     ]
     node [
         id 1962454
@@ -35948,12 +35948,12 @@ graph [
     node [
         id 633606
         label "Bazerk"
-        color "red"
+        color "purple"
     ]
     node [
         id 2869275
         label "Anaria"
-        color "red"
+        color "blue"
     ]
     node [
         id 453385
@@ -35968,7 +35968,7 @@ graph [
     node [
         id 895757
         label "Death Row"
-        color "red"
+        color "blue"
     ]
     node [
         id 76558
@@ -36018,32 +36018,32 @@ graph [
     node [
         id 2403099
         label "Human Improvement Process"
-        color "red"
+        color "blue"
     ]
     node [
         id 43804
         label "Overkill"
-        color "red"
+        color "blue"
     ]
     node [
         id 43805
         label "Winger"
-        color "red"
+        color "purple"
     ]
     node [
         id 2044054
         label "Darkness Before Dawn"
-        color "red"
+        color "blue"
     ]
     node [
         id 1256223
         label "kuu"
-        color "red"
+        color "blue"
     ]
     node [
         id 517936
         label "The Monolith Deathcult"
-        color "red"
+        color "blue"
     ]
     node [
         id 158498
@@ -36053,17 +36053,17 @@ graph [
     node [
         id 158499
         label "Warrior Soul"
-        color "red"
+        color "purple"
     ]
     node [
         id 1534756
         label "Jonas hansson"
-        color "red"
+        color "purple"
     ]
     node [
         id 1277062
         label "Folkvang"
-        color "red"
+        color "blue"
     ]
     node [
         id 7493
@@ -36088,17 +36088,17 @@ graph [
     node [
         id 650027
         label "Eyes Set To Kill"
-        color "red"
+        color "purple"
     ]
     node [
         id 2425950
         label "Хильд"
-        color "red"
+        color "blue"
     ]
     node [
         id 551725
         label "Lonewolf"
-        color "red"
+        color "purple"
     ]
     node [
         id 633646
@@ -36108,7 +36108,7 @@ graph [
     node [
         id 551728
         label "Hazy Hamlet"
-        color "red"
+        color "purple"
     ]
     node [
         id 2173747
@@ -36123,12 +36123,12 @@ graph [
     node [
         id 2708553
         label "Sound Of Silence"
-        color "red"
+        color "blue"
     ]
     node [
         id 1202248
         label "4 Arm"
-        color "red"
+        color "blue"
     ]
     node [
         id 338745
@@ -36168,7 +36168,7 @@ graph [
     node [
         id 1174339
         label "Octavia Sperati"
-        color "red"
+        color "purple"
     ]
     node [
         id 43844
@@ -36198,22 +36198,22 @@ graph [
     node [
         id 322378
         label "Ex Deo"
-        color "red"
+        color "purple"
     ]
     node [
         id 2606903
         label "Ruinside"
-        color "red"
+        color "blue"
     ]
     node [
         id 1387340
         label "Horisont"
-        color "red"
+        color "purple"
     ]
     node [
         id 2042701
         label "Colepitz"
-        color "red"
+        color "purple"
     ]
     node [
         id 682830
@@ -36228,17 +36228,17 @@ graph [
     node [
         id 813905
         label "Wormed"
-        color "red"
+        color "blue"
     ]
     node [
         id 1118691
         label "Dust Bolt"
-        color "red"
+        color "purple"
     ]
     node [
         id 2685159
         label "Госпожа Белладонна"
-        color "red"
+        color "blue"
     ]
     node [
         id 27477
@@ -36273,17 +36273,17 @@ graph [
     node [
         id 1256285
         label "Lostbone"
-        color "red"
+        color "blue"
     ]
     node [
         id 310416
         label "Ereb Altor"
-        color "red"
+        color "purple"
     ]
     node [
         id 1731426
         label "Corelia"
-        color "red"
+        color "blue"
     ]
     node [
         id 11107
@@ -36293,7 +36293,7 @@ graph [
     node [
         id 2861924
         label "Schammasch"
-        color "red"
+        color "blue"
     ]
     node [
         id 1160241
@@ -36343,17 +36343,17 @@ graph [
     node [
         id 1649518
         label "Pellek"
-        color "red"
+        color "purple"
     ]
     node [
         id 273265
         label "Alone"
-        color "red"
+        color "blue"
     ]
     node [
         id 351379
         label "Iron Fire"
-        color "red"
+        color "purple"
     ]
     node [
         id 42814
@@ -36363,7 +36363,7 @@ graph [
     node [
         id 584566
         label "Textures"
-        color "red"
+        color "purple"
     ]
     node [
         id 510682
@@ -36378,7 +36378,7 @@ graph [
     node [
         id 306041
         label "Stormwitch"
-        color "red"
+        color "purple"
     ]
     node [
         id 219142
@@ -36408,7 +36408,7 @@ graph [
     node [
         id 2071702
         label "The Cory Smoot Experiment"
-        color "red"
+        color "blue"
     ]
     node [
         id 1029438
@@ -36418,7 +36418,7 @@ graph [
     node [
         id 2220275
         label "Ivana d'Arc"
-        color "red"
+        color "blue"
     ]
     node [
         id 4467592
@@ -36433,7 +36433,7 @@ graph [
     node [
         id 322445
         label "Mandragora Scream"
-        color "red"
+        color "blue"
     ]
     node [
         id 273294
@@ -36453,7 +36453,7 @@ graph [
     node [
         id 306066
         label "Deranged"
-        color "red"
+        color "blue"
     ]
     node [
         id 76691
@@ -36463,7 +36463,7 @@ graph [
     node [
         id 306069
         label "Gehennah"
-        color "red"
+        color "blue"
     ]
     node [
         id 76694
@@ -36483,17 +36483,17 @@ graph [
     node [
         id 273305
         label "Ammotrack"
-        color "red"
+        color "blue"
     ]
     node [
         id 1223580
         label "Stinking Lizaveta"
-        color "red"
+        color "purple"
     ]
     node [
         id 416922
         label "Rudra"
-        color "red"
+        color "blue"
     ]
     node [
         id 376345
@@ -36503,7 +36503,7 @@ graph [
     node [
         id 11171
         label "Apocalyptica"
-        color "red"
+        color "blue"
     ]
     node [
         id 43940
@@ -36513,7 +36513,7 @@ graph [
     node [
         id 453541
         label "Decapitated"
-        color "red"
+        color "blue"
     ]
     node [
         id 732070
@@ -36533,7 +36533,7 @@ graph [
     node [
         id 1993642
         label "Reformers"
-        color "red"
+        color "blue"
     ]
     node [
         id 2101746
@@ -36573,7 +36573,7 @@ graph [
     node [
         id 2206649
         label "Hail to the King"
-        color "red"
+        color "blue"
     ]
     node [
         id 2403258
@@ -36583,12 +36583,12 @@ graph [
     node [
         id 814011
         label "Domina Noctis"
-        color "red"
+        color "blue"
     ]
     node [
         id 1648458
         label "Osv"
-        color "red"
+        color "purple"
     ]
     node [
         id 219281
@@ -36603,17 +36603,17 @@ graph [
     node [
         id 289731
         label "Saint Vitus"
-        color "red"
+        color "purple"
     ]
     node [
         id 2239428
         label "Kardashev"
-        color "red"
+        color "blue"
     ]
     node [
         id 2026438
         label "Eugenic Death"
-        color "red"
+        color "blue"
     ]
     node [
         id 48289
@@ -36623,7 +36623,7 @@ graph [
     node [
         id 142281
         label "Underneath The Gun"
-        color "red"
+        color "blue"
     ]
     node [
         id 764874
@@ -36638,7 +36638,7 @@ graph [
     node [
         id 1076173
         label "Pig Destroyer"
-        color "red"
+        color "blue"
     ]
     node [
         id 1633230
@@ -36678,7 +36678,7 @@ graph [
     node [
         id 1092566
         label "Slammer"
-        color "red"
+        color "blue"
     ]
     node [
         id 2075607
@@ -36693,12 +36693,12 @@ graph [
     node [
         id 48292
         label "Down"
-        color "red"
+        color "purple"
     ]
     node [
         id 1027035
         label "Munruthel"
-        color "red"
+        color "blue"
     ]
     node [
         id 27613
@@ -36713,7 +36713,7 @@ graph [
     node [
         id 310437
         label "Astral Doors"
-        color "red"
+        color "blue"
     ]
     node [
         id 535520
@@ -36728,12 +36728,12 @@ graph [
     node [
         id 338916
         label "Ahab"
-        color "red"
+        color "purple"
     ]
     node [
         id 1993702
         label "Radogost"
-        color "red"
+        color "blue"
     ]
     node [
         id 2143804
@@ -36768,12 +36768,12 @@ graph [
     node [
         id 4340513
         label "Fractal Cypher"
-        color "red"
+        color "blue"
     ]
     node [
         id 359592
         label "Харизма"
-        color "red"
+        color "blue"
     ]
     node [
         id 1905150
@@ -36783,12 +36783,12 @@ graph [
     node [
         id 1272823
         label "Angelical Tears"
-        color "red"
+        color "blue"
     ]
     node [
         id 1272824
         label "Sad Alice Said"
-        color "red"
+        color "blue"
     ]
     node [
         id 27642
@@ -36813,7 +36813,7 @@ graph [
     node [
         id 2141186
         label "Deafening"
-        color "red"
+        color "purple"
     ]
     node [
         id 289797
@@ -36838,17 +36838,17 @@ graph [
     node [
         id 3680757
         label "Бездна Анального Угнетения"
-        color "red"
+        color "blue"
     ]
     node [
         id 519180
         label "Kamaedzitca"
-        color "red"
+        color "blue"
     ]
     node [
         id 1436685
         label "Arcanum Sanctum"
-        color "red"
+        color "blue"
     ]
     node [
         id 273423
@@ -36863,7 +36863,7 @@ graph [
     node [
         id 109586
         label "Morgenstern"
-        color "red"
+        color "purple"
     ]
     node [
         id 45571
@@ -36878,7 +36878,7 @@ graph [
     node [
         id 1483767
         label "Fetal Decay"
-        color "red"
+        color "blue"
     ]
     node [
         id 1158168
@@ -36888,12 +36888,12 @@ graph [
     node [
         id 2363908
         label "Wolfheart"
-        color "red"
+        color "blue"
     ]
     node [
         id 1190938
         label "Dream Master"
-        color "red"
+        color "blue"
     ]
     node [
         id 338973
@@ -36903,22 +36903,22 @@ graph [
     node [
         id 125984
         label "Waltari"
-        color "red"
+        color "purple"
     ]
     node [
         id 2157602
         label "Flesh Consumed"
-        color "red"
+        color "blue"
     ]
     node [
         id 224291
         label "All Ends"
-        color "red"
+        color "purple"
     ]
     node [
         id 2812964
         label "Scream Baby Scream"
-        color "red"
+        color "blue"
     ]
     node [
         id 1339910
@@ -36948,7 +36948,7 @@ graph [
     node [
         id 1076268
         label "Zatokrev"
-        color "red"
+        color "purple"
     ]
     node [
         id 355373
@@ -36958,7 +36958,7 @@ graph [
     node [
         id 1076270
         label "Wodensthrone"
-        color "red"
+        color "blue"
     ]
     node [
         id 11311
@@ -36968,22 +36968,22 @@ graph [
     node [
         id 289840
         label "Order Of Nine"
-        color "red"
+        color "purple"
     ]
     node [
         id 289841
         label "Iced Earth"
-        color "red"
+        color "blue"
     ]
     node [
         id 289842
         label "Jag Panzer"
-        color "red"
+        color "blue"
     ]
     node [
         id 289843
         label "Icarus Witch"
-        color "red"
+        color "purple"
     ]
     node [
         id 289844
@@ -36998,12 +36998,12 @@ graph [
     node [
         id 109622
         label "Alcatrazz"
-        color "red"
+        color "purple"
     ]
     node [
         id 1928247
         label "Beautiful Beast"
-        color "red"
+        color "blue"
     ]
     node [
         id 1125432
@@ -37028,17 +37028,17 @@ graph [
     node [
         id 2632767
         label "Blessing a Curse"
-        color "red"
+        color "purple"
     ]
     node [
         id 289859
         label "Thou Art Lord"
-        color "red"
+        color "blue"
     ]
     node [
         id 289860
         label "The Elysian Fields"
-        color "red"
+        color "purple"
     ]
     node [
         id 326838
@@ -37058,7 +37058,7 @@ graph [
     node [
         id 1027144
         label "Lodz"
-        color "red"
+        color "purple"
     ]
     node [
         id 289865
@@ -37068,17 +37068,17 @@ graph [
     node [
         id 44108
         label "The Committee"
-        color "red"
+        color "blue"
     ]
     node [
         id 1306220
         label "KenZiner"
-        color "red"
+        color "blue"
     ]
     node [
         id 356877
         label "Aura  Noir"
-        color "red"
+        color "blue"
     ]
     node [
         id 1190992
@@ -37103,7 +37103,7 @@ graph [
     node [
         id 1633364
         label "Marmozets"
-        color "red"
+        color "blue"
     ]
     node [
         id 1890215
@@ -37128,17 +37128,17 @@ graph [
     node [
         id 635407
         label "Vultures"
-        color "red"
+        color "purple"
     ]
     node [
         id 502876
         label "Orden Ogan"
-        color "red"
+        color "blue"
     ]
     node [
         id 1158237
         label "Brutal Truth"
-        color "red"
+        color "purple"
     ]
     node [
         id 109662
@@ -37148,22 +37148,22 @@ graph [
     node [
         id 3812333
         label "Blinded in Chains"
-        color "red"
+        color "blue"
     ]
     node [
         id 142433
         label "Asking Alexandria"
-        color "red"
+        color "purple"
     ]
     node [
         id 3435618
         label "Disgorge"
-        color "red"
+        color "blue"
     ]
     node [
         id 142436
         label "Circle of Contempt"
-        color "red"
+        color "blue"
     ]
     node [
         id 355429
@@ -37188,12 +37188,12 @@ graph [
     node [
         id 111122
         label "Nuclear Assault"
-        color "red"
+        color "blue"
     ]
     node [
         id 715887
         label "Panopticon"
-        color "red"
+        color "blue"
     ]
     node [
         id 1289330
@@ -37203,7 +37203,7 @@ graph [
     node [
         id 307731
         label "Benedictum"
-        color "red"
+        color "blue"
     ]
     node [
         id 633973
@@ -37213,17 +37213,17 @@ graph [
     node [
         id 2713013
         label "Revontulet"
-        color "red"
+        color "blue"
     ]
     node [
         id 1764471
         label "Fomento"
-        color "red"
+        color "blue"
     ]
     node [
         id 1577492
         label "Wolves of Hate"
-        color "red"
+        color "blue"
     ]
     node [
         id 1309205
@@ -37248,7 +37248,7 @@ graph [
     node [
         id 142463
         label "Confide"
-        color "red"
+        color "blue"
     ]
     node [
         id 2550913
@@ -37263,7 +37263,7 @@ graph [
     node [
         id 1748099
         label "Graveyard BBQ"
-        color "red"
+        color "purple"
     ]
     node [
         id 329355
@@ -37273,7 +37273,7 @@ graph [
     node [
         id 2559632
         label "Anticlockwise"
-        color "red"
+        color "blue"
     ]
     node [
         id 44167
@@ -37288,7 +37288,7 @@ graph [
     node [
         id 414231
         label "Drottnar"
-        color "red"
+        color "blue"
     ]
     node [
         id 64706
@@ -37298,17 +37298,17 @@ graph [
     node [
         id 437390
         label "Dama"
-        color "red"
+        color "purple"
     ]
     node [
         id 1974642
         label "Held Under"
-        color "red"
+        color "blue"
     ]
     node [
         id 519312
         label "Смута"
-        color "red"
+        color "purple"
     ]
     node [
         id 2699800
@@ -37318,7 +37318,7 @@ graph [
     node [
         id 879762
         label "Citron"
-        color "red"
+        color "purple"
     ]
     node [
         id 519316
@@ -37333,7 +37333,7 @@ graph [
     node [
         id 306326
         label "Enthroned"
-        color "red"
+        color "purple"
     ]
     node [
         id 4614769
@@ -37343,12 +37343,12 @@ graph [
     node [
         id 359620
         label "Ольви"
-        color "red"
+        color "blue"
     ]
     node [
         id 355482
         label "Sylar"
-        color "red"
+        color "purple"
     ]
     node [
         id 4199
@@ -37383,7 +37383,7 @@ graph [
     node [
         id 3026086
         label "Firehouse"
-        color "red"
+        color "purple"
     ]
     node [
         id 1361777
@@ -37398,12 +37398,12 @@ graph [
     node [
         id 781482
         label "World Of Pain"
-        color "red"
+        color "blue"
     ]
     node [
         id 879787
         label "Extreme Noise Terror"
-        color "red"
+        color "purple"
     ]
     node [
         id 2650190
@@ -37423,12 +37423,12 @@ graph [
     node [
         id 1961136
         label "Atari Terror"
-        color "red"
+        color "purple"
     ]
     node [
         id 1273009
         label "Adrian von Ziegler"
-        color "red"
+        color "blue"
     ]
     node [
         id 289970
@@ -37448,7 +37448,7 @@ graph [
     node [
         id 1158328
         label "Ravens Creed"
-        color "red"
+        color "blue"
     ]
     node [
         id 1577064
@@ -37458,7 +37458,7 @@ graph [
     node [
         id 634042
         label "Mutilation"
-        color "red"
+        color "blue"
     ]
     node [
         id 1076578
@@ -37498,7 +37498,7 @@ graph [
     node [
         id 643617
         label "Black Hole Sun"
-        color "red"
+        color "purple"
     ]
     node [
         id 11464
@@ -37513,7 +37513,7 @@ graph [
     node [
         id 1116023
         label "Chaosweaver"
-        color "red"
+        color "purple"
     ]
     node [
         id 3796175
@@ -37543,7 +37543,7 @@ graph [
     node [
         id 1518807
         label "Beyond Creation"
-        color "red"
+        color "blue"
     ]
     node [
         id 2454052
@@ -37553,7 +37553,7 @@ graph [
     node [
         id 1289434
         label "Dead Eyes Open"
-        color "red"
+        color "purple"
     ]
     node [
         id 158939
@@ -37563,7 +37563,7 @@ graph [
     node [
         id 44252
         label "P.O.D."
-        color "red"
+        color "purple"
     ]
     node [
         id 3106682
@@ -37573,7 +37573,7 @@ graph [
     node [
         id 158942
         label "Dragonlord"
-        color "red"
+        color "blue"
     ]
     node [
         id 2944223
@@ -37618,7 +37618,7 @@ graph [
     node [
         id 1592887
         label "Festering Drippage"
-        color "red"
+        color "blue"
     ]
     node [
         id 306411
@@ -37633,7 +37633,7 @@ graph [
     node [
         id 359634
         label "Вольная стая"
-        color "red"
+        color "blue"
     ]
     node [
         id 27887
@@ -37663,12 +37663,12 @@ graph [
     node [
         id 2055380
         label "A Silent Escape"
-        color "red"
+        color "purple"
     ]
     node [
         id 1420538
         label "Crave of the Emergency"
-        color "red"
+        color "blue"
     ]
     node [
         id 355579
@@ -37678,12 +37678,12 @@ graph [
     node [
         id 306430
         label "Barcode"
-        color "red"
+        color "blue"
     ]
     node [
         id 765183
         label "Light This City"
-        color "red"
+        color "purple"
     ]
     node [
         id 404736
@@ -37728,12 +37728,12 @@ graph [
     node [
         id 1158412
         label "Mouth Of The Architect"
-        color "red"
+        color "purple"
     ]
     node [
         id 1197954
         label "Criminal Element"
-        color "red"
+        color "blue"
     ]
     node [
         id 1361689
@@ -37743,12 +37743,12 @@ graph [
     node [
         id 4680976
         label "Blue Hour Ghosts"
-        color "red"
+        color "blue"
     ]
     node [
         id 2272529
         label "Terminal Degree"
-        color "red"
+        color "blue"
     ]
     node [
         id 11540
@@ -37763,17 +37763,17 @@ graph [
     node [
         id 2354454
         label "Mindfields Factory"
-        color "red"
+        color "blue"
     ]
     node [
         id 2298309
         label "Replacire"
-        color "red"
+        color "blue"
     ]
     node [
         id 626423
         label "Age Of Rock"
-        color "red"
+        color "purple"
     ]
     node [
         id 159003
@@ -37783,12 +37783,12 @@ graph [
     node [
         id 535837
         label "Die"
-        color "red"
+        color "blue"
     ]
     node [
         id 2181668
         label "Headwrench"
-        color "red"
+        color "blue"
     ]
     node [
         id 77089
@@ -37798,7 +37798,7 @@ graph [
     node [
         id 44324
         label "Byrd"
-        color "red"
+        color "blue"
     ]
     node [
         id 1763206
@@ -37808,7 +37808,7 @@ graph [
     node [
         id 1486118
         label "With One Last Breath"
-        color "red"
+        color "blue"
     ]
     node [
         id 77095
@@ -37823,12 +37823,12 @@ graph [
     node [
         id 11561
         label "Cosmos"
-        color "red"
+        color "purple"
     ]
     node [
         id 765226
         label "Imperial Vengeance"
-        color "red"
+        color "purple"
     ]
     node [
         id 1894279
@@ -37838,7 +37838,7 @@ graph [
     node [
         id 1159730
         label "Anal Cunt"
-        color "red"
+        color "purple"
     ]
     node [
         id 208174
@@ -37848,12 +37848,12 @@ graph [
     node [
         id 1849305
         label "Sacred Storm"
-        color "red"
+        color "blue"
     ]
     node [
         id 798003
         label "Luca Turilli's Rhapsody"
-        color "red"
+        color "purple"
     ]
     node [
         id 27956
@@ -37863,7 +37863,7 @@ graph [
     node [
         id 785630
         label "Core"
-        color "red"
+        color "purple"
     ]
     node [
         id 6932
@@ -37883,7 +37883,7 @@ graph [
     node [
         id 2243807
         label "Titan Steele"
-        color "red"
+        color "blue"
     ]
     node [
         id 240957
@@ -37898,17 +37898,17 @@ graph [
     node [
         id 359602
         label "Крылья"
-        color "red"
+        color "blue"
     ]
     node [
         id 306500
         label "Serenity"
-        color "red"
+        color "purple"
     ]
     node [
         id 535878
         label "Memento"
-        color "red"
+        color "purple"
     ]
     node [
         id 2391265
@@ -37918,7 +37918,7 @@ graph [
     node [
         id 159048
         label "Gorguts"
-        color "red"
+        color "purple"
     ]
     node [
         id 716106
@@ -37928,17 +37928,17 @@ graph [
     node [
         id 372043
         label "Nyers"
-        color "red"
+        color "purple"
     ]
     node [
         id 257356
         label "Master"
-        color "red"
+        color "purple"
     ]
     node [
         id 1715533
         label "Atzmus"
-        color "red"
+        color "blue"
     ]
     node [
         id 25482
@@ -37948,7 +37948,7 @@ graph [
     node [
         id 583565
         label "Adrenal"
-        color "red"
+        color "blue"
     ]
     node [
         id 1371472
@@ -37968,7 +37968,7 @@ graph [
     node [
         id 27990
         label "Crashdiet"
-        color "red"
+        color "purple"
     ]
     node [
         id 109911
@@ -37993,7 +37993,7 @@ graph [
     node [
         id 896348
         label "Yotangor"
-        color "red"
+        color "blue"
     ]
     node [
         id 617821
@@ -38008,7 +38008,7 @@ graph [
     node [
         id 339296
         label "Cain's Offering"
-        color "red"
+        color "blue"
     ]
     node [
         id 44386
@@ -38018,12 +38018,12 @@ graph [
     node [
         id 1977699
         label "Chinawhite"
-        color "red"
+        color "purple"
     ]
     node [
         id 44388
         label "Taproot"
-        color "red"
+        color "blue"
     ]
     node [
         id 470373
@@ -38063,7 +38063,7 @@ graph [
     node [
         id 159087
         label "Dog Eat Dog"
-        color "red"
+        color "purple"
     ]
     node [
         id 44401
@@ -38088,7 +38088,7 @@ graph [
     node [
         id 605417
         label "Thorondir"
-        color "red"
+        color "blue"
     ]
     node [
         id 214932
@@ -38103,7 +38103,7 @@ graph [
     node [
         id 290172
         label "Godheads"
-        color "red"
+        color "purple"
     ]
     node [
         id 1375466
@@ -38113,7 +38113,7 @@ graph [
     node [
         id 2600318
         label "The Fall of Ghostface"
-        color "red"
+        color "purple"
     ]
     node [
         id 2670724
@@ -38128,12 +38128,12 @@ graph [
     node [
         id 2118208
         label "Mighty Sideshow"
-        color "red"
+        color "purple"
     ]
     node [
         id 159106
         label "Moth"
-        color "red"
+        color "purple"
     ]
     node [
         id 421251
@@ -38178,12 +38178,12 @@ graph [
     node [
         id 290193
         label "Novembers Doom"
-        color "red"
+        color "blue"
     ]
     node [
         id 1486227
         label "Fistula"
-        color "red"
+        color "blue"
     ]
     node [
         id 1514123
@@ -38198,7 +38198,7 @@ graph [
     node [
         id 1781147
         label "Type 14"
-        color "red"
+        color "purple"
     ]
     node [
         id 601500
@@ -38223,7 +38223,7 @@ graph [
     node [
         id 34715
         label "Rat Scabies"
-        color "red"
+        color "blue"
     ]
     node [
         id 748966
@@ -38243,7 +38243,7 @@ graph [
     node [
         id 1109418
         label "Final Story"
-        color "red"
+        color "purple"
     ]
     node [
         id 873031
@@ -38258,7 +38258,7 @@ graph [
     node [
         id 568750
         label "Demonaz"
-        color "red"
+        color "blue"
     ]
     node [
         id 451026
@@ -38303,7 +38303,7 @@ graph [
     node [
         id 290232
         label "Aborym"
-        color "red"
+        color "blue"
     ]
     node [
         id 110009
@@ -38318,7 +38318,7 @@ graph [
     node [
         id 2092476
         label "Astronomikon"
-        color "red"
+        color "blue"
     ]
     node [
         id 2006261
@@ -38328,7 +38328,7 @@ graph [
     node [
         id 1345440
         label "Ultimatum"
-        color "red"
+        color "purple"
     ]
     node [
         id 2092482
@@ -38378,7 +38378,7 @@ graph [
     node [
         id 1076691
         label "Girl On Fire"
-        color "red"
+        color "purple"
     ]
     node [
         id 2239956
@@ -38388,12 +38388,12 @@ graph [
     node [
         id 749013
         label "X-Terra"
-        color "red"
+        color "purple"
     ]
     node [
         id 2630339
         label "Neberu"
-        color "red"
+        color "blue"
     ]
     node [
         id 4451800
@@ -38413,7 +38413,7 @@ graph [
     node [
         id 1076702
         label "Skyfall"
-        color "red"
+        color "purple"
     ]
     node [
         id 1158623
@@ -38428,7 +38428,7 @@ graph [
     node [
         id 1733200
         label "Destrage"
-        color "red"
+        color "blue"
     ]
     node [
         id 290274
@@ -38478,17 +38478,17 @@ graph [
     node [
         id 2426474
         label "Catharsis"
-        color "red"
+        color "purple"
     ]
     node [
         id 2108911
         label "Seduce the Heaven"
-        color "red"
+        color "blue"
     ]
     node [
         id 3333983
         label "Pierre Edel"
-        color "red"
+        color "blue"
     ]
     node [
         id 4708492
@@ -38498,7 +38498,7 @@ graph [
     node [
         id 634354
         label "Dying Fetus"
-        color "red"
+        color "blue"
     ]
     node [
         id 1743610
@@ -38518,7 +38518,7 @@ graph [
     node [
         id 634358
         label "Defleshed"
-        color "red"
+        color "blue"
     ]
     node [
         id 4692
@@ -38533,12 +38533,12 @@ graph [
     node [
         id 2027004
         label "Carpeduke"
-        color "red"
+        color "blue"
     ]
     node [
         id 2238378
         label "Imprint"
-        color "red"
+        color "blue"
     ]
     node [
         id 1158654
@@ -38563,12 +38563,12 @@ graph [
     node [
         id 2190851
         label "Akbal"
-        color "red"
+        color "blue"
     ]
     node [
         id 290308
         label "Nosferatu"
-        color "red"
+        color "purple"
     ]
     node [
         id 454149
@@ -38583,7 +38583,7 @@ graph [
     node [
         id 4222474
         label "Science Of Sleep"
-        color "red"
+        color "blue"
     ]
     node [
         id 1175051
@@ -38598,7 +38598,7 @@ graph [
     node [
         id 1060366
         label "Thyrfing"
-        color "red"
+        color "purple"
     ]
     node [
         id 290320
@@ -38613,17 +38613,17 @@ graph [
     node [
         id 3223058
         label "Deviltears"
-        color "red"
+        color "blue"
     ]
     node [
         id 1181614
         label "Slough Feg"
-        color "red"
+        color "blue"
     ]
     node [
         id 2059799
         label "Spyon"
-        color "red"
+        color "blue"
     ]
     node [
         id 28185
@@ -38673,7 +38673,7 @@ graph [
     node [
         id 325550
         label "Revenge"
-        color "red"
+        color "purple"
     ]
     node [
         id 11816
@@ -38688,7 +38688,7 @@ graph [
     node [
         id 1946424
         label "My Iron Heart"
-        color "red"
+        color "blue"
     ]
     node [
         id 583603
@@ -38703,7 +38703,7 @@ graph [
     node [
         id 1371703
         label "Houston!"
-        color "red"
+        color "blue"
     ]
     node [
         id 1125945
@@ -38728,27 +38728,27 @@ graph [
     node [
         id 1928766
         label "Crimson Sun"
-        color "red"
+        color "purple"
     ]
     node [
         id 1584703
         label "Lustre"
-        color "red"
+        color "blue"
     ]
     node [
         id 1021263
         label "Denight"
-        color "red"
+        color "blue"
     ]
     node [
         id 1076801
         label "Metal Ragers"
-        color "red"
+        color "purple"
     ]
     node [
         id 978503
         label "Superhorrorfuck"
-        color "red"
+        color "blue"
     ]
     node [
         id 4632140
@@ -38758,7 +38758,7 @@ graph [
     node [
         id 290381
         label "Flotsam and Jetsam"
-        color "red"
+        color "purple"
     ]
     node [
         id 171277
@@ -38768,12 +38768,12 @@ graph [
     node [
         id 306768
         label "Omnium Gatherum"
-        color "red"
+        color "purple"
     ]
     node [
         id 44628
         label "Dream Theater"
-        color "red"
+        color "blue"
     ]
     node [
         id 2420309
@@ -38793,7 +38793,7 @@ graph [
     node [
         id 44632
         label "James LaBrie"
-        color "red"
+        color "purple"
     ]
     node [
         id 11865
@@ -38803,12 +38803,12 @@ graph [
     node [
         id 44634
         label "Mike Portnoy"
-        color "red"
+        color "purple"
     ]
     node [
         id 4304475
         label "Power Tale"
-        color "red"
+        color "blue"
     ]
     node [
         id 61020
@@ -38833,12 +38833,12 @@ graph [
     node [
         id 126564
         label "Decrepit Birth"
-        color "red"
+        color "blue"
     ]
     node [
         id 2715237
         label "Mourning Dawn"
-        color "red"
+        color "blue"
     ]
     node [
         id 2685121
@@ -38858,7 +38858,7 @@ graph [
     node [
         id 454254
         label "Gigan"
-        color "red"
+        color "purple"
     ]
     node [
         id 741273
@@ -38878,12 +38878,12 @@ graph [
     node [
         id 2080019
         label "Damnation Plan"
-        color "red"
+        color "purple"
     ]
     node [
         id 650868
         label "Young And In The Way"
-        color "red"
+        color "blue"
     ]
     node [
         id 47860
@@ -38898,7 +38898,7 @@ graph [
     node [
         id 749175
         label "Love and Death"
-        color "red"
+        color "purple"
     ]
     node [
         id 105680
@@ -38908,7 +38908,7 @@ graph [
     node [
         id 2907412
         label "Thrones"
-        color "red"
+        color "blue"
     ]
     node [
         id 208506
@@ -38918,7 +38918,7 @@ graph [
     node [
         id 290427
         label "Pitbull Daycare"
-        color "red"
+        color "blue"
     ]
     node [
         id 1814140
@@ -38928,17 +38928,17 @@ graph [
     node [
         id 192125
         label "Monster Magnet"
-        color "red"
+        color "purple"
     ]
     node [
         id 859413
         label "Counter-World Experience"
-        color "red"
+        color "blue"
     ]
     node [
         id 1230784
         label "Hecate Enthroned"
-        color "red"
+        color "blue"
     ]
     node [
         id 192130
@@ -38948,12 +38948,12 @@ graph [
     node [
         id 487044
         label "Overdrive"
-        color "red"
+        color "blue"
     ]
     node [
         id 1928837
         label "Khai"
-        color "red"
+        color "blue"
     ]
     node [
         id 168976
@@ -38968,7 +38968,7 @@ graph [
     node [
         id 126602
         label "Nadja"
-        color "red"
+        color "blue"
     ]
     node [
         id 188407
@@ -38978,7 +38978,7 @@ graph [
     node [
         id 1420940
         label "Darkwater"
-        color "red"
+        color "blue"
     ]
     node [
         id 11918
@@ -38993,17 +38993,17 @@ graph [
     node [
         id 2027152
         label "Dead Horse Trauma"
-        color "red"
+        color "blue"
     ]
     node [
         id 519825
         label "Krombacher MC"
-        color "red"
+        color "blue"
     ]
     node [
         id 2475971
         label "Infinity Overture"
-        color "red"
+        color "blue"
     ]
     node [
         id 193208
@@ -39013,12 +39013,12 @@ graph [
     node [
         id 290453
         label "Saltatio Mortis"
-        color "red"
+        color "purple"
     ]
     node [
         id 536214
         label "3110"
-        color "red"
+        color "blue"
     ]
     node [
         id 2833689
@@ -39058,7 +39058,7 @@ graph [
     node [
         id 1289892
         label "The Unravelling"
-        color "red"
+        color "purple"
     ]
     node [
         id 452550
@@ -39068,12 +39068,12 @@ graph [
     node [
         id 487078
         label "Sopor Aeternus & The Ensemble Of Shadows"
-        color "red"
+        color "purple"
     ]
     node [
         id 1782385
         label "Over the Coals"
-        color "red"
+        color "blue"
     ]
     node [
         id 4652316
@@ -39083,12 +39083,12 @@ graph [
     node [
         id 306860
         label "Thunderstone"
-        color "red"
+        color "purple"
     ]
     node [
         id 290477
         label "My Ruin"
-        color "red"
+        color "purple"
     ]
     node [
         id 290478
@@ -39098,7 +39098,7 @@ graph [
     node [
         id 290479
         label "W.A.S.P."
-        color "red"
+        color "purple"
     ]
     node [
         id 11952
@@ -39108,17 +39108,17 @@ graph [
     node [
         id 290481
         label "Arcturus"
-        color "red"
+        color "purple"
     ]
     node [
         id 290482
         label "Solefald"
-        color "red"
+        color "blue"
     ]
     node [
         id 2429555
         label "Avatarium"
-        color "red"
+        color "blue"
     ]
     node [
         id 159412
@@ -39133,7 +39133,7 @@ graph [
     node [
         id 2748086
         label "Thantifaxath"
-        color "red"
+        color "blue"
     ]
     node [
         id 1333759
@@ -39153,7 +39153,7 @@ graph [
     node [
         id 2090974
         label "7 Months"
-        color "red"
+        color "purple"
     ]
     node [
         id 326943
@@ -39168,32 +39168,32 @@ graph [
     node [
         id 706506
         label "Trixter"
-        color "red"
+        color "purple"
     ]
     node [
         id 2649792
         label "Appearance of Nothing"
-        color "red"
+        color "blue"
     ]
     node [
         id 1066978
         label "Hearts & Hands"
-        color "red"
+        color "purple"
     ]
     node [
         id 2518722
         label "Breed Machine"
-        color "red"
+        color "blue"
     ]
     node [
         id 1689547
         label "Scream Your Name"
-        color "red"
+        color "purple"
     ]
     node [
         id 447094
         label "Ravage"
-        color "red"
+        color "blue"
     ]
     node [
         id 110279
@@ -39208,7 +39208,7 @@ graph [
     node [
         id 4719341
         label "Dizaidor"
-        color "red"
+        color "purple"
     ]
     node [
         id 126667
@@ -39228,7 +39228,7 @@ graph [
     node [
         id 2088887
         label "Vardøger"
-        color "red"
+        color "blue"
     ]
     node [
         id 192207
@@ -39243,17 +39243,17 @@ graph [
     node [
         id 80597
         label "SUBWAY"
-        color "red"
+        color "purple"
     ]
     node [
         id 1322707
         label "Cenotaph"
-        color "red"
+        color "blue"
     ]
     node [
         id 1126101
         label "I Am Revenge"
-        color "red"
+        color "purple"
     ]
     node [
         id 28376
@@ -39283,7 +39283,7 @@ graph [
     node [
         id 1830623
         label "Wolfbait"
-        color "red"
+        color "blue"
     ]
     node [
         id 2680784
@@ -39298,7 +39298,7 @@ graph [
     node [
         id 1577595
         label "While Heaven Wept"
-        color "red"
+        color "purple"
     ]
     node [
         id 171302
@@ -39308,7 +39308,7 @@ graph [
     node [
         id 1289958
         label "Phobiatic"
-        color "red"
+        color "blue"
     ]
     node [
         id 1968081
@@ -39323,7 +39323,7 @@ graph [
     node [
         id 307836
         label "Necronomicon"
-        color "red"
+        color "blue"
     ]
     node [
         id 40231
@@ -39333,12 +39333,12 @@ graph [
     node [
         id 2518764
         label "Гуахо"
-        color "red"
+        color "blue"
     ]
     node [
         id 634605
         label "Abandoned"
-        color "red"
+        color "purple"
     ]
     node [
         id 1437422
@@ -39348,22 +39348,22 @@ graph [
     node [
         id 1273583
         label "ERock"
-        color "red"
+        color "purple"
     ]
     node [
         id 241393
         label "Materia Prima"
-        color "red"
+        color "blue"
     ]
     node [
         id 67539
         label "Moon"
-        color "red"
+        color "purple"
     ]
     node [
         id 782068
         label "Dir En Grey"
-        color "red"
+        color "blue"
     ]
     node [
         id 569082
@@ -39393,12 +39393,12 @@ graph [
     node [
         id 1797890
         label "If I Were You"
-        color "red"
+        color "blue"
     ]
     node [
         id 225028
         label "Majesty"
-        color "red"
+        color "blue"
     ]
     node [
         id 126725
@@ -39408,7 +39408,7 @@ graph [
     node [
         id 454406
         label "WastedSky"
-        color "red"
+        color "blue"
     ]
     node [
         id 2141959
@@ -39423,7 +39423,7 @@ graph [
     node [
         id 798473
         label "X Japan"
-        color "red"
+        color "blue"
     ]
     node [
         id 3000279
@@ -39433,7 +39433,7 @@ graph [
     node [
         id 126732
         label "Stars"
-        color "red"
+        color "blue"
     ]
     node [
         id 1899616
@@ -39448,7 +39448,7 @@ graph [
     node [
         id 1809709
         label "Beautality"
-        color "red"
+        color "blue"
     ]
     node [
         id 12048
@@ -39483,7 +39483,7 @@ graph [
     node [
         id 323355
         label "Elis"
-        color "red"
+        color "purple"
     ]
     node [
         id 585500
@@ -39498,7 +39498,7 @@ graph [
     node [
         id 1535774
         label "Embrace of Silence"
-        color "red"
+        color "blue"
     ]
     node [
         id 1503008
@@ -39513,7 +39513,7 @@ graph [
     node [
         id 1191716
         label "George Bellas"
-        color "red"
+        color "purple"
     ]
     node [
         id 1961766
@@ -39523,22 +39523,22 @@ graph [
     node [
         id 2076455
         label "Manhattan Project"
-        color "red"
+        color "blue"
     ]
     node [
         id 296925
         label "Heidevolk"
-        color "red"
+        color "blue"
     ]
     node [
         id 519985
         label "Illuminatus"
-        color "red"
+        color "blue"
     ]
     node [
         id 569138
         label "The Project Hate MCMXCIX"
-        color "red"
+        color "blue"
     ]
     node [
         id 1129779
@@ -39563,7 +39563,7 @@ graph [
     node [
         id 1047860
         label "Eryn Non Dae"
-        color "red"
+        color "blue"
     ]
     node [
         id 305119
@@ -39573,17 +39573,17 @@ graph [
     node [
         id 1178933
         label "Mos Generator"
-        color "red"
+        color "purple"
     ]
     node [
         id 1601345
         label "Kälter"
-        color "red"
+        color "blue"
     ]
     node [
         id 154252
         label "Wisdom In Chains"
-        color "red"
+        color "purple"
     ]
     node [
         id 258699
@@ -39603,7 +39603,7 @@ graph [
     node [
         id 1486664
         label "Crebain"
-        color "red"
+        color "blue"
     ]
     node [
         id 765771
@@ -39623,12 +39623,12 @@ graph [
     node [
         id 1552206
         label "Breed"
-        color "red"
+        color "blue"
     ]
     node [
         id 454479
         label "Dream On Dreamer"
-        color "red"
+        color "purple"
     ]
     node [
         id 44881
@@ -39653,12 +39653,12 @@ graph [
     node [
         id 1132516
         label "Slaves On Dope"
-        color "red"
+        color "purple"
     ]
     node [
         id 2331279
         label "Vindictiv"
-        color "red"
+        color "blue"
     ]
     node [
         id 290653
@@ -39683,7 +39683,7 @@ graph [
     node [
         id 2174822
         label "Arcane Haven"
-        color "red"
+        color "blue"
     ]
     node [
         id 185896
@@ -39693,7 +39693,7 @@ graph [
     node [
         id 94056
         label "Norma Jean"
-        color "red"
+        color "purple"
     ]
     node [
         id 113980
@@ -39703,12 +39703,12 @@ graph [
     node [
         id 94058
         label "Falling Up"
-        color "red"
+        color "blue"
     ]
     node [
         id 143211
         label "Howl"
-        color "red"
+        color "purple"
     ]
     node [
         id 847724
@@ -39723,12 +39723,12 @@ graph [
     node [
         id 2125682
         label "Divine Ascension"
-        color "red"
+        color "purple"
     ]
     node [
         id 1175411
         label "Primordial"
-        color "red"
+        color "purple"
     ]
     node [
         id 61300
@@ -39738,12 +39738,12 @@ graph [
     node [
         id 290677
         label "Novembre"
-        color "red"
+        color "blue"
     ]
     node [
         id 290678
         label "Katatonia"
-        color "red"
+        color "blue"
     ]
     node [
         id 1853417
@@ -39758,12 +39758,12 @@ graph [
     node [
         id 1195192
         label "Forever Never"
-        color "red"
+        color "purple"
     ]
     node [
         id 1650556
         label "Умер"
-        color "red"
+        color "blue"
     ]
     node [
         id 421757
@@ -39783,7 +39783,7 @@ graph [
     node [
         id 356227
         label "The New Metal Heroes"
-        color "red"
+        color "blue"
     ]
     node [
         id 847748
@@ -39793,12 +39793,12 @@ graph [
     node [
         id 4758
         label "Glenn Hughes"
-        color "red"
+        color "purple"
     ]
     node [
         id 454534
         label "Signum Regis"
-        color "red"
+        color "blue"
     ]
     node [
         id 65330
@@ -39833,7 +39833,7 @@ graph [
     node [
         id 2355088
         label "Wasted Bullet"
-        color "red"
+        color "blue"
     ]
     node [
         id 12178
@@ -39843,12 +39843,12 @@ graph [
     node [
         id 2731923
         label "Romanthica"
-        color "red"
+        color "purple"
     ]
     node [
         id 1470356
         label "Warbeast"
-        color "red"
+        color "blue"
     ]
     node [
         id 602005
@@ -39858,12 +39858,12 @@ graph [
     node [
         id 1470358
         label "Philip H. Anselmo and The Illegals"
-        color "red"
+        color "blue"
     ]
     node [
         id 323479
         label "Nuse"
-        color "red"
+        color "blue"
     ]
     node [
         id 454553
@@ -39888,7 +39888,7 @@ graph [
     node [
         id 646469
         label "Abigail Williams"
-        color "red"
+        color "purple"
     ]
     node [
         id 421792
@@ -39903,7 +39903,7 @@ graph [
     node [
         id 4477595
         label "Sumerlands"
-        color "red"
+        color "blue"
     ]
     node [
         id 3738072
@@ -39918,7 +39918,7 @@ graph [
     node [
         id 937763
         label "Frank Gambale"
-        color "red"
+        color "blue"
     ]
     node [
         id 4485033
@@ -39938,12 +39938,12 @@ graph [
     node [
         id 164186
         label "Kottak"
-        color "red"
+        color "purple"
     ]
     node [
         id 110511
         label "Gilgamesh"
-        color "red"
+        color "purple"
     ]
     node [
         id 1372080
@@ -39953,12 +39953,12 @@ graph [
     node [
         id 1699763
         label "If These Trees Could Talk"
-        color "red"
+        color "purple"
     ]
     node [
         id 2207669
         label "Killjay"
-        color "red"
+        color "purple"
     ]
     node [
         id 1830839
@@ -39968,7 +39968,7 @@ graph [
     node [
         id 1224634
         label "Can You Rock?"
-        color "red"
+        color "purple"
     ]
     node [
         id 2292967
@@ -39978,22 +39978,22 @@ graph [
     node [
         id 356285
         label "Mean Streak"
-        color "red"
+        color "purple"
     ]
     node [
         id 1224638
         label "Vitamin Lounge"
-        color "red"
+        color "blue"
     ]
     node [
         id 1290175
         label "Sinister Realm"
-        color "red"
+        color "blue"
     ]
     node [
         id 1092950
         label "Nails"
-        color "red"
+        color "blue"
     ]
     node [
         id 1781697
@@ -40023,12 +40023,12 @@ graph [
     node [
         id 602059
         label "Sworn In"
-        color "red"
+        color "blue"
     ]
     node [
         id 323532
         label "Fallen Angels"
-        color "red"
+        color "blue"
     ]
     node [
         id 77774
@@ -40038,22 +40038,22 @@ graph [
     node [
         id 1262118
         label "BigDix"
-        color "red"
+        color "blue"
     ]
     node [
         id 61392
         label "Nights Like These"
-        color "red"
+        color "blue"
     ]
     node [
         id 1266339
         label "Mantar"
-        color "red"
+        color "blue"
     ]
     node [
         id 12245
         label "Tantrum"
-        color "red"
+        color "purple"
     ]
     node [
         id 1617878
@@ -40073,7 +40073,7 @@ graph [
     node [
         id 335183
         label "Stillborn"
-        color "red"
+        color "blue"
     ]
     node [
         id 192477
@@ -40083,12 +40083,12 @@ graph [
     node [
         id 880606
         label "Vulcain"
-        color "red"
+        color "purple"
     ]
     node [
         id 295013
         label "Metalium"
-        color "red"
+        color "purple"
     ]
     node [
         id 969877
@@ -40108,7 +40108,7 @@ graph [
     node [
         id 159717
         label "Haken"
-        color "red"
+        color "purple"
     ]
     node [
         id 61414
@@ -40123,7 +40123,7 @@ graph [
     node [
         id 1880040
         label "Empyria"
-        color "red"
+        color "purple"
     ]
     node [
         id 831466
@@ -40143,7 +40143,7 @@ graph [
     node [
         id 2481490
         label "Countless Goodbyes"
-        color "red"
+        color "blue"
     ]
     node [
         id 110575
@@ -40153,7 +40153,7 @@ graph [
     node [
         id 3518450
         label "thought crime"
-        color "red"
+        color "blue"
     ]
     node [
         id 7507
@@ -40193,22 +40193,22 @@ graph [
     node [
         id 3485695
         label "Satyrian"
-        color "red"
+        color "blue"
     ]
     node [
         id 61441
         label "Dirty Rotten Imbeciles"
-        color "red"
+        color "purple"
     ]
     node [
         id 1765378
         label "Annodomini"
-        color "red"
+        color "blue"
     ]
     node [
         id 61443
         label "Scum"
-        color "red"
+        color "blue"
     ]
     node [
         id 230092
@@ -40218,12 +40218,12 @@ graph [
     node [
         id 1683461
         label "Eternal Legacy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1756135
         label "Hellhaven"
-        color "red"
+        color "blue"
     ]
     node [
         id 144984
@@ -40238,17 +40238,17 @@ graph [
     node [
         id 102992
         label "KEROSENE"
-        color "red"
+        color "blue"
     ]
     node [
         id 61451
         label "Afflicted"
-        color "red"
+        color "purple"
     ]
     node [
         id 1847309
         label "Carcass"
-        color "red"
+        color "purple"
     ]
     node [
         id 955053
@@ -40258,22 +40258,22 @@ graph [
     node [
         id 1157545
         label "Ethan Brosh"
-        color "red"
+        color "blue"
     ]
     node [
         id 1880081
         label "Wurkt"
-        color "red"
+        color "purple"
     ]
     node [
         id 1929234
         label "Abnormality"
-        color "red"
+        color "blue"
     ]
     node [
         id 61459
         label "DeadLock"
-        color "red"
+        color "blue"
     ]
     node [
         id 12308
@@ -40308,32 +40308,32 @@ graph [
     node [
         id 1191964
         label "Wolverine"
-        color "red"
+        color "purple"
     ]
     node [
         id 48474
         label "Lamb Of God"
-        color "red"
+        color "blue"
     ]
     node [
         id 1042437
         label "Kontrust"
-        color "red"
+        color "purple"
     ]
     node [
         id 45088
         label "Nonpoint"
-        color "red"
+        color "blue"
     ]
     node [
         id 61475
         label "Iconoclast"
-        color "red"
+        color "purple"
     ]
     node [
         id 12324
         label "Zao"
-        color "red"
+        color "blue"
     ]
     node [
         id 602150
@@ -40348,12 +40348,12 @@ graph [
     node [
         id 143400
         label "Gloria Morti"
-        color "red"
+        color "blue"
     ]
     node [
         id 61481
         label "Dehumanized"
-        color "red"
+        color "blue"
     ]
     node [
         id 12332
@@ -40368,7 +40368,7 @@ graph [
     node [
         id 4403246
         label "Авентайл"
-        color "red"
+        color "blue"
     ]
     node [
         id 94257
@@ -40413,7 +40413,7 @@ graph [
     node [
         id 1028159
         label "Livid Halcyon"
-        color "red"
+        color "blue"
     ]
     node [
         id 28736
@@ -40423,7 +40423,7 @@ graph [
     node [
         id 1841243
         label "Wolvetang"
-        color "red"
+        color "blue"
     ]
     node [
         id 2689547
@@ -40443,7 +40443,7 @@ graph [
     node [
         id 61510
         label "No Use For A Name"
-        color "red"
+        color "blue"
     ]
     node [
         id 45127
@@ -40463,37 +40463,37 @@ graph [
     node [
         id 61515
         label "ISIS"
-        color "red"
+        color "purple"
     ]
     node [
         id 1044556
         label "Abiotic"
-        color "red"
+        color "blue"
     ]
     node [
         id 2432354
         label "Irish Moutarde"
-        color "red"
+        color "blue"
     ]
     node [
         id 1683534
         label "Revmatic"
-        color "red"
+        color "purple"
     ]
     node [
         id 12367
         label "Nine Inch Nails"
-        color "red"
+        color "purple"
     ]
     node [
         id 634960
         label "Angizia"
-        color "red"
+        color "purple"
     ]
     node [
         id 1224785
         label "Sins Of Omission"
-        color "red"
+        color "blue"
     ]
     node [
         id 1355860
@@ -40513,12 +40513,12 @@ graph [
     node [
         id 1273943
         label "Last Chance to Reason"
-        color "red"
+        color "blue"
     ]
     node [
         id 2453592
         label "The Butcher Sisters"
-        color "red"
+        color "purple"
     ]
     node [
         id 654692
@@ -40548,7 +40548,7 @@ graph [
     node [
         id 1273961
         label "Vale of Pnath"
-        color "red"
+        color "blue"
     ]
     node [
         id 1536106
@@ -40563,12 +40563,12 @@ graph [
     node [
         id 3262482
         label "Heir Apparent"
-        color "red"
+        color "blue"
     ]
     node [
         id 2207854
         label "Fade-Out"
-        color "red"
+        color "blue"
     ]
     node [
         id 45167
@@ -40593,32 +40593,32 @@ graph [
     node [
         id 1919524
         label "Freevil"
-        color "red"
+        color "blue"
     ]
     node [
         id 2109558
         label "Aesma Daeva (Symphonic Metal)"
-        color "red"
+        color "blue"
     ]
     node [
         id 2109559
         label "Aesma Daeva"
-        color "red"
+        color "blue"
     ]
     node [
         id 94331
         label "Lordi"
-        color "red"
+        color "blue"
     ]
     node [
         id 1765500
         label "Grönholm"
-        color "red"
+        color "blue"
     ]
     node [
         id 61565
         label "Deeds Of Flesh"
-        color "red"
+        color "blue"
     ]
     node [
         id 193407
@@ -40633,12 +40633,12 @@ graph [
     node [
         id 1771542
         label "The Embraced"
-        color "red"
+        color "purple"
     ]
     node [
         id 3158151
         label "Cloudkicker"
-        color "red"
+        color "blue"
     ]
     node [
         id 77960
@@ -40658,12 +40658,12 @@ graph [
     node [
         id 61580
         label "Hands"
-        color "red"
+        color "purple"
     ]
     node [
         id 234178
         label "Voron"
-        color "red"
+        color "purple"
     ]
     node [
         id 28815
@@ -40673,7 +40673,7 @@ graph [
     node [
         id 1978512
         label "Toxic Grind Machine"
-        color "red"
+        color "blue"
     ]
     node [
         id 3876888
@@ -40688,12 +40688,12 @@ graph [
     node [
         id 77971
         label "Savatage"
-        color "red"
+        color "blue"
     ]
     node [
         id 3420308
         label "Comet Kid"
-        color "red"
+        color "purple"
     ]
     node [
         id 48494
@@ -40718,7 +40718,7 @@ graph [
     node [
         id 144068
         label "President"
-        color "red"
+        color "blue"
     ]
     node [
         id 1208475
@@ -40793,7 +40793,7 @@ graph [
     node [
         id 1224884
         label "Bossk"
-        color "red"
+        color "blue"
     ]
     node [
         id 45237
@@ -40808,7 +40808,7 @@ graph [
     node [
         id 1175736
         label "Akphaezya"
-        color "red"
+        color "blue"
     ]
     node [
         id 3685707
@@ -40823,12 +40823,12 @@ graph [
     node [
         id 848060
         label "Lies"
-        color "red"
+        color "purple"
     ]
     node [
         id 1470653
         label "Lyin Rampant"
-        color "red"
+        color "blue"
     ]
     node [
         id 15733
@@ -40848,12 +40848,12 @@ graph [
     node [
         id 1159362
         label "Altar of Plagues"
-        color "red"
+        color "blue"
     ]
     node [
         id 323779
         label "Darzamat"
-        color "red"
+        color "blue"
     ]
     node [
         id 127175
@@ -40868,12 +40868,12 @@ graph [
     node [
         id 1749195
         label "Such Vengeance"
-        color "red"
+        color "blue"
     ]
     node [
         id 1445072
         label "Darkspace"
-        color "red"
+        color "blue"
     ]
     node [
         id 78029
@@ -40893,7 +40893,7 @@ graph [
     node [
         id 1257686
         label "Ian Gillan Band"
-        color "red"
+        color "purple"
     ]
     node [
         id 1257687
@@ -40903,7 +40903,7 @@ graph [
     node [
         id 1208536
         label "Car Bomb"
-        color "red"
+        color "blue"
     ]
     node [
         id 102976
@@ -40938,7 +40938,7 @@ graph [
     node [
         id 1061091
         label "Grand Supreme Blood Court"
-        color "red"
+        color "blue"
     ]
     node [
         id 12518
@@ -40973,7 +40973,7 @@ graph [
     node [
         id 2486508
         label "Seventh Wonder"
-        color "red"
+        color "purple"
     ]
     node [
         id 45293
@@ -41028,7 +41028,7 @@ graph [
     node [
         id 2413475
         label "I Declare War"
-        color "red"
+        color "blue"
     ]
     node [
         id 438522
@@ -41038,7 +41038,7 @@ graph [
     node [
         id 2443435
         label "Ghost"
-        color "red"
+        color "purple"
     ]
     node [
         id 2090
@@ -41053,12 +41053,12 @@ graph [
     node [
         id 438529
         label "Herrschaft"
-        color "red"
+        color "blue"
     ]
     node [
         id 340226
         label "Circle of Death"
-        color "red"
+        color "blue"
     ]
     node [
         id 1850561
@@ -41068,7 +41068,7 @@ graph [
     node [
         id 1437960
         label "Inquisition"
-        color "red"
+        color "purple"
     ]
     node [
         id 28938
@@ -41083,12 +41083,12 @@ graph [
     node [
         id 80281
         label "Valient Thorr"
-        color "red"
+        color "purple"
     ]
     node [
         id 1437970
         label "Vassafor"
-        color "red"
+        color "purple"
     ]
     node [
         id 3682579
@@ -41103,7 +41103,7 @@ graph [
     node [
         id 1319049
         label "Alex De Rosso"
-        color "red"
+        color "purple"
     ]
     node [
         id 15748
@@ -41143,7 +41143,7 @@ graph [
     node [
         id 274724
         label "Torn"
-        color "red"
+        color "purple"
     ]
     node [
         id 28965
@@ -41163,12 +41163,12 @@ graph [
     node [
         id 1962716
         label "Devilskin"
-        color "red"
+        color "purple"
     ]
     node [
         id 1437994
         label "Kvelertak"
-        color "red"
+        color "purple"
     ]
     node [
         id 15751
@@ -41193,7 +41193,7 @@ graph [
     node [
         id 676573
         label "Андрей Смирнов"
-        color "red"
+        color "purple"
     ]
     node [
         id 2561847
@@ -41213,7 +41213,7 @@ graph [
     node [
         id 1061172
         label "4LYN"
-        color "red"
+        color "purple"
     ]
     node [
         id 3104137
@@ -41228,22 +41228,22 @@ graph [
     node [
         id 2929375
         label "Carnival Sun"
-        color "red"
+        color "blue"
     ]
     node [
         id 356668
         label "Embraced By Hatred"
-        color "red"
+        color "blue"
     ]
     node [
         id 146826
         label "Dry Kill Logic"
-        color "red"
+        color "blue"
     ]
     node [
         id 2172981
         label "Goodbye to Gravity"
-        color "red"
+        color "blue"
     ]
     node [
         id 45378
@@ -41273,12 +41273,12 @@ graph [
     node [
         id 127306
         label "The Eyes of a Traitor"
-        color "red"
+        color "blue"
     ]
     node [
         id 897355
         label "Witchfinder General"
-        color "red"
+        color "blue"
     ]
     node [
         id 667980
@@ -41298,7 +41298,7 @@ graph [
     node [
         id 635217
         label "Citadel"
-        color "red"
+        color "purple"
     ]
     node [
         id 1839843
@@ -41313,7 +41313,7 @@ graph [
     node [
         id 351630
         label "Månegarm"
-        color "red"
+        color "purple"
     ]
     node [
         id 61782
@@ -41333,7 +41333,7 @@ graph [
     node [
         id 294287
         label "After Forever"
-        color "red"
+        color "blue"
     ]
     node [
         id 632737
@@ -41348,12 +41348,12 @@ graph [
     node [
         id 1076275
         label "Daylight Dies"
-        color "red"
+        color "purple"
     ]
     node [
         id 1839519
         label "Etienne Sin"
-        color "red"
+        color "blue"
     ]
     node [
         id 15761
@@ -41368,12 +41368,12 @@ graph [
     node [
         id 1814890
         label "Substructure"
-        color "red"
+        color "blue"
     ]
     node [
         id 12651
         label "Blue Cheer"
-        color "red"
+        color "purple"
     ]
     node [
         id 373101
@@ -41383,17 +41383,17 @@ graph [
     node [
         id 94575
         label "Robert Brown"
-        color "red"
+        color "blue"
     ]
     node [
         id 78192
         label "Dokken"
-        color "red"
+        color "purple"
     ]
     node [
         id 1044849
         label "Whyzdom"
-        color "red"
+        color "blue"
     ]
     node [
         id 504178
@@ -41443,7 +41443,7 @@ graph [
     node [
         id 242047
         label "Paradise Lost"
-        color "red"
+        color "purple"
     ]
     node [
         id 12672
@@ -41453,7 +41453,7 @@ graph [
     node [
         id 78209
         label "Mike Tramp"
-        color "red"
+        color "purple"
     ]
     node [
         id 553348
@@ -41473,7 +41473,7 @@ graph [
     node [
         id 1611782
         label "Machinemade God"
-        color "red"
+        color "blue"
     ]
     node [
         id 4306002
@@ -41493,12 +41493,12 @@ graph [
     node [
         id 1118285
         label "Soulhealer"
-        color "red"
+        color "purple"
     ]
     node [
         id 1728314
         label "Haar"
-        color "red"
+        color "purple"
     ]
     node [
         id 29072
@@ -41508,17 +41508,17 @@ graph [
     node [
         id 668049
         label "My Heart to Fear"
-        color "red"
+        color "blue"
     ]
     node [
         id 2634131
         label "Narjahanam"
-        color "red"
+        color "blue"
     ]
     node [
         id 202815
         label "Primus"
-        color "red"
+        color "purple"
     ]
     node [
         id 307950
@@ -41553,7 +41553,7 @@ graph [
     node [
         id 1062705
         label "Skyfire"
-        color "red"
+        color "blue"
     ]
     node [
         id 782751
@@ -41568,17 +41568,17 @@ graph [
     node [
         id 258466
         label "Watcha"
-        color "red"
+        color "blue"
     ]
     node [
         id 717220
         label "Skyharbor"
-        color "red"
+        color "purple"
     ]
     node [
         id 749989
         label "Warcry"
-        color "red"
+        color "blue"
     ]
     node [
         id 2994601
@@ -41588,7 +41588,7 @@ graph [
     node [
         id 127403
         label "Velcra"
-        color "red"
+        color "purple"
     ]
     node [
         id 586156
@@ -41603,7 +41603,7 @@ graph [
     node [
         id 127408
         label "Barón Rojo"
-        color "red"
+        color "purple"
     ]
     node [
         id 75848
@@ -41628,12 +41628,12 @@ graph [
     node [
         id 324021
         label "9MM"
-        color "red"
+        color "purple"
     ]
     node [
         id 94648
         label "Destroy The Runner"
-        color "red"
+        color "blue"
     ]
     node [
         id 1077690
@@ -41643,7 +41643,7 @@ graph [
     node [
         id 146847
         label "Carnivore"
-        color "red"
+        color "blue"
     ]
     node [
         id 1159612
@@ -41663,7 +41663,7 @@ graph [
     node [
         id 405953
         label "KARELIA"
-        color "red"
+        color "blue"
     ]
     node [
         id 59073
@@ -41688,7 +41688,7 @@ graph [
     node [
         id 2142669
         label "They Will Fall"
-        color "red"
+        color "blue"
     ]
     node [
         id 291278
@@ -41708,12 +41708,12 @@ graph [
     node [
         id 127444
         label "Mägo De Oz"
-        color "red"
+        color "purple"
     ]
     node [
         id 1487318
         label "Rare Candy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1391070
@@ -41728,7 +41728,7 @@ graph [
     node [
         id 1864158
         label "The Fallacy"
-        color "red"
+        color "purple"
     ]
     node [
         id 2617823
@@ -41778,7 +41778,7 @@ graph [
     node [
         id 340457
         label "The Storyteller"
-        color "red"
+        color "purple"
     ]
     node [
         id 2617834
@@ -41808,7 +41808,7 @@ graph [
     node [
         id 2221284
         label "Inmate"
-        color "red"
+        color "blue"
     ]
     node [
         id 1634804
@@ -41818,7 +41818,7 @@ graph [
     node [
         id 309091
         label "Swashbuckle"
-        color "red"
+        color "blue"
     ]
     node [
         id 1880566
@@ -41838,7 +41838,7 @@ graph [
     node [
         id 337585
         label "Arckanum"
-        color "red"
+        color "blue"
     ]
     node [
         id 4498064
@@ -41883,12 +41883,12 @@ graph [
     node [
         id 946697
         label "Colma"
-        color "red"
+        color "blue"
     ]
     node [
         id 2156631
         label "Carnivore Diprosopus"
-        color "red"
+        color "blue"
     ]
     node [
         id 2454029
@@ -41898,12 +41898,12 @@ graph [
     node [
         id 1143310
         label "Earthcry"
-        color "red"
+        color "blue"
     ]
     node [
         id 307727
         label "Deathspell Omega"
-        color "red"
+        color "blue"
     ]
     node [
         id 3453456
@@ -41918,12 +41918,12 @@ graph [
     node [
         id 225810
         label "Exilia"
-        color "red"
+        color "blue"
     ]
     node [
         id 1012243
         label "Aenaon"
-        color "red"
+        color "blue"
     ]
     node [
         id 45588
@@ -41933,7 +41933,7 @@ graph [
     node [
         id 717334
         label "In Mourning"
-        color "red"
+        color "blue"
     ]
     node [
         id 3118331
@@ -41958,12 +41958,12 @@ graph [
     node [
         id 1850799
         label "Cassandra Syndrome"
-        color "red"
+        color "blue"
     ]
     node [
         id 356893
         label "At the Gates"
-        color "red"
+        color "purple"
     ]
     node [
         id 356896
@@ -41988,7 +41988,7 @@ graph [
     node [
         id 1504853
         label "Blackthorne"
-        color "red"
+        color "purple"
     ]
     node [
         id 2748965
@@ -41998,7 +41998,7 @@ graph [
     node [
         id 4365818
         label "Изморозь"
-        color "red"
+        color "purple"
     ]
     node [
         id 821938
@@ -42028,7 +42028,7 @@ graph [
     node [
         id 347264
         label "Monuments"
-        color "red"
+        color "blue"
     ]
     node [
         id 2420175
@@ -42043,22 +42043,22 @@ graph [
     node [
         id 1577736
         label "Thelmo Rego"
-        color "red"
+        color "blue"
     ]
     node [
         id 307762
         label "Figure Of Six"
-        color "red"
+        color "purple"
     ]
     node [
         id 29235
         label "Living Colour"
-        color "red"
+        color "purple"
     ]
     node [
         id 160308
         label "Shelter"
-        color "red"
+        color "purple"
     ]
     node [
         id 1528702
@@ -42068,22 +42068,22 @@ graph [
     node [
         id 430857
         label "For All Those Sleeping"
-        color "red"
+        color "purple"
     ]
     node [
         id 373304
         label "Wilt"
-        color "red"
+        color "blue"
     ]
     node [
         id 356921
         label "Russell Allen / Jorn Lande"
-        color "red"
+        color "blue"
     ]
     node [
         id 1536572
         label "Inborn Suffering"
-        color "red"
+        color "blue"
     ]
     node [
         id 29247
@@ -42098,7 +42098,7 @@ graph [
     node [
         id 307778
         label "Fatal Smile"
-        color "red"
+        color "purple"
     ]
     node [
         id 3404355
@@ -42128,12 +42128,12 @@ graph [
     node [
         id 897612
         label "Excalibur"
-        color "red"
+        color "purple"
     ]
     node [
         id 1747042
         label "Lamprey"
-        color "red"
+        color "blue"
     ]
     node [
         id 1569358
@@ -42148,27 +42148,27 @@ graph [
     node [
         id 1159760
         label "Horseback"
-        color "red"
+        color "purple"
     ]
     node [
         id 127571
         label "Eternal Lord"
-        color "red"
+        color "blue"
     ]
     node [
         id 45653
         label "Slayer"
-        color "red"
+        color "blue"
     ]
     node [
         id 3027542
         label "Robots and Monsters"
-        color "red"
+        color "blue"
     ]
     node [
         id 1782362
         label "November Aria"
-        color "red"
+        color "blue"
     ]
     node [
         id 1312513
@@ -42178,7 +42178,7 @@ graph [
     node [
         id 1039802
         label "Almanac"
-        color "red"
+        color "blue"
     ]
     node [
         id 2421342
@@ -42193,12 +42193,12 @@ graph [
     node [
         id 1159776
         label "Pin-Up Went Down"
-        color "red"
+        color "blue"
     ]
     node [
         id 2191973
         label "Speaking The Kings"
-        color "red"
+        color "blue"
     ]
     node [
         id 2421352
@@ -42208,7 +42208,7 @@ graph [
     node [
         id 1269180
         label "The Defiled"
-        color "red"
+        color "blue"
     ]
     node [
         id 78444
@@ -42233,7 +42233,7 @@ graph [
     node [
         id 307825
         label "Tierra Santa"
-        color "red"
+        color "purple"
     ]
     node [
         id 72990
@@ -42263,17 +42263,17 @@ graph [
     node [
         id 701051
         label "Tvangeste"
-        color "red"
+        color "blue"
     ]
     node [
         id 3191420
         label "The Tony Danza Tapdance Extravaganza"
-        color "red"
+        color "blue"
     ]
     node [
         id 1372797
         label "Merrow"
-        color "red"
+        color "blue"
     ]
     node [
         id 291455
@@ -42288,7 +42288,7 @@ graph [
     node [
         id 2126466
         label "Sonic Prophecy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1782403
@@ -42298,7 +42298,7 @@ graph [
     node [
         id 71354
         label "Lye By Mistake"
-        color "red"
+        color "purple"
     ]
     node [
         id 10348
@@ -42353,7 +42353,7 @@ graph [
     node [
         id 3306136
         label "Into Infernus"
-        color "red"
+        color "blue"
     ]
     node [
         id 29337
@@ -42368,7 +42368,7 @@ graph [
     node [
         id 1110684
         label "The Bloodline"
-        color "red"
+        color "purple"
     ]
     node [
         id 15813
@@ -42378,7 +42378,7 @@ graph [
     node [
         id 1979041
         label "Magion"
-        color "red"
+        color "blue"
     ]
     node [
         id 422683
@@ -42393,12 +42393,12 @@ graph [
     node [
         id 258725
         label "Mind Funk"
-        color "red"
+        color "blue"
     ]
     node [
         id 792592
         label "Oprich"
-        color "red"
+        color "blue"
     ]
     node [
         id 602793
@@ -42438,17 +42438,17 @@ graph [
     node [
         id 1927283
         label "Armaga"
-        color "red"
+        color "blue"
     ]
     node [
         id 94900
         label "Sinful"
-        color "red"
+        color "blue"
     ]
     node [
         id 41895
         label "Sleep"
-        color "red"
+        color "purple"
     ]
     node [
         id 78518
@@ -42498,7 +42498,7 @@ graph [
     node [
         id 2028229
         label "Cacophony"
-        color "red"
+        color "blue"
     ]
     node [
         id 656153
@@ -42508,7 +42508,7 @@ graph [
     node [
         id 1815240
         label "Oceans of Night"
-        color "red"
+        color "blue"
     ]
     node [
         id 242377
@@ -42528,12 +42528,12 @@ graph [
     node [
         id 2167384
         label "Algol"
-        color "red"
+        color "blue"
     ]
     node [
         id 1618641
         label "Cilice"
-        color "red"
+        color "blue"
     ]
     node [
         id 307922
@@ -42593,7 +42593,7 @@ graph [
     node [
         id 357092
         label "Vesania"
-        color "red"
+        color "purple"
     ]
     node [
         id 92348
@@ -42608,7 +42608,7 @@ graph [
     node [
         id 4537809
         label "The Last Reign"
-        color "red"
+        color "blue"
     ]
     node [
         id 13032
@@ -42623,12 +42623,12 @@ graph [
     node [
         id 2484937
         label "NoDrama"
-        color "red"
+        color "blue"
     ]
     node [
         id 3019559
         label "Pet The Preacher"
-        color "red"
+        color "purple"
     ]
     node [
         id 144108
@@ -42693,7 +42693,7 @@ graph [
     node [
         id 193283
         label "Lita Ford"
-        color "red"
+        color "purple"
     ]
     node [
         id 171284
@@ -42728,12 +42728,12 @@ graph [
     node [
         id 297090
         label "Power Quest"
-        color "red"
+        color "purple"
     ]
     node [
         id 1610541
         label "Malevolence"
-        color "red"
+        color "blue"
     ]
     node [
         id 29456
@@ -42763,7 +42763,7 @@ graph [
     node [
         id 422682
         label "Dreamshade"
-        color "red"
+        color "blue"
     ]
     node [
         id 1192731
@@ -42783,7 +42783,7 @@ graph [
     node [
         id 1225502
         label "Ion Vein"
-        color "red"
+        color "blue"
     ]
     node [
         id 13089
@@ -42793,7 +42793,7 @@ graph [
     node [
         id 1831716
         label "Crobot"
-        color "red"
+        color "purple"
     ]
     node [
         id 1717029
@@ -42808,7 +42808,7 @@ graph [
     node [
         id 1020721
         label "Coldsight"
-        color "red"
+        color "blue"
     ]
     node [
         id 1654054
@@ -42848,7 +42848,7 @@ graph [
     node [
         id 3655722
         label "Heathen Foray"
-        color "red"
+        color "blue"
     ]
     node [
         id 451073
@@ -42863,7 +42863,7 @@ graph [
     node [
         id 72451
         label "Misericordiam"
-        color "red"
+        color "blue"
     ]
     node [
         id 1127225
@@ -42873,7 +42873,7 @@ graph [
     node [
         id 763682
         label "Dark Forest"
-        color "red"
+        color "purple"
     ]
     node [
         id 1127228
@@ -42883,7 +42883,7 @@ graph [
     node [
         id 886922
         label "Unswabbed"
-        color "red"
+        color "purple"
     ]
     node [
         id 308030
@@ -42893,7 +42893,7 @@ graph [
     node [
         id 242496
         label "The Locust"
-        color "red"
+        color "purple"
     ]
     node [
         id 160577
@@ -42913,12 +42913,12 @@ graph [
     node [
         id 308036
         label "Varg"
-        color "red"
+        color "purple"
     ]
     node [
         id 13126
         label "The End"
-        color "red"
+        color "purple"
     ]
     node [
         id 652103
@@ -42933,7 +42933,7 @@ graph [
     node [
         id 291657
         label "Nightrage"
-        color "red"
+        color "blue"
     ]
     node [
         id 2306891
@@ -42948,7 +42948,7 @@ graph [
     node [
         id 294370
         label "Mortus"
-        color "red"
+        color "blue"
     ]
     node [
         id 1873780
@@ -42983,12 +42983,12 @@ graph [
     node [
         id 2433112
         label "My Dear Addiction"
-        color "red"
+        color "blue"
     ]
     node [
         id 4064084
         label "Breathe Atlantis"
-        color "red"
+        color "purple"
     ]
     node [
         id 275291
@@ -43003,7 +43003,7 @@ graph [
     node [
         id 291678
         label "Raintime"
-        color "red"
+        color "blue"
     ]
     node [
         id 29536
@@ -43013,7 +43013,7 @@ graph [
     node [
         id 2192225
         label "Borislav Mitic"
-        color "red"
+        color "blue"
     ]
     node [
         id 29538
@@ -43033,7 +43033,7 @@ graph [
     node [
         id 95078
         label "Polar."
-        color "red"
+        color "purple"
     ]
     node [
         id 1337489
@@ -43048,12 +43048,12 @@ graph [
     node [
         id 1080807
         label "S.r.l."
-        color "red"
+        color "blue"
     ]
     node [
         id 2061164
         label "Deadpool"
-        color "red"
+        color "blue"
     ]
     node [
         id 1127278
@@ -43108,12 +43108,12 @@ graph [
     node [
         id 1088841
         label "Magician"
-        color "red"
+        color "blue"
     ]
     node [
         id 1835174
         label "Francesco Fareri"
-        color "red"
+        color "blue"
     ]
     node [
         id 111488
@@ -43148,12 +43148,12 @@ graph [
     node [
         id 1258378
         label "Carontte"
-        color "red"
+        color "blue"
     ]
     node [
         id 1640599
         label "Euphoric Defilement"
-        color "red"
+        color "blue"
     ]
     node [
         id 1986296
@@ -43163,17 +43163,17 @@ graph [
     node [
         id 1733518
         label "Arkham Witch"
-        color "red"
+        color "blue"
     ]
     node [
         id 2425476
         label "LUZBEL"
-        color "red"
+        color "purple"
     ]
     node [
         id 603027
         label "Klones Of Nu Metal"
-        color "red"
+        color "blue"
     ]
     node [
         id 258964
@@ -43183,12 +43183,12 @@ graph [
     node [
         id 1318382
         label "Unified Past"
-        color "red"
+        color "purple"
     ]
     node [
         id 1897366
         label "Kermheat"
-        color "red"
+        color "blue"
     ]
     node [
         id 4425881
@@ -43213,7 +43213,7 @@ graph [
     node [
         id 586651
         label "Brainstorm"
-        color "red"
+        color "blue"
     ]
     node [
         id 144284
@@ -43233,7 +43233,7 @@ graph [
     node [
         id 2724677
         label "Nanowar of Steel"
-        color "red"
+        color "blue"
     ]
     node [
         id 1766306
@@ -43243,7 +43243,7 @@ graph [
     node [
         id 1078180
         label "Spectres"
-        color "red"
+        color "blue"
     ]
     node [
         id 1160101
@@ -43258,12 +43258,12 @@ graph [
     node [
         id 160681
         label "Kivimetsän Druidi"
-        color "red"
+        color "blue"
     ]
     node [
         id 78763
         label "Seth"
-        color "red"
+        color "purple"
     ]
     node [
         id 2143148
@@ -43283,7 +43283,7 @@ graph [
     node [
         id 947016
         label "Supuration"
-        color "red"
+        color "blue"
     ]
     node [
         id 3912626
@@ -43328,7 +43328,7 @@ graph [
     node [
         id 1053514
         label "Cheap Thrills"
-        color "red"
+        color "purple"
     ]
     node [
         id 160702
@@ -43348,17 +43348,17 @@ graph [
     node [
         id 881601
         label "Hungryheart"
-        color "red"
+        color "purple"
     ]
     node [
         id 2736963
         label "The Strigas"
-        color "red"
+        color "blue"
     ]
     node [
         id 349003
         label "Grave"
-        color "red"
+        color "blue"
     ]
     node [
         id 4682693
@@ -43393,7 +43393,7 @@ graph [
     node [
         id 291788
         label "Therion"
-        color "red"
+        color "blue"
     ]
     node [
         id 2222242
@@ -43418,12 +43418,12 @@ graph [
     node [
         id 291796
         label "My Darkest Hate"
-        color "red"
+        color "purple"
     ]
     node [
         id 291797
         label "Human Fortress"
-        color "red"
+        color "purple"
     ]
     node [
         id 291798
@@ -43433,7 +43433,7 @@ graph [
     node [
         id 646649
         label "Primal Rock Rebellion"
-        color "red"
+        color "blue"
     ]
     node [
         id 13272
@@ -43458,7 +43458,7 @@ graph [
     node [
         id 1160157
         label "Goat The Head"
-        color "red"
+        color "blue"
     ]
     node [
         id 2999413
@@ -43468,7 +43468,7 @@ graph [
     node [
         id 291809
         label "Darkseed"
-        color "red"
+        color "purple"
     ]
     node [
         id 1225699
@@ -43498,7 +43498,7 @@ graph [
     node [
         id 291817
         label "Totenmond"
-        color "red"
+        color "purple"
     ]
     node [
         id 62442
@@ -43508,7 +43508,7 @@ graph [
     node [
         id 1607677
         label "Teodasia"
-        color "red"
+        color "blue"
     ]
     node [
         id 111596
@@ -43518,7 +43518,7 @@ graph [
     node [
         id 1217362
         label "Morbid Saint"
-        color "red"
+        color "blue"
     ]
     node [
         id 111598
@@ -43543,7 +43543,7 @@ graph [
     node [
         id 1962998
         label "Hammer Fight"
-        color "red"
+        color "purple"
     ]
     node [
         id 29689
@@ -43553,7 +43553,7 @@ graph [
     node [
         id 291834
         label "Manticora"
-        color "red"
+        color "purple"
     ]
     node [
         id 291835
@@ -43573,7 +43573,7 @@ graph [
     node [
         id 62462
         label "Prong"
-        color "red"
+        color "purple"
     ]
     node [
         id 160597
@@ -43588,7 +43588,7 @@ graph [
     node [
         id 291843
         label "Edenbridge"
-        color "red"
+        color "blue"
     ]
     node [
         id 261958
@@ -43613,12 +43613,12 @@ graph [
     node [
         id 1360537
         label "Grave Robber"
-        color "red"
+        color "purple"
     ]
     node [
         id 701451
         label "God Forbid"
-        color "red"
+        color "purple"
     ]
     node [
         id 1019559
@@ -43653,12 +43653,12 @@ graph [
     node [
         id 1487892
         label "Ironchrist"
-        color "red"
+        color "blue"
     ]
     node [
         id 1604405
         label "System Divide"
-        color "red"
+        color "blue"
     ]
     node [
         id 29719
@@ -43668,7 +43668,7 @@ graph [
     node [
         id 488472
         label "Moire"
-        color "red"
+        color "blue"
     ]
     node [
         id 1220100
@@ -43688,7 +43688,7 @@ graph [
     node [
         id 668701
         label "Dyecrest"
-        color "red"
+        color "purple"
     ]
     node [
         id 914462
@@ -43713,7 +43713,7 @@ graph [
     node [
         id 357211
         label "Unshine"
-        color "red"
+        color "purple"
     ]
     node [
         id 48454
@@ -43723,17 +43723,17 @@ graph [
     node [
         id 3519527
         label "Missa Mercuria"
-        color "red"
+        color "blue"
     ]
     node [
         id 2557290
         label "Something to Believe In"
-        color "red"
+        color "blue"
     ]
     node [
         id 635948
         label "Black Dawn"
-        color "red"
+        color "blue"
     ]
     node [
         id 2235079
@@ -43743,12 +43743,12 @@ graph [
     node [
         id 523096
         label "Autumnblaze"
-        color "red"
+        color "purple"
     ]
     node [
         id 1629704
         label "Numic"
-        color "red"
+        color "purple"
     ]
     node [
         id 2454579
@@ -43758,12 +43758,12 @@ graph [
     node [
         id 947252
         label "Mirrored In Secrecy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1274933
         label "Uncle Slam"
-        color "red"
+        color "blue"
     ]
     node [
         id 1478868
@@ -43773,7 +43773,7 @@ graph [
     node [
         id 349023
         label "Intronaut"
-        color "red"
+        color "blue"
     ]
     node [
         id 2782268
@@ -43788,12 +43788,12 @@ graph [
     node [
         id 947262
         label "Hopelezz"
-        color "red"
+        color "purple"
     ]
     node [
         id 1198261
         label "Bloodgut"
-        color "red"
+        color "blue"
     ]
     node [
         id 947267
@@ -43803,7 +43803,7 @@ graph [
     node [
         id 357444
         label "1349"
-        color "red"
+        color "purple"
     ]
     node [
         id 51382
@@ -43813,7 +43813,7 @@ graph [
     node [
         id 2290758
         label "Ph8"
-        color "red"
+        color "purple"
     ]
     node [
         id 1127495
@@ -43838,7 +43838,7 @@ graph [
     node [
         id 359614
         label "Театр теней"
-        color "red"
+        color "blue"
     ]
     node [
         id 1799244
@@ -43858,12 +43858,12 @@ graph [
     node [
         id 701520
         label "Otherwise"
-        color "red"
+        color "purple"
     ]
     node [
         id 1247416
         label "Tellus Requiem"
-        color "red"
+        color "blue"
     ]
     node [
         id 226386
@@ -43888,7 +43888,7 @@ graph [
     node [
         id 1078362
         label "Holly Hunt"
-        color "red"
+        color "blue"
     ]
     node [
         id 46173
@@ -43898,17 +43898,17 @@ graph [
     node [
         id 1969936
         label "Alive At Last"
-        color "red"
+        color "purple"
     ]
     node [
         id 701537
         label "Eyehategod"
-        color "red"
+        color "blue"
     ]
     node [
         id 1619043
         label "Rings Of Saturn"
-        color "red"
+        color "blue"
     ]
     node [
         id 427476
@@ -43933,12 +43933,12 @@ graph [
     node [
         id 701547
         label "Devin Townsend"
-        color "red"
+        color "purple"
     ]
     node [
         id 701548
         label "Moonspell"
-        color "red"
+        color "purple"
     ]
     node [
         id 13423
@@ -43953,17 +43953,17 @@ graph [
     node [
         id 1209458
         label "Ebony Ark"
-        color "red"
+        color "blue"
     ]
     node [
         id 2194963
         label "Unfathomable Ruination"
-        color "red"
+        color "blue"
     ]
     node [
         id 1324148
         label "Forest of Shadows"
-        color "red"
+        color "blue"
     ]
     node [
         id 1866825
@@ -43973,7 +43973,7 @@ graph [
     node [
         id 1611787
         label "This Ending"
-        color "red"
+        color "purple"
     ]
     node [
         id 7618
@@ -44023,7 +44023,7 @@ graph [
     node [
         id 1275011
         label "Boris The Blade"
-        color "red"
+        color "blue"
     ]
     node [
         id 388420
@@ -44043,7 +44043,7 @@ graph [
     node [
         id 1902785
         label "Disarmonia Mundi"
-        color "red"
+        color "blue"
     ]
     node [
         id 1192812
@@ -44058,22 +44058,22 @@ graph [
     node [
         id 1799309
         label "Edward Box"
-        color "red"
+        color "purple"
     ]
     node [
         id 128143
         label "A Life Once Lost"
-        color "red"
+        color "blue"
     ]
     node [
         id 1234516
         label "Rinoa"
-        color "red"
+        color "blue"
     ]
     node [
         id 187928
         label "Corrosion Of Conformity"
-        color "red"
+        color "purple"
     ]
     node [
         id 4351262
@@ -44083,7 +44083,7 @@ graph [
     node [
         id 1946771
         label "The Thorn and Tear"
-        color "red"
+        color "blue"
     ]
     node [
         id 3912852
@@ -44098,7 +44098,7 @@ graph [
     node [
         id 1249792
         label "Aspire"
-        color "red"
+        color "purple"
     ]
     node [
         id 308375
@@ -44118,7 +44118,7 @@ graph [
     node [
         id 128154
         label "Misery Signals"
-        color "red"
+        color "blue"
     ]
     node [
         id 4682607
@@ -44168,12 +44168,12 @@ graph [
     node [
         id 701611
         label "Arch Enemy"
-        color "red"
+        color "blue"
     ]
     node [
         id 64575
         label "Suffocation"
-        color "red"
+        color "purple"
     ]
     node [
         id 292016
@@ -44183,12 +44183,12 @@ graph [
     node [
         id 1176757
         label "Aeternus"
-        color "red"
+        color "blue"
     ]
     node [
         id 439478
         label "Felony"
-        color "red"
+        color "purple"
     ]
     node [
         id 128185
@@ -44198,17 +44198,17 @@ graph [
     node [
         id 701626
         label "Architects"
-        color "red"
+        color "purple"
     ]
     node [
         id 1373372
         label "Famous Last Words"
-        color "red"
+        color "blue"
     ]
     node [
         id 849085
         label "Monsters"
-        color "red"
+        color "blue"
     ]
     node [
         id 209258
@@ -44218,7 +44218,7 @@ graph [
     node [
         id 128191
         label "Emarosa"
-        color "red"
+        color "purple"
     ]
     node [
         id 4732097
@@ -44253,7 +44253,7 @@ graph [
     node [
         id 1029320
         label "Deadcell"
-        color "red"
+        color "blue"
     ]
     node [
         id 29899
@@ -44283,12 +44283,12 @@ graph [
     node [
         id 2340050
         label "Apokalyptic Raids"
-        color "red"
+        color "blue"
     ]
     node [
         id 3153443
         label "Siberian Meat Grinder"
-        color "red"
+        color "blue"
     ]
     node [
         id 341205
@@ -44303,7 +44303,7 @@ graph [
     node [
         id 701657
         label "Borknagar"
-        color "red"
+        color "blue"
     ]
     node [
         id 357595
@@ -44313,7 +44313,7 @@ graph [
     node [
         id 881530
         label "Milan Polak"
-        color "red"
+        color "purple"
     ]
     node [
         id 554206
@@ -44328,12 +44328,12 @@ graph [
     node [
         id 292065
         label "Hell Within"
-        color "red"
+        color "blue"
     ]
     node [
         id 636132
         label "Weedeater"
-        color "red"
+        color "purple"
     ]
     node [
         id 2733285
@@ -44343,7 +44343,7 @@ graph [
     node [
         id 701671
         label "Arsonists Get All The Girls"
-        color "red"
+        color "blue"
     ]
     node [
         id 292072
@@ -44353,7 +44353,7 @@ graph [
     node [
         id 1758076
         label "A Fight for Life"
-        color "red"
+        color "blue"
     ]
     node [
         id 423147
@@ -44393,7 +44393,7 @@ graph [
     node [
         id 426145
         label "Headphone Killazz"
-        color "red"
+        color "purple"
     ]
     node [
         id 357246
@@ -44403,7 +44403,7 @@ graph [
     node [
         id 1324278
         label "Deez Nuts"
-        color "red"
+        color "purple"
     ]
     node [
         id 1012983
@@ -44413,12 +44413,12 @@ graph [
     node [
         id 226552
         label "Subway To Sally"
-        color "red"
+        color "purple"
     ]
     node [
         id 1176827
         label "The Kris Norris Projekt"
-        color "red"
+        color "blue"
     ]
     node [
         id 587005
@@ -44458,7 +44458,7 @@ graph [
     node [
         id 2372871
         label "Inextalis"
-        color "red"
+        color "blue"
     ]
     node [
         id 2736954
@@ -44468,22 +44468,22 @@ graph [
     node [
         id 816393
         label "Betraying the Martyrs"
-        color "red"
+        color "blue"
     ]
     node [
         id 668938
         label "Monsters of Rock"
-        color "red"
+        color "purple"
     ]
     node [
         id 1766667
         label "The Blinded"
-        color "red"
+        color "purple"
     ]
     node [
         id 701708
         label "Maroon"
-        color "red"
+        color "blue"
     ]
     node [
         id 2110338
@@ -44498,12 +44498,12 @@ graph [
     node [
         id 2700560
         label "Cryptic Age"
-        color "red"
+        color "blue"
     ]
     node [
         id 1160465
         label "Heart In Hand"
-        color "red"
+        color "blue"
     ]
     node [
         id 1275154
@@ -44513,12 +44513,12 @@ graph [
     node [
         id 914707
         label "Scarlet Violet"
-        color "red"
+        color "purple"
     ]
     node [
         id 816405
         label "Black bomb a"
-        color "red"
+        color "purple"
     ]
     node [
         id 29974
@@ -44533,27 +44533,27 @@ graph [
     node [
         id 160303
         label "Bleeding Through"
-        color "red"
+        color "purple"
     ]
     node [
         id 701722
         label "David T. Chastain"
-        color "red"
+        color "purple"
     ]
     node [
         id 335407
         label "Blood"
-        color "red"
+        color "blue"
     ]
     node [
         id 914716
         label "Confess"
-        color "red"
+        color "purple"
     ]
     node [
         id 1340701
         label "Theodore Ziras"
-        color "red"
+        color "blue"
     ]
     node [
         id 29982
@@ -44568,7 +44568,7 @@ graph [
     node [
         id 161059
         label "Defeated Sanity"
-        color "red"
+        color "blue"
     ]
     node [
         id 821979
@@ -44583,12 +44583,12 @@ graph [
     node [
         id 304732
         label "Manticore"
-        color "red"
+        color "purple"
     ]
     node [
         id 1389867
         label "Kaos Krew"
-        color "red"
+        color "purple"
     ]
     node [
         id 128301
@@ -44598,7 +44598,7 @@ graph [
     node [
         id 1652014
         label "Novelists"
-        color "red"
+        color "purple"
     ]
     node [
         id 1726621
@@ -44618,12 +44618,12 @@ graph [
     node [
         id 1490483
         label "Arkeronn"
-        color "red"
+        color "blue"
     ]
     node [
         id 292149
         label "Beyond Twilight"
-        color "red"
+        color "purple"
     ]
     node [
         id 3437878
@@ -44633,7 +44633,7 @@ graph [
     node [
         id 193417
         label "Toad"
-        color "red"
+        color "purple"
     ]
     node [
         id 587066
@@ -44648,7 +44648,7 @@ graph [
     node [
         id 291722
         label "Berri Txarrak"
-        color "red"
+        color "purple"
     ]
     node [
         id 439614
@@ -44663,7 +44663,7 @@ graph [
     node [
         id 253596
         label "Entombed"
-        color "red"
+        color "purple"
     ]
     node [
         id 30021
@@ -44673,12 +44673,12 @@ graph [
     node [
         id 1619271
         label "Vangough"
-        color "red"
+        color "purple"
     ]
     node [
         id 95561
         label "Bride"
-        color "red"
+        color "blue"
     ]
     node [
         id 3544931
@@ -44693,7 +44693,7 @@ graph [
     node [
         id 1586514
         label "Mycelia"
-        color "red"
+        color "blue"
     ]
     node [
         id 92655
@@ -44718,7 +44718,7 @@ graph [
     node [
         id 1537374
         label "New Keepers Of The Water Towers"
-        color "red"
+        color "purple"
     ]
     node [
         id 13664
@@ -44738,7 +44738,7 @@ graph [
     node [
         id 3143013
         label "Sienna Skies"
-        color "red"
+        color "purple"
     ]
     node [
         id 30054
@@ -44748,7 +44748,7 @@ graph [
     node [
         id 4224360
         label "Skid Row"
-        color "red"
+        color "purple"
     ]
     node [
         id 144745
@@ -44758,12 +44758,12 @@ graph [
     node [
         id 4699994
         label "Okilly Dokilly"
-        color "red"
+        color "blue"
     ]
     node [
         id 272615
         label "The Seer"
-        color "red"
+        color "purple"
     ]
     node [
         id 980332
@@ -44793,12 +44793,12 @@ graph [
     node [
         id 587122
         label "Crossfaith"
-        color "red"
+        color "purple"
     ]
     node [
         id 1062259
         label "Co-Op"
-        color "red"
+        color "blue"
     ]
     node [
         id 292212
@@ -44813,7 +44813,7 @@ graph [
     node [
         id 2078070
         label "Nox Eterna"
-        color "red"
+        color "blue"
     ]
     node [
         id 1209720
@@ -44828,7 +44828,7 @@ graph [
     node [
         id 1449535
         label "Laments Of Silence"
-        color "red"
+        color "blue"
     ]
     node [
         id 1231082
@@ -44868,7 +44868,7 @@ graph [
     node [
         id 701839
         label "Sleeping Giant"
-        color "red"
+        color "purple"
     ]
     node [
         id 374160
@@ -44883,12 +44883,12 @@ graph [
     node [
         id 2389394
         label "War Pigs"
-        color "red"
+        color "blue"
     ]
     node [
         id 292244
         label "Candlemass"
-        color "red"
+        color "purple"
     ]
     node [
         id 341397
@@ -44908,22 +44908,22 @@ graph [
     node [
         id 30104
         label "Def Leppard"
-        color "red"
+        color "purple"
     ]
     node [
         id 1728068
         label "Silver Cypher"
-        color "red"
+        color "blue"
     ]
     node [
         id 942102
         label "Sugarcoma"
-        color "red"
+        color "purple"
     ]
     node [
         id 259483
         label "Meridian"
-        color "red"
+        color "blue"
     ]
     node [
         id 1813915
@@ -44938,22 +44938,22 @@ graph [
     node [
         id 1160607
         label "Northlane"
-        color "red"
+        color "blue"
     ]
     node [
         id 1865120
         label "Tommy Vitaly"
-        color "red"
+        color "blue"
     ]
     node [
         id 1049033
         label "Complot Bronswick"
-        color "red"
+        color "purple"
     ]
     node [
         id 537499
         label "Codec"
-        color "red"
+        color "purple"
     ]
     node [
         id 3929116
@@ -44963,7 +44963,7 @@ graph [
     node [
         id 2620998
         label "ТоТ СвеТ"
-        color "red"
+        color "blue"
     ]
     node [
         id 128080
@@ -44973,7 +44973,7 @@ graph [
     node [
         id 305393
         label "Vintersorg"
-        color "red"
+        color "purple"
     ]
     node [
         id 1861438
@@ -44988,7 +44988,7 @@ graph [
     node [
         id 2925406
         label "Warseid"
-        color "red"
+        color "blue"
     ]
     node [
         id 112044
@@ -45028,7 +45028,7 @@ graph [
     node [
         id 701877
         label "The Safety Fire"
-        color "red"
+        color "purple"
     ]
     node [
         id 741335
@@ -45078,22 +45078,22 @@ graph [
     node [
         id 95681
         label "Oomph!"
-        color "red"
+        color "purple"
     ]
     node [
         id 1045955
         label "Epsylon"
-        color "red"
+        color "blue"
     ]
     node [
         id 126565
         label "Beheaded"
-        color "red"
+        color "blue"
     ]
     node [
         id 431009
         label "One Morning Left"
-        color "red"
+        color "purple"
     ]
     node [
         id 1327818
@@ -45103,7 +45103,7 @@ graph [
     node [
         id 2078153
         label "23rd Grade of Evil"
-        color "red"
+        color "blue"
     ]
     node [
         id 30154
@@ -45118,17 +45118,17 @@ graph [
     node [
         id 30156
         label "Drop Dead, Gorgeous"
-        color "red"
+        color "blue"
     ]
     node [
         id 30157
         label "Haste The Day"
-        color "red"
+        color "blue"
     ]
     node [
         id 30158
         label "Every Time I Die"
-        color "red"
+        color "purple"
     ]
     node [
         id 30159
@@ -45203,7 +45203,7 @@ graph [
     node [
         id 160705
         label "Chris Holmes"
-        color "red"
+        color "purple"
     ]
     node [
         id 4732183
@@ -45213,22 +45213,22 @@ graph [
     node [
         id 1586671
         label "Painfield"
-        color "red"
+        color "blue"
     ]
     node [
         id 57744
         label "Ünloco"
-        color "red"
+        color "blue"
     ]
     node [
         id 1766899
         label "Ted Kirkpatrick"
-        color "red"
+        color "blue"
     ]
     node [
         id 2405879
         label "Sage's Recital"
-        color "red"
+        color "blue"
     ]
     node [
         id 1603064
@@ -45238,22 +45238,22 @@ graph [
     node [
         id 2211412
         label "One Shot Left"
-        color "red"
+        color "blue"
     ]
     node [
         id 79354
         label "Wolf"
-        color "red"
+        color "blue"
     ]
     node [
         id 30204
         label "Brother Firetribe"
-        color "red"
+        color "purple"
     ]
     node [
         id 796985
         label "Merciless Terror"
-        color "red"
+        color "blue"
     ]
     node [
         id 430649
@@ -45273,7 +45273,7 @@ graph [
     node [
         id 259590
         label "Asgard"
-        color "red"
+        color "blue"
     ]
     node [
         id 1750633
@@ -45283,7 +45283,7 @@ graph [
     node [
         id 292622
         label "Pungent Stench"
-        color "red"
+        color "blue"
     ]
     node [
         id 587007
@@ -45293,12 +45293,12 @@ graph [
     node [
         id 62986
         label "Sanctuary"
-        color "red"
+        color "blue"
     ]
     node [
         id 1029643
         label "Attentat Rock"
-        color "red"
+        color "blue"
     ]
     node [
         id 1191429
@@ -45313,12 +45313,12 @@ graph [
     node [
         id 2618894
         label "Deathless Legacy"
-        color "red"
+        color "blue"
     ]
     node [
         id 308752
         label "Nightmare"
-        color "red"
+        color "purple"
     ]
     node [
         id 1865233
@@ -45328,12 +45328,12 @@ graph [
     node [
         id 1600603
         label "Patria"
-        color "red"
+        color "purple"
     ]
     node [
         id 289027
         label "Angel Dust"
-        color "red"
+        color "blue"
     ]
     node [
         id 144916
@@ -45343,12 +45343,12 @@ graph [
     node [
         id 292374
         label "Edguy"
-        color "red"
+        color "purple"
     ]
     node [
         id 292375
         label "Destruction"
-        color "red"
+        color "blue"
     ]
     node [
         id 800281
@@ -45358,12 +45358,12 @@ graph [
     node [
         id 701978
         label "Diecast"
-        color "red"
+        color "purple"
     ]
     node [
         id 2315183
         label "Hunt the Haunted"
-        color "red"
+        color "blue"
     ]
     node [
         id 2111005
@@ -45373,12 +45373,12 @@ graph [
     node [
         id 296703
         label "Wintersun"
-        color "red"
+        color "purple"
     ]
     node [
         id 2029089
         label "Christian Muenzner"
-        color "red"
+        color "blue"
     ]
     node [
         id 144930
@@ -45403,7 +45403,7 @@ graph [
     node [
         id 843905
         label "Satan jokers"
-        color "red"
+        color "blue"
     ]
     node [
         id 2689006
@@ -45413,17 +45413,17 @@ graph [
     node [
         id 1013292
         label "Acrimonious"
-        color "red"
+        color "blue"
     ]
     node [
         id 532061
         label "Perzonal War"
-        color "red"
+        color "purple"
     ]
     node [
         id 2636632
         label "The Unguided"
-        color "red"
+        color "purple"
     ]
     node [
         id 144945
@@ -45433,12 +45433,12 @@ graph [
     node [
         id 357938
         label "Siebenburgen"
-        color "red"
+        color "purple"
     ]
     node [
         id 357940
         label "Falkenbach"
-        color "red"
+        color "blue"
     ]
     node [
         id 13877
@@ -45463,7 +45463,7 @@ graph [
     node [
         id 554558
         label "Judgement"
-        color "red"
+        color "purple"
     ]
     node [
         id 1127349
@@ -45478,7 +45478,7 @@ graph [
     node [
         id 325186
         label "Jaded Heart"
-        color "red"
+        color "purple"
     ]
     node [
         id 144963
@@ -45498,17 +45498,17 @@ graph [
     node [
         id 2188724
         label "Hellbros"
-        color "red"
+        color "purple"
     ]
     node [
         id 2029132
         label "Glade Swope"
-        color "red"
+        color "purple"
     ]
     node [
         id 2520653
         label "Silent Circus"
-        color "red"
+        color "purple"
     ]
     node [
         id 13902
@@ -45518,7 +45518,7 @@ graph [
     node [
         id 292431
         label "Lunatica"
-        color "red"
+        color "blue"
     ]
     node [
         id 29624
@@ -45543,27 +45543,27 @@ graph [
     node [
         id 304734
         label "Disbelief"
-        color "red"
+        color "purple"
     ]
     node [
         id 1757728
         label "The Coil Of Sihn"
-        color "red"
+        color "blue"
     ]
     node [
         id 30296
         label "Vinnie Colaiuta"
-        color "red"
+        color "blue"
     ]
     node [
         id 980571
         label "ADX"
-        color "red"
+        color "blue"
     ]
     node [
         id 1144412
         label "Attacker"
-        color "red"
+        color "purple"
     ]
     node [
         id 30301
@@ -45588,12 +45588,12 @@ graph [
     node [
         id 2537058
         label "I Am Abomination"
-        color "red"
+        color "purple"
     ]
     node [
         id 348534
         label "Chris Poland"
-        color "red"
+        color "purple"
     ]
     node [
         id 2242151
@@ -45658,12 +45658,12 @@ graph [
     node [
         id 2588773
         label "Hark"
-        color "red"
+        color "blue"
     ]
     node [
         id 620157
         label "Anand Clique"
-        color "red"
+        color "purple"
     ]
     node [
         id 1750655
@@ -45673,7 +45673,7 @@ graph [
     node [
         id 1914498
         label "Ethereal Architect"
-        color "red"
+        color "blue"
     ]
     node [
         id 40555
@@ -45683,12 +45683,12 @@ graph [
     node [
         id 1029765
         label "Tsatthoggua"
-        color "red"
+        color "blue"
     ]
     node [
         id 3099274
         label "Redemption"
-        color "red"
+        color "blue"
     ]
     node [
         id 2487943
@@ -45713,12 +45713,12 @@ graph [
     node [
         id 30349
         label "Venom"
-        color "red"
+        color "blue"
     ]
     node [
         id 1226382
         label "Roxx Gang"
-        color "red"
+        color "purple"
     ]
     node [
         id 13967
@@ -45728,27 +45728,27 @@ graph [
     node [
         id 1196893
         label "My Own Grave"
-        color "red"
+        color "blue"
     ]
     node [
         id 63121
         label "Halford"
-        color "red"
+        color "blue"
     ]
     node [
         id 145043
         label "Breaking Point"
-        color "red"
+        color "purple"
     ]
     node [
         id 1198255
         label "Kingdom of Sorrow"
-        color "red"
+        color "purple"
     ]
     node [
         id 1215984
         label "The Body"
-        color "red"
+        color "purple"
     ]
     node [
         id 833174
@@ -45763,7 +45763,7 @@ graph [
     node [
         id 1750681
         label "Tokami"
-        color "red"
+        color "blue"
     ]
     node [
         id 1256521
@@ -45778,7 +45778,7 @@ graph [
     node [
         id 1750684
         label "Anoreksi"
-        color "red"
+        color "blue"
     ]
     node [
         id 616730
@@ -45788,37 +45788,37 @@ graph [
     node [
         id 145056
         label "John 5"
-        color "red"
+        color "purple"
     ]
     node [
         id 1160866
         label "Cavity"
-        color "red"
+        color "purple"
     ]
     node [
         id 1039767
         label "Kotipelto & Liimatainen"
-        color "red"
+        color "blue"
     ]
     node [
         id 30376
         label "Celtic Frost"
-        color "red"
+        color "purple"
     ]
     node [
         id 358058
         label "Ufomammut"
-        color "red"
+        color "purple"
     ]
     node [
         id 1125421
         label "Beyond All Recognition"
-        color "red"
+        color "purple"
     ]
     node [
         id 1160879
         label "Jesu"
-        color "red"
+        color "blue"
     ]
     node [
         id 2143923
@@ -45833,12 +45833,12 @@ graph [
     node [
         id 308918
         label "Wuthering Heights"
-        color "red"
+        color "blue"
     ]
     node [
         id 292537
         label "Dew-Scented"
-        color "red"
+        color "purple"
     ]
     node [
         id 63163
@@ -45848,22 +45848,22 @@ graph [
     node [
         id 227004
         label "New Years Day"
-        color "red"
+        color "purple"
     ]
     node [
         id 292541
         label "Die Apokalyptischen Reiter"
-        color "red"
+        color "purple"
     ]
     node [
         id 1275582
         label "Bruthal 6"
-        color "red"
+        color "blue"
     ]
     node [
         id 292545
         label "Dismal Euphony"
-        color "red"
+        color "blue"
     ]
     node [
         id 201675
@@ -45873,32 +45873,32 @@ graph [
     node [
         id 1423044
         label "Age Of Artemis"
-        color "red"
+        color "blue"
     ]
     node [
         id 292549
         label "Gorgoroth"
-        color "red"
+        color "blue"
     ]
     node [
         id 292552
         label "Graveworm"
-        color "red"
+        color "blue"
     ]
     node [
         id 702153
         label "Fu Manchu"
-        color "red"
+        color "purple"
     ]
     node [
         id 456394
         label "Phinehas"
-        color "red"
+        color "blue"
     ]
     node [
         id 64298
         label "Winters"
-        color "red"
+        color "purple"
     ]
     node [
         id 292556
@@ -45908,12 +45908,12 @@ graph [
     node [
         id 292558
         label "Immortal"
-        color "red"
+        color "blue"
     ]
     node [
         id 833232
         label "Leo Jiménez"
-        color "red"
+        color "purple"
     ]
     node [
         id 1291986
@@ -45928,27 +45928,27 @@ graph [
     node [
         id 1475417
         label "Vorkreist"
-        color "red"
+        color "blue"
     ]
     node [
         id 702165
         label "iwrestledabearonce"
-        color "red"
+        color "blue"
     ]
     node [
         id 587479
         label "Condemned"
-        color "red"
+        color "blue"
     ]
     node [
         id 645929
         label "Dodecahedron"
-        color "red"
+        color "purple"
     ]
     node [
         id 292570
         label "Kataklysm"
-        color "red"
+        color "purple"
     ]
     node [
         id 2012111
@@ -45968,7 +45968,7 @@ graph [
     node [
         id 636641
         label "Autumn Clan"
-        color "red"
+        color "blue"
     ]
     node [
         id 30434
@@ -45983,12 +45983,12 @@ graph [
     node [
         id 2456056
         label "Fate Worse Than Death"
-        color "red"
+        color "blue"
     ]
     node [
         id 881617
         label "Darkestrah"
-        color "red"
+        color "purple"
     ]
     node [
         id 14057
@@ -45998,12 +45998,12 @@ graph [
     node [
         id 718570
         label "On Broken Wings"
-        color "red"
+        color "blue"
     ]
     node [
         id 252519
         label "U.D.O."
-        color "red"
+        color "purple"
     ]
     node [
         id 30445
@@ -46013,32 +46013,32 @@ graph [
     node [
         id 2443560
         label "Dreams in the Witch House"
-        color "red"
+        color "purple"
     ]
     node [
         id 1430483
         label "Powermad"
-        color "red"
+        color "blue"
     ]
     node [
         id 4167494
         label "Dark Moor"
-        color "red"
+        color "blue"
     ]
     node [
         id 718582
         label "Deadhorse"
-        color "red"
+        color "purple"
     ]
     node [
         id 4114729
         label "Soulitude"
-        color "red"
+        color "blue"
     ]
     node [
         id 325368
         label "Kittie"
-        color "red"
+        color "blue"
     ]
     node [
         id 2413524
@@ -46048,12 +46048,12 @@ graph [
     node [
         id 292602
         label "Mnemic"
-        color "red"
+        color "purple"
     ]
     node [
         id 1879662
         label "Talamyus"
-        color "red"
+        color "blue"
     ]
     node [
         id 194302
@@ -46073,7 +46073,7 @@ graph [
     node [
         id 2406146
         label "Eternity X"
-        color "red"
+        color "purple"
     ]
     node [
         id 882435
@@ -46093,12 +46093,12 @@ graph [
     node [
         id 882438
         label "Nachtmystium"
-        color "red"
+        color "purple"
     ]
     node [
         id 1210119
         label "Dimension Zero"
-        color "red"
+        color "purple"
     ]
     node [
         id 161544
@@ -46113,22 +46113,22 @@ graph [
     node [
         id 1980170
         label "Prodigal Earth"
-        color "red"
+        color "blue"
     ]
     node [
         id 292619
         label "Night In Gales"
-        color "red"
+        color "blue"
     ]
     node [
         id 325388
         label "Necrophagia"
-        color "red"
+        color "blue"
     ]
     node [
         id 292621
         label "One Man Army and The Undead Quartet"
-        color "red"
+        color "blue"
     ]
     node [
         id 882446
@@ -46138,7 +46138,7 @@ graph [
     node [
         id 411949
         label "Hardcore Superstar"
-        color "red"
+        color "purple"
     ]
     node [
         id 227089
@@ -46158,17 +46158,17 @@ graph [
     node [
         id 243480
         label "Only"
-        color "red"
+        color "purple"
     ]
     node [
         id 243481
         label "Anathema"
-        color "red"
+        color "purple"
     ]
     node [
         id 1685274
         label "Level 10"
-        color "red"
+        color "blue"
     ]
     node [
         id 14107
@@ -46193,7 +46193,7 @@ graph [
     node [
         id 309024
         label "We Butter The Bread With Butter"
-        color "red"
+        color "blue"
     ]
     node [
         id 849698
@@ -46203,7 +46203,7 @@ graph [
     node [
         id 1291227
         label "Black Cobra"
-        color "red"
+        color "blue"
     ]
     node [
         id 2451148
@@ -46213,12 +46213,12 @@ graph [
     node [
         id 292645
         label "Theatre Of Tragedy"
-        color "red"
+        color "purple"
     ]
     node [
         id 823182
         label "Ignis Fatuu"
-        color "red"
+        color "purple"
     ]
     node [
         id 4323111
@@ -46253,7 +46253,7 @@ graph [
     node [
         id 250845
         label "Turisas"
-        color "red"
+        color "blue"
     ]
     node [
         id 1619761
@@ -46263,7 +46263,7 @@ graph [
     node [
         id 898866
         label "Gloomy Grim"
-        color "red"
+        color "blue"
     ]
     node [
         id 1804595
@@ -46293,7 +46293,7 @@ graph [
     node [
         id 1111864
         label "Gormathon"
-        color "red"
+        color "blue"
     ]
     node [
         id 14138
@@ -46308,12 +46308,12 @@ graph [
     node [
         id 2422589
         label "Ohrenfeindt"
-        color "red"
+        color "purple"
     ]
     node [
         id 227137
         label "MyGrain"
-        color "red"
+        color "purple"
     ]
     node [
         id 130699
@@ -46323,17 +46323,17 @@ graph [
     node [
         id 964422
         label "Christ Agony"
-        color "red"
+        color "blue"
     ]
     node [
         id 1820476
         label "Set for the Fall"
-        color "red"
+        color "purple"
     ]
     node [
         id 1488712
         label "Minora"
-        color "red"
+        color "purple"
     ]
     node [
         id 1980233
@@ -46343,12 +46343,12 @@ graph [
     node [
         id 1989967
         label "Strage"
-        color "red"
+        color "blue"
     ]
     node [
         id 2296119
         label "Weeping Silence"
-        color "red"
+        color "blue"
     ]
     node [
         id 2275149
@@ -46358,7 +46358,7 @@ graph [
     node [
         id 292687
         label "In Flames"
-        color "red"
+        color "blue"
     ]
     node [
         id 1570640
@@ -46368,17 +46368,17 @@ graph [
     node [
         id 292689
         label "Sinner"
-        color "red"
+        color "purple"
     ]
     node [
         id 292691
         label "Tiamat"
-        color "red"
+        color "purple"
     ]
     node [
         id 292692
         label "Lacrimosa"
-        color "red"
+        color "blue"
     ]
     node [
         id 30549
@@ -46388,7 +46388,7 @@ graph [
     node [
         id 292694
         label "End Of Green"
-        color "red"
+        color "purple"
     ]
     node [
         id 30551
@@ -46403,22 +46403,22 @@ graph [
     node [
         id 455652
         label "Regardless Of Me"
-        color "red"
+        color "blue"
     ]
     node [
         id 292698
         label "Sentenced"
-        color "red"
+        color "blue"
     ]
     node [
         id 292699
         label "Mindrot"
-        color "red"
+        color "purple"
     ]
     node [
         id 292700
         label "Love Like Blood"
-        color "red"
+        color "purple"
     ]
     node [
         id 3102009
@@ -46443,7 +46443,7 @@ graph [
     node [
         id 1292132
         label "Dodheimsgard"
-        color "red"
+        color "blue"
     ]
     node [
         id 2652079
@@ -46458,7 +46458,7 @@ graph [
     node [
         id 4421482
         label "Grobut Neerg"
-        color "red"
+        color "blue"
     ]
     node [
         id 96107
@@ -46468,7 +46468,7 @@ graph [
     node [
         id 194412
         label "GALLERY"
-        color "red"
+        color "purple"
     ]
     node [
         id 194413
@@ -46478,7 +46478,7 @@ graph [
     node [
         id 784238
         label "Koritni"
-        color "red"
+        color "purple"
     ]
     node [
         id 13288
@@ -46488,12 +46488,12 @@ graph [
     node [
         id 358258
         label "Chokehold"
-        color "red"
+        color "blue"
     ]
     node [
         id 620403
         label "Tool Silence"
-        color "red"
+        color "blue"
     ]
     node [
         id 30581
@@ -46508,12 +46508,12 @@ graph [
     node [
         id 309111
         label "Watain"
-        color "red"
+        color "purple"
     ]
     node [
         id 292729
         label "Deceased"
-        color "red"
+        color "blue"
     ]
     node [
         id 1038683
@@ -46523,22 +46523,22 @@ graph [
     node [
         id 292731
         label "Horde"
-        color "red"
+        color "blue"
     ]
     node [
         id 2930556
         label "Let the River Swell"
-        color "red"
+        color "blue"
     ]
     node [
         id 292733
         label "Mortification"
-        color "red"
+        color "blue"
     ]
     node [
         id 292734
         label "Sinister"
-        color "red"
+        color "purple"
     ]
     node [
         id 3405695
@@ -46548,12 +46548,12 @@ graph [
     node [
         id 292736
         label "Mortician"
-        color "red"
+        color "blue"
     ]
     node [
         id 292737
         label "Brutality"
-        color "red"
+        color "blue"
     ]
     node [
         id 1275778
@@ -46563,12 +46563,12 @@ graph [
     node [
         id 292739
         label "Gorefest"
-        color "red"
+        color "blue"
     ]
     node [
         id 292740
         label "Benediction"
-        color "red"
+        color "blue"
     ]
     node [
         id 358278
@@ -46583,17 +46583,17 @@ graph [
     node [
         id 2996104
         label "Kalidia"
-        color "red"
+        color "blue"
     ]
     node [
         id 291820
         label "Atargatis"
-        color "red"
+        color "purple"
     ]
     node [
         id 292746
         label "Belphegor"
-        color "red"
+        color "purple"
     ]
     node [
         id 96139
@@ -46628,22 +46628,22 @@ graph [
     node [
         id 292754
         label "Agathodaimon"
-        color "red"
+        color "blue"
     ]
     node [
         id 292755
         label "Hollow"
-        color "red"
+        color "blue"
     ]
     node [
         id 292756
         label "Death"
-        color "red"
+        color "blue"
     ]
     node [
         id 292757
         label "Gardenian"
-        color "red"
+        color "blue"
     ]
     node [
         id 2439062
@@ -46653,17 +46653,17 @@ graph [
     node [
         id 292759
         label "Raise Hell"
-        color "red"
+        color "purple"
     ]
     node [
         id 292760
         label "Stahlhammer"
-        color "red"
+        color "blue"
     ]
     node [
         id 292761
         label "Dismember"
-        color "red"
+        color "blue"
     ]
     node [
         id 79770
@@ -46673,27 +46673,27 @@ graph [
     node [
         id 292765
         label "Godgory"
-        color "red"
+        color "blue"
     ]
     node [
         id 292768
         label "Narnia"
-        color "red"
+        color "purple"
     ]
     node [
         id 292769
         label "HammerFall"
-        color "red"
+        color "blue"
     ]
     node [
         id 292770
         label "Orphanage"
-        color "red"
+        color "purple"
     ]
     node [
         id 325539
         label "Family"
-        color "red"
+        color "purple"
     ]
     node [
         id 1800100
@@ -46703,12 +46703,12 @@ graph [
     node [
         id 292774
         label "The Kovenant"
-        color "red"
+        color "purple"
     ]
     node [
         id 292775
         label "Susperia"
-        color "red"
+        color "blue"
     ]
     node [
         id 2029480
@@ -46728,7 +46728,7 @@ graph [
     node [
         id 1418398
         label "Fatal Recoil"
-        color "red"
+        color "blue"
     ]
     node [
         id 30639
@@ -46743,17 +46743,17 @@ graph [
     node [
         id 1259443
         label "The Red Chord"
-        color "red"
+        color "blue"
     ]
     node [
         id 2423329
         label "Sleigor Trout"
-        color "red"
+        color "blue"
     ]
     node [
         id 297289
         label "Black Comedy"
-        color "red"
+        color "blue"
     ]
     node [
         id 800697
@@ -46763,7 +46763,7 @@ graph [
     node [
         id 161723
         label "Heaven Shall Burn"
-        color "red"
+        color "blue"
     ]
     node [
         id 669628
@@ -46778,7 +46778,7 @@ graph [
     node [
         id 817086
         label "Blood Stain Child"
-        color "red"
+        color "blue"
     ]
     node [
         id 767937
@@ -46788,7 +46788,7 @@ graph [
     node [
         id 899011
         label "Allfader"
-        color "red"
+        color "blue"
     ]
     node [
         id 78838
@@ -46813,22 +46813,22 @@ graph [
     node [
         id 538570
         label "Manimal"
-        color "red"
+        color "blue"
     ]
     node [
         id 538571
         label "Onslaught"
-        color "red"
+        color "purple"
     ]
     node [
         id 1619917
         label "Tothem"
-        color "red"
+        color "blue"
     ]
     node [
         id 538574
         label "Warbringer"
-        color "red"
+        color "purple"
     ]
     node [
         id 1730893
@@ -46848,12 +46848,12 @@ graph [
     node [
         id 245925
         label "Wretch"
-        color "red"
+        color "blue"
     ]
     node [
         id 291833
         label "RebellioN"
-        color "red"
+        color "purple"
     ]
     node [
         id 525855
@@ -46873,7 +46873,7 @@ graph [
     node [
         id 718811
         label "Depths of Hatred"
-        color "red"
+        color "purple"
     ]
     node [
         id 200207
@@ -46888,7 +46888,7 @@ graph [
     node [
         id 358368
         label "Necromantia"
-        color "red"
+        color "purple"
     ]
     node [
         id 538593
@@ -46898,12 +46898,12 @@ graph [
     node [
         id 1406946
         label "Jonas Tamas"
-        color "red"
+        color "purple"
     ]
     node [
         id 313085
         label "The Arrs"
-        color "red"
+        color "purple"
     ]
     node [
         id 7846
@@ -46913,12 +46913,12 @@ graph [
     node [
         id 1815548
         label "Burn Blue Sky"
-        color "red"
+        color "purple"
     ]
     node [
         id 538603
         label "Solution .45"
-        color "red"
+        color "blue"
     ]
     node [
         id 1587180
@@ -46958,7 +46958,7 @@ graph [
     node [
         id 3749879
         label "Fox"
-        color "red"
+        color "purple"
     ]
     node [
         id 132012
@@ -46998,22 +46998,22 @@ graph [
     node [
         id 2406410
         label "Burial for Alive"
-        color "red"
+        color "blue"
     ]
     node [
         id 702476
         label "Waylander"
-        color "red"
+        color "blue"
     ]
     node [
         id 260109
         label "Kotiteollisuus"
-        color "red"
+        color "purple"
     ]
     node [
         id 2537486
         label "Destroy the Moon"
-        color "red"
+        color "blue"
     ]
     node [
         id 48813
@@ -47028,12 +47028,12 @@ graph [
     node [
         id 833553
         label "Rise Of The Northstar"
-        color "red"
+        color "blue"
     ]
     node [
         id 635907
         label "The Mass"
-        color "red"
+        color "blue"
     ]
     node [
         id 1947668
@@ -47078,7 +47078,7 @@ graph [
     node [
         id 1783837
         label "Trauma Concept"
-        color "red"
+        color "blue"
     ]
     node [
         id 79902
@@ -47088,22 +47088,22 @@ graph [
     node [
         id 292895
         label "Ektomorf"
-        color "red"
+        color "purple"
     ]
     node [
         id 292896
         label "Cathedral"
-        color "red"
+        color "purple"
     ]
     node [
         id 292898
         label "Mystic Prophecy"
-        color "red"
+        color "purple"
     ]
     node [
         id 292901
         label "Gun Barrel"
-        color "red"
+        color "purple"
     ]
     node [
         id 1271645
@@ -47128,27 +47128,27 @@ graph [
     node [
         id 291847
         label "Crematory"
-        color "red"
+        color "purple"
     ]
     node [
         id 292909
         label "Raunchy"
-        color "red"
+        color "blue"
     ]
     node [
         id 702510
         label "Cronian"
-        color "red"
+        color "blue"
     ]
     node [
         id 292911
         label "Death Angel"
-        color "red"
+        color "purple"
     ]
     node [
         id 292912
         label "Cannibal Corpse"
-        color "red"
+        color "blue"
     ]
     node [
         id 3447826
@@ -47168,12 +47168,12 @@ graph [
     node [
         id 88315
         label "The 69 Eyes"
-        color "red"
+        color "purple"
     ]
     node [
         id 151055
         label "Riot"
-        color "red"
+        color "purple"
     ]
     node [
         id 1325113
@@ -47188,7 +47188,7 @@ graph [
     node [
         id 1243196
         label "Dave Shadow"
-        color "red"
+        color "blue"
     ]
     node [
         id 73397
@@ -47198,7 +47198,7 @@ graph [
     node [
         id 358464
         label "Osi"
-        color "red"
+        color "purple"
     ]
     node [
         id 1013825
@@ -47228,7 +47228,7 @@ graph [
     node [
         id 21211
         label "Wolf Hoffmann"
-        color "red"
+        color "blue"
     ]
     node [
         id 587847
@@ -47243,27 +47243,27 @@ graph [
     node [
         id 2342583
         label "Sight Unscene"
-        color "red"
+        color "blue"
     ]
     node [
         id 292735
         label "Disrupt"
-        color "red"
+        color "blue"
     ]
     node [
         id 855318
         label "Mournful Congregation"
-        color "red"
+        color "blue"
     ]
     node [
         id 1554511
         label "Manntra"
-        color "red"
+        color "purple"
     ]
     node [
         id 637008
         label "On Thorns I Lay"
-        color "red"
+        color "blue"
     ]
     node [
         id 2963537
@@ -47298,7 +47298,7 @@ graph [
     node [
         id 2685020
         label "Newsted"
-        color "red"
+        color "blue"
     ]
     node [
         id 79967
@@ -47318,27 +47318,27 @@ graph [
     node [
         id 1718370
         label "Exes For Eyes"
-        color "red"
+        color "blue"
     ]
     node [
         id 1030244
         label "Xentrix"
-        color "red"
+        color "blue"
     ]
     node [
         id 3340389
         label "Aversions Crown"
-        color "red"
+        color "blue"
     ]
     node [
         id 1390694
         label "Kiju"
-        color "red"
+        color "blue"
     ]
     node [
         id 488465
         label "Blowsight"
-        color "red"
+        color "purple"
     ]
     node [
         id 2446644
@@ -47348,17 +47348,17 @@ graph [
     node [
         id 3341521
         label "Gernotshagen"
-        color "red"
+        color "blue"
     ]
     node [
         id 2898028
         label "Arthur Amity"
-        color "red"
+        color "blue"
     ]
     node [
         id 227437
         label "David Ellefson"
-        color "red"
+        color "blue"
     ]
     node [
         id 587886
@@ -47368,12 +47368,12 @@ graph [
     node [
         id 260209
         label "The Storm"
-        color "red"
+        color "purple"
     ]
     node [
         id 260210
         label "Nicke Borg Homeland"
-        color "red"
+        color "purple"
     ]
     node [
         id 194675
@@ -47388,7 +47388,7 @@ graph [
     node [
         id 47222
         label "Ryker'S"
-        color "red"
+        color "purple"
     ]
     node [
         id 260215
@@ -47398,7 +47398,7 @@ graph [
     node [
         id 342136
         label "Hard-Ons"
-        color "red"
+        color "purple"
     ]
     node [
         id 292987
@@ -47408,7 +47408,7 @@ graph [
     node [
         id 47228
         label "Girlschool"
-        color "red"
+        color "purple"
     ]
     node [
         id 1734782
@@ -47428,12 +47428,12 @@ graph [
     node [
         id 21213
         label "Accept"
-        color "red"
+        color "purple"
     ]
     node [
         id 805227
         label "Svart Crown"
-        color "red"
+        color "blue"
     ]
     node [
         id 1292421
@@ -47443,7 +47443,7 @@ graph [
     node [
         id 519314
         label "Руян"
-        color "red"
+        color "blue"
     ]
     node [
         id 30856
@@ -47463,27 +47463,27 @@ graph [
     node [
         id 807959
         label "Devastator"
-        color "red"
+        color "blue"
     ]
     node [
         id 2308238
         label "SYX"
-        color "red"
+        color "blue"
     ]
     node [
         id 1767567
         label "Mastercastle"
-        color "red"
+        color "blue"
     ]
     node [
         id 817297
         label "Wildpath"
-        color "red"
+        color "blue"
     ]
     node [
         id 358546
         label "Dol Ammad"
-        color "red"
+        color "purple"
     ]
     node [
         id 833683
@@ -47493,12 +47493,12 @@ graph [
     node [
         id 358548
         label "Varathron"
-        color "red"
+        color "blue"
     ]
     node [
         id 358549
         label "Inactive Messiah"
-        color "red"
+        color "blue"
     ]
     node [
         id 455705
@@ -47533,7 +47533,7 @@ graph [
     node [
         id 309409
         label "Van Canto"
-        color "red"
+        color "purple"
     ]
     node [
         id 1194146
@@ -47548,7 +47548,7 @@ graph [
     node [
         id 1833127
         label "The Rods"
-        color "red"
+        color "blue"
     ]
     node [
         id 639885
@@ -47583,7 +47583,7 @@ graph [
     node [
         id 2554030
         label "Ghosthill"
-        color "red"
+        color "blue"
     ]
     node [
         id 293040
@@ -47598,7 +47598,7 @@ graph [
     node [
         id 440498
         label "Punish"
-        color "red"
+        color "purple"
     ]
     node [
         id 1833143
@@ -47608,7 +47608,7 @@ graph [
     node [
         id 1063096
         label "The Privateer"
-        color "red"
+        color "purple"
     ]
     node [
         id 2640244
@@ -47628,12 +47628,12 @@ graph [
     node [
         id 1195722
         label "We Made God"
-        color "red"
+        color "purple"
     ]
     node [
         id 2111678
         label "In Grief"
-        color "red"
+        color "blue"
     ]
     node [
         id 1917245
@@ -47643,12 +47643,12 @@ graph [
     node [
         id 2455745
         label "Elint"
-        color "red"
+        color "blue"
     ]
     node [
         id 523135
         label "The Vision Bleak"
-        color "red"
+        color "purple"
     ]
     node [
         id 211141
@@ -47663,7 +47663,7 @@ graph [
     node [
         id 1423560
         label "Reuben"
-        color "red"
+        color "purple"
     ]
     node [
         id 2521289
@@ -47693,17 +47693,17 @@ graph [
     node [
         id 2606353
         label "Antropomorphia"
-        color "red"
+        color "blue"
     ]
     node [
         id 1292496
         label "Purson"
-        color "red"
+        color "purple"
     ]
     node [
         id 833745
         label "Crossbones"
-        color "red"
+        color "blue"
     ]
     node [
         id 489682
@@ -47728,7 +47728,7 @@ graph [
     node [
         id 1741928
         label "Soulmaker"
-        color "red"
+        color "blue"
     ]
     node [
         id 3881178
@@ -47743,7 +47743,7 @@ graph [
     node [
         id 2750686
         label "Sigiriya"
-        color "red"
+        color "purple"
     ]
     node [
         id 32673
@@ -47758,7 +47758,7 @@ graph [
     node [
         id 63715
         label "Skylark"
-        color "red"
+        color "purple"
     ]
     node [
         id 1833189
@@ -47773,7 +47773,7 @@ graph [
     node [
         id 587121
         label "Vinnie Moore"
-        color "red"
+        color "purple"
     ]
     node [
         id 784618
@@ -47788,7 +47788,7 @@ graph [
     node [
         id 1911417
         label "Rakoth"
-        color "red"
+        color "blue"
     ]
     node [
         id 162031
@@ -47808,7 +47808,7 @@ graph [
     node [
         id 81619
         label "Born Of Osiris"
-        color "red"
+        color "blue"
     ]
     node [
         id 3872109
@@ -47843,7 +47843,7 @@ graph [
     node [
         id 1630634
         label "Daemonia"
-        color "red"
+        color "purple"
     ]
     node [
         id 4307202
@@ -47868,7 +47868,7 @@ graph [
     node [
         id 316460
         label "Lick"
-        color "red"
+        color "purple"
     ]
     node [
         id 14603
@@ -47878,7 +47878,7 @@ graph [
     node [
         id 1767692
         label "Eye of the Enemy"
-        color "red"
+        color "blue"
     ]
     node [
         id 1833229
@@ -47893,22 +47893,22 @@ graph [
     node [
         id 309519
         label "Immolation"
-        color "red"
+        color "blue"
     ]
     node [
         id 358673
         label "Macbeth"
-        color "red"
+        color "blue"
     ]
     node [
         id 719123
         label "Serianna"
-        color "red"
+        color "purple"
     ]
     node [
         id 1430656
         label "Necrotorture"
-        color "red"
+        color "blue"
     ]
     node [
         id 2077742
@@ -47933,7 +47933,7 @@ graph [
     node [
         id 2013471
         label "Echoterra"
-        color "red"
+        color "blue"
     ]
     node [
         id 309537
@@ -47968,32 +47968,32 @@ graph [
     node [
         id 309546
         label "Asrai"
-        color "red"
+        color "blue"
     ]
     node [
         id 768299
         label "The Fallen Divine"
-        color "red"
+        color "blue"
     ]
     node [
         id 300082
         label "Mystigma"
-        color "red"
+        color "blue"
     ]
     node [
         id 532189
         label "Voodoo Circle"
-        color "red"
+        color "purple"
     ]
     node [
         id 1898801
         label "Indestructible Noise Command"
-        color "red"
+        color "blue"
     ]
     node [
         id 1946675
         label "Forwardhead"
-        color "red"
+        color "purple"
     ]
     node [
         id 47413
@@ -48003,27 +48003,27 @@ graph [
     node [
         id 47414
         label "Amorphis"
-        color "red"
+        color "blue"
     ]
     node [
         id 701492
         label "Zonata"
-        color "red"
+        color "blue"
     ]
     node [
         id 1734973
         label "Legacy of Disorder"
-        color "red"
+        color "blue"
     ]
     node [
         id 1112382
         label "Devil"
-        color "red"
+        color "purple"
     ]
     node [
         id 424256
         label "Amaranthe"
-        color "red"
+        color "purple"
     ]
     node [
         id 906066
@@ -48043,27 +48043,27 @@ graph [
     node [
         id 424265
         label "Protest The Hero"
-        color "red"
+        color "purple"
     ]
     node [
         id 792471
         label "Kobra And The Lotus"
-        color "red"
+        color "purple"
     ]
     node [
         id 1773029
         label "Gnarkill"
-        color "red"
+        color "purple"
     ]
     node [
         id 3836356
         label "Silence Lies Fear"
-        color "red"
+        color "blue"
     ]
     node [
         id 1112397
         label "Blut Aus Nord"
-        color "red"
+        color "purple"
     ]
     node [
         id 1112398
@@ -48073,7 +48073,7 @@ graph [
     node [
         id 626293
         label "Lucky Bastardz"
-        color "red"
+        color "purple"
     ]
     node [
         id 1112402
@@ -48083,7 +48083,7 @@ graph [
     node [
         id 1210707
         label "Raging Speedhorn"
-        color "red"
+        color "blue"
     ]
     node [
         id 47444
@@ -48093,17 +48093,17 @@ graph [
     node [
         id 1581536
         label "Wild*Side"
-        color "red"
+        color "blue"
     ]
     node [
         id 1112406
         label "Bolt Thrower"
-        color "red"
+        color "purple"
     ]
     node [
         id 3027829
         label "Sinbreed"
-        color "red"
+        color "purple"
     ]
     node [
         id 1161560
@@ -48113,7 +48113,7 @@ graph [
     node [
         id 129369
         label "Haggard"
-        color "red"
+        color "blue"
     ]
     node [
         id 2487858
@@ -48123,7 +48123,7 @@ graph [
     node [
         id 1915230
         label "Evil's Desire"
-        color "red"
+        color "blue"
     ]
     node [
         id 474627
@@ -48138,7 +48138,7 @@ graph [
     node [
         id 1898854
         label "FireScent"
-        color "red"
+        color "blue"
     ]
     node [
         id 63849
@@ -48158,12 +48158,12 @@ graph [
     node [
         id 63853
         label "Poison The Well"
-        color "red"
+        color "purple"
     ]
     node [
         id 915822
         label "Godsend"
-        color "red"
+        color "purple"
     ]
     node [
         id 145778
@@ -48178,32 +48178,32 @@ graph [
     node [
         id 1079668
         label "The Word Alive"
-        color "red"
+        color "purple"
     ]
     node [
         id 1079669
         label "Crown The Empire"
-        color "red"
+        color "purple"
     ]
     node [
         id 845570
         label "L'esprit Du Clan"
-        color "red"
+        color "purple"
     ]
     node [
         id 345220
         label "Walking With Strangers"
-        color "red"
+        color "blue"
     ]
     node [
         id 351978
         label "Моесердцесправа"
-        color "red"
+        color "blue"
     ]
     node [
         id 1194366
         label "Tombs"
-        color "red"
+        color "blue"
     ]
     node [
         id 1014145
@@ -48218,7 +48218,7 @@ graph [
     node [
         id 3586435
         label "The V"
-        color "red"
+        color "blue"
     ]
     node [
         id 63876
@@ -48228,7 +48228,7 @@ graph [
     node [
         id 63877
         label "Rowan Robertson"
-        color "red"
+        color "purple"
     ]
     node [
         id 4637793
@@ -48243,7 +48243,7 @@ graph [
     node [
         id 211337
         label "Dangerous Toys"
-        color "red"
+        color "purple"
     ]
     node [
         id 67991
@@ -48253,17 +48253,17 @@ graph [
     node [
         id 627778
         label "Synarchy"
-        color "red"
+        color "blue"
     ]
     node [
         id 2760429
         label "Fightcast"
-        color "red"
+        color "blue"
     ]
     node [
         id 1866128
         label "Massemord"
-        color "red"
+        color "blue"
     ]
     node [
         id 63889
@@ -48283,12 +48283,12 @@ graph [
     node [
         id 31127
         label "Pain"
-        color "red"
+        color "blue"
     ]
     node [
         id 375193
         label "Harvey Milk"
-        color "red"
+        color "purple"
     ]
     node [
         id 31131
@@ -48313,12 +48313,12 @@ graph [
     node [
         id 1438055
         label "The Omega Experiment"
-        color "red"
+        color "blue"
     ]
     node [
         id 2418981
         label "Kantation"
-        color "red"
+        color "blue"
     ]
     node [
         id 407975
@@ -48333,12 +48333,12 @@ graph [
     node [
         id 43420
         label "Diablo"
-        color "red"
+        color "blue"
     ]
     node [
         id 63914
         label "King's X"
-        color "red"
+        color "purple"
     ]
     node [
         id 1971271
@@ -48368,7 +48368,7 @@ graph [
     node [
         id 1128883
         label "Dirty Looks"
-        color "red"
+        color "purple"
     ]
     node [
         id 27038
@@ -48388,7 +48388,7 @@ graph [
     node [
         id 73052
         label "For The Fallen Dreams"
-        color "red"
+        color "blue"
     ]
     node [
         id 2439609
@@ -48398,7 +48398,7 @@ graph [
     node [
         id 1930513
         label "Admiral of Black"
-        color "red"
+        color "blue"
     ]
     node [
         id 1079740
@@ -48438,22 +48438,22 @@ graph [
     node [
         id 1472968
         label "Skogen"
-        color "red"
+        color "blue"
     ]
     node [
         id 2232399
         label "Cold Blue Mountain"
-        color "red"
+        color "purple"
     ]
     node [
         id 477602
         label "Eden's Curse"
-        color "red"
+        color "purple"
     ]
     node [
         id 473551
         label "Avantasia"
-        color "red"
+        color "blue"
     ]
     node [
         id 63953
@@ -48463,12 +48463,12 @@ graph [
     node [
         id 473554
         label "Silent Force"
-        color "red"
+        color "purple"
     ]
     node [
         id 1472979
         label "Profanatica"
-        color "red"
+        color "blue"
     ]
     node [
         id 326103
@@ -48478,12 +48478,12 @@ graph [
     node [
         id 293336
         label "Carpathian Forest"
-        color "red"
+        color "blue"
     ]
     node [
         id 473561
         label "Masterplan"
-        color "red"
+        color "blue"
     ]
     node [
         id 473562
@@ -48503,7 +48503,7 @@ graph [
     node [
         id 192532
         label "Adam Gontier"
-        color "red"
+        color "blue"
     ]
     node [
         id 162272
@@ -48513,7 +48513,7 @@ graph [
     node [
         id 473569
         label "Elvenking"
-        color "red"
+        color "purple"
     ]
     node [
         id 293346
@@ -48523,12 +48523,12 @@ graph [
     node [
         id 473571
         label "Rick Altzi"
-        color "red"
+        color "blue"
     ]
     node [
         id 473572
         label "At Vance"
-        color "red"
+        color "purple"
     ]
     node [
         id 293350
@@ -48548,17 +48548,17 @@ graph [
     node [
         id 162282
         label "Ross The Boss"
-        color "red"
+        color "purple"
     ]
     node [
         id 473579
         label "Eisbrecher"
-        color "red"
+        color "purple"
     ]
     node [
         id 1473004
         label "Jig-Ai"
-        color "red"
+        color "blue"
     ]
     node [
         id 357458
@@ -48568,22 +48568,22 @@ graph [
     node [
         id 2492769
         label "Vortice"
-        color "red"
+        color "blue"
     ]
     node [
         id 1440239
         label "The I Don't Know"
-        color "red"
+        color "blue"
     ]
     node [
         id 1362344
         label "Terhen"
-        color "red"
+        color "blue"
     ]
     node [
         id 1210867
         label "Pavic"
-        color "red"
+        color "purple"
     ]
     node [
         id 4381936
@@ -48598,7 +48598,7 @@ graph [
     node [
         id 47607
         label "Anonymus"
-        color "red"
+        color "purple"
     ]
     node [
         id 1866232
@@ -48613,7 +48613,7 @@ graph [
     node [
         id 2259457
         label "Section A"
-        color "red"
+        color "blue"
     ]
     node [
         id 2570754
@@ -48623,22 +48623,22 @@ graph [
     node [
         id 1473027
         label "Animals Killing People"
-        color "red"
+        color "blue"
     ]
     node [
         id 702980
         label "Alastis"
-        color "red"
+        color "blue"
     ]
     node [
         id 1735174
         label "Split Heaven"
-        color "red"
+        color "blue"
     ]
     node [
         id 260616
         label "Weissglut"
-        color "red"
+        color "blue"
     ]
     node [
         id 1161737
@@ -48648,12 +48648,12 @@ graph [
     node [
         id 1473034
         label "Barad Dur"
-        color "red"
+        color "blue"
     ]
     node [
         id 702987
         label "Carnal Forge"
-        color "red"
+        color "purple"
     ]
     node [
         id 31245
@@ -48663,7 +48663,7 @@ graph [
     node [
         id 1473038
         label "Posthum"
-        color "red"
+        color "purple"
     ]
     node [
         id 2419117
@@ -48683,12 +48683,12 @@ graph [
     node [
         id 119428
         label "Coal Chamber"
-        color "red"
+        color "blue"
     ]
     node [
         id 64019
         label "Queensrÿche"
-        color "red"
+        color "blue"
     ]
     node [
         id 813486
@@ -48698,12 +48698,12 @@ graph [
     node [
         id 1473046
         label "Necrotic Disgorgement"
-        color "red"
+        color "blue"
     ]
     node [
         id 1473047
         label "Aversion to Life"
-        color "red"
+        color "blue"
     ]
     node [
         id 2112865
@@ -48713,7 +48713,7 @@ graph [
     node [
         id 1473049
         label "Sacred Reich"
-        color "red"
+        color "blue"
     ]
     node [
         id 96796
@@ -48748,7 +48748,7 @@ graph [
     node [
         id 703014
         label "Zimmers Hole"
-        color "red"
+        color "blue"
     ]
     node [
         id 477617
@@ -48758,7 +48758,7 @@ graph [
     node [
         id 1791040
         label "Godyva"
-        color "red"
+        color "blue"
     ]
     node [
         id 2832938
@@ -48773,7 +48773,7 @@ graph [
     node [
         id 2275884
         label "Negative 263"
-        color "red"
+        color "blue"
     ]
     node [
         id 813490
@@ -48793,7 +48793,7 @@ graph [
     node [
         id 64049
         label "Stone Sour"
-        color "red"
+        color "blue"
     ]
     node [
         id 14898
@@ -48808,7 +48808,7 @@ graph [
     node [
         id 703028
         label "Into Eternity"
-        color "red"
+        color "blue"
     ]
     node [
         id 3292981
@@ -48823,17 +48823,17 @@ graph [
     node [
         id 342583
         label "Miseration"
-        color "red"
+        color "blue"
     ]
     node [
         id 477620
         label "Shakra"
-        color "red"
+        color "purple"
     ]
     node [
         id 1473085
         label "Exiled from Light"
-        color "red"
+        color "blue"
     ]
     node [
         id 567733
@@ -48843,7 +48843,7 @@ graph [
     node [
         id 64064
         label "Sevendust"
-        color "red"
+        color "blue"
     ]
     node [
         id 64066
@@ -48853,12 +48853,12 @@ graph [
     node [
         id 1622599
         label "Septa"
-        color "red"
+        color "purple"
     ]
     node [
         id 408132
         label "Mistweaver"
-        color "red"
+        color "blue"
     ]
     node [
         id 14917
@@ -48868,12 +48868,12 @@ graph [
     node [
         id 703046
         label "Suidakra"
-        color "red"
+        color "purple"
     ]
     node [
         id 408137
         label "Gorerotted"
-        color "red"
+        color "blue"
     ]
     node [
         id 506442
@@ -48893,12 +48893,12 @@ graph [
     node [
         id 64078
         label "Caliban"
-        color "red"
+        color "blue"
     ]
     node [
         id 2275920
         label "Necro Deathmort"
-        color "red"
+        color "blue"
     ]
     node [
         id 4766289
@@ -48908,22 +48908,22 @@ graph [
     node [
         id 1324582
         label "Nuevo Poder"
-        color "red"
+        color "blue"
     ]
     node [
         id 2010166
         label "The Reticent"
-        color "red"
+        color "blue"
     ]
     node [
         id 277076
         label "Aquelarre"
-        color "red"
+        color "purple"
     ]
     node [
         id 1473110
         label "SIG:AR:TYR"
-        color "red"
+        color "blue"
     ]
     node [
         id 1243736
@@ -48938,7 +48938,7 @@ graph [
     node [
         id 884495
         label "Akentra"
-        color "red"
+        color "blue"
     ]
     node [
         id 1423967
@@ -48953,22 +48953,22 @@ graph [
     node [
         id 1318672
         label "Hellrazer"
-        color "red"
+        color "blue"
     ]
     node [
         id 1571426
         label "Timo Tolkki’s Avalon"
-        color "red"
+        color "blue"
     ]
     node [
         id 703075
         label "Morgoth"
-        color "red"
+        color "blue"
     ]
     node [
         id 1213319
         label "House of Broken Promises"
-        color "red"
+        color "blue"
     ]
     node [
         id 4323942
@@ -48988,7 +48988,7 @@ graph [
     node [
         id 326251
         label "Jungle Rot"
-        color "red"
+        color "purple"
     ]
     node [
         id 4504173
@@ -48998,7 +48998,7 @@ graph [
     node [
         id 978696
         label "Lord of Mushrooms"
-        color "red"
+        color "purple"
     ]
     node [
         id 1489519
@@ -49018,7 +49018,7 @@ graph [
     node [
         id 342643
         label "Azaghal"
-        color "red"
+        color "blue"
     ]
     node [
         id 3238116
@@ -49033,7 +49033,7 @@ graph [
     node [
         id 341097
         label "Memphis May Fire"
-        color "red"
+        color "purple"
     ]
     node [
         id 812299
@@ -49053,12 +49053,12 @@ graph [
     node [
         id 1272756
         label "Blood Ceremony"
-        color "red"
+        color "purple"
     ]
     node [
         id 118886
         label "Europe"
-        color "red"
+        color "purple"
     ]
     node [
         id 2177663
@@ -49078,7 +49078,7 @@ graph [
     node [
         id 64131
         label "Still Remains"
-        color "red"
+        color "purple"
     ]
     node [
         id 375428
@@ -49098,17 +49098,17 @@ graph [
     node [
         id 2112135
         label "Amongst Carrion"
-        color "red"
+        color "blue"
     ]
     node [
         id 64136
         label "3 Inches Of Blood"
-        color "red"
+        color "purple"
     ]
     node [
         id 1407625
         label "Empty Handed"
-        color "red"
+        color "purple"
     ]
     node [
         id 47754
@@ -49118,12 +49118,12 @@ graph [
     node [
         id 1833611
         label "A Cosmic Trail"
-        color "red"
+        color "blue"
     ]
     node [
         id 1509826
         label "Black Motel Six"
-        color "red"
+        color "blue"
     ]
     node [
         id 524787
@@ -49148,7 +49148,7 @@ graph [
     node [
         id 1829316
         label "Myka Relocate"
-        color "red"
+        color "blue"
     ]
     node [
         id 1555099
@@ -49173,12 +49173,12 @@ graph [
     node [
         id 47777
         label "Darkest Hour"
-        color "red"
+        color "blue"
     ]
     node [
         id 483099
         label "Torque"
-        color "red"
+        color "purple"
     ]
     node [
         id 477638
@@ -49193,27 +49193,27 @@ graph [
     node [
         id 701553
         label "Krisiun"
-        color "red"
+        color "purple"
     ]
     node [
         id 1194665
         label "3 Quarters Dead"
-        color "red"
+        color "purple"
     ]
     node [
         id 64172
         label "Atréyu"
-        color "red"
+        color "blue"
     ]
     node [
         id 1915567
         label "Hammer Horde"
-        color "red"
+        color "blue"
     ]
     node [
         id 764043
         label "Byfrost"
-        color "red"
+        color "blue"
     ]
     node [
         id 195250
@@ -49223,12 +49223,12 @@ graph [
     node [
         id 64179
         label "Converge"
-        color "red"
+        color "purple"
     ]
     node [
         id 293556
         label "Lacrimas Profundere"
-        color "red"
+        color "purple"
     ]
     node [
         id 15029
@@ -49253,32 +49253,32 @@ graph [
     node [
         id 64186
         label "Vanna"
-        color "red"
+        color "purple"
     ]
     node [
         id 639498
         label "Dweller"
-        color "red"
+        color "purple"
     ]
     node [
         id 64188
         label "Ill Niño"
-        color "red"
+        color "blue"
     ]
     node [
         id 64189
         label "Marc Rizzo"
-        color "red"
+        color "purple"
     ]
     node [
         id 359104
         label "Praying Mantis"
-        color "red"
+        color "purple"
     ]
     node [
         id 1483892
         label "Letargy Dream"
-        color "red"
+        color "purple"
     ]
     node [
         id 2456258
@@ -49298,7 +49298,7 @@ graph [
     node [
         id 64199
         label "Escape The Fate"
-        color "red"
+        color "blue"
     ]
     node [
         id 64204
@@ -49308,7 +49308,7 @@ graph [
     node [
         id 142348
         label "The Color Morale"
-        color "red"
+        color "purple"
     ]
     node [
         id 47823
@@ -49323,7 +49323,7 @@ graph [
     node [
         id 682446
         label "Metatron"
-        color "red"
+        color "blue"
     ]
     node [
         id 751640
@@ -49333,7 +49333,7 @@ graph [
     node [
         id 1129176
         label "Cytotoxin"
-        color "red"
+        color "blue"
     ]
     node [
         id 1178333
@@ -49358,7 +49358,7 @@ graph [
     node [
         id 2233467
         label "Ever Since"
-        color "red"
+        color "purple"
     ]
     node [
         id 162532
@@ -49373,12 +49373,12 @@ graph [
     node [
         id 1981159
         label "Gates of Winter"
-        color "red"
+        color "blue"
     ]
     node [
         id 2603753
         label "Atakama"
-        color "red"
+        color "blue"
     ]
     node [
         id 47851
@@ -49388,7 +49388,7 @@ graph [
     node [
         id 2194158
         label "Pomegranate Tiger"
-        color "red"
+        color "blue"
     ]
     node [
         id 1178351
@@ -49413,12 +49413,12 @@ graph [
     node [
         id 1129204
         label "Devolved"
-        color "red"
+        color "blue"
     ]
     node [
         id 1178357
         label "Forest Stream"
-        color "red"
+        color "purple"
     ]
     node [
         id 1489654
@@ -49433,7 +49433,7 @@ graph [
     node [
         id 1911252
         label "The Browning"
-        color "red"
+        color "purple"
     ]
     node [
         id 64250
@@ -49463,7 +49463,7 @@ graph [
     node [
         id 281045
         label "Cabezones"
-        color "red"
+        color "blue"
     ]
     node [
         id 1751808
@@ -49478,7 +49478,7 @@ graph [
     node [
         id 31743
         label "Swallow The Sun"
-        color "red"
+        color "blue"
     ]
     node [
         id 2769791
@@ -49513,17 +49513,17 @@ graph [
     node [
         id 47883
         label "Despair"
-        color "red"
+        color "blue"
     ]
     node [
         id 47884
         label "Unearth"
-        color "red"
+        color "blue"
     ]
     node [
         id 703245
         label "Venomous Concept"
-        color "red"
+        color "blue"
     ]
     node [
         id 1866510
@@ -49538,12 +49538,12 @@ graph [
     node [
         id 1604369
         label "Starkill"
-        color "red"
+        color "blue"
     ]
     node [
         id 932627
         label "Pharaohs"
-        color "red"
+        color "purple"
     ]
     node [
         id 2154286
@@ -49553,22 +49553,22 @@ graph [
     node [
         id 588568
         label "Heretic"
-        color "red"
+        color "blue"
     ]
     node [
         id 703259
         label "Luna Mortis"
-        color "red"
+        color "blue"
     ]
     node [
         id 47900
         label "Planes Mistaken For Stars"
-        color "red"
+        color "purple"
     ]
     node [
         id 2931485
         label "Saor"
-        color "red"
+        color "blue"
     ]
     node [
         id 473887
@@ -49578,7 +49578,7 @@ graph [
     node [
         id 1306041
         label "Skeletor"
-        color "red"
+        color "purple"
     ]
     node [
         id 1653541
@@ -49618,17 +49618,17 @@ graph [
     node [
         id 523052
         label "Secrets Of The Moon"
-        color "red"
+        color "purple"
     ]
     node [
         id 703277
         label "Blessed By A Broken Heart"
-        color "red"
+        color "blue"
     ]
     node [
         id 129838
         label "Poltergeist"
-        color "red"
+        color "blue"
     ]
     node [
         id 4745693
@@ -49638,22 +49638,22 @@ graph [
     node [
         id 2259760
         label "Truth Behold"
-        color "red"
+        color "blue"
     ]
     node [
         id 523057
         label "Helrunar"
-        color "red"
+        color "purple"
     ]
     node [
         id 703282
         label "Terrorizer"
-        color "red"
+        color "purple"
     ]
     node [
         id 1604404
         label "The Ocean"
-        color "red"
+        color "blue"
     ]
     node [
         id 1112885
@@ -49668,7 +49668,7 @@ graph [
     node [
         id 1430665
         label "Forgotten Tomb"
-        color "red"
+        color "blue"
     ]
     node [
         id 31544
@@ -49683,7 +49683,7 @@ graph [
     node [
         id 2339342
         label "A Fall to Break"
-        color "red"
+        color "blue"
     ]
     node [
         id 310076
@@ -49703,12 +49703,12 @@ graph [
     node [
         id 1048373
         label "Low Gravity"
-        color "red"
+        color "blue"
     ]
     node [
         id 873409
         label "Pat Mcmanus Band"
-        color "red"
+        color "blue"
     ]
     node [
         id 2014021
@@ -49723,7 +49723,7 @@ graph [
     node [
         id 523081
         label "Farsot"
-        color "red"
+        color "purple"
     ]
     node [
         id 1482551
@@ -49733,7 +49733,7 @@ graph [
     node [
         id 1621379
         label "Opposite Earth"
-        color "red"
+        color "blue"
     ]
     node [
         id 3727377
@@ -49743,12 +49743,12 @@ graph [
     node [
         id 523087
         label "Negura Bunget"
-        color "red"
+        color "purple"
     ]
     node [
         id 703313
         label "Eyes Of Eden"
-        color "red"
+        color "blue"
     ]
     node [
         id 392020
@@ -49758,37 +49758,37 @@ graph [
     node [
         id 523093
         label "Empyrium"
-        color "red"
+        color "purple"
     ]
     node [
         id 1194838
         label "Nargathrond"
-        color "red"
+        color "blue"
     ]
     node [
         id 1483897
         label "The Morningside"
-        color "red"
+        color "purple"
     ]
     node [
         id 703320
         label "Zonaria"
-        color "red"
+        color "blue"
     ]
     node [
         id 47961
         label "Striker"
-        color "red"
+        color "blue"
     ]
     node [
         id 523098
         label "Leakh"
-        color "red"
+        color "purple"
     ]
     node [
         id 768861
         label "Dead End"
-        color "red"
+        color "purple"
     ]
     node [
         id 985573
@@ -49798,27 +49798,27 @@ graph [
     node [
         id 47968
         label "Remembering Never"
-        color "red"
+        color "blue"
     ]
     node [
         id 2397328
         label "Arven"
-        color "red"
+        color "blue"
     ]
     node [
         id 2374498
         label "Diamondog"
-        color "red"
+        color "purple"
     ]
     node [
         id 981860
         label "Beastwars"
-        color "red"
+        color "blue"
     ]
     node [
         id 2000002
         label "The Hourglass"
-        color "red"
+        color "purple"
     ]
     node [
         id 15209
@@ -49828,7 +49828,7 @@ graph [
     node [
         id 2112362
         label "Eärendil"
-        color "red"
+        color "blue"
     ]
     node [
         id 723380
@@ -49838,17 +49838,17 @@ graph [
     node [
         id 523118
         label "Ewigheim"
-        color "red"
+        color "purple"
     ]
     node [
         id 31599
         label "Draugnim"
-        color "red"
+        color "blue"
     ]
     node [
         id 1882992
         label "The Sequence of Prime"
-        color "red"
+        color "blue"
     ]
     node [
         id 998257
@@ -49858,12 +49858,12 @@ graph [
     node [
         id 80754
         label "Meshuggah"
-        color "red"
+        color "purple"
     ]
     node [
         id 408435
         label "Sparzanza"
-        color "red"
+        color "purple"
     ]
     node [
         id 171838
@@ -49883,7 +49883,7 @@ graph [
     node [
         id 1014649
         label "The Paramedic"
-        color "red"
+        color "blue"
     ]
     node [
         id 310138
@@ -49908,7 +49908,7 @@ graph [
     node [
         id 3849086
         label "Julie Christmas"
-        color "red"
+        color "blue"
     ]
     node [
         id 1325951
@@ -49923,12 +49923,12 @@ graph [
     node [
         id 64386
         label "Black Label Society"
-        color "red"
+        color "purple"
     ]
     node [
         id 64387
         label "Daath"
-        color "red"
+        color "blue"
     ]
     node [
         id 523140
@@ -49943,7 +49943,7 @@ graph [
     node [
         id 64390
         label "Sanctity"
-        color "red"
+        color "blue"
     ]
     node [
         id 40769
@@ -49963,17 +49963,17 @@ graph [
     node [
         id 1031050
         label "Left Behind"
-        color "red"
+        color "blue"
     ]
     node [
         id 46231
         label "Doyle"
-        color "red"
+        color "blue"
     ]
     node [
         id 64397
         label "Illdisposed"
-        color "red"
+        color "purple"
     ]
     node [
         id 523150
@@ -49983,12 +49983,12 @@ graph [
     node [
         id 523152
         label "Alcest"
-        color "red"
+        color "purple"
     ]
     node [
         id 2192536
         label "Wolfmare"
-        color "red"
+        color "blue"
     ]
     node [
         id 637842
@@ -50043,7 +50043,7 @@ graph [
     node [
         id 2292642
         label "Stitched Up Heart"
-        color "red"
+        color "purple"
     ]
     node [
         id 540072
@@ -50053,7 +50053,7 @@ graph [
     node [
         id 31653
         label "DragonForce"
-        color "red"
+        color "blue"
     ]
     node [
         id 1244071
@@ -50068,7 +50068,7 @@ graph [
     node [
         id 1325994
         label "Hand Of Mercy"
-        color "red"
+        color "blue"
     ]
     node [
         id 3308459
@@ -50088,7 +50088,7 @@ graph [
     node [
         id 15280
         label "Children Of Bodom"
-        color "red"
+        color "blue"
     ]
     node [
         id 835400
@@ -50103,12 +50103,12 @@ graph [
     node [
         id 2374579
         label "Fortunate Fall"
-        color "red"
+        color "blue"
     ]
     node [
         id 80820
         label "Sludge"
-        color "red"
+        color "blue"
     ]
     node [
         id 1014710
@@ -50128,12 +50128,12 @@ graph [
     node [
         id 1472989
         label "Acid Witch"
-        color "red"
+        color "blue"
     ]
     node [
         id 31677
         label "Essence"
-        color "red"
+        color "blue"
     ]
     node [
         id 64447
@@ -50143,7 +50143,7 @@ graph [
     node [
         id 2195863
         label "Depths"
-        color "red"
+        color "blue"
     ]
     node [
         id 801733
@@ -50168,17 +50168,17 @@ graph [
     node [
         id 64458
         label "Annihilator"
-        color "red"
+        color "blue"
     ]
     node [
         id 1096651
         label "Elvaron"
-        color "red"
+        color "blue"
     ]
     node [
         id 1260492
         label "Fit For An Autopsy"
-        color "red"
+        color "blue"
     ]
     node [
         id 343670
@@ -50188,7 +50188,7 @@ graph [
     node [
         id 326606
         label "Eternal Tears Of Sorrow"
-        color "red"
+        color "blue"
     ]
     node [
         id 343885
@@ -50213,17 +50213,17 @@ graph [
     node [
         id 1430691
         label "Execration"
-        color "red"
+        color "blue"
     ]
     node [
         id 326613
         label "Riblja Corba"
-        color "red"
+        color "purple"
     ]
     node [
         id 1324003
         label "Fall Of The Leafe"
-        color "red"
+        color "blue"
     ]
     node [
         id 48088
@@ -50238,7 +50238,7 @@ graph [
     node [
         id 306572
         label "Throwdown"
-        color "red"
+        color "purple"
     ]
     node [
         id 146395
@@ -50253,7 +50253,7 @@ graph [
     node [
         id 1317742
         label "Rhapsody"
-        color "red"
+        color "purple"
     ]
     node [
         id 80865
@@ -50268,7 +50268,7 @@ graph [
     node [
         id 1537958
         label "Visceral Disgorge"
-        color "red"
+        color "blue"
     ]
     node [
         id 65361
@@ -50278,22 +50278,22 @@ graph [
     node [
         id 2259946
         label "Welkin"
-        color "red"
+        color "purple"
     ]
     node [
         id 801771
         label "Coven"
-        color "red"
+        color "purple"
     ]
     node [
         id 2775800
         label "Дом Мясника"
-        color "red"
+        color "blue"
     ]
     node [
         id 64494
         label "Devildriver"
-        color "red"
+        color "blue"
     ]
     node [
         id 15344
@@ -50308,7 +50308,7 @@ graph [
     node [
         id 3000573
         label "Snakebyte"
-        color "red"
+        color "blue"
     ]
     node [
         id 588789
@@ -50323,7 +50323,7 @@ graph [
     node [
         id 998393
         label "Transpose"
-        color "red"
+        color "blue"
     ]
     node [
         id 35018
@@ -50343,27 +50343,27 @@ graph [
     node [
         id 293889
         label "The Provenance"
-        color "red"
+        color "purple"
     ]
     node [
         id 293890
         label "Gehenna"
-        color "red"
+        color "purple"
     ]
     node [
         id 293891
         label "Absu"
-        color "red"
+        color "blue"
     ]
     node [
         id 293892
         label "Vader"
-        color "red"
+        color "purple"
     ]
     node [
         id 293893
         label "Keep Of Kalessin"
-        color "red"
+        color "purple"
     ]
     node [
         id 48134
@@ -50373,17 +50373,17 @@ graph [
     node [
         id 1124865
         label "Skálmöld"
-        color "red"
+        color "blue"
     ]
     node [
         id 293896
         label "Behemoth"
-        color "red"
+        color "purple"
     ]
     node [
         id 293897
         label "Dark Funeral"
-        color "red"
+        color "blue"
     ]
     node [
         id 335703
@@ -50393,12 +50393,12 @@ graph [
     node [
         id 1801231
         label "God of Shamisen"
-        color "red"
+        color "blue"
     ]
     node [
         id 2241693
         label "Satariel"
-        color "red"
+        color "blue"
     ]
     node [
         id 97297
@@ -50428,7 +50428,7 @@ graph [
     node [
         id 1268951
         label "Golgotha"
-        color "red"
+        color "blue"
     ]
     node [
         id 1195039
@@ -50438,12 +50438,12 @@ graph [
     node [
         id 64544
         label "Karma To Burn"
-        color "red"
+        color "purple"
     ]
     node [
         id 752673
         label "The Ghost Inside"
-        color "red"
+        color "blue"
     ]
     node [
         id 110171
@@ -50453,27 +50453,27 @@ graph [
     node [
         id 48163
         label "Fear Factory"
-        color "red"
+        color "blue"
     ]
     node [
         id 48164
         label "Life Of Agony"
-        color "red"
+        color "purple"
     ]
     node [
         id 2931751
         label "Sunn 0)))"
-        color "red"
+        color "purple"
     ]
     node [
         id 48168
         label "Keith Caputo"
-        color "red"
+        color "purple"
     ]
     node [
         id 48169
         label "Machine Head"
-        color "red"
+        color "blue"
     ]
     node [
         id 2538539
@@ -50488,22 +50488,22 @@ graph [
     node [
         id 2931757
         label "Alpinist"
-        color "red"
+        color "blue"
     ]
     node [
         id 48174
         label "Madball"
-        color "red"
+        color "purple"
     ]
     node [
         id 2931759
         label "Sarabante"
-        color "red"
+        color "purple"
     ]
     node [
         id 769075
         label "Sleeppers"
-        color "red"
+        color "purple"
     ]
     node [
         id 113716
@@ -50513,7 +50513,7 @@ graph [
     node [
         id 89950
         label "Mustasch"
-        color "red"
+        color "purple"
     ]
     node [
         id 457782
@@ -50538,7 +50538,7 @@ graph [
     node [
         id 1375463
         label "Junius"
-        color "red"
+        color "purple"
     ]
     node [
         id 2571324
@@ -50548,7 +50548,7 @@ graph [
     node [
         id 64573
         label "Pestilence"
-        color "red"
+        color "purple"
     ]
     node [
         id 588862
@@ -50558,7 +50558,7 @@ graph [
     node [
         id 1299637
         label "Electric Earth"
-        color "red"
+        color "purple"
     ]
     node [
         id 64576
@@ -50573,17 +50573,17 @@ graph [
     node [
         id 1195075
         label "Mumakil"
-        color "red"
+        color "blue"
     ]
     node [
         id 48196
         label "Slipknot"
-        color "red"
+        color "blue"
     ]
     node [
         id 742582
         label "Electric Mary"
-        color "red"
+        color "purple"
     ]
     node [
         id 1178694
@@ -50593,7 +50593,7 @@ graph [
     node [
         id 2145351
         label "Bastard Priest"
-        color "red"
+        color "blue"
     ]
     node [
         id 48201
@@ -50613,22 +50613,22 @@ graph [
     node [
         id 48204
         label "Matthew K. Heafy"
-        color "red"
+        color "blue"
     ]
     node [
         id 556109
         label "Schwarzer Engel"
-        color "red"
+        color "purple"
     ]
     node [
         id 48207
         label "Type O Negative"
-        color "red"
+        color "purple"
     ]
     node [
         id 2643231
         label "Kaiju"
-        color "red"
+        color "blue"
     ]
     node [
         id 48209
@@ -50643,7 +50643,7 @@ graph [
     node [
         id 1911310
         label "Vektor"
-        color "red"
+        color "purple"
     ]
     node [
         id 15446
@@ -50653,22 +50653,22 @@ graph [
     node [
         id 64599
         label "Zeke"
-        color "red"
+        color "purple"
     ]
     node [
         id 48216
         label "Shadows Fall"
-        color "red"
+        color "blue"
     ]
     node [
         id 1064025
         label "When Icarus Falls"
-        color "red"
+        color "blue"
     ]
     node [
         id 1752959
         label "Gargamel!"
-        color "red"
+        color "purple"
     ]
     node [
         id 638043
@@ -50683,12 +50683,12 @@ graph [
     node [
         id 1588317
         label "Deathember"
-        color "red"
+        color "blue"
     ]
     node [
         id 1326174
         label "For All Eternity"
-        color "red"
+        color "blue"
     ]
     node [
         id 64607
@@ -50698,12 +50698,12 @@ graph [
     node [
         id 38297
         label "Rotten Sound"
-        color "red"
+        color "blue"
     ]
     node [
         id 64609
         label "Agnostic Front"
-        color "red"
+        color "purple"
     ]
     node [
         id 48226
@@ -50723,7 +50723,7 @@ graph [
     node [
         id 1588325
         label "Scelerata"
-        color "red"
+        color "purple"
     ]
     node [
         id 228454
@@ -50748,7 +50748,7 @@ graph [
     node [
         id 1326186
         label "In Hearts Wake"
-        color "red"
+        color "blue"
     ]
     node [
         id 949355
@@ -50773,17 +50773,17 @@ graph [
     node [
         id 1719409
         label "Night Verses"
-        color "red"
+        color "purple"
     ]
     node [
         id 2348222
         label "5 Star Grave"
-        color "red"
+        color "blue"
     ]
     node [
         id 48247
         label "Satyricon"
-        color "red"
+        color "blue"
     ]
     node [
         id 2096249
@@ -50793,7 +50793,7 @@ graph [
     node [
         id 2063485
         label "End7"
-        color "red"
+        color "blue"
     ]
     node [
         id 1284230
@@ -50808,7 +50808,7 @@ graph [
     node [
         id 1916224
         label "Highlord"
-        color "red"
+        color "blue"
     ]
     node [
         id 48257
@@ -50838,7 +50838,7 @@ graph [
     node [
         id 2299073
         label "A Wake in Providence"
-        color "red"
+        color "blue"
     ]
     node [
         id 48266
@@ -50883,7 +50883,7 @@ graph [
     node [
         id 343188
         label "Within The Ruins"
-        color "red"
+        color "purple"
     ]
     node [
         id 1211541
@@ -50923,7 +50923,7 @@ graph [
     node [
         id 343199
         label "Kiko Loureiro"
-        color "red"
+        color "purple"
     ]
     node [
         id 359585
@@ -50933,7 +50933,7 @@ graph [
     node [
         id 4586658
         label "AcatoniA"
-        color "red"
+        color "blue"
     ]
     node [
         id 359587
@@ -50943,22 +50943,22 @@ graph [
     node [
         id 965796
         label "The Last Charge"
-        color "red"
+        color "blue"
     ]
     node [
         id 97445
         label "Feiled"
-        color "red"
+        color "blue"
     ]
     node [
         id 359590
         label "Digimortal"
-        color "red"
+        color "blue"
     ]
     node [
         id 359591
         label "Абордаж"
-        color "red"
+        color "blue"
     ]
     node [
         id 48296
@@ -50968,7 +50968,7 @@ graph [
     node [
         id 2636969
         label "All For Fake"
-        color "red"
+        color "blue"
     ]
     node [
         id 29895
@@ -50978,32 +50978,32 @@ graph [
     node [
         id 359596
         label "Mechanical poet"
-        color "red"
+        color "purple"
     ]
     node [
         id 359597
         label "Margenta"
-        color "red"
+        color "blue"
     ]
     node [
         id 359598
         label "Чёрный Обелиск"
-        color "red"
+        color "blue"
     ]
     node [
         id 359599
         label "Мастер"
-        color "red"
+        color "blue"
     ]
     node [
         id 359600
         label "Everlost"
-        color "red"
+        color "blue"
     ]
     node [
         id 2998291
         label "Polyphia"
-        color "red"
+        color "purple"
     ]
     node [
         id 408754
@@ -51013,27 +51013,27 @@ graph [
     node [
         id 359603
         label "Эпитафия"
-        color "red"
+        color "blue"
     ]
     node [
         id 359604
         label "Легион"
-        color "red"
+        color "blue"
     ]
     node [
         id 359606
         label "The Arrow"
-        color "red"
+        color "blue"
     ]
     node [
         id 359607
         label "Inside You"
-        color "red"
+        color "purple"
     ]
     node [
         id 359608
         label "Колизей"
-        color "red"
+        color "blue"
     ]
     node [
         id 359609
@@ -51048,17 +51048,17 @@ graph [
     node [
         id 359611
         label "Мафия"
-        color "red"
+        color "blue"
     ]
     node [
         id 359612
         label "Фактор страха"
-        color "red"
+        color "purple"
     ]
     node [
         id 359613
         label "X-Фактор"
-        color "red"
+        color "blue"
     ]
     node [
         id 408766
@@ -51073,17 +51073,17 @@ graph [
     node [
         id 359617
         label "Форсаж"
-        color "red"
+        color "blue"
     ]
     node [
         id 833050
         label "Civil War"
-        color "red"
+        color "purple"
     ]
     node [
         id 359619
         label "Hieronymus Bosch"
-        color "red"
+        color "purple"
     ]
     node [
         id 64708
@@ -51093,12 +51093,12 @@ graph [
     node [
         id 359622
         label "Константин Селезнёв"
-        color "red"
+        color "purple"
     ]
     node [
         id 359623
         label "Оддисс"
-        color "red"
+        color "blue"
     ]
     node [
         id 589000
@@ -51108,27 +51108,27 @@ graph [
     node [
         id 359625
         label "Натиск"
-        color "red"
+        color "blue"
     ]
     node [
         id 326858
         label "Lana Lane"
-        color "red"
+        color "purple"
     ]
     node [
         id 130251
         label "Leviathan"
-        color "red"
+        color "blue"
     ]
     node [
         id 359628
         label "Коrsика"
-        color "red"
+        color "blue"
     ]
     node [
         id 359629
         label "5 Стихий"
-        color "red"
+        color "blue"
     ]
     node [
         id 359630
@@ -51138,22 +51138,22 @@ graph [
     node [
         id 359631
         label "Sаботаж"
-        color "red"
+        color "blue"
     ]
     node [
         id 359632
         label "Arida Vortex"
-        color "red"
+        color "purple"
     ]
     node [
         id 359633
         label "Олег Мишин"
-        color "red"
+        color "blue"
     ]
     node [
         id 1762158
         label "Trip9"
-        color "red"
+        color "blue"
     ]
     node [
         id 867539
@@ -51163,12 +51163,12 @@ graph [
     node [
         id 359636
         label "SEAGALL"
-        color "red"
+        color "blue"
     ]
     node [
         id 359637
         label "Путь солнца"
-        color "red"
+        color "blue"
     ]
     node [
         id 359638
@@ -51183,22 +51183,22 @@ graph [
     node [
         id 359640
         label "Shadow Host"
-        color "red"
+        color "blue"
     ]
     node [
         id 674340
         label "Артур Беркут"
-        color "red"
+        color "purple"
     ]
     node [
         id 359642
         label "Гран-Куражъ"
-        color "red"
+        color "purple"
     ]
     node [
         id 4472029
         label "Carina Englund"
-        color "red"
+        color "blue"
     ]
     node [
         id 1490142
@@ -51208,7 +51208,7 @@ graph [
     node [
         id 359647
         label "Реанимация"
-        color "red"
+        color "blue"
     ]
     node [
         id 586960
@@ -51248,17 +51248,17 @@ graph [
     node [
         id 294122
         label "Blackthorn"
-        color "red"
+        color "blue"
     ]
     node [
         id 457963
         label "Righteous Vendetta"
-        color "red"
+        color "purple"
     ]
     node [
         id 1375468
         label "Arctic Sleep"
-        color "red"
+        color "purple"
     ]
     node [
         id 2833645
@@ -51278,7 +51278,7 @@ graph [
     node [
         id 2522356
         label "Aethra"
-        color "red"
+        color "blue"
     ]
     node [
         id 1031413
@@ -51298,7 +51298,7 @@ graph [
     node [
         id 2296638
         label "All the Dead Pilots"
-        color "red"
+        color "blue"
     ]
     node [
         id 3341570
@@ -51308,7 +51308,7 @@ graph [
     node [
         id 2964739
         label "Sukekiyo"
-        color "red"
+        color "purple"
     ]
     node [
         id 3652868
@@ -51323,7 +51323,7 @@ graph [
     node [
         id 1457415
         label "Extirpation"
-        color "red"
+        color "blue"
     ]
     node [
         id 392289
@@ -51338,7 +51338,7 @@ graph [
     node [
         id 490766
         label "James Perry"
-        color "red"
+        color "blue"
     ]
     node [
         id 638223
@@ -51348,7 +51348,7 @@ graph [
     node [
         id 851218
         label "Leichenwetter"
-        color "red"
+        color "blue"
     ]
     node [
         id 48403
@@ -51358,7 +51358,7 @@ graph [
     node [
         id 2427438
         label "Subsonic Fallout"
-        color "red"
+        color "blue"
     ]
     node [
         id 168009
@@ -51373,12 +51373,12 @@ graph [
     node [
         id 310553
         label "Anubis Gate"
-        color "red"
+        color "purple"
     ]
     node [
         id 1178906
         label "The Project Hate"
-        color "red"
+        color "blue"
     ]
     node [
         id 379439
@@ -51388,7 +51388,7 @@ graph [
     node [
         id 2178332
         label "[Axel Harvey]"
-        color "red"
+        color "blue"
     ]
     node [
         id 2899229
@@ -51398,7 +51398,7 @@ graph [
     node [
         id 851230
         label "Pump"
-        color "red"
+        color "blue"
     ]
     node [
         id 1458053
@@ -51408,7 +51408,7 @@ graph [
     node [
         id 752928
         label "Elder"
-        color "red"
+        color "purple"
     ]
     node [
         id 1621281
@@ -51418,7 +51418,7 @@ graph [
     node [
         id 48418
         label "Sepultura"
-        color "red"
+        color "blue"
     ]
     node [
         id 586971
@@ -51443,12 +51443,12 @@ graph [
     node [
         id 48423
         label "Killswitch Engage"
-        color "red"
+        color "blue"
     ]
     node [
         id 2276648
         label "Shreddy Krueger"
-        color "red"
+        color "purple"
     ]
     node [
         id 326953
@@ -51463,7 +51463,7 @@ graph [
     node [
         id 48429
         label "Cradle Of Filth"
-        color "red"
+        color "blue"
     ]
     node [
         id 18525
@@ -51473,17 +51473,17 @@ graph [
     node [
         id 3538224
         label "Fire from the Gods"
-        color "red"
+        color "purple"
     ]
     node [
         id 48435
         label "Khoma"
-        color "red"
+        color "purple"
     ]
     node [
         id 1604916
         label "Valkyrja"
-        color "red"
+        color "blue"
     ]
     node [
         id 1228085
@@ -51493,22 +51493,22 @@ graph [
     node [
         id 41439
         label "Leverage"
-        color "red"
+        color "blue"
     ]
     node [
         id 48439
         label "Chimaira"
-        color "red"
+        color "blue"
     ]
     node [
         id 453172
         label "Doomshine"
-        color "red"
+        color "blue"
     ]
     node [
         id 48442
         label "36 Crazyfists"
-        color "red"
+        color "blue"
     ]
     node [
         id 48444
@@ -51518,7 +51518,7 @@ graph [
     node [
         id 97598
         label "Penetration"
-        color "red"
+        color "purple"
     ]
     node [
         id 3423551
@@ -51533,7 +51533,7 @@ graph [
     node [
         id 638273
         label "Coroner"
-        color "red"
+        color "blue"
     ]
     node [
         id 1080642
@@ -51543,7 +51543,7 @@ graph [
     node [
         id 4418102
         label "Temperance"
-        color "red"
+        color "blue"
     ]
     node [
         id 1604934
@@ -51558,7 +51558,7 @@ graph [
     node [
         id 48456
         label "Soulfly"
-        color "red"
+        color "blue"
     ]
     node [
         id 408905
@@ -51568,7 +51568,7 @@ graph [
     node [
         id 48532
         label "Staind"
-        color "red"
+        color "purple"
     ]
     node [
         id 975070
@@ -51603,7 +51603,7 @@ graph [
     node [
         id 64852
         label "Merciless"
-        color "red"
+        color "blue"
     ]
     node [
         id 360334
@@ -51613,7 +51613,7 @@ graph [
     node [
         id 294231
         label "Seventh Avenue"
-        color "red"
+        color "blue"
     ]
     node [
         id 4341080
@@ -51648,7 +51648,7 @@ graph [
     node [
         id 2293648
         label "Luna Obscura"
-        color "red"
+        color "blue"
     ]
     node [
         id 48484
@@ -51658,12 +51658,12 @@ graph [
     node [
         id 458085
         label "Vicious Crusade"
-        color "red"
+        color "blue"
     ]
     node [
         id 1273445
         label "Pail"
-        color "red"
+        color "blue"
     ]
     node [
         id 48488
@@ -51683,7 +51683,7 @@ graph [
     node [
         id 48491
         label "Delain"
-        color "red"
+        color "blue"
     ]
     node [
         id 146797
@@ -51698,7 +51698,7 @@ graph [
     node [
         id 2047343
         label "Armory"
-        color "red"
+        color "blue"
     ]
     node [
         id 425330
@@ -51713,7 +51713,7 @@ graph [
     node [
         id 327028
         label "Thergothon"
-        color "red"
+        color "blue"
     ]
     node [
         id 48501
@@ -51723,12 +51723,12 @@ graph [
     node [
         id 458102
         label "Пилигрим"
-        color "red"
+        color "blue"
     ]
     node [
         id 2080119
         label "SKWEEG"
-        color "red"
+        color "blue"
     ]
     node [
         id 69265
@@ -51743,7 +51743,7 @@ graph [
     node [
         id 48506
         label "Megadeth"
-        color "red"
+        color "blue"
     ]
     node [
         id 15739
@@ -51753,7 +51753,7 @@ graph [
     node [
         id 851324
         label "Slabdragger"
-        color "red"
+        color "blue"
     ]
     node [
         id 15741
@@ -51763,7 +51763,7 @@ graph [
     node [
         id 1211774
         label "Dunderbeist"
-        color "red"
+        color "purple"
     ]
     node [
         id 64895
@@ -51773,7 +51773,7 @@ graph [
     node [
         id 343424
         label "Enochian Theory"
-        color "red"
+        color "purple"
     ]
     node [
         id 3713600
@@ -51788,7 +51788,7 @@ graph [
     node [
         id 1080708
         label "Akroma"
-        color "red"
+        color "blue"
     ]
     node [
         id 15749
@@ -51808,12 +51808,12 @@ graph [
     node [
         id 64906
         label "7"
-        color "red"
+        color "purple"
     ]
     node [
         id 1817995
         label "The Unfolding"
-        color "red"
+        color "blue"
     ]
     node [
         id 15756
@@ -51853,7 +51853,7 @@ graph [
     node [
         id 2036974
         label "Deterrence"
-        color "red"
+        color "blue"
     ]
     node [
         id 169650
@@ -51868,12 +51868,12 @@ graph [
     node [
         id 48537
         label "Soziedad Alkoholika"
-        color "red"
+        color "purple"
     ]
     node [
         id 146842
         label "Shadow Gallery"
-        color "red"
+        color "purple"
     ]
     node [
         id 5359
@@ -51903,7 +51903,7 @@ graph [
     node [
         id 146848
         label "Biohazard"
-        color "red"
+        color "purple"
     ]
     node [
         id 196002
@@ -51923,12 +51923,12 @@ graph [
     node [
         id 654759
         label "Anette Olzon"
-        color "red"
+        color "blue"
     ]
     node [
         id 327080
         label "Andy James"
-        color "red"
+        color "purple"
     ]
     node [
         id 327081
@@ -51938,12 +51938,12 @@ graph [
     node [
         id 264579
         label "Callejon"
-        color "red"
+        color "purple"
     ]
     node [
         id 2569458
         label "Fire Strike"
-        color "red"
+        color "blue"
     ]
     node [
         id 146862
@@ -51953,7 +51953,7 @@ graph [
     node [
         id 49053
         label "Pantera"
-        color "red"
+        color "blue"
     ]
     node [
         id 64944
@@ -51963,7 +51963,7 @@ graph [
     node [
         id 1179057
         label "The Gates of Slumber"
-        color "red"
+        color "blue"
     ]
     node [
         id 654771
@@ -51973,27 +51973,27 @@ graph [
     node [
         id 2326430
         label "Maschine"
-        color "red"
+        color "purple"
     ]
     node [
         id 674313
         label "Hell:on"
-        color "red"
+        color "blue"
     ]
     node [
         id 2817466
         label "So Hideous"
-        color "red"
+        color "blue"
     ]
     node [
         id 1195451
         label "Disappearer"
-        color "red"
+        color "purple"
     ]
     node [
         id 212412
         label "Timo Tolkki"
-        color "red"
+        color "blue"
     ]
     node [
         id 58356
@@ -52013,12 +52013,12 @@ graph [
     node [
         id 3006044
         label "Slaughterbox"
-        color "red"
+        color "blue"
     ]
     node [
         id 1048001
         label "Sydonia"
-        color "red"
+        color "purple"
     ]
     node [
         id 1310146
@@ -52038,12 +52038,12 @@ graph [
     node [
         id 2326433
         label "Witherscape"
-        color "red"
+        color "blue"
     ]
     node [
         id 1490376
         label "Careless Whispers"
-        color "red"
+        color "blue"
     ]
     node [
         id 292087
@@ -52063,22 +52063,22 @@ graph [
     node [
         id 701688
         label "Despised Icon"
-        color "red"
+        color "purple"
     ]
     node [
         id 1441234
         label "Avenger"
-        color "red"
+        color "blue"
     ]
     node [
         id 867796
         label "Strings 24"
-        color "red"
+        color "purple"
     ]
     node [
         id 674382
         label "Радиус"
-        color "red"
+        color "purple"
     ]
     node [
         id 867798
@@ -52103,12 +52103,12 @@ graph [
     node [
         id 2978481
         label "A Pregnant Light"
-        color "red"
+        color "blue"
     ]
     node [
         id 300588
         label "Trepalium"
-        color "red"
+        color "blue"
     ]
     node [
         id 2120894
@@ -52118,37 +52118,37 @@ graph [
     node [
         id 1113570
         label "Leander Rising"
-        color "red"
+        color "purple"
     ]
     node [
         id 13563
         label "Bong"
-        color "red"
+        color "purple"
     ]
     node [
         id 294373
         label "Riger"
-        color "red"
+        color "blue"
     ]
     node [
         id 835047
         label "The Cube"
-        color "red"
+        color "blue"
     ]
     node [
         id 900584
         label "The Ice"
-        color "red"
+        color "blue"
     ]
     node [
         id 294380
         label "Ghost Brigade"
-        color "red"
+        color "purple"
     ]
     node [
         id 2929917
         label "Absorbed"
-        color "red"
+        color "blue"
     ]
     node [
         id 2434839
@@ -52163,7 +52163,7 @@ graph [
     node [
         id 900594
         label "6:33"
-        color "red"
+        color "blue"
     ]
     node [
         id 1431545
@@ -52178,7 +52178,7 @@ graph [
     node [
         id 3718645
         label "Leah"
-        color "red"
+        color "blue"
     ]
     node [
         id 4057205
@@ -52198,7 +52198,7 @@ graph [
     node [
         id 2342399
         label "Viral Millennium"
-        color "red"
+        color "blue"
     ]
     node [
         id 425899
@@ -52213,7 +52213,7 @@ graph [
     node [
         id 867848
         label "Acyl"
-        color "red"
+        color "blue"
     ]
     node [
         id 2899884
@@ -52223,7 +52223,7 @@ graph [
     node [
         id 310794
         label "Destinity"
-        color "red"
+        color "blue"
     ]
     node [
         id 1261067
@@ -52238,7 +52238,7 @@ graph [
     node [
         id 523792
         label "Luxury Stranger"
-        color "red"
+        color "blue"
     ]
     node [
         id 1130003
@@ -52253,7 +52253,7 @@ graph [
     node [
         id 966165
         label "Adept"
-        color "red"
+        color "purple"
     ]
     node [
         id 1244694
@@ -52263,12 +52263,12 @@ graph [
     node [
         id 359961
         label "Виконт"
-        color "red"
+        color "blue"
     ]
     node [
         id 1179162
         label "Callenish Circle"
-        color "red"
+        color "blue"
     ]
     node [
         id 15899
@@ -52283,7 +52283,7 @@ graph [
     node [
         id 851486
         label "Disease Illusion"
-        color "red"
+        color "blue"
     ]
     node [
         id 5985
@@ -52293,7 +52293,7 @@ graph [
     node [
         id 2227745
         label "Century Sleeper"
-        color "red"
+        color "blue"
     ]
     node [
         id 15906
@@ -52313,12 +52313,12 @@ graph [
     node [
         id 1113638
         label "From Beyond"
-        color "red"
+        color "purple"
     ]
     node [
         id 15911
         label "Steve Lukather"
-        color "red"
+        color "purple"
     ]
     node [
         id 146985
@@ -52328,22 +52328,22 @@ graph [
     node [
         id 1801770
         label "Enders Game"
-        color "red"
+        color "blue"
     ]
     node [
         id 4619819
         label "Domkraft"
-        color "red"
+        color "blue"
     ]
     node [
         id 310829
         label "Annotations of an Autopsy"
-        color "red"
+        color "blue"
     ]
     node [
         id 310830
         label "Threat Signal"
-        color "red"
+        color "purple"
     ]
     node [
         id 1490479
@@ -52353,12 +52353,12 @@ graph [
     node [
         id 1238417
         label "Voodoma"
-        color "red"
+        color "blue"
     ]
     node [
         id 1572402
         label "Suture"
-        color "red"
+        color "blue"
     ]
     node [
         id 48691
@@ -52368,12 +52368,12 @@ graph [
     node [
         id 2178612
         label "Sakara"
-        color "red"
+        color "purple"
     ]
     node [
         id 1572405
         label "Vlad Tepes"
-        color "red"
+        color "purple"
     ]
     node [
         id 1127689
@@ -52388,17 +52388,17 @@ graph [
     node [
         id 2768442
         label "Blind Channel"
-        color "red"
+        color "purple"
     ]
     node [
         id 1124959
         label "Solstice"
-        color "red"
+        color "blue"
     ]
     node [
         id 4783676
         label "Blasphemium"
-        color "red"
+        color "blue"
     ]
     node [
         id 5986
@@ -52408,12 +52408,12 @@ graph [
     node [
         id 2096702
         label "Dzyan"
-        color "red"
+        color "purple"
     ]
     node [
         id 2482101
         label "Neverdie"
-        color "red"
+        color "purple"
     ]
     node [
         id 130626
@@ -52428,7 +52428,7 @@ graph [
     node [
         id 343620
         label "TRC"
-        color "red"
+        color "blue"
     ]
     node [
         id 343621
@@ -52443,7 +52443,7 @@ graph [
     node [
         id 1195593
         label "Stonegard"
-        color "red"
+        color "purple"
     ]
     node [
         id 44176
@@ -52473,7 +52473,7 @@ graph [
     node [
         id 818768
         label "Myrath"
-        color "red"
+        color "blue"
     ]
     node [
         id 3735020
@@ -52498,7 +52498,7 @@ graph [
     node [
         id 294488
         label "Abscess"
-        color "red"
+        color "blue"
     ]
     node [
         id 327257
@@ -52523,12 +52523,12 @@ graph [
     node [
         id 117349
         label "Before The Dawn"
-        color "red"
+        color "blue"
     ]
     node [
         id 1732373
         label "Blasted"
-        color "red"
+        color "blue"
     ]
     node [
         id 851554
@@ -52543,7 +52543,7 @@ graph [
     node [
         id 207462
         label "Stereomud"
-        color "red"
+        color "blue"
     ]
     node [
         id 2045201
@@ -52558,7 +52558,7 @@ graph [
     node [
         id 892860
         label "Angel Crew"
-        color "red"
+        color "blue"
     ]
     node [
         id 48746
@@ -52573,12 +52573,12 @@ graph [
     node [
         id 343660
         label "Eyes Like Diamonds"
-        color "red"
+        color "blue"
     ]
     node [
         id 333074
         label "Ulver"
-        color "red"
+        color "purple"
     ]
     node [
         id 360046
@@ -52608,12 +52608,12 @@ graph [
     node [
         id 333075
         label "Darkwell"
-        color "red"
+        color "purple"
     ]
     node [
         id 2771457
         label "Маврик"
-        color "red"
+        color "purple"
     ]
     node [
         id 327286
@@ -52633,7 +52633,7 @@ graph [
     node [
         id 2555839
         label "A Dying Dream"
-        color "red"
+        color "blue"
     ]
     node [
         id 48765
@@ -52643,7 +52643,7 @@ graph [
     node [
         id 310911
         label "Blood Of Kingu"
-        color "red"
+        color "blue"
     ]
     node [
         id 2073609
@@ -52668,12 +52668,12 @@ graph [
     node [
         id 589445
         label "Vector Of Underground"
-        color "red"
+        color "blue"
     ]
     node [
         id 1995314
         label "Betray Your Own"
-        color "red"
+        color "blue"
     ]
     node [
         id 292119
@@ -52688,7 +52688,7 @@ graph [
     node [
         id 818831
         label "Green Dollar Colour"
-        color "red"
+        color "blue"
     ]
     node [
         id 753298
@@ -52698,32 +52698,32 @@ graph [
     node [
         id 1378926
         label "Pale Divine"
-        color "red"
+        color "blue"
     ]
     node [
         id 802454
         label "Pierfrancesco Bazzoffi"
-        color "red"
+        color "blue"
     ]
     node [
         id 802455
         label "Alessandro Sgreccia"
-        color "red"
+        color "blue"
     ]
     node [
         id 425624
         label "#####"
-        color "red"
+        color "blue"
     ]
     node [
         id 1015830
         label "Teaze"
-        color "red"
+        color "purple"
     ]
     node [
         id 1179292
         label "Impious"
-        color "red"
+        color "blue"
     ]
     node [
         id 4466529
@@ -52743,7 +52743,7 @@ graph [
     node [
         id 1625772
         label "Hand of God"
-        color "red"
+        color "blue"
     ]
     node [
         id 48804
@@ -52778,7 +52778,7 @@ graph [
     node [
         id 48811
         label "Static-X"
-        color "red"
+        color "purple"
     ]
     node [
         id 343725
@@ -52798,22 +52798,22 @@ graph [
     node [
         id 1506992
         label "Warhound"
-        color "red"
+        color "blue"
     ]
     node [
         id 294577
         label "Doogie White"
-        color "red"
+        color "purple"
     ]
     node [
         id 2683069
         label "Me and the Rest"
-        color "red"
+        color "purple"
     ]
     node [
         id 81587
         label "Fight"
-        color "red"
+        color "blue"
     ]
     node [
         id 884404
@@ -52843,12 +52843,12 @@ graph [
     node [
         id 48827
         label "Disturbed"
-        color "red"
+        color "purple"
     ]
     node [
         id 1212092
         label "Bone Gnawer"
-        color "red"
+        color "blue"
     ]
     node [
         id 32445
@@ -52863,7 +52863,7 @@ graph [
     node [
         id 1572545
         label "dEMOTIONAL"
-        color "red"
+        color "blue"
     ]
     node [
         id 2228077
@@ -52888,47 +52888,47 @@ graph [
     node [
         id 638670
         label "Carnival in Coal"
-        color "red"
+        color "purple"
     ]
     node [
         id 2064079
         label "King 810"
-        color "red"
+        color "purple"
     ]
     node [
         id 81618
         label "The Faceless"
-        color "red"
+        color "blue"
     ]
     node [
         id 1244883
         label "The Bronx Casket Co."
-        color "red"
+        color "blue"
     ]
     node [
         id 81621
         label "Creature Feature"
-        color "red"
+        color "blue"
     ]
     node [
         id 356714
         label "ZEALOT"
-        color "red"
+        color "purple"
     ]
     node [
         id 81623
         label "Stray From The Path"
-        color "red"
+        color "purple"
     ]
     node [
         id 1244888
         label "The Cumshots"
-        color "red"
+        color "purple"
     ]
     node [
         id 81627
         label "Conducting From The Grave"
-        color "red"
+        color "blue"
     ]
     node [
         id 81628
@@ -52968,7 +52968,7 @@ graph [
     node [
         id 360166
         label "Chrysalis"
-        color "red"
+        color "purple"
     ]
     node [
         id 786152
@@ -53008,7 +53008,7 @@ graph [
     node [
         id 81650
         label "Motionless In White"
-        color "red"
+        color "purple"
     ]
     node [
         id 161266
@@ -53028,7 +53028,7 @@ graph [
     node [
         id 1130231
         label "Throne of Chaos"
-        color "red"
+        color "blue"
     ]
     node [
         id 98040
@@ -53043,7 +53043,7 @@ graph [
     node [
         id 1130234
         label "Thyrane"
-        color "red"
+        color "blue"
     ]
     node [
         id 1022380
@@ -53058,22 +53058,22 @@ graph [
     node [
         id 2342655
         label "Atlantis Chronicles"
-        color "red"
+        color "blue"
     ]
     node [
         id 1867520
         label "Terminatryx"
-        color "red"
+        color "blue"
     ]
     node [
         id 47747
         label "Karl Buechner"
-        color "red"
+        color "blue"
     ]
     node [
         id 70955
         label "Bury Your Dead"
-        color "red"
+        color "blue"
     ]
     node [
         id 3982597
@@ -53088,17 +53088,17 @@ graph [
     node [
         id 2733043
         label "Lessen"
-        color "red"
+        color "blue"
     ]
     node [
         id 1457929
         label "Topgun"
-        color "red"
+        color "blue"
     ]
     node [
         id 1558340
         label "Bodyguerra"
-        color "red"
+        color "blue"
     ]
     node [
         id 16139
@@ -53108,7 +53108,7 @@ graph [
     node [
         id 32526
         label "Sonata Arctica"
-        color "red"
+        color "blue"
     ]
     node [
         id 161069
@@ -53133,12 +53133,12 @@ graph [
     node [
         id 1785621
         label "Failure in Vanity"
-        color "red"
+        color "blue"
     ]
     node [
         id 660455
         label "Exordium"
-        color "red"
+        color "blue"
     ]
     node [
         id 2522905
@@ -53163,7 +53163,7 @@ graph [
     node [
         id 2148965
         label "Fractured Fairytales"
-        color "red"
+        color "blue"
     ]
     node [
         id 65311
@@ -53208,7 +53208,7 @@ graph [
     node [
         id 1621803
         label "Phlebotomized"
-        color "red"
+        color "blue"
     ]
     node [
         id 1916716
@@ -53223,7 +53223,7 @@ graph [
     node [
         id 1611479
         label "Gama Bomb"
-        color "red"
+        color "purple"
     ]
     node [
         id 1589039
@@ -53243,7 +53243,7 @@ graph [
     node [
         id 98098
         label "Becoming The Archetype"
-        color "red"
+        color "blue"
     ]
     node [
         id 595750
@@ -53258,7 +53258,7 @@ graph [
     node [
         id 327646
         label "Whitehorse"
-        color "red"
+        color "purple"
     ]
     node [
         id 311094
@@ -53273,7 +53273,7 @@ graph [
     node [
         id 311097
         label "Ruins"
-        color "red"
+        color "blue"
     ]
     node [
         id 1228602
@@ -53288,7 +53288,7 @@ graph [
     node [
         id 412298
         label "Unherz"
-        color "red"
+        color "blue"
     ]
     node [
         id 4669246
@@ -53298,22 +53298,22 @@ graph [
     node [
         id 884543
         label "Vanadium"
-        color "red"
+        color "purple"
     ]
     node [
         id 720706
         label "Psyclon Nine"
-        color "red"
+        color "purple"
     ]
     node [
         id 425796
         label "Louna"
-        color "red"
+        color "blue"
     ]
     node [
         id 292150
         label "Jorn"
-        color "red"
+        color "blue"
     ]
     node [
         id 2028950
@@ -53328,12 +53328,12 @@ graph [
     node [
         id 1739404
         label "Missing Tide"
-        color "red"
+        color "blue"
     ]
     node [
         id 2028855
         label "Al-Namrood"
-        color "red"
+        color "blue"
     ]
     node [
         id 85102
@@ -53343,17 +53343,17 @@ graph [
     node [
         id 343886
         label "Attila Csihar"
-        color "red"
+        color "blue"
     ]
     node [
         id 1452685
         label "Mitochondrion"
-        color "red"
+        color "blue"
     ]
     node [
         id 80192
         label "Alex Conti"
-        color "red"
+        color "blue"
     ]
     node [
         id 21816
@@ -53378,12 +53378,12 @@ graph [
     node [
         id 81754
         label "Troll"
-        color "red"
+        color "purple"
     ]
     node [
         id 1075855
         label "Departures"
-        color "red"
+        color "blue"
     ]
     node [
         id 21818
@@ -53408,7 +53408,7 @@ graph [
     node [
         id 802657
         label "Loudblast"
-        color "red"
+        color "blue"
     ]
     node [
         id 70971
@@ -53443,12 +53443,12 @@ graph [
     node [
         id 1773401
         label "Shredding The Envelope"
-        color "red"
+        color "blue"
     ]
     node [
         id 802667
         label "Panzerchrist"
-        color "red"
+        color "blue"
     ]
     node [
         id 982893
@@ -53488,7 +53488,7 @@ graph [
     node [
         id 3789490
         label "Khemmis"
-        color "red"
+        color "blue"
     ]
     node [
         id 345994
@@ -53513,7 +53513,7 @@ graph [
     node [
         id 88377
         label "Krypteria"
-        color "red"
+        color "blue"
     ]
     node [
         id 16908
@@ -53528,7 +53528,7 @@ graph [
     node [
         id 87286
         label "Michael Schenker Group"
-        color "red"
+        color "purple"
     ]
     node [
         id 3374978
@@ -53578,7 +53578,7 @@ graph [
     node [
         id 425870
         label "Vanir"
-        color "red"
+        color "blue"
     ]
     node [
         id 360336
@@ -53588,7 +53588,7 @@ graph [
     node [
         id 1064850
         label "Revolution Within"
-        color "red"
+        color "purple"
     ]
     node [
         id 2626883
@@ -53598,12 +53598,12 @@ graph [
     node [
         id 2244500
         label "Ally the Fiddle"
-        color "red"
+        color "purple"
     ]
     node [
         id 704405
         label "Annex Theory"
-        color "red"
+        color "blue"
     ]
     node [
         id 223897
@@ -53613,12 +53613,12 @@ graph [
     node [
         id 704410
         label "Nociceptor"
-        color "red"
+        color "blue"
     ]
     node [
         id 802715
         label "Tokyo Blade"
-        color "red"
+        color "purple"
     ]
     node [
         id 58222
@@ -53628,22 +53628,22 @@ graph [
     node [
         id 704413
         label "Ever Forthright"
-        color "red"
+        color "blue"
     ]
     node [
         id 425886
         label "Pitchblack"
-        color "red"
+        color "blue"
     ]
     node [
         id 311199
         label "More Than a Thousand"
-        color "red"
+        color "blue"
     ]
     node [
         id 1722891
         label "Chapel Of Disease"
-        color "red"
+        color "purple"
     ]
     node [
         id 425889
@@ -53678,7 +53678,7 @@ graph [
     node [
         id 160393
         label "letlive."
-        color "red"
+        color "purple"
     ]
     node [
         id 638889
@@ -53693,12 +53693,12 @@ graph [
     node [
         id 1769388
         label "Witchking"
-        color "red"
+        color "blue"
     ]
     node [
         id 905635
         label "Pain Of Salvation"
-        color "red"
+        color "blue"
     ]
     node [
         id 1834926
@@ -53713,12 +53713,12 @@ graph [
     node [
         id 901046
         label "Misanthrope"
-        color "red"
+        color "blue"
     ]
     node [
         id 1540023
         label "Vanlade"
-        color "red"
+        color "blue"
     ]
     node [
         id 297631
@@ -53728,7 +53728,7 @@ graph [
     node [
         id 1179580
         label "Bloodrainbow"
-        color "red"
+        color "blue"
     ]
     node [
         id 87288
@@ -53738,7 +53738,7 @@ graph [
     node [
         id 1212405
         label "Audrey Horne"
-        color "red"
+        color "purple"
     ]
     node [
         id 657401
@@ -53763,7 +53763,7 @@ graph [
     node [
         id 1179591
         label "Paganizer"
-        color "red"
+        color "blue"
     ]
     node [
         id 65481
@@ -53778,27 +53778,27 @@ graph [
     node [
         id 1161506
         label "Oathbreaker"
-        color "red"
+        color "blue"
     ]
     node [
         id 1048524
         label "Deafheaven"
-        color "red"
+        color "purple"
     ]
     node [
         id 327632
         label "Nachtgeschrei"
-        color "red"
+        color "blue"
     ]
     node [
         id 325155
         label "Katana"
-        color "red"
+        color "blue"
     ]
     node [
         id 1327058
         label "Deficiency"
-        color "red"
+        color "blue"
     ]
     node [
         id 98259
@@ -53823,17 +53823,17 @@ graph [
     node [
         id 825984
         label "Cold Hard Truth"
-        color "red"
+        color "blue"
     ]
     node [
         id 70991
         label "Suicidal Tendencies"
-        color "red"
+        color "purple"
     ]
     node [
         id 819164
         label "Stephan Forté"
-        color "red"
+        color "blue"
     ]
     node [
         id 65502
@@ -53843,22 +53843,22 @@ graph [
     node [
         id 305829
         label "October Tide"
-        color "red"
+        color "blue"
     ]
     node [
         id 933858
         label "Diocletian"
-        color "red"
+        color "blue"
     ]
     node [
         id 155643
         label "Paragon"
-        color "red"
+        color "purple"
     ]
     node [
         id 2517670
         label "13 Days"
-        color "red"
+        color "blue"
     ]
     node [
         id 98278
@@ -53868,7 +53868,7 @@ graph [
     node [
         id 1032169
         label "AxeWound"
-        color "red"
+        color "blue"
     ]
     node [
         id 2965483
@@ -53878,7 +53878,7 @@ graph [
     node [
         id 3227628
         label "Devilment"
-        color "red"
+        color "purple"
     ]
     node [
         id 2471250
@@ -53888,7 +53888,7 @@ graph [
     node [
         id 2113518
         label "To Cast A Shadow"
-        color "red"
+        color "blue"
     ]
     node [
         id 81903
@@ -53898,7 +53898,7 @@ graph [
     node [
         id 292748
         label "Macabre"
-        color "red"
+        color "blue"
     ]
     node [
         id 163825
@@ -53923,27 +53923,27 @@ graph [
     node [
         id 999416
         label "Upon This Dawning"
-        color "red"
+        color "purple"
     ]
     node [
         id 2113530
         label "Herod"
-        color "red"
+        color "purple"
     ]
     node [
         id 1343483
         label "Dominance"
-        color "red"
+        color "purple"
     ]
     node [
         id 674474
         label "Torche"
-        color "red"
+        color "purple"
     ]
     node [
         id 1414485
         label "Whisky of Blood"
-        color "red"
+        color "purple"
     ]
     edge [
         source 87

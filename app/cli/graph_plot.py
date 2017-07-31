@@ -9,7 +9,8 @@ from igraph.drawing.text import TextDrawer
 import cairocffi
 
 from app.cli import cache_name, graph_path, gml_name, plot_name, graph_index
-from app.config import PLOT_LAYOUT, PROCESS_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE, ROCK_AND_METAL_GENRE, TOP_POSTFIX
+from app.config import PLOT_LAYOUT, PROCESS_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE, ROCK_AND_METAL_GENRE, TOP3_POSTFIX,\
+    TOP6_POSTFIX
 
 
 PLOT_OPTIONS_PNG = {
@@ -95,25 +96,34 @@ def task():
     logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
     logging.info('start')
 
-    def _plot_all(genre_name):
-        name = graph_path(graph_index(genre_name, False))
-        logging.info('start %s', graph_index(genre_name, False))
+    # def _plot_all(genre_name):
+    #     name = graph_path(graph_index(genre_name, False))
+    #     logging.info('start %s', graph_index(genre_name, False))
+    #     graph = igraph.Graph.Read_GML(gml_name(name))
+    #     logging.info('loaded %d %d', graph.vcount(), graph.ecount())
+    #     plot(graph, name, graph_index(genre_name, False))
+    #     logging.info('plot primary')
+    #
+    #     name = graph_path(graph_index(genre_name, True))
+    #     logging.info('start %s', graph_index(genre_name, True))
+    #     graph = igraph.Graph.Read_GML(gml_name(name))
+    #     logging.info('loaded %d %d', graph.vcount(), graph.ecount())
+    #     plot(graph, name, graph_index(genre_name, True))
+    #     logging.info('plot full')
+    #
+    # logging.info('plot basic')
+    # for genre_name in PROCESS_GENRES - {'rock', 'metal'} | {ALL_ROCK_GENRE, ALL_METAL_GENRE}:
+    #     _plot_all(genre_name)
+
+    def plot_custom(source):
+        logging.info('plot custom')
+        name = graph_path(graph_index(source, False))
+        logging.info('start %s', graph_index(source, False))
         graph = igraph.Graph.Read_GML(gml_name(name))
         logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-        plot(graph, name, graph_index(genre_name, False))
+        plot(graph, name, graph_index(source, False))
         logging.info('plot primary')
 
-        name = graph_path(graph_index(genre_name, True))
-        logging.info('start %s', graph_index(genre_name, True))
-        graph = igraph.Graph.Read_GML(gml_name(name))
-        logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-        plot(graph, name, graph_index(genre_name, True))
-        logging.info('plot full')
-
-    logging.info('plot basic')
-    for genre_name in PROCESS_GENRES - {'rock', 'metal'} | {ALL_ROCK_GENRE, ALL_METAL_GENRE}:
-        _plot_all(genre_name)
-
-    logging.info('plot custom')
-    _plot_all(ROCK_AND_METAL_GENRE)
-    _plot_all(ROCK_AND_METAL_GENRE + TOP_POSTFIX)
+    plot_custom(ROCK_AND_METAL_GENRE)
+    plot_custom(ROCK_AND_METAL_GENRE + TOP6_POSTFIX)
+    plot_custom(ROCK_AND_METAL_GENRE + TOP3_POSTFIX)
