@@ -21,6 +21,7 @@ TOP6_POSTFIX = '-top6'
 TOP3_POSTFIX = '-top3'
 EXPORT_FILE_PRIMARY = '%s-primary'
 EXPORT_FILE_FULL = '%s-full'
+EXPORT_FILE_CUSTOM = '%s-%s'
 
 ROCK_GENRES = {'rusrock', 'ukrrock', 'rock-n-roll', 'prog-rock', 'post-rock', 'new-wave', 'rock'}
 METAL_GENRES = {'metal', 'classicmetal', 'progmetal', 'Numetal', 'epicmetal', 'folkmetal', 'extrememetal'}

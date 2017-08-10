@@ -2,171 +2,205 @@ graph [
     directed 1
     node [
         id 297476
+        size 10
         label "Аркона"
         color "red"
     ]
     node [
         id 34118
+        size 22
         label "Finntroll"
         color "red"
     ]
     node [
         id 296520
+        size 7
         label "Dalriada"
         color "red"
     ]
     node [
         id 2104713
+        size 10
         label "Valtari"
         color "red"
     ]
     node [
         id 2657354
+        size 10
         label "Adavant"
         color "red"
     ]
     node [
         id 1483735
+        size 21
         label "Claim the Throne"
         color "red"
     ]
     node [
         id 674384
+        size 9
         label "Темнозорь"
         color "red"
     ]
     node [
         id 318673
+        size 18
         label "Alestorm"
         color "red"
     ]
     node [
         id 154962
+        size 3
         label "Metsatöll"
         color "red"
     ]
     node [
         id 1946771
+        size 0
         label "The Thorn and Tear"
         color "red"
     ]
     node [
         id 1577492
+        size 3
         label "Wolves of Hate"
         color "red"
     ]
     node [
         id 1755095
+        size 29
         label "Fractal Gates"
         color "red"
     ]
     node [
         id 38296
+        size 20
         label "Moonsorrow"
         color "red"
     ]
     node [
         id 2185433
+        size 2
         label "Achren"
         color "red"
     ]
     node [
         id 250845
+        size 7
         label "Turisas"
         color "red"
     ]
     node [
         id 301790
+        size 13
         label "Wolfchant"
         color "red"
     ]
     node [
         id 3041
+        size 24
         label "Ensiferum"
         color "red"
     ]
     node [
         id 1483874
+        size 6
         label "Сварга"
         color "red"
     ]
     node [
         id 295014
+        size 19
         label "Korpiklaani"
         color "red"
     ]
     node [
         id 1768
+        size 28
         label "In Extremo"
         color "red"
     ]
     node [
         id 296925
+        size 31
         label "Heidevolk"
         color "red"
     ]
     node [
         id 1786859
+        size 14
         label "Abinchova"
         color "red"
     ]
     node [
         id 519314
+        size 1
         label "Руян"
         color "red"
     ]
     node [
         id 1870382
+        size 5
         label "Red Descending"
         color "red"
     ]
     node [
         id 1915567
+        size 14
         label "Hammer Horde"
         color "red"
     ]
     node [
         id 417981
+        size 3
         label "Coppelius"
         color "red"
     ]
     node [
         id 532120
+        size 12
         label "Cruachan"
         color "red"
     ]
     node [
         id 357940
+        size 26
         label "Falkenbach"
         color "red"
     ]
     node [
         id 226552
+        size 21
         label "Subway To Sally"
         color "red"
     ]
     node [
         id 1939769
+        size 1
         label "Troldhaugen"
         color "red"
     ]
     node [
         id 2192536
+        size 0
         label "Wolfmare"
         color "red"
     ]
     node [
         id 1835839
+        size 2
         label "Lagerstein"
         color "red"
     ]
     node [
         id 296701
+        size 55
         label "Eluveitie"
         color "red"
     ]
     node [
         id 4314047
+        size 5
         label "Wardruna"
         color "red"
     ]

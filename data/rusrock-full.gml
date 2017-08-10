@@ -2,2703 +2,3303 @@ graph [
     directed 1
     node [
         id 3051311
+        size 0
         label "В бега"
         color "red"
     ]
     node [
         id 417796
+        size 1
         label "Е2 Знакомы"
         color "red"
     ]
     node [
         id 2412549
+        size 3
         label "Atmoravi"
         color "red"
     ]
     node [
         id 1433606
+        size 8
         label "Евгений Маргулис"
         color "red"
     ]
     node [
         id 4352513
+        size 0
         label "Александр Мраза"
         color "red"
     ]
     node [
         id 3911689
+        size 0
         label "KUSTO"
         color "red"
     ]
     node [
         id 1433610
+        size 0
         label "Палево"
         color "red"
     ]
     node [
         id 3983371
+        size 0
         label "АЛЁNA"
         color "red"
     ]
     node [
         id 2570754
+        size 1
         label "Северо-Zапад"
         color "red"
     ]
     node [
         id 4578318
+        size 0
         label "SVRNY"
         color "red"
     ]
     node [
         id 432984
+        size 3
         label "Небо пополам"
         color "red"
     ]
     node [
         id 219158
+        size 0
         label "Забытая память"
         color "red"
     ]
     node [
         id 3876888
+        size 0
         label "Михаил Карасев"
         color "red"
     ]
     node [
         id 1479855
+        size 0
         label "Дегенератор идей"
         color "red"
     ]
     node [
         id 3277447
+        size 4
         label "zatkнись"
         color "red"
     ]
     node [
         id 1195039
+        size 5
         label "Олег Чилап"
         color "red"
     ]
     node [
         id 3754160
+        size 9
         label "КАПСЛОК"
         color "red"
     ]
     node [
         id 2834468
+        size 0
         label "Василий Уриевский"
         color "red"
     ]
     node [
         id 4166038
+        size 5
         label "Рок-Синдром"
         color "red"
     ]
     node [
         id 2437160
+        size 0
         label "Ignes Fatui"
         color "red"
     ]
     node [
         id 3840348
+        size 8
         label "Sunburst"
         color "red"
     ]
     node [
         id 2834475
+        size 4
         label "Паровоз до Кубы"
         color "red"
     ]
     node [
         id 2912300
+        size 5
         label "Mr.Бэниш"
         color "red"
     ]
     node [
-        id 3677021
-        label "Disco-RD"
+        id 3267421
+        size 0
+        label "Соблаков"
         color "red"
     ]
     node [
         id 2454579
+        size 2
         label "Ступени"
         color "red"
     ]
     node [
         id 1443678
+        size 0
         label "Ильдар Казаханов"
         color "red"
     ]
     node [
         id 3205174
+        size 2
         label "Марта Кобец"
         color "red"
     ]
     node [
         id 4561076
+        size 0
         label "Александр Поборский"
         color "red"
     ]
     node [
         id 2912314
+        size 0
         label "Игорь МирИмиР Тальков"
         color "red"
     ]
     node [
         id 2571324
+        size 1
         label "Оркестр креольского танго"
         color "red"
     ]
     node [
         id 167999
+        size 14
         label "beZ bileta"
         color "red"
     ]
     node [
         id 1540619
+        size 0
         label "ОченьКрасивые"
         color "red"
     ]
     node [
         id 3102663
+        size 0
         label "Сид"
         color "red"
     ]
     node [
         id 1599558
+        size 3
         label "Нуки"
         color "red"
     ]
     node [
+        id 4737889
+        size 0
+        label "Парк Победы"
+        color "red"
+    ]
+    node [
         id 4747336
+        size 2
         label "Водопад имени Вахтанга Кикабидзе"
         color "red"
     ]
     node [
         id 3472459
+        size 7
         label "MULTIPASS"
         color "red"
     ]
     node [
         id 1556557
+        size 0
         label "Радио Точка"
         color "red"
     ]
     node [
         id 41039
+        size 2
         label "Гараж"
         color "red"
     ]
     node [
         id 4097105
+        size 0
         label "Миша Лузин"
         color "red"
     ]
     node [
         id 4306002
+        size 1
         label "Инструкция по выживанию"
         color "red"
     ]
     node [
         id 645987
+        size 9
         label "МарьЯ"
         color "red"
     ]
     node [
         id 219150
+        size 0
         label "Шиповник и лестовка"
         color "red"
     ]
     node [
         id 412759
+        size 6
         label "Владимир Кузьмин"
         color "red"
     ]
     node [
         id 41050
+        size 8
         label "Танцы Минус"
         color "red"
     ]
     node [
         id 41051
+        size 36
         label "Смысловые Галлюцинации"
         color "red"
     ]
     node [
         id 2882652
+        size 31
         label "Операция пластилин"
         color "red"
     ]
     node [
         id 41055
+        size 73
         label "ЧайФ"
         color "red"
     ]
     node [
         id 421793
+        size 17
         label "Зоя Ященко"
         color "red"
     ]
     node [
         id 1134690
+        size 25
         label "Ангел НеБес"
         color "red"
     ]
     node [
         id 1195107
+        size 2
         label "BriZ"
         color "red"
     ]
     node [
         id 412774
+        size 46
         label "Ногу свело!"
         color "red"
     ]
     node [
         id 41063
+        size 26
         label "Разные Люди"
         color "red"
     ]
     node [
         id 1430632
+        size 15
         label "Магелланово облако"
         color "red"
     ]
     node [
         id 4578351
+        size 0
         label "В Чистой Атмосфере"
         color "red"
     ]
     node [
         id 359531
+        size 3
         label "Алексей Белов"
         color "red"
     ]
     node [
         id 189548
+        size 25
         label "Гарик Сукачёв"
         color "red"
     ]
     node [
         id 359533
+        size 8
         label "Ольга Кормухина"
         color "red"
     ]
     node [
         id 189550
+        size 10
         label "Неприкасаемые"
         color "red"
     ]
     node [
         id 41072
+        size 59
         label "Пилот"
         color "red"
     ]
     node [
         id 41075
+        size 21
         label "Кино"
         color "red"
     ]
     node [
         id 589942
+        size 14
         label "КняZz"
         color "red"
     ]
     node [
         id 630903
+        size 17
         label "Рада & Терновник"
         color "red"
     ]
     node [
         id 41081
+        size 1
         label "Трест"
         color "red"
     ]
     node [
         id 41083
+        size 25
         label "Ю-Питер"
         color "red"
     ]
     node [
         id 41084
+        size 7
         label "Блондинка Ксю"
         color "red"
     ]
     node [
         id 3375466
+        size 9
         label "Princesse Angine"
         color "red"
     ]
     node [
         id 3327104
+        size 7
         label "Практика"
         color "red"
     ]
     node [
         id 2566273
+        size 2
         label "The Uchpochmack"
         color "red"
     ]
     node [
         id 838787
+        size 0
         label "MЭD DОГ"
         color "red"
     ]
     node [
         id 41092
+        size 22
         label "Найк Борзов"
         color "red"
     ]
     node [
         id 359557
+        size 3
         label "Фруктовый кефир"
         color "red"
     ]
     node [
         id 41094
+        size 18
         label "Ундервуд"
         color "red"
     ]
     node [
         id 41098
+        size 24
         label "Мумий Тролль"
         color "red"
     ]
     node [
         id 3877003
+        size 2
         label "Юлия Коган"
         color "red"
     ]
     node [
         id 4708492
+        size 0
         label "Курьер"
         color "red"
     ]
     node [
         id 41101
+        size 17
         label "Дочь Монро и Кеннеди"
         color "red"
     ]
     node [
         id 707375
+        size 0
         label "Томас"
         color "red"
     ]
     node [
         id 432058
+        size 0
         label "КуКа"
         color "red"
     ]
     node [
         id 3685520
+        size 15
         label "Ольга Арефьева"
         color "red"
     ]
     node [
-        id 4578328
-        label "KRUV"
+        id 219281
+        size 14
+        label "Ульи"
         color "red"
     ]
     node [
         id 1462419
+        size 6
         label "АнимациЯ"
         color "red"
     ]
     node [
         id 3912852
+        size 3
         label "Rомантики"
         color "red"
     ]
     node [
         id 167061
+        size 6
         label "Фёдор Чистяков"
         color "red"
     ]
     node [
         id 4632727
+        size 6
         label "Джин-Тоник"
         color "red"
     ]
     node [
         id 359576
+        size 13
         label "Илья Чёрт"
         color "red"
     ]
     node [
         id 359577
+        size 3
         label "Мельница"
         color "red"
     ]
     node [
         id 41114
+        size 67
         label "Би-2"
         color "red"
     ]
     node [
         id 219293
+        size 4
         label "Газон"
         color "red"
     ]
     node [
         id 41118
+        size 10
         label "Старый приятель"
         color "red"
     ]
     node [
         id 426143
+        size 12
         label "Хроноп"
         color "red"
     ]
     node [
         id 41120
+        size 23
         label "СерьГа"
         color "red"
     ]
     node [
         id 607393
+        size 4
         label "Татьяна Зыкина"
         color "red"
     ]
     node [
         id 41122
+        size 16
         label "Монгол Шуудан"
         color "red"
     ]
     node [
         id 426149
+        size 6
         label "ВИА Гагарин"
         color "red"
     ]
     node [
         id 2907303
+        size 1
         label "Дельфины"
         color "red"
     ]
     node [
-        id 2907304
-        label "Копенgagen"
+        id 41128
+        size 15
+        label "Uma2rmaH"
         color "red"
     ]
     node [
         id 4080809
+        size 6
         label "Террариум"
         color "red"
     ]
     node [
         id 218282
+        size 15
         label "Мегаполис"
         color "red"
     ]
     node [
         id 41134
+        size 26
         label "Агата Кристи"
         color "red"
     ]
     node [
         id 219311
+        size 19
         label "Плед"
         color "red"
     ]
     node [
         id 41136
+        size 13
         label "Приключения Электроников"
         color "red"
     ]
     node [
         id 1479857
+        size 5
         label "Уши Ван Гога"
         color "red"
     ]
     node [
         id 41138
+        size 33
         label "Nautilus Pompilius"
         color "red"
     ]
     node [
         id 41139
+        size 19
         label "Тринадцатое созвездие"
         color "red"
     ]
     node [
         id 408756
+        size 0
         label "Парни"
         color "red"
     ]
     node [
         id 1479862
+        size 24
         label "Умка и Броневик"
         color "red"
     ]
     node [
         id 1607863
+        size 5
         label "Olimpia"
         color "red"
     ]
     node [
         id 408760
+        size 1
         label "Клерки"
         color "red"
     ]
     node [
-        id 359609
-        label "Алексей Страйк"
+        id 41145
+        size 9
+        label "Вячеслав Бутусов"
         color "red"
     ]
     node [
         id 41148
+        size 20
         label "Торба-на-Круче"
         color "red"
     ]
     node [
         id 408766
+        size 0
         label "Крокодилли"
         color "red"
     ]
     node [
         id 2150261
+        size 2
         label "Электрические Партизаны"
         color "red"
     ]
     node [
         id 4604096
+        size 0
         label "Lermont & Julic"
         color "red"
     ]
     node [
         id 41154
+        size 35
         label "Кукрыниксы"
         color "red"
     ]
     node [
         id 586950
+        size 5
         label "Выход"
         color "red"
     ]
     node [
         id 1636838
+        size 1
         label "Сергей Жирков"
         color "red"
     ]
     node [
-        id 359568
-        label "Александр Пушной"
-        color "red"
-    ]
-    node [
         id 586955
+        size 0
         label "Лучше Поздно"
         color "red"
     ]
     node [
         id 2902220
+        size 0
         label "Мечтать"
         color "red"
     ]
     node [
         id 2444493
+        size 7
         label "БуттерБродский"
         color "red"
     ]
     node [
         id 586957
+        size 0
         label "Сакмаров-бэнд"
         color "red"
     ]
     node [
         id 586960
+        size 4
         label "Александр Лаэртский"
         color "red"
     ]
     node [
         id 42531
+        size 10
         label "Полковник и однополчане"
         color "red"
     ]
     node [
         id 358612
+        size 53
         label "ДДТ"
         color "red"
     ]
     node [
         id 41173
+        size 10
         label "Братья Грим"
         color "red"
     ]
     node [
         id 432947
+        size 0
         label "фон Штефаниц"
         color "red"
     ]
     node [
         id 4104410
+        size 0
         label "Orange House"
         color "red"
     ]
     node [
         id 41183
+        size 7
         label "Тени свободы"
         color "red"
     ]
     node [
         id 219344
+        size 20
         label "Фиги"
         color "red"
     ]
     node [
         id 1061090
+        size 2
         label "Mariyka"
         color "red"
     ]
     node [
         id 158947
+        size 12
         label "Tequilajazzz"
         color "red"
     ]
     node [
         id 188966
+        size 9
         label "После 11"
         color "red"
     ]
     node [
         id 2685158
+        size 0
         label "Георгий Делиев"
         color "red"
     ]
     node [
         id 3205351
+        size 3
         label "СолоИНК"
         color "red"
     ]
     node [
         id 4300008
+        size 7
         label "Корабль"
         color "red"
     ]
     node [
         id 3287273
+        size 0
         label "Магнэт"
         color "red"
     ]
     node [
         id 213256
+        size 22
         label "Шмели"
         color "red"
     ]
     node [
         id 3262701
+        size 0
         label "Василий Лавров и группа 'Территория'"
         color "red"
     ]
     node [
         id 3212526
+        size 14
         label "ДМЦ"
         color "red"
     ]
     node [
         id 673007
+        size 0
         label "SUBWAY сейшн"
         color "red"
     ]
     node [
         id 4773107
+        size 5
         label "Бомж Трио"
         color "red"
     ]
     node [
         id 4116725
+        size 0
         label "Гуша Катушкин"
         color "red"
     ]
     node [
         id 4408567
+        size 0
         label "Тёплые дни"
         color "red"
     ]
     node [
         id 4792568
+        size 0
         label "Решение. do"
         color "red"
     ]
     node [
         id 2779860
+        size 0
         label "TOKAY"
         color "red"
     ]
     node [
         id 3118331
+        size 0
         label "МОНОМАХ"
         color "red"
     ]
     node [
         id 41213
+        size 23
         label "7Б"
         color "red"
     ]
     node [
         id 2674942
+        size 2
         label "Пони"
         color "red"
     ]
     node [
         id 404736
+        size 4
         label "Александр Заславский"
         color "red"
     ]
     node [
         id 41218
+        size 9
         label "Декабрь"
         color "red"
     ]
     node [
         id 41219
+        size 4
         label "ДжаниRадари"
         color "red"
     ]
     node [
         id 3652868
+        size 3
         label "Эйфори.Я"
         color "red"
     ]
     node [
         id 587013
+        size 17
         label "АукцЫон"
         color "red"
     ]
     node [
         id 213254
+        size 6
         label "Ва-Банкъ"
         color "red"
     ]
     node [
         id 648456
+        size 1
         label "Сергей Баринцев"
         color "red"
     ]
     node [
         id 213257
+        size 3
         label "Яйцы Fаберже"
         color "red"
     ]
     node [
         id 41226
+        size 1
         label "Архип и его Алиса"
         color "red"
     ]
     node [
         id 3748107
+        size 0
         label "RENRO"
         color "red"
     ]
     node [
         id 3973390
+        size 0
         label "CheRocky"
         color "red"
     ]
     node [
         id 188973
+        size 3
         label "Mordor"
         color "red"
     ]
     node [
         id 421251
+        size 1
         label "Куба"
         color "red"
     ]
     node [
         id 167190
+        size 5
         label "Джанго"
         color "red"
     ]
     node [
         id 159003
+        size 7
         label "Диана Арбенина"
         color "red"
     ]
     node [
         id 907548
+        size 1
         label "МАЧЕТЕ"
         color "red"
     ]
     node [
         id 4492573
+        size 0
         label "Пепельный свет"
         color "red"
     ]
     node [
         id 4604293
+        size 0
         label "Crouch End"
         color "red"
     ]
     node [
         id 1489185
+        size 8
         label "Top-Display!"
         color "red"
     ]
     node [
         id 1489186
+        size 0
         label "Виктор"
         color "red"
     ]
     node [
         id 2424100
+        size 0
         label "ГРА4И"
         color "red"
     ]
     node [
         id 2973628
+        size 0
         label "Амели"
         color "red"
     ]
     node [
         id 42545
+        size 3
         label "Pushking"
         color "red"
     ]
     node [
         id 430378
+        size 18
         label "Бахыт Компот"
         color "red"
     ]
     node [
         id 592698
+        size 0
         label "Пёс и Группа"
         color "red"
     ]
     node [
         id 426284
+        size 5
         label "Оптимальный вариант"
         color "red"
     ]
     node [
         id 2408850
+        size 0
         label "Alexey Vasilyev"
         color "red"
     ]
     node [
         id 156419
+        size 1
         label "Ломовой"
         color "red"
     ]
     node [
         id 3938355
+        size 1
         label "Виктор Виталий"
         color "red"
     ]
     node [
         id 359622
+        size 3
         label "Константин Селезнёв"
         color "red"
     ]
     node [
         id 4199738
+        size 4
         label "Ольга Пульга"
         color "red"
     ]
     node [
         id 3423551
+        size 3
         label "MADO"
         color "red"
     ]
     node [
         id 432891
+        size 0
         label "АЛЬТАВИСТА"
         color "red"
     ]
     node [
         id 2837729
+        size 0
         label "Колдстрим"
         color "red"
     ]
     node [
         id 2748744
+        size 3
         label "Ликёр Жара"
         color "red"
     ]
     node [
         id 4686391
+        size 0
         label "Группа Покровский"
         color "red"
     ]
     node [
         id 3652834
+        size 6
         label "Константин Ступин"
         color "red"
     ]
     node [
         id 3020111
+        size 0
         label "Летучий Голландец"
         color "red"
     ]
     node [
         id 3380963
+        size 0
         label "Восемь по Гринвичу"
         color "red"
     ]
     node [
         id 1627478
+        size 13
         label "Тимур Валеев и группа Ключи"
         color "red"
     ]
     node [
         id 717146
+        size 13
         label "Обе-Рек"
         color "red"
     ]
     node [
         id 677775
+        size 12
         label "Александр Иванов"
         color "red"
     ]
     node [
         id 3153244
+        size 8
         label "Инкогнито"
         color "red"
     ]
     node [
         id 2920506
+        size 0
         label "ЭССЕ"
         color "red"
     ]
     node [
         id 2419090
+        size 5
         label "СМЕТАНА band"
         color "red"
     ]
     node [
         id 3440996
+        size 4
         label "VID"
         color "red"
     ]
     node [
         id 2926559
+        size 0
         label "Дельфы"
         color "red"
     ]
     node [
         id 3686759
+        size 5
         label "Rusted"
         color "red"
     ]
     node [
         id 4702569
+        size 0
         label "SUPERтемп"
         color "red"
     ]
     node [
         id 3761514
+        size 5
         label "КерамикА"
         color "red"
     ]
     node [
         id 426215
+        size 1
         label "Cuibul"
         color "red"
     ]
     node [
         id 980332
+        size 0
         label "Бергамот"
         color "red"
     ]
     node [
         id 3872109
+        size 0
         label "Patrick Cash"
         color "red"
     ]
     node [
         id 42532
+        size 0
         label "Седьмое Небо"
         color "red"
     ]
     node [
         id 218344
+        size 6
         label "Кафе"
         color "red"
     ]
     node [
         id 1431923
+        size 10
         label "Жуки"
         color "red"
     ]
     node [
         id 648425
+        size 1
         label "Банда Пилар"
         color "red"
     ]
     node [
         id 359642
+        size 9
         label "Гран-Куражъ"
         color "red"
     ]
     node [
         id 458132
+        size 0
         label "Кок Оду"
         color "red"
     ]
     node [
         id 648426
+        size 0
         label "Берег Ялты"
         color "red"
     ]
     node [
         id 421248
+        size 9
         label "Макс Покровский"
         color "red"
     ]
     node [
         id 1435011
+        size 2
         label "Константин Никольский"
         color "red"
     ]
     node [
         id 711045
+        size 5
         label "RadioCat"
         color "red"
     ]
     node [
         id 1994118
+        size 0
         label "Оркестр Open Air"
         color "red"
     ]
     node [
         id 4637793
+        size 0
         label "Твёрдый ЗнакЪ"
         color "red"
     ]
     node [
         id 3834495
+        size 3
         label "Дмитрий Четвергов"
         color "red"
     ]
     node [
         id 3104137
+        size 10
         label "Cosmic Latte"
         color "red"
     ]
     node [
         id 2905482
+        size 38
         label "Чиж & Co"
         color "red"
     ]
     node [
+        id 3104151
+        size 0
+        label "Ледокол Пушкин"
+        color "red"
+    ]
+    node [
         id 1615056
+        size 2
         label "Сергей Кристовский"
         color "red"
     ]
     node [
         id 2655634
+        size 13
         label "Павел Пиковский"
         color "red"
     ]
     node [
         id 42563
+        size 0
         label "Смирнов и Ко"
         color "red"
     ]
     node [
         id 2655636
+        size 0
         label "Павел Матвеев"
         color "red"
     ]
     node [
         id 673006
+        size 18
         label "Мураками"
         color "red"
     ]
     node [
         id 2655638
+        size 0
         label "Юность Злодеев"
         color "red"
     ]
     node [
-        id 3104151
-        label "Ледокол Пушкин"
-        color "red"
-    ]
-    node [
         id 4639129
+        size 0
         label "Гранд Оркестра"
         color "red"
     ]
     node [
+        id 359609
+        size 17
+        label "Алексей Страйк"
+        color "red"
+    ]
+    node [
         id 2451867
+        size 6
         label "Кирилл Комаров и Друзья"
         color "red"
     ]
     node [
         id 2451868
+        size 18
         label "Кирилл Комаров"
         color "red"
     ]
     node [
         id 166306
+        size 6
         label "Конец фильма"
         color "red"
     ]
     node [
         id 681380
+        size 8
         label "Рабфак"
         color "red"
     ]
     node [
         id 4097094
+        size 0
         label "Территория Тишины"
         color "red"
     ]
     node [
         id 748966
+        size 12
         label "Ботаника"
         color "red"
     ]
     node [
         id 1652735
+        size 5
         label "Александр Кутиков"
         color "red"
     ]
     node [
         id 3866024
+        size 4
         label "Томаты"
         color "red"
     ]
     node [
         id 4023722
+        size 0
         label "Проект ХБ"
         color "red"
     ]
     node [
         id 4739500
+        size 0
         label "Вето"
         color "red"
     ]
     node [
         id 189598
+        size 3
         label "Манго-Манго"
         color "red"
     ]
     node [
         id 1597872
+        size 0
         label "Андрей Заблудовский"
         color "red"
     ]
     node [
         id 3199048
+        size 0
         label "Стас Намин и группа «Цветы»"
         color "red"
     ]
     node [
         id 168370
+        size 4
         label "Nефть"
         color "red"
     ]
     node [
         id 168854
+        size 2
         label "Рубль"
         color "red"
     ]
     node [
         id 3379636
+        size 12
         label "Лакмус"
         color "red"
     ]
     node [
+        id 4578328
+        size 0
+        label "KRUV"
+        color "red"
+    ]
+    node [
         id 167351
+        size 0
         label "Арсений Бородин"
         color "red"
     ]
     node [
         id 2439609
+        size 2
         label "ELAГA"
         color "red"
     ]
     node [
         id 3922364
+        size 6
         label "MARCHEVSKY"
         color "red"
     ]
     node [
         id 4747339
+        size 10
         label "Владимир Бурдин"
         color "red"
     ]
     node [
         id 503239
+        size 7
         label "Красные Звёзды"
         color "red"
     ]
     node [
         id 4656586
+        size 0
         label "Тропы Не Врут"
         color "red"
     ]
     node [
         id 4686283
+        size 1
         label "Диf"
         color "red"
     ]
     node [
         id 2830241
+        size 0
         label "SuLa"
         color "red"
     ]
     node [
         id 2420175
+        size 0
         label "Ключевая"
         color "red"
     ]
     node [
         id 452515
+        size 21
         label "Коридор"
         color "red"
     ]
     node [
         id 218071
+        size 31
         label "Ночные Снайперы"
         color "red"
     ]
     node [
         id 4451800
+        size 2
         label "Ам Чёнски"
         color "red"
     ]
     node [
         id 161243
+        size 55
         label "Сплин"
         color "red"
     ]
     node [
         id 161244
+        size 6
         label "Александр Васильев"
         color "red"
     ]
     node [
         id 4745693
+        size 5
         label "Владимир Рекшан"
         color "red"
     ]
     node [
         id 4745694
+        size 3
         label "Санкт-Петербург"
         color "red"
     ]
     node [
         id 2617823
+        size 0
         label "Ноги мира"
         color "red"
     ]
     node [
         id 4060641
+        size 6
         label "Lemu"
         color "red"
     ]
     node [
         id 4712699
+        size 0
         label "Сказки чёрного города"
         color "red"
     ]
     node [
         id 2617830
+        size 2
         label "Моя дорогая"
         color "red"
     ]
     node [
         id 167401
+        size 40
         label "Алиса"
         color "red"
     ]
     node [
         id 2617834
+        size 0
         label "Radio Я"
         color "red"
     ]
     node [
         id 3735020
+        size 0
         label "Алексей Матов"
         color "red"
     ]
     node [
         id 42578
+        size 0
         label "Александр Чернецкий"
         color "red"
     ]
     node [
         id 42480
+        size 6
         label "Вадим Курылёв"
         color "red"
     ]
     node [
         id 4755880
+        size 0
         label "Яна Синцова и 5 персон"
         color "red"
     ]
     node [
-        id 3300037
-        label "dетали"
-        color "red"
-    ]
-    node [
         id 648446
+        size 0
         label "Александр Бар"
         color "red"
     ]
     node [
         id 2807286
+        size 1
         label "Голова Муэссы"
         color "red"
     ]
     node [
         id 2004475
+        size 2
         label "Russian Solution"
         color "red"
     ]
     node [
         id 1120765
+        size 6
         label "FTB"
         color "red"
     ]
     node [
         id 42495
+        size 1
         label "Тихо"
         color "red"
     ]
     node [
         id 3216897
+        size 7
         label "Адаптация Пчёл"
         color "red"
     ]
     node [
         id 2771458
+        size 16
         label "Михаил Башаков"
         color "red"
     ]
     node [
         id 3308459
+        size 5
         label "Церковь Детства"
         color "red"
     ]
     node [
         id 3824133
+        size 4
         label "Ясвена"
         color "red"
     ]
     node [
         id 2421362
+        size 0
         label "Крики бабочек"
         color "red"
     ]
     node [
         id 3242507
+        size 8
         label "Vadio Nadio Radio"
         color "red"
     ]
     node [
         id 425899
+        size 0
         label "Центр"
         color "red"
     ]
     node [
         id 4576783
+        size 0
         label "Взгляд"
         color "red"
     ]
     node [
         id 42512
+        size 8
         label "Настя"
         color "red"
     ]
     node [
         id 587011
+        size 14
         label "Телевизор"
         color "red"
     ]
     node [
         id 675734
+        size 4
         label "Небо здесь"
         color "red"
     ]
     node [
         id 4085272
+        size 1
         label "Александр «Чача» Иванов"
         color "red"
     ]
     node [
         id 4582938
+        size 0
         label "Мантана"
         color "red"
     ]
     node [
         id 42523
+        size 25
         label "Юта"
         color "red"
     ]
     node [
         id 4056666
+        size 0
         label "Бекхан"
         color "red"
     ]
     node [
         id 188958
+        size 27
         label "Александр Ф. Скляр"
         color "red"
     ]
     node [
         id 3982597
+        size 4
         label "Площадь Революции"
         color "red"
     ]
     node [
         id 595093
+        size 1
         label "Нечто"
         color "red"
     ]
     node [
         id 188963
+        size 44
         label "Аквариум"
         color "red"
     ]
     node [
         id 188964
+        size 1
         label "Александр Градский"
         color "red"
     ]
     node [
         id 676390
+        size 0
         label "Туфельки туи"
         color "red"
     ]
     node [
         id 2611756
+        size 0
         label "Эллис Band"
         color "red"
     ]
     node [
         id 3142189
+        size 6
         label "сегодняночью"
         color "red"
     ]
     node [
         id 188974
+        size 28
         label "Браво"
         color "red"
     ]
     node [
         id 188975
+        size 0
         label "Високосный Год"
         color "red"
     ]
     node [
         id 188977
+        size 11
         label "Воскресение"
         color "red"
     ]
     node [
         id 188978
+        size 10
         label "Моральный кодекс"
         color "red"
     ]
     node [
         id 168371
+        size 5
         label "Бензобак"
         color "red"
     ]
     node [
         id 3329289
+        size 0
         label "Дай Дарогу!"
         color "red"
     ]
     node [
         id 4425881
+        size 0
         label "Середина"
         color "red"
     ]
     node [
         id 4762170
+        size 0
         label "Kurtki"
         color "red"
     ]
     node [
         id 677437
+        size 4
         label "Jack Action"
         color "red"
     ]
     node [
         id 42561
+        size 0
         label "Лена Тэ"
         color "red"
     ]
     node [
         id 2640973
+        size 5
         label "Слайд"
         color "red"
     ]
     node [
-        id 156427
-        label "Звери"
+        id 3694347
+        size 1
+        label "Станислав Бартенев (Если)"
         color "red"
     ]
     node [
         id 42565
+        size 0
         label "А.В.О.С.Ь"
         color "red"
     ]
     node [
         id 42566
+        size 0
         label "Времена"
         color "red"
     ]
     node [
         id 3736135
+        size 3
         label "2ва Самолёта"
         color "red"
     ]
     node [
+        id 648424
+        size 0
+        label "Корсар"
+        color "red"
+    ]
+    node [
         id 4013646
+        size 0
         label "Dругой Ветер"
         color "red"
     ]
     node [
         id 432909
+        size 1
         label "DJ Nejtrino"
         color "red"
     ]
     node [
         id 3107410
+        size 1
         label "P.L.U.S."
         color "red"
     ]
     node [
         id 3263059
+        size 5
         label "Группа товарищей"
         color "red"
     ]
     node [
         id 948820
+        size 3
         label "Александр Маршал"
         color "red"
     ]
     node [
         id 42581
+        size 16
         label "Александр Башлачёв"
         color "red"
     ]
     node [
         id 2924119
+        size 0
         label "ГАФТ"
         color "red"
     ]
     node [
         id 2942553
+        size 1
         label "Радиопомехи"
         color "red"
     ]
     node [
         id 4097111
+        size 0
         label "Дети"
         color "red"
     ]
     node [
         id 1591567
+        size 21
         label "Полюса"
         color "red"
     ]
     node [
         id 42588
+        size 0
         label "Игорь Романов"
         color "red"
     ]
     node [
-        id 648424
-        label "Корсар"
+        id 725110
+        size 0
+        label "Coffee"
         color "red"
     ]
     node [
         id 2421342
+        size 2
         label "Arilka"
         color "red"
     ]
     node [
         id 3211871
+        size 1
         label "Евгений Борец"
         color "red"
     ]
     node [
         id 2641680
+        size 0
         label "Арт-Клиника"
         color "red"
     ]
     node [
         id 41108
+        size 1
         label "Raketaboy"
         color "red"
     ]
     node [
         id 41062
+        size 17
         label "Сурганова и Оркестр"
         color "red"
     ]
     node [
         id 4323942
+        size 0
         label "VAVES"
         color "red"
     ]
     node [
         id 1238631
+        size 2
         label "ШУТКА БАХА"
         color "red"
     ]
     node [
         id 3916220
+        size 0
         label "Лица"
         color "red"
     ]
     node [
         id 4063457
+        size 0
         label "Линии дождя"
         color "red"
     ]
     node [
         id 432748
+        size 8
         label "Зоопарк"
         color "red"
     ]
     node [
         id 1238637
+        size 0
         label "Gruppa L'eto"
         color "red"
     ]
     node [
         id 722542
+        size 8
         label "Ромарио"
         color "red"
     ]
     node [
         id 4465263
+        size 0
         label "Космос"
         color "red"
     ]
     node [
         id 3244657
+        size 3
         label "Сандали"
         color "red"
     ]
     node [
         id 2908121
+        size 0
         label "ДжинSы Клёш"
         color "red"
     ]
     node [
         id 1131126
+        size 5
         label "Gulag Tunes"
         color "red"
     ]
     node [
         id 42615
+        size 6
         label "Оркестр Вермишель"
         color "red"
     ]
     node [
         id 42618
+        size 19
         label "Зимовье зверей"
         color "red"
     ]
     node [
         id 42619
+        size 0
         label "Рива Роччи"
         color "red"
     ]
     node [
         id 3249791
+        size 6
         label "Прохор"
         color "red"
     ]
     node [
         id 418432
+        size 1
         label "За деньги"
         color "red"
     ]
     node [
         id 3247382
+        size 14
         label "Илья Орлов"
         color "red"
     ]
     node [
         id 3881178
+        size 14
         label "Василий К."
         color "red"
     ]
     node [
         id 3972743
+        size 7
         label "СтимфониЯ"
         color "red"
     ]
     node [
         id 1238668
+        size 2
         label "Колибри"
         color "red"
     ]
     node [
         id 2978445
+        size 6
         label "Каспий"
         color "red"
     ]
     node [
         id 781421
+        size 4
         label "Zen-Zen-Zen"
         color "red"
     ]
     node [
         id 42640
+        size 0
         label "Пасхальное Шествие"
         color "red"
     ]
     node [
         id 2886292
+        size 8
         label "BY Effect"
         color "red"
     ]
     node [
         id 3363479
+        size 0
         label "Жамки"
         color "red"
     ]
     node [
         id 170650
+        size 40
         label "Крематорий"
         color "red"
     ]
     node [
         id 4636273
+        size 0
         label "Два крыла"
         color "red"
     ]
     node [
         id 170655
+        size 0
         label "На луне"
         color "red"
     ]
     node [
         id 170656
+        size 0
         label "ПОлюбоМУ"
         color "red"
     ]
     node [
         id 4081435
+        size 1
         label "Mad Show Boys"
         color "red"
     ]
     node [
         id 42661
+        size 3
         label "Святослав Задерий"
         color "red"
     ]
     node [
         id 42663
+        size 2
         label "S.P.O.R.T."
         color "red"
     ]
     node [
         id 42664
+        size 0
         label "Корпус 2"
         color "red"
     ]
     node [
         id 305835
+        size 0
         label "The Stokes"
         color "red"
     ]
     node [
         id 3744370
+        size 4
         label "Современная Почта"
         color "red"
     ]
     node [
         id 432925
+        size 0
         label "ЗарницА"
         color "red"
     ]
     node [
         id 168625
+        size 0
         label "Китай"
         color "red"
     ]
     node [
         id 4060852
+        size 0
         label "НонАдаптантЫ"
         color "red"
     ]
     node [
         id 1238709
+        size 17
         label "Чёрный Лукич"
         color "red"
     ]
     node [
         id 906934
+        size 0
         label "Дым"
         color "red"
     ]
     node [
-        id 41145
-        label "Вячеслав Бутусов"
-        color "red"
-    ]
-    node [
         id 2608586
+        size 0
         label "Станция Север"
         color "red"
     ]
     node [
         id 165125
+        size 0
         label "Андрей Алексин"
         color "red"
     ]
     node [
-        id 725110
-        label "Coffee"
+        id 3300037
+        size 2
+        label "dетали"
         color "red"
     ]
     node [
         id 218079
+        size 39
         label "Несчастный Случай"
         color "red"
     ]
     node [
         id 4428407
+        size 0
         label "23"
         color "red"
     ]
     node [
         id 3352268
+        size 9
         label "ГильZа"
         color "red"
     ]
     node [
         id 735955
+        size 0
         label "Master Lee"
         color "red"
     ]
     node [
         id 167636
+        size 5
         label "Chkalov"
         color "red"
     ]
     node [
         id 4444885
+        size 0
         label "Романов, Китаев, Макиенко"
         color "red"
     ]
     node [
         id 234198
+        size 4
         label "Павел Чехов"
         color "red"
     ]
     node [
         id 167640
+        size 12
         label "Секрет"
         color "red"
     ]
     node [
         id 1847005
+        size 0
         label "Вика и коты"
         color "red"
     ]
     node [
         id 2923230
+        size 0
         label "Сабака"
         color "red"
     ]
     node [
         id 1717029
+        size 5
         label "Ямайский и Островитяне"
         color "red"
     ]
     node [
         id 2748129
+        size 0
         label "Перцем по сердцу"
         color "red"
     ]
     node [
         id 4445922
+        size 0
         label "Нейронная оборона"
         color "red"
     ]
     node [
         id 167651
+        size 9
         label "Чебоза"
         color "red"
     ]
     node [
         id 2649830
+        size 0
         label "Интроспекция"
         color "red"
     ]
     node [
         id 2499304
+        size 4
         label "Четыре Апреля"
         color "red"
     ]
     node [
         id 167657
+        size 0
         label "Алкоголь"
         color "red"
     ]
     node [
         id 2444838
+        size 5
         label "ГДР"
         color "red"
     ]
     node [
         id 4591340
+        size 0
         label "Настя Васильева"
         color "red"
     ]
     node [
         id 4719341
+        size 0
         label "Dizaidor"
         color "red"
     ]
     node [
         id 2518766
+        size 0
         label "Арт-проект «Артель»"
         color "red"
     ]
     node [
         id 4038781
+        size 0
         label "KROLiki"
         color "red"
     ]
     node [
         id 859890
+        size 0
         label "Екатерина Мечетина"
         color "red"
     ]
     node [
         id 432886
+        size 0
         label "Майолика"
         color "red"
     ]
     node [
         id 2889467
+        size 8
         label "Jeff $отоварищi"
         color "red"
     ]
     node [
         id 515836
+        size 0
         label "Антон Пляскин"
         color "red"
     ]
     node [
         id 2624253
+        size 0
         label "Эхо11"
         color "red"
     ]
     node [
         id 4073215
+        size 0
         label "Духовное оружие"
         color "red"
     ]
     node [
         id 2923264
+        size 4
         label "МодеМ"
         color "red"
     ]
     node [
         id 432898
+        size 0
         label "Евгений Акимов и рок-группа Ассамблея"
         color "red"
     ]
     node [
         id 412459
+        size 0
         label "Странные игры"
         color "red"
     ]
     node [
         id 4324103
+        size 0
         label "Блок-А"
         color "red"
     ]
     node [
-        id 3694347
-        label "Станислав Бартенев (Если)"
+        id 156427
+        size 13
+        label "Звери"
         color "red"
     ]
     node [
         id 4481638
+        size 0
         label "Лаэртский Бэнд"
         color "red"
     ]
     node [
         id 3103503
+        size 2
         label "TAR"
         color "red"
     ]
     node [
         id 4292368
+        size 0
         label "Братья Тузловы"
         color "red"
     ]
     node [
         id 432914
+        size 9
         label "Atlantida Project"
         color "red"
     ]
     node [
         id 432916
+        size 4
         label "Мануфактура"
         color "red"
     ]
     node [
         id 2434839
+        size 0
         label "Zmey & Co"
         color "red"
     ]
     node [
         id 432920
+        size 1
         label "Наталия Княжинская"
         color "red"
     ]
     node [
         id 426777
+        size 6
         label "Свинцовый Туман"
         color "red"
     ]
     node [
         id 1254171
+        size 6
         label "Пётр Мамонов"
         color "red"
     ]
     node [
         id 1254172
+        size 10
         label "Звуки Му"
         color "red"
     ]
     node [
         id 2434845
+        size 4
         label "NOMERA"
         color "red"
     ]
     node [
         id 432926
+        size 0
         label "Группа FM"
         color "red"
     ]
     node [
         id 432928
+        size 0
         label "Виталий Усанов"
         color "red"
     ]
     node [
         id 2988835
+        size 1
         label "Strike"
         color "red"
     ]
     node [
         id 359558
+        size 19
         label "Znaki"
         color "red"
     ]
     node [
         id 1717030
+        size 0
         label "ТО «Меломаны»"
         color "red"
     ]
     node [
         id 4323111
+        size 0
         label "Регина Nimf"
         color "red"
     ]
     node [
         id 432936
+        size 7
         label "Мифы"
         color "red"
     ]
     node [
         id 3916744
+        size 0
         label "Sherlock Blonde"
         color "red"
     ]
     node [
         id 432938
+        size 0
         label "Маша и медведи"
         color "red"
     ]
     node [
         id 707371
+        size 16
         label "Моды"
         color "red"
     ]
     node [
         id 4054831
+        size 4
         label "МэнЧеСтер"
         color "red"
     ]
     node [
         id 412464
+        size 13
         label "АДО"
         color "red"
     ]
     node [
         id 427825
+        size 19
         label "Мара"
         color "red"
     ]
     node [
         id 426291
+        size 1
         label "Юрий Гагарин"
         color "red"
     ]
     node [
         id 3502558
+        size 0
         label "Sappy"
         color "red"
     ]
     node [
         id 431926
+        size 4
         label "Олег Чубыкин"
         color "red"
     ]
     node [
         id 2561847
+        size 0
         label "Владимир Шахрин"
         color "red"
     ]
     node [
         id 412472
+        size 0
         label "Чуфелла Марзуфелла"
         color "red"
     ]
     node [
         id 338745
+        size 0
         label "Город 312"
         color "red"
     ]
     node [
         id 412474
+        size 0
         label "СубМарина"
         color "red"
     ]
     node [
         id 773947
+        size 3
         label "Brass-Rock группа Корабли"
         color "red"
     ]
     node [
         id 2451261
+        size 1
         label "Дядьки"
         color "red"
     ]
     node [
         id 4063430
+        size 0
         label "ПШО ПроРок"
         color "red"
     ]
     node [
         id 2815809
+        size 0
         label "Алексей Мурашёв"
         color "red"
     ]
     node [
         id 2977931
+        size 0
         label "Доктор Кинчев и группа 'Стиль'"
         color "red"
     ]
     node [
         id 773956
+        size 1
         label "Тесно"
         color "red"
     ]
     node [
         id 425797
+        size 13
         label "НОМ"
         color "red"
     ]
     node [
         id 2934241
+        size 0
         label "Tailwind"
         color "red"
     ]
     node [
         id 835400
+        size 1
         label "Квартал"
         color "red"
     ]
     node [
         id 359564
+        size 0
         label "Вадим Степанцов"
         color "red"
     ]
     node [
         id 429898
+        size 13
         label "Авиа"
         color "red"
     ]
     node [
         id 426829
+        size 14
         label "Василий Шумов"
         color "red"
     ]
     node [
         id 2718543
+        size 0
         label "С'ОЛЬ"
         color "red"
     ]
     node [
         id 361299
+        size 0
         label "Alhimia"
         color "red"
     ]
     node [
         id 975700
+        size 14
         label "Точка росы"
         color "red"
     ]
     node [
         id 160597
+        size 2
         label "Место встречи"
         color "red"
     ]
     node [
         id 160598
+        size 9
         label "Муха"
         color "red"
     ]
     node [
         id 2962264
+        size 9
         label "Сергей Бобунец"
         color "red"
     ]
     node [
         id 2978447
+        size 0
         label "fonkovra"
         color "red"
     ]
     node [
-        id 3267421
-        label "Соблаков"
+        id 3677021
+        size 5
+        label "Disco-RD"
         color "red"
     ]
     node [
         id 432990
+        size 2
         label "Контакты"
         color "red"
     ]
     node [
-        id 4737889
-        label "Парк Победы"
+        id 359568
+        size 0
+        label "Александр Пушной"
         color "red"
     ]
     node [
         id 727907
+        size 12
         label "Сегодня в Мире"
         color "red"
     ]
     node [
         id 645988
+        size 6
         label "ШаЛе"
         color "red"
     ]
     node [
         id 645989
+        size 0
         label "Танго и Кэш"
         color "red"
     ]
     node [
         id 4024166
+        size 2
         label "Вася Ложкин и какие-то люди"
         color "red"
     ]
     node [
-        id 219281
-        label "Ульи"
-        color "red"
-    ]
-    node [
         id 2692968
+        size 1
         label "Следы"
         color "red"
     ]
     node [
         id 2891625
+        size 3
         label "Северный Флот"
         color "red"
     ]
     node [
         id 359795
+        size 5
         label "Игорь Куприянов"
         color "red"
     ]
     node [
         id 1617772
+        size 0
         label "Пятый Корпус"
         color "red"
     ]
     node [
         id 4421486
+        size 0
         label "Северные врата"
         color "red"
     ]
     node [
         id 789480
+        size 0
         label "Total"
         color "red"
     ]
     node [
         id 4171634
+        size 6
         label "ГРОМЫКА"
         color "red"
     ]
     node [
         id 360307
+        size 12
         label "Городская Культура"
         color "red"
     ]
     node [
         id 3325813
+        size 0
         label "Чехонте"
         color "red"
     ]
     node [
         id 359572
+        size 4
         label "Объект Насмешек"
         color "red"
     ]
     node [
         id 3099516
+        size 0
         label "НАС НЕТ"
         color "red"
     ]
     node [
         id 2769791
+        size 2
         label "По_Умолчанию"
         color "red"
     ]
     node [
         id 2155392
+        size 12
         label "Свободный полёт"
         color "red"
     ]
     node [
         id 3133313
+        size 0
         label "Stacey Dogs"
         color "red"
     ]
     node [
         id 2815874
+        size 0
         label "Killer Honda"
         color "red"
     ]
     node [
         id 3206019
+        size 1
         label "Shakti Loka"
         color "red"
     ]
     node [
         id 4510322
+        size 0
         label "Инфекция"
         color "red"
     ]
     node [
         id 3464071
+        size 0
         label "Дмитрий Sit Ситников"
         color "red"
     ]
     node [
         id 433032
+        size 5
         label "Полнолуние"
         color "red"
     ]
     node [
         id 1587180
+        size 13
         label "MONOЛИЗА"
         color "red"
     ]
     node [
         id 677772
+        size 0
         label "Z.I.M.A"
         color "red"
     ]
     node [
         id 426894
+        size 1
         label "The СкаZки"
         color "red"
     ]
     node [
         id 2557839
+        size 14
         label "Casual"
         color "red"
     ]
     node [
         id 360336
+        size 1
         label "Стокгольм"
         color "red"
     ]
     node [
         id 788369
+        size 0
         label "НабатЪ"
         color "red"
     ]
     node [
         id 168851
+        size 15
         label "Ленинград"
         color "red"
     ]
     node [
         id 168852
+        size 2
         label "Сергей Шнуров"
         color "red"
     ]
     node [
         id 2977686
+        size 7
         label "НедРа"
         color "red"
     ]
     node [
         id 2155415
+        size 3
         label "METHEORA"
         color "red"
     ]
     node [
         id 421792
+        size 21
         label "Белая Гвардия"
         color "red"
     ]
     node [
         id 425889
+        size 6
         label "The Matrixx"
         color "red"
     ]
     node [
         id 425891
+        size 6
         label "Вежливый отказ"
         color "red"
     ]
     node [
         id 677799
+        size 6
         label "Леприконсы"
         color "red"
     ]
     node [
         id 4485033
+        size 0
         label "Иван Курнаев и группа Новый день"
         color "red"
     ]
     node [
         id 2628523
+        size 0
         label "МОНАРХ"
         color "red"
     ]
     node [
         id 4711240
+        size 0
         label "Кристобаль Хунта"
         color "red"
     ]
     node [
         id 167070
+        size 8
         label "Ноль"
         color "red"
     ]
     node [
         id 2683832
+        size 0
         label "Капитан Кенгуру"
         color "red"
     ]
     node [
         id 4017082
+        size 3
         label "BAROCAMERA"
         color "red"
     ]
     node [
         id 4147132
+        size 6
         label "Naprimer"
         color "red"
     ]
     node [
         id 4532159
+        size 0
         label "Вторая Дверь"
         color "red"
     ]
     node [
         id 3680192
+        size 0
         label "Александр Церпята"
         color "red"
     ]
     node [
         id 42656
+        size 0
         label "Женя Глюкк и Группа Прикрытия"
         color "red"
     ]
     node [
         id 3949507
+        size 0
         label "Александр Котлер"
         color "red"
     ]
     node [
         id 167414
+        size 0
         label "Корней"
         color "red"
     ]
     node [
         id 359585
+        size 2
         label "Кометы"
         color "red"
     ]
     node [
         id 3175368
+        size 7
         label "БоБРы"
         color "red"
     ]
     node [
         id 426146
+        size 0
         label "Karamazov Twins"
         color "red"
     ]
     node [
         id 429733
+        size 5
         label "Поиск сети"
         color "red"
     ]
     node [
         id 4471762
+        size 0
         label "Sapgir Band"
         color "red"
     ]
     node [
         id 218067
+        size 29
         label "Чичерина"
         color "red"
     ]
     node [
         id 2413524
+        size 0
         label "Поэмы Дарвина"
         color "red"
     ]
     node [
         id 3000279
+        size 0
         label "Марта Ильина"
         color "red"
     ]
     node [
         id 4760536
+        size 0
         label "7 лет спустя"
         color "red"
     ]
     node [
         id 218073
+        size 26
         label "Пикник"
         color "red"
     ]
     node [
         id 677850
+        size 1
         label "Слюс"
         color "red"
     ]
     node [
         id 2926555
+        size 14
         label "СИГНАЛ"
         color "red"
     ]
     node [
         id 2926557
+        size 0
         label "Коктейль Шаляпина"
         color "red"
     ]
     node [
         id 424613
+        size 0
         label "ТАНТРА"
         color "red"
     ]
     node [
         id 2560997
+        size 3
         label "White Sound"
         color "red"
     ]
     node [
         id 4695234
+        size 5
         label "Хартыга & Альберт Кувезин"
         color "red"
     ]
     node [
         id 2965483
+        size 0
         label "Сны Африканца"
         color "red"
     ]
     node [
         id 3656684
+        size 7
         label "Ivashov"
         color "red"
     ]
     node [
         id 2689006
+        size 1
         label "АНТИМАТЕРИЯ"
         color "red"
     ]
     node [
         id 1652733
+        size 13
         label "Машина времени"
         color "red"
     ]
     node [
-        id 41128
-        label "Uma2rmaH"
+        id 2907304
+        size 9
+        label "Копенgagen"
         color "red"
     ]
     node [
         id 779250
+        size 0
         label "Транзит"
         color "red"
     ]
     node [
         id 218099
+        size 12
         label "Земфира"
         color "red"
     ]
     node [
         id 2442228
+        size 0
         label "Евгений Крылов"
         color "red"
     ]
     node [
-        id 3907582
-        label "Тайм-Аут"
+        id 1652734
+        size 16
+        label "Андрей Макаревич"
         color "red"
     ]
     node [
         id 218102
+        size 8
         label "Вася Ложкин рокындроль бэнд"
         color "red"
     ]
     node [
         id 359593
+        size 7
         label "Круиз"
         color "red"
     ]
     node [
         id 3336185
+        size 6
         label "Ворон Кутха"
         color "red"
     ]
     node [
         id 1107963
+        size 12
         label "Оргия праведников"
         color "red"
     ]
     node [
         id 2439062
+        size 0
         label "ЧЕЛЕНЖЕР"
         color "red"
     ]
     node [
         id 2635946
+        size 1
         label "последний из мАгикан (ПизМ)"
         color "red"
     ]
     node [
-        id 1652734
-        label "Андрей Макаревич"
+        id 3907582
+        size 6
+        label "Тайм-Аут"
         color "red"
     ]
     node [
         id 2918698
+        size 17
         label "Собаки Качалова"
         color "red"
+    ]
+    edge [
+        source 1489186
+        target 41051
+    ]
+    edge [
+        source 1489186
+        target 41055
+    ]
+    edge [
+        source 1489186
+        target 41083
+    ]
+    edge [
+        source 1489186
+        target 41120
+    ]
+    edge [
+        source 1489186
+        target 41213
+    ]
+    edge [
+        source 1489186
+        target 42523
+    ]
+    edge [
+        source 1489186
+        target 167401
+    ]
+    edge [
+        source 1489186
+        target 188974
+    ]
+    edge [
+        source 1489186
+        target 1431923
+    ]
+    edge [
+        source 167401
+        target 41055
+    ]
+    edge [
+        source 167401
+        target 41138
+    ]
+    edge [
+        source 167401
+        target 170650
+    ]
+    edge [
+        source 167401
+        target 218073
+    ]
+    edge [
+        source 167401
+        target 412774
+    ]
+    edge [
+        source 167401
+        target 2905482
     ]
     edge [
         source 3206019
@@ -2841,40 +3441,96 @@ graph [
         target 1431923
     ]
     edge [
-        source 1489186
+        source 41114
+        target 41050
+    ]
+    edge [
+        source 41114
         target 41051
     ]
     edge [
-        source 1489186
+        source 41114
         target 41055
     ]
     edge [
-        source 1489186
-        target 41083
+        source 41114
+        target 41062
     ]
     edge [
-        source 1489186
+        source 41114
+        target 41098
+    ]
+    edge [
+        source 41114
+        target 159003
+    ]
+    edge [
+        source 41114
+        target 161243
+    ]
+    edge [
+        source 41114
+        target 218071
+    ]
+    edge [
+        source 41114
+        target 427825
+    ]
+    edge [
+        source 168851
+        target 41122
+    ]
+    edge [
+        source 168851
+        target 41134
+    ]
+    edge [
+        source 168851
+        target 156427
+    ]
+    edge [
+        source 168851
+        target 168852
+    ]
+    edge [
+        source 168851
+        target 168854
+    ]
+    edge [
+        source 168851
+        target 358612
+    ]
+    edge [
+        source 41072
         target 41120
     ]
     edge [
-        source 1489186
-        target 41213
+        source 41072
+        target 41134
     ]
     edge [
-        source 1489186
-        target 42523
+        source 41072
+        target 41154
     ]
     edge [
-        source 1489186
+        source 41072
         target 167401
     ]
     edge [
-        source 1489186
-        target 188974
+        source 41072
+        target 170650
     ]
     edge [
-        source 1489186
-        target 1431923
+        source 41072
+        target 359558
+    ]
+    edge [
+        source 41072
+        target 359576
+    ]
+    edge [
+        source 41072
+        target 412774
     ]
     edge [
         source 359576
@@ -3273,30 +3929,6 @@ graph [
         target 2692968
     ]
     edge [
-        source 167401
-        target 41055
-    ]
-    edge [
-        source 167401
-        target 41138
-    ]
-    edge [
-        source 167401
-        target 170650
-    ]
-    edge [
-        source 167401
-        target 218073
-    ]
-    edge [
-        source 167401
-        target 412774
-    ]
-    edge [
-        source 167401
-        target 2905482
-    ]
-    edge [
         source 648456
         target 645987
     ]
@@ -3629,98 +4261,6 @@ graph [
         target 748966
     ]
     edge [
-        source 41114
-        target 41050
-    ]
-    edge [
-        source 41114
-        target 41051
-    ]
-    edge [
-        source 41114
-        target 41055
-    ]
-    edge [
-        source 41114
-        target 41062
-    ]
-    edge [
-        source 41114
-        target 41098
-    ]
-    edge [
-        source 41114
-        target 159003
-    ]
-    edge [
-        source 41114
-        target 161243
-    ]
-    edge [
-        source 41114
-        target 218071
-    ]
-    edge [
-        source 41114
-        target 427825
-    ]
-    edge [
-        source 168851
-        target 41122
-    ]
-    edge [
-        source 168851
-        target 41134
-    ]
-    edge [
-        source 168851
-        target 156427
-    ]
-    edge [
-        source 168851
-        target 168852
-    ]
-    edge [
-        source 168851
-        target 168854
-    ]
-    edge [
-        source 168851
-        target 358612
-    ]
-    edge [
-        source 41072
-        target 41120
-    ]
-    edge [
-        source 41072
-        target 41134
-    ]
-    edge [
-        source 41072
-        target 41154
-    ]
-    edge [
-        source 41072
-        target 167401
-    ]
-    edge [
-        source 41072
-        target 170650
-    ]
-    edge [
-        source 41072
-        target 359558
-    ]
-    edge [
-        source 41072
-        target 359576
-    ]
-    edge [
-        source 41072
-        target 412774
-    ]
-    edge [
         source 41136
         target 41072
     ]
@@ -3891,66 +4431,6 @@ graph [
     edge [
         source 41173
         target 2557839
-    ]
-    edge [
-        source 218282
-        target 158947
-    ]
-    edge [
-        source 218282
-        target 188963
-    ]
-    edge [
-        source 218282
-        target 425891
-    ]
-    edge [
-        source 218282
-        target 587013
-    ]
-    edge [
-        source 218282
-        target 1254171
-    ]
-    edge [
-        source 218282
-        target 1254172
-    ]
-    edge [
-        source 218282
-        target 1591567
-    ]
-    edge [
-        source 4708492
-        target 359609
-    ]
-    edge [
-        source 4708492
-        target 412464
-    ]
-    edge [
-        source 4708492
-        target 3694347
-    ]
-    edge [
-        source 788369
-        target 41114
-    ]
-    edge [
-        source 788369
-        target 161243
-    ]
-    edge [
-        source 788369
-        target 218073
-    ]
-    edge [
-        source 788369
-        target 358612
-    ]
-    edge [
-        source 4578328
-        target 4686283
     ]
     edge [
         source 426829
@@ -4249,34 +4729,6 @@ graph [
         target 358612
     ]
     edge [
-        source 218099
-        target 41050
-    ]
-    edge [
-        source 218099
-        target 41075
-    ]
-    edge [
-        source 218099
-        target 41098
-    ]
-    edge [
-        source 218099
-        target 41114
-    ]
-    edge [
-        source 218099
-        target 41138
-    ]
-    edge [
-        source 218099
-        target 161243
-    ]
-    edge [
-        source 218099
-        target 358612
-    ]
-    edge [
         source 188974
         target 41055
     ]
@@ -4437,6 +4889,34 @@ graph [
         target 3685520
     ]
     edge [
+        source 218282
+        target 158947
+    ]
+    edge [
+        source 218282
+        target 188963
+    ]
+    edge [
+        source 218282
+        target 425891
+    ]
+    edge [
+        source 218282
+        target 587013
+    ]
+    edge [
+        source 218282
+        target 1254171
+    ]
+    edge [
+        source 218282
+        target 1254172
+    ]
+    edge [
+        source 218282
+        target 1591567
+    ]
+    edge [
         source 3876888
         target 41055
     ]
@@ -4535,42 +5015,6 @@ graph [
     edge [
         source 4702569
         target 3736135
-    ]
-    edge [
-        source 41094
-        target 41055
-    ]
-    edge [
-        source 41094
-        target 41062
-    ]
-    edge [
-        source 41094
-        target 41092
-    ]
-    edge [
-        source 41094
-        target 41148
-    ]
-    edge [
-        source 41094
-        target 42618
-    ]
-    edge [
-        source 41094
-        target 188963
-    ]
-    edge [
-        source 41094
-        target 218067
-    ]
-    edge [
-        source 41094
-        target 218071
-    ]
-    edge [
-        source 41094
-        target 218079
     ]
     edge [
         source 42661
@@ -4763,30 +5207,6 @@ graph [
     edge [
         source 305835
         target 3336185
-    ]
-    edge [
-        source 2451867
-        target 218344
-    ]
-    edge [
-        source 2451867
-        target 1195039
-    ]
-    edge [
-        source 2451867
-        target 2451868
-    ]
-    edge [
-        source 2451867
-        target 2771458
-    ]
-    edge [
-        source 2451867
-        target 2977686
-    ]
-    edge [
-        source 2451867
-        target 3104137
     ]
     edge [
         source 4695234
@@ -5115,42 +5535,6 @@ graph [
     edge [
         source 2962264
         target 4060641
-    ]
-    edge [
-        source 41128
-        target 41062
-    ]
-    edge [
-        source 41128
-        target 41114
-    ]
-    edge [
-        source 41128
-        target 41173
-    ]
-    edge [
-        source 41128
-        target 167401
-    ]
-    edge [
-        source 41128
-        target 188974
-    ]
-    edge [
-        source 41128
-        target 189548
-    ]
-    edge [
-        source 41128
-        target 189550
-    ]
-    edge [
-        source 41128
-        target 218071
-    ]
-    edge [
-        source 41128
-        target 218079
     ]
     edge [
         source 4481638
@@ -5841,34 +6225,6 @@ graph [
         target 412464
     ]
     edge [
-        source 412759
-        target 41134
-    ]
-    edge [
-        source 412759
-        target 188974
-    ]
-    edge [
-        source 412759
-        target 188977
-    ]
-    edge [
-        source 412759
-        target 188978
-    ]
-    edge [
-        source 412759
-        target 677775
-    ]
-    edge [
-        source 412759
-        target 1435011
-    ]
-    edge [
-        source 412759
-        target 1652733
-    ]
-    edge [
         source 427825
         target 41050
     ]
@@ -6461,6 +6817,38 @@ graph [
         target 586950
     ]
     edge [
+        source 4708492
+        target 359609
+    ]
+    edge [
+        source 4708492
+        target 412464
+    ]
+    edge [
+        source 4708492
+        target 3694347
+    ]
+    edge [
+        source 788369
+        target 41114
+    ]
+    edge [
+        source 788369
+        target 161243
+    ]
+    edge [
+        source 788369
+        target 218073
+    ]
+    edge [
+        source 788369
+        target 358612
+    ]
+    edge [
+        source 4578328
+        target 4686283
+    ]
+    edge [
         source 3199048
         target 188977
     ]
@@ -6515,6 +6903,230 @@ graph [
     edge [
         source 3249791
         target 429898
+    ]
+    edge [
+        source 218099
+        target 41050
+    ]
+    edge [
+        source 218099
+        target 41075
+    ]
+    edge [
+        source 218099
+        target 41098
+    ]
+    edge [
+        source 218099
+        target 41114
+    ]
+    edge [
+        source 218099
+        target 41138
+    ]
+    edge [
+        source 218099
+        target 161243
+    ]
+    edge [
+        source 218099
+        target 358612
+    ]
+    edge [
+        source 41094
+        target 41055
+    ]
+    edge [
+        source 41094
+        target 41062
+    ]
+    edge [
+        source 41094
+        target 41092
+    ]
+    edge [
+        source 41094
+        target 41148
+    ]
+    edge [
+        source 41094
+        target 42618
+    ]
+    edge [
+        source 41094
+        target 188963
+    ]
+    edge [
+        source 41094
+        target 218067
+    ]
+    edge [
+        source 41094
+        target 218071
+    ]
+    edge [
+        source 41094
+        target 218079
+    ]
+    edge [
+        source 2451867
+        target 218344
+    ]
+    edge [
+        source 2451867
+        target 1195039
+    ]
+    edge [
+        source 2451867
+        target 2451868
+    ]
+    edge [
+        source 2451867
+        target 2771458
+    ]
+    edge [
+        source 2451867
+        target 2977686
+    ]
+    edge [
+        source 2451867
+        target 3104137
+    ]
+    edge [
+        source 41128
+        target 41062
+    ]
+    edge [
+        source 41128
+        target 41114
+    ]
+    edge [
+        source 41128
+        target 41173
+    ]
+    edge [
+        source 41128
+        target 167401
+    ]
+    edge [
+        source 41128
+        target 188974
+    ]
+    edge [
+        source 41128
+        target 189548
+    ]
+    edge [
+        source 41128
+        target 189550
+    ]
+    edge [
+        source 41128
+        target 218071
+    ]
+    edge [
+        source 41128
+        target 218079
+    ]
+    edge [
+        source 412759
+        target 41134
+    ]
+    edge [
+        source 412759
+        target 188974
+    ]
+    edge [
+        source 412759
+        target 188977
+    ]
+    edge [
+        source 412759
+        target 188978
+    ]
+    edge [
+        source 412759
+        target 677775
+    ]
+    edge [
+        source 412759
+        target 1435011
+    ]
+    edge [
+        source 412759
+        target 1652733
+    ]
+    edge [
+        source 1431923
+        target 41051
+    ]
+    edge [
+        source 1431923
+        target 41055
+    ]
+    edge [
+        source 1431923
+        target 41072
+    ]
+    edge [
+        source 1431923
+        target 41083
+    ]
+    edge [
+        source 1431923
+        target 41120
+    ]
+    edge [
+        source 1431923
+        target 41138
+    ]
+    edge [
+        source 1431923
+        target 41154
+    ]
+    edge [
+        source 1431923
+        target 41213
+    ]
+    edge [
+        source 1431923
+        target 2905482
+    ]
+    edge [
+        source 359568
+        target 41072
+    ]
+    edge [
+        source 359568
+        target 41120
+    ]
+    edge [
+        source 359568
+        target 41136
+    ]
+    edge [
+        source 359568
+        target 41218
+    ]
+    edge [
+        source 359568
+        target 42531
+    ]
+    edge [
+        source 359568
+        target 167401
+    ]
+    edge [
+        source 359568
+        target 170650
+    ]
+    edge [
+        source 359568
+        target 412774
+    ]
+    edge [
+        source 359568
+        target 1107963
     ]
     edge [
         source 167636
@@ -8389,6 +9001,38 @@ graph [
         target 412774
     ]
     edge [
+        source 156427
+        target 41050
+    ]
+    edge [
+        source 156427
+        target 41051
+    ]
+    edge [
+        source 156427
+        target 41114
+    ]
+    edge [
+        source 156427
+        target 41173
+    ]
+    edge [
+        source 156427
+        target 218067
+    ]
+    edge [
+        source 156427
+        target 218071
+    ]
+    edge [
+        source 156427
+        target 427825
+    ]
+    edge [
+        source 156427
+        target 673006
+    ]
+    edge [
         source 3103503
         target 41219
     ]
@@ -9681,42 +10325,6 @@ graph [
         target 161243
     ]
     edge [
-        source 1431923
-        target 41051
-    ]
-    edge [
-        source 1431923
-        target 41055
-    ]
-    edge [
-        source 1431923
-        target 41072
-    ]
-    edge [
-        source 1431923
-        target 41083
-    ]
-    edge [
-        source 1431923
-        target 41120
-    ]
-    edge [
-        source 1431923
-        target 41138
-    ]
-    edge [
-        source 1431923
-        target 41154
-    ]
-    edge [
-        source 1431923
-        target 41213
-    ]
-    edge [
-        source 1431923
-        target 2905482
-    ]
-    edge [
         source 4737889
         target 3881178
     ]
@@ -9835,42 +10443,6 @@ graph [
     edge [
         source 4063457
         target 3761514
-    ]
-    edge [
-        source 359568
-        target 41072
-    ]
-    edge [
-        source 359568
-        target 41120
-    ]
-    edge [
-        source 359568
-        target 41136
-    ]
-    edge [
-        source 359568
-        target 41218
-    ]
-    edge [
-        source 359568
-        target 42531
-    ]
-    edge [
-        source 359568
-        target 167401
-    ]
-    edge [
-        source 359568
-        target 170650
-    ]
-    edge [
-        source 359568
-        target 412774
-    ]
-    edge [
-        source 359568
-        target 1107963
     ]
     edge [
         source 213254
@@ -11349,6 +11921,66 @@ graph [
         target 2905482
     ]
     edge [
+        source 41051
+        target 41050
+    ]
+    edge [
+        source 41051
+        target 41083
+    ]
+    edge [
+        source 41051
+        target 41092
+    ]
+    edge [
+        source 41051
+        target 41114
+    ]
+    edge [
+        source 41051
+        target 41138
+    ]
+    edge [
+        source 41051
+        target 41145
+    ]
+    edge [
+        source 41051
+        target 41213
+    ]
+    edge [
+        source 41051
+        target 218067
+    ]
+    edge [
+        source 41051
+        target 427825
+    ]
+    edge [
+        source 41092
+        target 41094
+    ]
+    edge [
+        source 41092
+        target 41098
+    ]
+    edge [
+        source 41092
+        target 41114
+    ]
+    edge [
+        source 41092
+        target 158947
+    ]
+    edge [
+        source 41092
+        target 218067
+    ]
+    edge [
+        source 41092
+        target 412774
+    ]
+    edge [
         source 2779860
         target 218344
     ]
@@ -11387,38 +12019,6 @@ graph [
     edge [
         source 41183
         target 2882652
-    ]
-    edge [
-        source 156427
-        target 41050
-    ]
-    edge [
-        source 156427
-        target 41051
-    ]
-    edge [
-        source 156427
-        target 41114
-    ]
-    edge [
-        source 156427
-        target 41173
-    ]
-    edge [
-        source 156427
-        target 218067
-    ]
-    edge [
-        source 156427
-        target 218071
-    ]
-    edge [
-        source 156427
-        target 427825
-    ]
-    edge [
-        source 156427
-        target 673006
     ]
     edge [
         source 219150
@@ -12149,6 +12749,42 @@ graph [
         target 3881178
     ]
     edge [
+        source 41050
+        target 41051
+    ]
+    edge [
+        source 41050
+        target 41055
+    ]
+    edge [
+        source 41050
+        target 41114
+    ]
+    edge [
+        source 41050
+        target 41134
+    ]
+    edge [
+        source 41050
+        target 41213
+    ]
+    edge [
+        source 41050
+        target 161243
+    ]
+    edge [
+        source 41050
+        target 218067
+    ]
+    edge [
+        source 41050
+        target 412774
+    ]
+    edge [
+        source 41050
+        target 427825
+    ]
+    edge [
         source 167070
         target 42581
     ]
@@ -12201,42 +12837,6 @@ graph [
         target 3379636
     ]
     edge [
-        source 41051
-        target 41050
-    ]
-    edge [
-        source 41051
-        target 41083
-    ]
-    edge [
-        source 41051
-        target 41092
-    ]
-    edge [
-        source 41051
-        target 41114
-    ]
-    edge [
-        source 41051
-        target 41138
-    ]
-    edge [
-        source 41051
-        target 41145
-    ]
-    edge [
-        source 41051
-        target 41213
-    ]
-    edge [
-        source 41051
-        target 218067
-    ]
-    edge [
-        source 41051
-        target 427825
-    ]
-    edge [
         source 41063
         target 41055
     ]
@@ -12271,30 +12871,6 @@ graph [
     edge [
         source 41063
         target 3175368
-    ]
-    edge [
-        source 41092
-        target 41094
-    ]
-    edge [
-        source 41092
-        target 41098
-    ]
-    edge [
-        source 41092
-        target 41114
-    ]
-    edge [
-        source 41092
-        target 158947
-    ]
-    edge [
-        source 41092
-        target 218067
-    ]
-    edge [
-        source 41092
-        target 412774
     ]
     edge [
         source 2640973
@@ -12599,42 +13175,6 @@ graph [
     edge [
         source 3983371
         target 2905482
-    ]
-    edge [
-        source 41050
-        target 41051
-    ]
-    edge [
-        source 41050
-        target 41055
-    ]
-    edge [
-        source 41050
-        target 41114
-    ]
-    edge [
-        source 41050
-        target 41134
-    ]
-    edge [
-        source 41050
-        target 41213
-    ]
-    edge [
-        source 41050
-        target 161243
-    ]
-    edge [
-        source 41050
-        target 218067
-    ]
-    edge [
-        source 41050
-        target 412774
-    ]
-    edge [
-        source 41050
-        target 427825
     ]
     edge [
         source 4063430

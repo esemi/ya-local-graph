@@ -114,7 +114,7 @@ def fetch_graph_custom(rock_ids, metal_ids, max_position=100, primary=True):
     all_in_ = ','.join([rock_in, metal_in])
     primary_condition = 'a1.is_primary = True AND a2.is_primary = True AND' if primary else ''
 
-    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, '
+    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, a1.degree_input as from_degree, a2.degree_input as to_degree, '
                            'CASE WHEN (SELECT COUNT(*) FROM artist_genre WHERE genre_id IN (%s) AND artist_id = from_id) > 0 '
                            'THEN 1 ELSE 0 END AS from_is_rock, '
                            'CASE WHEN (SELECT COUNT(*) FROM artist_genre WHERE genre_id IN (%s) AND artist_id = from_id) > 0 '
@@ -145,8 +145,8 @@ def fetch_graph_custom(rock_ids, metal_ids, max_position=100, primary=True):
     nodes = {}
     edges = []
     for obj in rq.execute():
-        nodes[obj.from_id] = {'label': obj.from_label, 'color': select_color(obj.from_is_rock, obj.from_is_metal)}
-        nodes[obj.to_id] = {'label': obj.to_label, 'color': select_color(obj.to_is_rock, obj.to_is_metal)}
+        nodes[obj.from_id] = {'label': obj.from_label, 'color': select_color(obj.from_is_rock, obj.from_is_metal), 'size': obj.from_degree}
+        nodes[obj.to_id] = {'label': obj.to_label, 'color': select_color(obj.to_is_rock, obj.to_is_metal), 'size': obj.to_degree}
         edges.append((obj.from_id, obj.to_id))
     return nodes, edges
 
@@ -156,7 +156,7 @@ def fetch_graph_primary(genre_ids, max_position=100):
 
     in_ = ','.join([str(i) for i in genre_ids])
 
-    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label '
+    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, a1.degree_input as from_degree, a2.degree_input as to_degree '
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
@@ -167,8 +167,8 @@ def fetch_graph_primary(genre_ids, max_position=100):
     nodes = {}
     edges = []
     for obj in rq.execute():
-        nodes[obj.from_id] = {'label': obj.from_label, 'color': 'red'}
-        nodes[obj.to_id] = {'label': obj.to_label, 'color': 'red'}
+        nodes[obj.from_id] = {'label': obj.from_label, 'color': 'red', 'size': obj.from_degree}
+        nodes[obj.to_id] = {'label': obj.to_label, 'color': 'red', 'size': obj.to_degree}
         edges.append((obj.from_id, obj.to_id))
     return nodes, edges
 
@@ -178,7 +178,7 @@ def fetch_graph_full(genre_ids, color='red', max_position=100):
 
     in_ = ','.join([str(i) for i in genre_ids])
 
-    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label '
+    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, a1.degree_input as from_degree, a2.degree_input as to_degree '
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
@@ -189,8 +189,8 @@ def fetch_graph_full(genre_ids, color='red', max_position=100):
     nodes = {}
     edges = []
     for obj in rq.execute():
-        nodes[obj.from_id] = {'label': obj.from_label, 'color': color}
-        nodes[obj.to_id] = {'label': obj.to_label, 'color': color}
+        nodes[obj.from_id] = {'label': obj.from_label, 'color': color, 'size': obj.from_degree}
+        nodes[obj.to_id] = {'label': obj.to_label, 'color': color, 'size': obj.to_degree}
         edges.append((obj.from_id, obj.to_id))
     return nodes, edges
 
