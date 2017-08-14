@@ -2,3242 +2,3242 @@ graph [
     directed 1
     node [
         id 3051311
-        size 0
         label "В бега"
+        size 0
         color "red"
     ]
     node [
         id 417796
-        size 1
         label "Е2 Знакомы"
+        size 1
         color "red"
     ]
     node [
         id 2412549
-        size 3
         label "Atmoravi"
+        size 3
         color "red"
     ]
     node [
         id 1433606
-        size 8
         label "Евгений Маргулис"
+        size 8
         color "red"
     ]
     node [
         id 4352513
-        size 0
         label "Александр Мраза"
+        size 0
         color "red"
     ]
     node [
         id 3911689
-        size 0
         label "KUSTO"
+        size 0
         color "red"
     ]
     node [
         id 1433610
-        size 0
         label "Палево"
+        size 0
         color "red"
     ]
     node [
         id 3983371
-        size 0
         label "АЛЁNA"
+        size 0
         color "red"
     ]
     node [
         id 2570754
-        size 1
         label "Северо-Zапад"
+        size 1
         color "red"
     ]
     node [
         id 4578318
-        size 0
         label "SVRNY"
+        size 0
         color "red"
     ]
     node [
         id 432984
-        size 3
         label "Небо пополам"
+        size 3
         color "red"
     ]
     node [
         id 219158
-        size 0
         label "Забытая память"
+        size 0
         color "red"
     ]
     node [
         id 3876888
-        size 0
         label "Михаил Карасев"
+        size 0
         color "red"
     ]
     node [
         id 1479855
-        size 0
         label "Дегенератор идей"
+        size 0
         color "red"
     ]
     node [
         id 3277447
-        size 4
         label "zatkнись"
+        size 4
         color "red"
     ]
     node [
         id 1195039
-        size 5
         label "Олег Чилап"
+        size 5
         color "red"
     ]
     node [
         id 3754160
-        size 9
         label "КАПСЛОК"
+        size 9
         color "red"
     ]
     node [
         id 2834468
-        size 0
         label "Василий Уриевский"
+        size 0
         color "red"
     ]
     node [
         id 4166038
-        size 5
         label "Рок-Синдром"
+        size 5
         color "red"
     ]
     node [
         id 2437160
-        size 0
         label "Ignes Fatui"
+        size 0
         color "red"
     ]
     node [
         id 3840348
-        size 8
         label "Sunburst"
+        size 8
         color "red"
     ]
     node [
         id 2834475
-        size 4
         label "Паровоз до Кубы"
+        size 4
         color "red"
     ]
     node [
         id 2912300
-        size 5
         label "Mr.Бэниш"
+        size 5
         color "red"
     ]
     node [
         id 3267421
-        size 0
         label "Соблаков"
+        size 0
         color "red"
     ]
     node [
         id 2454579
-        size 2
         label "Ступени"
+        size 2
         color "red"
     ]
     node [
         id 1443678
-        size 0
         label "Ильдар Казаханов"
+        size 0
         color "red"
     ]
     node [
         id 3205174
-        size 2
         label "Марта Кобец"
+        size 2
         color "red"
     ]
     node [
         id 4561076
-        size 0
         label "Александр Поборский"
+        size 0
         color "red"
     ]
     node [
         id 2912314
-        size 0
         label "Игорь МирИмиР Тальков"
+        size 0
         color "red"
     ]
     node [
         id 2571324
-        size 1
         label "Оркестр креольского танго"
+        size 1
         color "red"
     ]
     node [
         id 167999
-        size 14
         label "beZ bileta"
+        size 14
         color "red"
     ]
     node [
         id 1540619
-        size 0
         label "ОченьКрасивые"
+        size 0
         color "red"
     ]
     node [
         id 3102663
-        size 0
         label "Сид"
+        size 0
         color "red"
     ]
     node [
         id 1599558
-        size 3
         label "Нуки"
+        size 3
         color "red"
     ]
     node [
         id 4737889
-        size 0
         label "Парк Победы"
+        size 0
         color "red"
     ]
     node [
         id 4747336
-        size 2
         label "Водопад имени Вахтанга Кикабидзе"
+        size 2
         color "red"
     ]
     node [
         id 3472459
-        size 7
         label "MULTIPASS"
+        size 7
         color "red"
     ]
     node [
         id 1556557
-        size 0
         label "Радио Точка"
+        size 0
         color "red"
     ]
     node [
         id 41039
-        size 2
         label "Гараж"
+        size 2
         color "red"
     ]
     node [
         id 4097105
-        size 0
         label "Миша Лузин"
+        size 0
         color "red"
     ]
     node [
         id 4306002
-        size 1
         label "Инструкция по выживанию"
+        size 1
         color "red"
     ]
     node [
         id 645987
-        size 9
         label "МарьЯ"
+        size 9
         color "red"
     ]
     node [
         id 219150
-        size 0
         label "Шиповник и лестовка"
+        size 0
         color "red"
     ]
     node [
         id 412759
-        size 6
         label "Владимир Кузьмин"
+        size 6
         color "red"
     ]
     node [
         id 41050
-        size 8
         label "Танцы Минус"
+        size 8
         color "red"
     ]
     node [
         id 41051
-        size 36
         label "Смысловые Галлюцинации"
+        size 36
         color "red"
     ]
     node [
         id 2882652
-        size 31
         label "Операция пластилин"
+        size 31
         color "red"
     ]
     node [
         id 41055
-        size 73
         label "ЧайФ"
+        size 73
         color "red"
     ]
     node [
         id 421793
-        size 17
         label "Зоя Ященко"
+        size 17
         color "red"
     ]
     node [
         id 1134690
-        size 25
         label "Ангел НеБес"
+        size 25
         color "red"
     ]
     node [
         id 1195107
-        size 2
         label "BriZ"
+        size 2
         color "red"
     ]
     node [
         id 412774
-        size 46
         label "Ногу свело!"
+        size 46
         color "red"
     ]
     node [
         id 41063
-        size 26
         label "Разные Люди"
+        size 26
         color "red"
     ]
     node [
         id 1430632
-        size 15
         label "Магелланово облако"
+        size 15
         color "red"
     ]
     node [
         id 4578351
-        size 0
         label "В Чистой Атмосфере"
+        size 0
         color "red"
     ]
     node [
         id 359531
-        size 3
         label "Алексей Белов"
+        size 3
         color "red"
     ]
     node [
         id 189548
-        size 25
         label "Гарик Сукачёв"
+        size 25
         color "red"
     ]
     node [
         id 359533
-        size 8
         label "Ольга Кормухина"
+        size 8
         color "red"
     ]
     node [
         id 189550
-        size 10
         label "Неприкасаемые"
+        size 10
         color "red"
     ]
     node [
         id 41072
-        size 59
         label "Пилот"
+        size 59
         color "red"
     ]
     node [
         id 41075
-        size 21
         label "Кино"
+        size 21
         color "red"
     ]
     node [
         id 589942
-        size 14
         label "КняZz"
+        size 14
         color "red"
     ]
     node [
         id 630903
-        size 17
         label "Рада & Терновник"
+        size 17
         color "red"
     ]
     node [
         id 41081
-        size 1
         label "Трест"
+        size 1
         color "red"
     ]
     node [
         id 41083
-        size 25
         label "Ю-Питер"
+        size 25
         color "red"
     ]
     node [
         id 41084
-        size 7
         label "Блондинка Ксю"
+        size 7
         color "red"
     ]
     node [
         id 3375466
-        size 9
         label "Princesse Angine"
+        size 9
         color "red"
     ]
     node [
         id 3327104
-        size 7
         label "Практика"
+        size 7
         color "red"
     ]
     node [
         id 2566273
-        size 2
         label "The Uchpochmack"
+        size 2
         color "red"
     ]
     node [
         id 838787
-        size 0
         label "MЭD DОГ"
+        size 0
         color "red"
     ]
     node [
         id 41092
-        size 22
         label "Найк Борзов"
+        size 22
         color "red"
     ]
     node [
         id 359557
-        size 3
         label "Фруктовый кефир"
+        size 3
         color "red"
     ]
     node [
         id 41094
-        size 18
         label "Ундервуд"
+        size 18
         color "red"
     ]
     node [
         id 41098
-        size 24
         label "Мумий Тролль"
+        size 24
         color "red"
     ]
     node [
         id 3877003
-        size 2
         label "Юлия Коган"
+        size 2
         color "red"
     ]
     node [
         id 4708492
-        size 0
         label "Курьер"
+        size 0
         color "red"
     ]
     node [
         id 41101
-        size 17
         label "Дочь Монро и Кеннеди"
+        size 17
         color "red"
     ]
     node [
         id 707375
-        size 0
         label "Томас"
+        size 0
         color "red"
     ]
     node [
         id 432058
-        size 0
         label "КуКа"
+        size 0
         color "red"
     ]
     node [
         id 3685520
-        size 15
         label "Ольга Арефьева"
+        size 15
         color "red"
     ]
     node [
         id 219281
-        size 14
         label "Ульи"
+        size 14
         color "red"
     ]
     node [
         id 1462419
-        size 6
         label "АнимациЯ"
+        size 6
         color "red"
     ]
     node [
         id 3912852
-        size 3
         label "Rомантики"
+        size 3
         color "red"
     ]
     node [
         id 167061
-        size 6
         label "Фёдор Чистяков"
+        size 6
         color "red"
     ]
     node [
         id 4632727
-        size 6
         label "Джин-Тоник"
+        size 6
         color "red"
     ]
     node [
         id 359576
-        size 13
         label "Илья Чёрт"
+        size 13
         color "red"
     ]
     node [
         id 359577
-        size 3
         label "Мельница"
+        size 3
         color "red"
     ]
     node [
         id 41114
-        size 67
         label "Би-2"
+        size 67
         color "red"
     ]
     node [
         id 219293
-        size 4
         label "Газон"
+        size 4
         color "red"
     ]
     node [
         id 41118
-        size 10
         label "Старый приятель"
+        size 10
         color "red"
     ]
     node [
         id 426143
-        size 12
         label "Хроноп"
+        size 12
         color "red"
     ]
     node [
         id 41120
-        size 23
         label "СерьГа"
+        size 23
         color "red"
     ]
     node [
         id 607393
-        size 4
         label "Татьяна Зыкина"
+        size 4
         color "red"
     ]
     node [
         id 41122
-        size 16
         label "Монгол Шуудан"
+        size 16
         color "red"
     ]
     node [
         id 426149
-        size 6
         label "ВИА Гагарин"
+        size 6
         color "red"
     ]
     node [
         id 2907303
-        size 1
         label "Дельфины"
+        size 1
         color "red"
     ]
     node [
         id 41128
-        size 15
         label "Uma2rmaH"
+        size 15
         color "red"
     ]
     node [
         id 4080809
-        size 6
         label "Террариум"
+        size 6
         color "red"
     ]
     node [
         id 218282
-        size 15
         label "Мегаполис"
+        size 15
         color "red"
     ]
     node [
         id 41134
-        size 26
         label "Агата Кристи"
+        size 26
         color "red"
     ]
     node [
         id 219311
-        size 19
         label "Плед"
+        size 19
         color "red"
     ]
     node [
         id 41136
-        size 13
         label "Приключения Электроников"
+        size 13
         color "red"
     ]
     node [
         id 1479857
-        size 5
         label "Уши Ван Гога"
+        size 5
         color "red"
     ]
     node [
         id 41138
-        size 33
         label "Nautilus Pompilius"
+        size 33
         color "red"
     ]
     node [
         id 41139
-        size 19
         label "Тринадцатое созвездие"
+        size 19
         color "red"
     ]
     node [
         id 408756
-        size 0
         label "Парни"
+        size 0
         color "red"
     ]
     node [
         id 1479862
-        size 24
         label "Умка и Броневик"
+        size 24
         color "red"
     ]
     node [
         id 1607863
-        size 5
         label "Olimpia"
+        size 5
         color "red"
     ]
     node [
         id 408760
-        size 1
         label "Клерки"
+        size 1
         color "red"
     ]
     node [
         id 41145
-        size 9
         label "Вячеслав Бутусов"
+        size 9
         color "red"
     ]
     node [
         id 41148
-        size 20
         label "Торба-на-Круче"
+        size 20
         color "red"
     ]
     node [
         id 408766
-        size 0
         label "Крокодилли"
+        size 0
         color "red"
     ]
     node [
         id 2150261
-        size 2
         label "Электрические Партизаны"
+        size 2
         color "red"
     ]
     node [
         id 4604096
-        size 0
         label "Lermont & Julic"
+        size 0
         color "red"
     ]
     node [
         id 41154
-        size 35
         label "Кукрыниксы"
+        size 35
         color "red"
     ]
     node [
         id 586950
-        size 5
         label "Выход"
+        size 5
         color "red"
     ]
     node [
         id 1636838
-        size 1
         label "Сергей Жирков"
+        size 1
         color "red"
     ]
     node [
         id 586955
-        size 0
         label "Лучше Поздно"
+        size 0
         color "red"
     ]
     node [
         id 2902220
-        size 0
         label "Мечтать"
+        size 0
         color "red"
     ]
     node [
         id 2444493
-        size 7
         label "БуттерБродский"
+        size 7
         color "red"
     ]
     node [
         id 586957
-        size 0
         label "Сакмаров-бэнд"
+        size 0
         color "red"
     ]
     node [
         id 586960
-        size 4
         label "Александр Лаэртский"
+        size 4
         color "red"
     ]
     node [
         id 42531
-        size 10
         label "Полковник и однополчане"
+        size 10
         color "red"
     ]
     node [
         id 358612
-        size 53
         label "ДДТ"
+        size 53
         color "red"
     ]
     node [
         id 41173
-        size 10
         label "Братья Грим"
+        size 10
         color "red"
     ]
     node [
         id 432947
-        size 0
         label "фон Штефаниц"
+        size 0
         color "red"
     ]
     node [
         id 4104410
-        size 0
         label "Orange House"
+        size 0
         color "red"
     ]
     node [
         id 41183
-        size 7
         label "Тени свободы"
+        size 7
         color "red"
     ]
     node [
         id 219344
-        size 20
         label "Фиги"
+        size 20
         color "red"
     ]
     node [
         id 1061090
-        size 2
         label "Mariyka"
+        size 2
         color "red"
     ]
     node [
         id 158947
-        size 12
         label "Tequilajazzz"
+        size 12
         color "red"
     ]
     node [
         id 188966
-        size 9
         label "После 11"
+        size 9
         color "red"
     ]
     node [
         id 2685158
-        size 0
         label "Георгий Делиев"
+        size 0
         color "red"
     ]
     node [
         id 3205351
-        size 3
         label "СолоИНК"
+        size 3
         color "red"
     ]
     node [
         id 4300008
-        size 7
         label "Корабль"
+        size 7
         color "red"
     ]
     node [
         id 3287273
-        size 0
         label "Магнэт"
+        size 0
         color "red"
     ]
     node [
         id 213256
-        size 22
         label "Шмели"
+        size 22
         color "red"
     ]
     node [
         id 3262701
-        size 0
         label "Василий Лавров и группа 'Территория'"
+        size 0
         color "red"
     ]
     node [
         id 3212526
-        size 14
         label "ДМЦ"
+        size 14
         color "red"
     ]
     node [
         id 673007
-        size 0
         label "SUBWAY сейшн"
+        size 0
         color "red"
     ]
     node [
         id 4773107
-        size 5
         label "Бомж Трио"
+        size 5
         color "red"
     ]
     node [
         id 4116725
-        size 0
         label "Гуша Катушкин"
+        size 0
         color "red"
     ]
     node [
         id 4408567
-        size 0
         label "Тёплые дни"
+        size 0
         color "red"
     ]
     node [
         id 4792568
-        size 0
         label "Решение. do"
+        size 0
         color "red"
     ]
     node [
         id 2779860
-        size 0
         label "TOKAY"
+        size 0
         color "red"
     ]
     node [
         id 3118331
-        size 0
         label "МОНОМАХ"
+        size 0
         color "red"
     ]
     node [
         id 41213
-        size 23
         label "7Б"
+        size 23
         color "red"
     ]
     node [
         id 2674942
-        size 2
         label "Пони"
+        size 2
         color "red"
     ]
     node [
         id 404736
-        size 4
         label "Александр Заславский"
+        size 4
         color "red"
     ]
     node [
         id 41218
-        size 9
         label "Декабрь"
+        size 9
         color "red"
     ]
     node [
         id 41219
-        size 4
         label "ДжаниRадари"
+        size 4
         color "red"
     ]
     node [
         id 3652868
-        size 3
         label "Эйфори.Я"
+        size 3
         color "red"
     ]
     node [
         id 587013
-        size 17
         label "АукцЫон"
+        size 17
         color "red"
     ]
     node [
         id 213254
-        size 6
         label "Ва-Банкъ"
+        size 6
         color "red"
     ]
     node [
         id 648456
-        size 1
         label "Сергей Баринцев"
+        size 1
         color "red"
     ]
     node [
         id 213257
-        size 3
         label "Яйцы Fаберже"
+        size 3
         color "red"
     ]
     node [
         id 41226
-        size 1
         label "Архип и его Алиса"
+        size 1
         color "red"
     ]
     node [
         id 3748107
-        size 0
         label "RENRO"
+        size 0
         color "red"
     ]
     node [
         id 3973390
-        size 0
         label "CheRocky"
+        size 0
         color "red"
     ]
     node [
         id 188973
-        size 3
         label "Mordor"
+        size 3
         color "red"
     ]
     node [
         id 421251
-        size 1
         label "Куба"
+        size 1
         color "red"
     ]
     node [
         id 167190
-        size 5
         label "Джанго"
+        size 5
         color "red"
     ]
     node [
         id 159003
-        size 7
         label "Диана Арбенина"
+        size 7
         color "red"
     ]
     node [
         id 907548
-        size 1
         label "МАЧЕТЕ"
+        size 1
         color "red"
     ]
     node [
         id 4492573
-        size 0
         label "Пепельный свет"
+        size 0
         color "red"
     ]
     node [
         id 4604293
-        size 0
         label "Crouch End"
+        size 0
         color "red"
     ]
     node [
         id 1489185
-        size 8
         label "Top-Display!"
+        size 8
         color "red"
     ]
     node [
         id 1489186
-        size 0
         label "Виктор"
+        size 0
         color "red"
     ]
     node [
         id 2424100
-        size 0
         label "ГРА4И"
+        size 0
         color "red"
     ]
     node [
         id 2973628
-        size 0
         label "Амели"
+        size 0
         color "red"
     ]
     node [
         id 42545
-        size 3
         label "Pushking"
+        size 3
         color "red"
     ]
     node [
         id 430378
-        size 18
         label "Бахыт Компот"
+        size 18
         color "red"
     ]
     node [
         id 592698
-        size 0
         label "Пёс и Группа"
+        size 0
         color "red"
     ]
     node [
         id 426284
-        size 5
         label "Оптимальный вариант"
+        size 5
         color "red"
     ]
     node [
         id 2408850
-        size 0
         label "Alexey Vasilyev"
+        size 0
         color "red"
     ]
     node [
         id 156419
-        size 1
         label "Ломовой"
+        size 1
         color "red"
     ]
     node [
         id 3938355
-        size 1
         label "Виктор Виталий"
+        size 1
         color "red"
     ]
     node [
         id 359622
-        size 3
         label "Константин Селезнёв"
+        size 3
         color "red"
     ]
     node [
         id 4199738
-        size 4
         label "Ольга Пульга"
+        size 4
         color "red"
     ]
     node [
         id 3423551
-        size 3
         label "MADO"
+        size 3
         color "red"
     ]
     node [
         id 432891
-        size 0
         label "АЛЬТАВИСТА"
+        size 0
         color "red"
     ]
     node [
         id 2837729
-        size 0
         label "Колдстрим"
+        size 0
         color "red"
     ]
     node [
         id 2748744
-        size 3
         label "Ликёр Жара"
+        size 3
         color "red"
     ]
     node [
         id 4686391
-        size 0
         label "Группа Покровский"
+        size 0
         color "red"
     ]
     node [
         id 3652834
-        size 6
         label "Константин Ступин"
+        size 6
         color "red"
     ]
     node [
         id 3020111
-        size 0
         label "Летучий Голландец"
+        size 0
         color "red"
     ]
     node [
         id 3380963
-        size 0
         label "Восемь по Гринвичу"
+        size 0
         color "red"
     ]
     node [
         id 1627478
-        size 13
         label "Тимур Валеев и группа Ключи"
+        size 13
         color "red"
     ]
     node [
         id 717146
-        size 13
         label "Обе-Рек"
+        size 13
         color "red"
     ]
     node [
         id 677775
-        size 12
         label "Александр Иванов"
+        size 12
         color "red"
     ]
     node [
         id 3153244
-        size 8
         label "Инкогнито"
+        size 8
         color "red"
     ]
     node [
         id 2920506
-        size 0
         label "ЭССЕ"
+        size 0
         color "red"
     ]
     node [
         id 2419090
-        size 5
         label "СМЕТАНА band"
+        size 5
         color "red"
     ]
     node [
         id 3440996
-        size 4
         label "VID"
+        size 4
         color "red"
     ]
     node [
         id 2926559
-        size 0
         label "Дельфы"
+        size 0
         color "red"
     ]
     node [
         id 3686759
-        size 5
         label "Rusted"
+        size 5
         color "red"
     ]
     node [
         id 4702569
-        size 0
         label "SUPERтемп"
+        size 0
         color "red"
     ]
     node [
         id 3761514
-        size 5
         label "КерамикА"
+        size 5
         color "red"
     ]
     node [
         id 426215
-        size 1
         label "Cuibul"
+        size 1
         color "red"
     ]
     node [
         id 980332
-        size 0
         label "Бергамот"
+        size 0
         color "red"
     ]
     node [
         id 3872109
-        size 0
         label "Patrick Cash"
+        size 0
         color "red"
     ]
     node [
         id 42532
-        size 0
         label "Седьмое Небо"
+        size 0
         color "red"
     ]
     node [
         id 218344
-        size 6
         label "Кафе"
+        size 6
         color "red"
     ]
     node [
         id 1431923
-        size 10
         label "Жуки"
+        size 10
         color "red"
     ]
     node [
         id 648425
-        size 1
         label "Банда Пилар"
+        size 1
         color "red"
     ]
     node [
         id 359642
-        size 9
         label "Гран-Куражъ"
+        size 9
         color "red"
     ]
     node [
         id 458132
-        size 0
         label "Кок Оду"
+        size 0
         color "red"
     ]
     node [
         id 648426
-        size 0
         label "Берег Ялты"
+        size 0
         color "red"
     ]
     node [
         id 421248
-        size 9
         label "Макс Покровский"
+        size 9
         color "red"
     ]
     node [
         id 1435011
-        size 2
         label "Константин Никольский"
+        size 2
         color "red"
     ]
     node [
         id 711045
-        size 5
         label "RadioCat"
+        size 5
         color "red"
     ]
     node [
         id 1994118
-        size 0
         label "Оркестр Open Air"
+        size 0
         color "red"
     ]
     node [
         id 4637793
-        size 0
         label "Твёрдый ЗнакЪ"
+        size 0
         color "red"
     ]
     node [
         id 3834495
-        size 3
         label "Дмитрий Четвергов"
+        size 3
         color "red"
     ]
     node [
         id 3104137
-        size 10
         label "Cosmic Latte"
+        size 10
         color "red"
     ]
     node [
         id 2905482
-        size 38
         label "Чиж & Co"
+        size 38
         color "red"
     ]
     node [
         id 3104151
-        size 0
         label "Ледокол Пушкин"
+        size 0
         color "red"
     ]
     node [
         id 1615056
-        size 2
         label "Сергей Кристовский"
+        size 2
         color "red"
     ]
     node [
         id 2655634
-        size 13
         label "Павел Пиковский"
+        size 13
         color "red"
     ]
     node [
         id 42563
-        size 0
         label "Смирнов и Ко"
+        size 0
         color "red"
     ]
     node [
         id 2655636
-        size 0
         label "Павел Матвеев"
+        size 0
         color "red"
     ]
     node [
         id 673006
-        size 18
         label "Мураками"
+        size 18
         color "red"
     ]
     node [
         id 2655638
-        size 0
         label "Юность Злодеев"
+        size 0
         color "red"
     ]
     node [
         id 4639129
-        size 0
         label "Гранд Оркестра"
+        size 0
         color "red"
     ]
     node [
         id 359609
-        size 17
         label "Алексей Страйк"
+        size 17
         color "red"
     ]
     node [
         id 2451867
-        size 6
         label "Кирилл Комаров и Друзья"
+        size 6
         color "red"
     ]
     node [
         id 2451868
-        size 18
         label "Кирилл Комаров"
+        size 18
         color "red"
     ]
     node [
         id 166306
-        size 6
         label "Конец фильма"
+        size 6
         color "red"
     ]
     node [
         id 681380
-        size 8
         label "Рабфак"
+        size 8
         color "red"
     ]
     node [
         id 4097094
-        size 0
         label "Территория Тишины"
+        size 0
         color "red"
     ]
     node [
         id 748966
-        size 12
         label "Ботаника"
+        size 12
         color "red"
     ]
     node [
         id 1652735
-        size 5
         label "Александр Кутиков"
+        size 5
         color "red"
     ]
     node [
         id 3866024
-        size 4
         label "Томаты"
+        size 4
         color "red"
     ]
     node [
         id 4023722
-        size 0
         label "Проект ХБ"
+        size 0
         color "red"
     ]
     node [
         id 4739500
-        size 0
         label "Вето"
+        size 0
         color "red"
     ]
     node [
         id 189598
-        size 3
         label "Манго-Манго"
+        size 3
         color "red"
     ]
     node [
         id 1597872
-        size 0
         label "Андрей Заблудовский"
+        size 0
         color "red"
     ]
     node [
         id 3199048
-        size 0
         label "Стас Намин и группа «Цветы»"
+        size 0
         color "red"
     ]
     node [
         id 168370
-        size 4
         label "Nефть"
+        size 4
         color "red"
     ]
     node [
         id 168854
-        size 2
         label "Рубль"
+        size 2
         color "red"
     ]
     node [
         id 3379636
-        size 12
         label "Лакмус"
+        size 12
         color "red"
     ]
     node [
         id 4578328
-        size 0
         label "KRUV"
+        size 0
         color "red"
     ]
     node [
         id 167351
-        size 0
         label "Арсений Бородин"
+        size 0
         color "red"
     ]
     node [
         id 2439609
-        size 2
         label "ELAГA"
+        size 2
         color "red"
     ]
     node [
         id 3922364
-        size 6
         label "MARCHEVSKY"
+        size 6
         color "red"
     ]
     node [
         id 4747339
-        size 10
         label "Владимир Бурдин"
+        size 10
         color "red"
     ]
     node [
         id 503239
-        size 7
         label "Красные Звёзды"
+        size 7
         color "red"
     ]
     node [
         id 4656586
-        size 0
         label "Тропы Не Врут"
+        size 0
         color "red"
     ]
     node [
         id 4686283
-        size 1
         label "Диf"
+        size 1
         color "red"
     ]
     node [
         id 2830241
-        size 0
         label "SuLa"
+        size 0
         color "red"
     ]
     node [
         id 2420175
-        size 0
         label "Ключевая"
+        size 0
         color "red"
     ]
     node [
         id 452515
-        size 21
         label "Коридор"
+        size 21
         color "red"
     ]
     node [
         id 218071
-        size 31
         label "Ночные Снайперы"
+        size 31
         color "red"
     ]
     node [
         id 4451800
-        size 2
         label "Ам Чёнски"
+        size 2
         color "red"
     ]
     node [
         id 161243
-        size 55
         label "Сплин"
+        size 55
         color "red"
     ]
     node [
         id 161244
-        size 6
         label "Александр Васильев"
+        size 6
         color "red"
     ]
     node [
         id 4745693
-        size 5
         label "Владимир Рекшан"
+        size 5
         color "red"
     ]
     node [
         id 4745694
-        size 3
         label "Санкт-Петербург"
+        size 3
         color "red"
     ]
     node [
         id 2617823
-        size 0
         label "Ноги мира"
+        size 0
         color "red"
     ]
     node [
         id 4060641
-        size 6
         label "Lemu"
+        size 6
         color "red"
     ]
     node [
         id 4712699
-        size 0
         label "Сказки чёрного города"
+        size 0
         color "red"
     ]
     node [
         id 2617830
-        size 2
         label "Моя дорогая"
+        size 2
         color "red"
     ]
     node [
         id 167401
-        size 40
         label "Алиса"
+        size 40
         color "red"
     ]
     node [
         id 2617834
-        size 0
         label "Radio Я"
+        size 0
         color "red"
     ]
     node [
         id 3735020
-        size 0
         label "Алексей Матов"
+        size 0
         color "red"
     ]
     node [
         id 42578
-        size 0
         label "Александр Чернецкий"
+        size 0
         color "red"
     ]
     node [
         id 42480
-        size 6
         label "Вадим Курылёв"
+        size 6
         color "red"
     ]
     node [
         id 4755880
-        size 0
         label "Яна Синцова и 5 персон"
+        size 0
         color "red"
     ]
     node [
         id 648446
-        size 0
         label "Александр Бар"
+        size 0
         color "red"
     ]
     node [
         id 2807286
-        size 1
         label "Голова Муэссы"
+        size 1
         color "red"
     ]
     node [
         id 2004475
-        size 2
         label "Russian Solution"
+        size 2
         color "red"
     ]
     node [
         id 1120765
-        size 6
         label "FTB"
+        size 6
         color "red"
     ]
     node [
         id 42495
-        size 1
         label "Тихо"
+        size 1
         color "red"
     ]
     node [
         id 3216897
-        size 7
         label "Адаптация Пчёл"
+        size 7
         color "red"
     ]
     node [
         id 2771458
-        size 16
         label "Михаил Башаков"
+        size 16
         color "red"
     ]
     node [
         id 3308459
-        size 5
         label "Церковь Детства"
+        size 5
         color "red"
     ]
     node [
         id 3824133
-        size 4
         label "Ясвена"
+        size 4
         color "red"
     ]
     node [
         id 2421362
-        size 0
         label "Крики бабочек"
+        size 0
         color "red"
     ]
     node [
         id 3242507
-        size 8
         label "Vadio Nadio Radio"
+        size 8
         color "red"
     ]
     node [
         id 425899
-        size 0
         label "Центр"
+        size 0
         color "red"
     ]
     node [
         id 4576783
-        size 0
         label "Взгляд"
+        size 0
         color "red"
     ]
     node [
         id 42512
-        size 8
         label "Настя"
+        size 8
         color "red"
     ]
     node [
         id 587011
-        size 14
         label "Телевизор"
+        size 14
         color "red"
     ]
     node [
         id 675734
-        size 4
         label "Небо здесь"
+        size 4
         color "red"
     ]
     node [
         id 4085272
-        size 1
         label "Александр «Чача» Иванов"
+        size 1
         color "red"
     ]
     node [
         id 4582938
-        size 0
         label "Мантана"
+        size 0
         color "red"
     ]
     node [
         id 42523
-        size 25
         label "Юта"
+        size 25
         color "red"
     ]
     node [
         id 4056666
-        size 0
         label "Бекхан"
+        size 0
         color "red"
     ]
     node [
         id 188958
-        size 27
         label "Александр Ф. Скляр"
+        size 27
         color "red"
     ]
     node [
         id 3982597
-        size 4
         label "Площадь Революции"
+        size 4
         color "red"
     ]
     node [
         id 595093
-        size 1
         label "Нечто"
+        size 1
         color "red"
     ]
     node [
         id 188963
-        size 44
         label "Аквариум"
+        size 44
         color "red"
     ]
     node [
         id 188964
-        size 1
         label "Александр Градский"
+        size 1
         color "red"
     ]
     node [
         id 676390
-        size 0
         label "Туфельки туи"
+        size 0
         color "red"
     ]
     node [
         id 2611756
-        size 0
         label "Эллис Band"
+        size 0
         color "red"
     ]
     node [
         id 3142189
-        size 6
         label "сегодняночью"
+        size 6
         color "red"
     ]
     node [
         id 188974
-        size 28
         label "Браво"
+        size 28
         color "red"
     ]
     node [
         id 188975
-        size 0
         label "Високосный Год"
+        size 0
         color "red"
     ]
     node [
         id 188977
-        size 11
         label "Воскресение"
+        size 11
         color "red"
     ]
     node [
         id 188978
-        size 10
         label "Моральный кодекс"
+        size 10
         color "red"
     ]
     node [
         id 168371
-        size 5
         label "Бензобак"
+        size 5
         color "red"
     ]
     node [
         id 3329289
-        size 0
         label "Дай Дарогу!"
+        size 0
         color "red"
     ]
     node [
         id 4425881
-        size 0
         label "Середина"
+        size 0
         color "red"
     ]
     node [
         id 4762170
-        size 0
         label "Kurtki"
+        size 0
         color "red"
     ]
     node [
         id 677437
-        size 4
         label "Jack Action"
+        size 4
         color "red"
     ]
     node [
         id 42561
-        size 0
         label "Лена Тэ"
+        size 0
         color "red"
     ]
     node [
         id 2640973
-        size 5
         label "Слайд"
+        size 5
         color "red"
     ]
     node [
         id 3694347
-        size 1
         label "Станислав Бартенев (Если)"
+        size 1
         color "red"
     ]
     node [
         id 42565
-        size 0
         label "А.В.О.С.Ь"
+        size 0
         color "red"
     ]
     node [
         id 42566
-        size 0
         label "Времена"
+        size 0
         color "red"
     ]
     node [
         id 3736135
-        size 3
         label "2ва Самолёта"
+        size 3
         color "red"
     ]
     node [
         id 648424
-        size 0
         label "Корсар"
+        size 0
         color "red"
     ]
     node [
         id 4013646
-        size 0
         label "Dругой Ветер"
+        size 0
         color "red"
     ]
     node [
         id 432909
-        size 1
         label "DJ Nejtrino"
+        size 1
         color "red"
     ]
     node [
         id 3107410
-        size 1
         label "P.L.U.S."
+        size 1
         color "red"
     ]
     node [
         id 3263059
-        size 5
         label "Группа товарищей"
+        size 5
         color "red"
     ]
     node [
         id 948820
-        size 3
         label "Александр Маршал"
+        size 3
         color "red"
     ]
     node [
         id 42581
-        size 16
         label "Александр Башлачёв"
+        size 16
         color "red"
     ]
     node [
         id 2924119
-        size 0
         label "ГАФТ"
+        size 0
         color "red"
     ]
     node [
         id 2942553
-        size 1
         label "Радиопомехи"
+        size 1
         color "red"
     ]
     node [
         id 4097111
-        size 0
         label "Дети"
+        size 0
         color "red"
     ]
     node [
         id 1591567
-        size 21
         label "Полюса"
+        size 21
         color "red"
     ]
     node [
         id 42588
-        size 0
         label "Игорь Романов"
+        size 0
         color "red"
     ]
     node [
         id 725110
-        size 0
         label "Coffee"
+        size 0
         color "red"
     ]
     node [
         id 2421342
-        size 2
         label "Arilka"
+        size 2
         color "red"
     ]
     node [
         id 3211871
-        size 1
         label "Евгений Борец"
+        size 1
         color "red"
     ]
     node [
         id 2641680
-        size 0
         label "Арт-Клиника"
+        size 0
         color "red"
     ]
     node [
         id 41108
-        size 1
         label "Raketaboy"
+        size 1
         color "red"
     ]
     node [
         id 41062
-        size 17
         label "Сурганова и Оркестр"
+        size 17
         color "red"
     ]
     node [
         id 4323942
-        size 0
         label "VAVES"
+        size 0
         color "red"
     ]
     node [
         id 1238631
-        size 2
         label "ШУТКА БАХА"
+        size 2
         color "red"
     ]
     node [
         id 3916220
-        size 0
         label "Лица"
+        size 0
         color "red"
     ]
     node [
         id 4063457
-        size 0
         label "Линии дождя"
+        size 0
         color "red"
     ]
     node [
         id 432748
-        size 8
         label "Зоопарк"
+        size 8
         color "red"
     ]
     node [
         id 1238637
-        size 0
         label "Gruppa L'eto"
+        size 0
         color "red"
     ]
     node [
         id 722542
-        size 8
         label "Ромарио"
+        size 8
         color "red"
     ]
     node [
         id 4465263
-        size 0
         label "Космос"
+        size 0
         color "red"
     ]
     node [
         id 3244657
-        size 3
         label "Сандали"
+        size 3
         color "red"
     ]
     node [
         id 2908121
-        size 0
         label "ДжинSы Клёш"
+        size 0
         color "red"
     ]
     node [
         id 1131126
-        size 5
         label "Gulag Tunes"
+        size 5
         color "red"
     ]
     node [
         id 42615
-        size 6
         label "Оркестр Вермишель"
+        size 6
         color "red"
     ]
     node [
         id 42618
-        size 19
         label "Зимовье зверей"
+        size 19
         color "red"
     ]
     node [
         id 42619
-        size 0
         label "Рива Роччи"
+        size 0
         color "red"
     ]
     node [
         id 3249791
-        size 6
         label "Прохор"
+        size 6
         color "red"
     ]
     node [
         id 418432
-        size 1
         label "За деньги"
+        size 1
         color "red"
     ]
     node [
         id 3247382
-        size 14
         label "Илья Орлов"
+        size 14
         color "red"
     ]
     node [
         id 3881178
-        size 14
         label "Василий К."
+        size 14
         color "red"
     ]
     node [
         id 3972743
-        size 7
         label "СтимфониЯ"
+        size 7
         color "red"
     ]
     node [
         id 1238668
-        size 2
         label "Колибри"
+        size 2
         color "red"
     ]
     node [
         id 2978445
-        size 6
         label "Каспий"
+        size 6
         color "red"
     ]
     node [
         id 781421
-        size 4
         label "Zen-Zen-Zen"
+        size 4
         color "red"
     ]
     node [
         id 42640
-        size 0
         label "Пасхальное Шествие"
+        size 0
         color "red"
     ]
     node [
         id 2886292
-        size 8
         label "BY Effect"
+        size 8
         color "red"
     ]
     node [
         id 3363479
-        size 0
         label "Жамки"
+        size 0
         color "red"
     ]
     node [
         id 170650
-        size 40
         label "Крематорий"
+        size 40
         color "red"
     ]
     node [
         id 4636273
-        size 0
         label "Два крыла"
+        size 0
         color "red"
     ]
     node [
         id 170655
-        size 0
         label "На луне"
+        size 0
         color "red"
     ]
     node [
         id 170656
-        size 0
         label "ПОлюбоМУ"
+        size 0
         color "red"
     ]
     node [
         id 4081435
-        size 1
         label "Mad Show Boys"
+        size 1
         color "red"
     ]
     node [
         id 42661
-        size 3
         label "Святослав Задерий"
+        size 3
         color "red"
     ]
     node [
         id 42663
-        size 2
         label "S.P.O.R.T."
+        size 2
         color "red"
     ]
     node [
         id 42664
-        size 0
         label "Корпус 2"
+        size 0
         color "red"
     ]
     node [
         id 305835
-        size 0
         label "The Stokes"
+        size 0
         color "red"
     ]
     node [
         id 3744370
-        size 4
         label "Современная Почта"
+        size 4
         color "red"
     ]
     node [
         id 432925
-        size 0
         label "ЗарницА"
+        size 0
         color "red"
     ]
     node [
         id 168625
-        size 0
         label "Китай"
+        size 0
         color "red"
     ]
     node [
         id 4060852
-        size 0
         label "НонАдаптантЫ"
+        size 0
         color "red"
     ]
     node [
         id 1238709
-        size 17
         label "Чёрный Лукич"
+        size 17
         color "red"
     ]
     node [
         id 906934
-        size 0
         label "Дым"
+        size 0
         color "red"
     ]
     node [
         id 2608586
-        size 0
         label "Станция Север"
+        size 0
         color "red"
     ]
     node [
         id 165125
-        size 0
         label "Андрей Алексин"
+        size 0
         color "red"
     ]
     node [
         id 3300037
-        size 2
         label "dетали"
+        size 2
         color "red"
     ]
     node [
         id 218079
-        size 39
         label "Несчастный Случай"
+        size 39
         color "red"
     ]
     node [
         id 4428407
-        size 0
         label "23"
+        size 0
         color "red"
     ]
     node [
         id 3352268
-        size 9
         label "ГильZа"
+        size 9
         color "red"
     ]
     node [
         id 735955
-        size 0
         label "Master Lee"
+        size 0
         color "red"
     ]
     node [
         id 167636
-        size 5
         label "Chkalov"
+        size 5
         color "red"
     ]
     node [
         id 4444885
-        size 0
         label "Романов, Китаев, Макиенко"
+        size 0
         color "red"
     ]
     node [
         id 234198
-        size 4
         label "Павел Чехов"
+        size 4
         color "red"
     ]
     node [
         id 167640
-        size 12
         label "Секрет"
+        size 12
         color "red"
     ]
     node [
         id 1847005
-        size 0
         label "Вика и коты"
+        size 0
         color "red"
     ]
     node [
         id 2923230
-        size 0
         label "Сабака"
+        size 0
         color "red"
     ]
     node [
         id 1717029
-        size 5
         label "Ямайский и Островитяне"
+        size 5
         color "red"
     ]
     node [
         id 2748129
-        size 0
         label "Перцем по сердцу"
+        size 0
         color "red"
     ]
     node [
         id 4445922
-        size 0
         label "Нейронная оборона"
+        size 0
         color "red"
     ]
     node [
         id 167651
-        size 9
         label "Чебоза"
+        size 9
         color "red"
     ]
     node [
         id 2649830
-        size 0
         label "Интроспекция"
+        size 0
         color "red"
     ]
     node [
         id 2499304
-        size 4
         label "Четыре Апреля"
+        size 4
         color "red"
     ]
     node [
         id 167657
-        size 0
         label "Алкоголь"
+        size 0
         color "red"
     ]
     node [
         id 2444838
-        size 5
         label "ГДР"
+        size 5
         color "red"
     ]
     node [
         id 4591340
-        size 0
         label "Настя Васильева"
+        size 0
         color "red"
     ]
     node [
         id 4719341
-        size 0
         label "Dizaidor"
+        size 0
         color "red"
     ]
     node [
         id 2518766
-        size 0
         label "Арт-проект «Артель»"
+        size 0
         color "red"
     ]
     node [
         id 4038781
-        size 0
         label "KROLiki"
+        size 0
         color "red"
     ]
     node [
         id 859890
-        size 0
         label "Екатерина Мечетина"
+        size 0
         color "red"
     ]
     node [
         id 432886
-        size 0
         label "Майолика"
+        size 0
         color "red"
     ]
     node [
         id 2889467
-        size 8
         label "Jeff $отоварищi"
+        size 8
         color "red"
     ]
     node [
         id 515836
-        size 0
         label "Антон Пляскин"
+        size 0
         color "red"
     ]
     node [
         id 2624253
-        size 0
         label "Эхо11"
+        size 0
         color "red"
     ]
     node [
         id 4073215
-        size 0
         label "Духовное оружие"
+        size 0
         color "red"
     ]
     node [
         id 2923264
-        size 4
         label "МодеМ"
+        size 4
         color "red"
     ]
     node [
         id 432898
-        size 0
         label "Евгений Акимов и рок-группа Ассамблея"
+        size 0
         color "red"
     ]
     node [
         id 412459
-        size 0
         label "Странные игры"
+        size 0
         color "red"
     ]
     node [
         id 4324103
-        size 0
         label "Блок-А"
+        size 0
         color "red"
     ]
     node [
         id 156427
-        size 13
         label "Звери"
+        size 13
         color "red"
     ]
     node [
         id 4481638
-        size 0
         label "Лаэртский Бэнд"
+        size 0
         color "red"
     ]
     node [
         id 3103503
-        size 2
         label "TAR"
+        size 2
         color "red"
     ]
     node [
         id 4292368
-        size 0
         label "Братья Тузловы"
+        size 0
         color "red"
     ]
     node [
         id 432914
-        size 9
         label "Atlantida Project"
+        size 9
         color "red"
     ]
     node [
         id 432916
-        size 4
         label "Мануфактура"
+        size 4
         color "red"
     ]
     node [
         id 2434839
-        size 0
         label "Zmey & Co"
+        size 0
         color "red"
     ]
     node [
         id 432920
-        size 1
         label "Наталия Княжинская"
+        size 1
         color "red"
     ]
     node [
         id 426777
-        size 6
         label "Свинцовый Туман"
+        size 6
         color "red"
     ]
     node [
         id 1254171
-        size 6
         label "Пётр Мамонов"
+        size 6
         color "red"
     ]
     node [
         id 1254172
-        size 10
         label "Звуки Му"
+        size 10
         color "red"
     ]
     node [
         id 2434845
-        size 4
         label "NOMERA"
+        size 4
         color "red"
     ]
     node [
         id 432926
-        size 0
         label "Группа FM"
+        size 0
         color "red"
     ]
     node [
         id 432928
-        size 0
         label "Виталий Усанов"
+        size 0
         color "red"
     ]
     node [
         id 2988835
-        size 1
         label "Strike"
+        size 1
         color "red"
     ]
     node [
         id 359558
-        size 19
         label "Znaki"
+        size 19
         color "red"
     ]
     node [
         id 1717030
-        size 0
         label "ТО «Меломаны»"
+        size 0
         color "red"
     ]
     node [
         id 4323111
-        size 0
         label "Регина Nimf"
+        size 0
         color "red"
     ]
     node [
         id 432936
-        size 7
         label "Мифы"
+        size 7
         color "red"
     ]
     node [
         id 3916744
-        size 0
         label "Sherlock Blonde"
+        size 0
         color "red"
     ]
     node [
         id 432938
-        size 0
         label "Маша и медведи"
+        size 0
         color "red"
     ]
     node [
         id 707371
-        size 16
         label "Моды"
+        size 16
         color "red"
     ]
     node [
         id 4054831
-        size 4
         label "МэнЧеСтер"
+        size 4
         color "red"
     ]
     node [
         id 412464
-        size 13
         label "АДО"
+        size 13
         color "red"
     ]
     node [
         id 427825
-        size 19
         label "Мара"
+        size 19
         color "red"
     ]
     node [
         id 426291
-        size 1
         label "Юрий Гагарин"
+        size 1
         color "red"
     ]
     node [
         id 3502558
-        size 0
         label "Sappy"
+        size 0
         color "red"
     ]
     node [
         id 431926
-        size 4
         label "Олег Чубыкин"
+        size 4
         color "red"
     ]
     node [
         id 2561847
-        size 0
         label "Владимир Шахрин"
+        size 0
         color "red"
     ]
     node [
         id 412472
-        size 0
         label "Чуфелла Марзуфелла"
+        size 0
         color "red"
     ]
     node [
         id 338745
-        size 0
         label "Город 312"
+        size 0
         color "red"
     ]
     node [
         id 412474
-        size 0
         label "СубМарина"
+        size 0
         color "red"
     ]
     node [
         id 773947
-        size 3
         label "Brass-Rock группа Корабли"
+        size 3
         color "red"
     ]
     node [
         id 2451261
-        size 1
         label "Дядьки"
+        size 1
         color "red"
     ]
     node [
         id 4063430
-        size 0
         label "ПШО ПроРок"
+        size 0
         color "red"
     ]
     node [
         id 2815809
-        size 0
         label "Алексей Мурашёв"
+        size 0
         color "red"
     ]
     node [
         id 2977931
-        size 0
         label "Доктор Кинчев и группа 'Стиль'"
+        size 0
         color "red"
     ]
     node [
         id 773956
-        size 1
         label "Тесно"
+        size 1
         color "red"
     ]
     node [
         id 425797
-        size 13
         label "НОМ"
+        size 13
         color "red"
     ]
     node [
         id 2934241
-        size 0
         label "Tailwind"
+        size 0
         color "red"
     ]
     node [
         id 835400
-        size 1
         label "Квартал"
+        size 1
         color "red"
     ]
     node [
         id 359564
-        size 0
         label "Вадим Степанцов"
+        size 0
         color "red"
     ]
     node [
         id 429898
-        size 13
         label "Авиа"
+        size 13
         color "red"
     ]
     node [
         id 426829
-        size 14
         label "Василий Шумов"
+        size 14
         color "red"
     ]
     node [
         id 2718543
-        size 0
         label "С'ОЛЬ"
+        size 0
         color "red"
     ]
     node [
         id 361299
-        size 0
         label "Alhimia"
+        size 0
         color "red"
     ]
     node [
         id 975700
-        size 14
         label "Точка росы"
+        size 14
         color "red"
     ]
     node [
         id 160597
-        size 2
         label "Место встречи"
+        size 2
         color "red"
     ]
     node [
         id 160598
-        size 9
         label "Муха"
+        size 9
         color "red"
     ]
     node [
         id 2962264
-        size 9
         label "Сергей Бобунец"
+        size 9
         color "red"
     ]
     node [
         id 2978447
-        size 0
         label "fonkovra"
+        size 0
         color "red"
     ]
     node [
         id 3677021
-        size 5
         label "Disco-RD"
+        size 5
         color "red"
     ]
     node [
         id 432990
-        size 2
         label "Контакты"
+        size 2
         color "red"
     ]
     node [
         id 359568
-        size 0
         label "Александр Пушной"
+        size 0
         color "red"
     ]
     node [
         id 727907
-        size 12
         label "Сегодня в Мире"
+        size 12
         color "red"
     ]
     node [
         id 645988
-        size 6
         label "ШаЛе"
+        size 6
         color "red"
     ]
     node [
         id 645989
-        size 0
         label "Танго и Кэш"
+        size 0
         color "red"
     ]
     node [
         id 4024166
-        size 2
         label "Вася Ложкин и какие-то люди"
+        size 2
         color "red"
     ]
     node [
         id 2692968
-        size 1
         label "Следы"
+        size 1
         color "red"
     ]
     node [
         id 2891625
-        size 3
         label "Северный Флот"
+        size 3
         color "red"
     ]
     node [
         id 359795
-        size 5
         label "Игорь Куприянов"
+        size 5
         color "red"
     ]
     node [
         id 1617772
-        size 0
         label "Пятый Корпус"
+        size 0
         color "red"
     ]
     node [
         id 4421486
-        size 0
         label "Северные врата"
+        size 0
         color "red"
     ]
     node [
         id 789480
-        size 0
         label "Total"
+        size 0
         color "red"
     ]
     node [
         id 4171634
-        size 6
         label "ГРОМЫКА"
+        size 6
         color "red"
     ]
     node [
         id 360307
-        size 12
         label "Городская Культура"
+        size 12
         color "red"
     ]
     node [
         id 3325813
-        size 0
         label "Чехонте"
+        size 0
         color "red"
     ]
     node [
         id 359572
-        size 4
         label "Объект Насмешек"
+        size 4
         color "red"
     ]
     node [
         id 3099516
-        size 0
         label "НАС НЕТ"
+        size 0
         color "red"
     ]
     node [
         id 2769791
-        size 2
         label "По_Умолчанию"
+        size 2
         color "red"
     ]
     node [
         id 2155392
-        size 12
         label "Свободный полёт"
+        size 12
         color "red"
     ]
     node [
         id 3133313
-        size 0
         label "Stacey Dogs"
+        size 0
         color "red"
     ]
     node [
         id 2815874
-        size 0
         label "Killer Honda"
+        size 0
         color "red"
     ]
     node [
         id 3206019
-        size 1
         label "Shakti Loka"
+        size 1
         color "red"
     ]
     node [
         id 4510322
-        size 0
         label "Инфекция"
+        size 0
         color "red"
     ]
     node [
         id 3464071
-        size 0
         label "Дмитрий Sit Ситников"
+        size 0
         color "red"
     ]
     node [
         id 433032
-        size 5
         label "Полнолуние"
+        size 5
         color "red"
     ]
     node [
         id 1587180
-        size 13
         label "MONOЛИЗА"
+        size 13
         color "red"
     ]
     node [
         id 677772
-        size 0
         label "Z.I.M.A"
+        size 0
         color "red"
     ]
     node [
         id 426894
-        size 1
         label "The СкаZки"
+        size 1
         color "red"
     ]
     node [
         id 2557839
-        size 14
         label "Casual"
+        size 14
         color "red"
     ]
     node [
         id 360336
-        size 1
         label "Стокгольм"
+        size 1
         color "red"
     ]
     node [
         id 788369
-        size 0
         label "НабатЪ"
+        size 0
         color "red"
     ]
     node [
         id 168851
-        size 15
         label "Ленинград"
+        size 15
         color "red"
     ]
     node [
         id 168852
-        size 2
         label "Сергей Шнуров"
+        size 2
         color "red"
     ]
     node [
         id 2977686
-        size 7
         label "НедРа"
+        size 7
         color "red"
     ]
     node [
         id 2155415
-        size 3
         label "METHEORA"
+        size 3
         color "red"
     ]
     node [
         id 421792
-        size 21
         label "Белая Гвардия"
+        size 21
         color "red"
     ]
     node [
         id 425889
-        size 6
         label "The Matrixx"
+        size 6
         color "red"
     ]
     node [
         id 425891
-        size 6
         label "Вежливый отказ"
+        size 6
         color "red"
     ]
     node [
         id 677799
-        size 6
         label "Леприконсы"
+        size 6
         color "red"
     ]
     node [
         id 4485033
-        size 0
         label "Иван Курнаев и группа Новый день"
+        size 0
         color "red"
     ]
     node [
         id 2628523
-        size 0
         label "МОНАРХ"
+        size 0
         color "red"
     ]
     node [
         id 4711240
-        size 0
         label "Кристобаль Хунта"
+        size 0
         color "red"
     ]
     node [
         id 167070
-        size 8
         label "Ноль"
+        size 8
         color "red"
     ]
     node [
         id 2683832
-        size 0
         label "Капитан Кенгуру"
+        size 0
         color "red"
     ]
     node [
         id 4017082
-        size 3
         label "BAROCAMERA"
+        size 3
         color "red"
     ]
     node [
         id 4147132
-        size 6
         label "Naprimer"
+        size 6
         color "red"
     ]
     node [
         id 4532159
-        size 0
         label "Вторая Дверь"
+        size 0
         color "red"
     ]
     node [
         id 3680192
-        size 0
         label "Александр Церпята"
+        size 0
         color "red"
     ]
     node [
         id 42656
-        size 0
         label "Женя Глюкк и Группа Прикрытия"
+        size 0
         color "red"
     ]
     node [
         id 3949507
-        size 0
         label "Александр Котлер"
+        size 0
         color "red"
     ]
     node [
         id 167414
-        size 0
         label "Корней"
+        size 0
         color "red"
     ]
     node [
         id 359585
-        size 2
         label "Кометы"
+        size 2
         color "red"
     ]
     node [
         id 3175368
-        size 7
         label "БоБРы"
+        size 7
         color "red"
     ]
     node [
         id 426146
-        size 0
         label "Karamazov Twins"
+        size 0
         color "red"
     ]
     node [
         id 429733
-        size 5
         label "Поиск сети"
+        size 5
         color "red"
     ]
     node [
         id 4471762
-        size 0
         label "Sapgir Band"
+        size 0
         color "red"
     ]
     node [
         id 218067
-        size 29
         label "Чичерина"
+        size 29
         color "red"
     ]
     node [
         id 2413524
-        size 0
         label "Поэмы Дарвина"
+        size 0
         color "red"
     ]
     node [
         id 3000279
-        size 0
         label "Марта Ильина"
+        size 0
         color "red"
     ]
     node [
         id 4760536
-        size 0
         label "7 лет спустя"
+        size 0
         color "red"
     ]
     node [
         id 218073
-        size 26
         label "Пикник"
+        size 26
         color "red"
     ]
     node [
         id 677850
-        size 1
         label "Слюс"
+        size 1
         color "red"
     ]
     node [
         id 2926555
-        size 14
         label "СИГНАЛ"
+        size 14
         color "red"
     ]
     node [
         id 2926557
-        size 0
         label "Коктейль Шаляпина"
+        size 0
         color "red"
     ]
     node [
         id 424613
-        size 0
         label "ТАНТРА"
+        size 0
         color "red"
     ]
     node [
         id 2560997
-        size 3
         label "White Sound"
+        size 3
         color "red"
     ]
     node [
         id 4695234
-        size 5
         label "Хартыга & Альберт Кувезин"
+        size 5
         color "red"
     ]
     node [
         id 2965483
-        size 0
         label "Сны Африканца"
+        size 0
         color "red"
     ]
     node [
         id 3656684
-        size 7
         label "Ivashov"
+        size 7
         color "red"
     ]
     node [
         id 2689006
-        size 1
         label "АНТИМАТЕРИЯ"
+        size 1
         color "red"
     ]
     node [
         id 1652733
-        size 13
         label "Машина времени"
+        size 13
         color "red"
     ]
     node [
         id 2907304
-        size 9
         label "Копенgagen"
+        size 9
         color "red"
     ]
     node [
         id 779250
-        size 0
         label "Транзит"
+        size 0
         color "red"
     ]
     node [
         id 218099
-        size 12
         label "Земфира"
+        size 12
         color "red"
     ]
     node [
         id 2442228
-        size 0
         label "Евгений Крылов"
+        size 0
         color "red"
     ]
     node [
         id 1652734
-        size 16
         label "Андрей Макаревич"
+        size 16
         color "red"
     ]
     node [
         id 218102
-        size 8
         label "Вася Ложкин рокындроль бэнд"
+        size 8
         color "red"
     ]
     node [
         id 359593
-        size 7
         label "Круиз"
+        size 7
         color "red"
     ]
     node [
         id 3336185
-        size 6
         label "Ворон Кутха"
+        size 6
         color "red"
     ]
     node [
         id 1107963
-        size 12
         label "Оргия праведников"
+        size 12
         color "red"
     ]
     node [
         id 2439062
-        size 0
         label "ЧЕЛЕНЖЕР"
+        size 0
         color "red"
     ]
     node [
         id 2635946
-        size 1
         label "последний из мАгикан (ПизМ)"
+        size 1
         color "red"
     ]
     node [
         id 3907582
-        size 6
         label "Тайм-Аут"
+        size 6
         color "red"
     ]
     node [
         id 2918698
-        size 17
         label "Собаки Качалова"
+        size 17
         color "red"
     ]
     edge [

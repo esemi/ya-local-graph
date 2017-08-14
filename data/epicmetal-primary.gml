@@ -2,1317 +2,1317 @@ graph [
     directed 1
     node [
         id 73216
-        size 34
         label "Within Temptation"
-        color "red"
+        size 34
+        color "blue"
     ]
     node [
         id 1765378
-        size 16
         label "Annodomini"
-        color "red"
+        size 16
+        color "blue"
     ]
     node [
         id 291843
-        size 18
         label "Edenbridge"
-        color "red"
+        size 18
+        color "blue"
     ]
     node [
         id 2736644
-        size 16
         label "Conquering Dystopia"
-        color "red"
+        size 16
+        color "blue"
     ]
     node [
         id 2199048
-        size 0
         label "Torches of Fury"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 9739
-        size 9
         label "Anand"
-        color "red"
+        size 9
+        color "blue"
     ]
     node [
         id 2618894
-        size 1
         label "Deathless Legacy"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 1801231
-        size 0
         label "God of Shamisen"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 523096
-        size 1
         label "Autumnblaze"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 520215
-        size 13
         label "Paragon Of Beauty"
-        color "red"
+        size 13
+        color "blue"
     ]
     node [
         id 1787416
-        size 2
         label "Cole Rolland"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 645145
-        size 6
         label "Kells"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 2026013
-        size 15
         label "Enoria"
-        color "red"
+        size 15
+        color "blue"
     ]
     node [
         id 1280550
-        size 0
         label "Ninth Circle"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1901097
-        size 15
         label "Embracing"
-        color "red"
+        size 15
+        color "blue"
     ]
     node [
         id 314923
-        size 1
         label "The Old Dead Tree"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 1737265
-        size 0
         label "Randy Mcstine"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 300082
-        size 3
         label "Mystigma"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 2178612
-        size 1
         label "Sakara"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 1813046
-        size 25
         label "Al Estrada"
-        color "red"
+        size 25
+        color "blue"
     ]
     node [
         id 1054265
-        size 19
         label "Marcel Coenen"
-        color "red"
+        size 19
+        color "blue"
     ]
     node [
         id 1243196
-        size 2
         label "Dave Shadow"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 1195069
-        size 3
         label "Joe Stump"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 822846
-        size 14
         label "Gorod"
-        color "red"
+        size 14
+        color "blue"
     ]
     node [
         id 1028159
-        size 6
         label "Livid Halcyon"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 1791040
-        size 13
         label "Godyva"
-        color "red"
+        size 13
+        color "blue"
     ]
     node [
         id 1509728
-        size 22
         label "Crisix"
-        color "red"
+        size 22
+        color "blue"
     ]
     node [
         id 2029635
-        size 0
         label "Curt Shaw"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 199749
-        size 33
         label "Xandria"
-        color "red"
+        size 33
+        color "blue"
     ]
     node [
         id 2192225
-        size 9
         label "Borislav Mitic"
-        color "red"
+        size 9
+        color "blue"
     ]
     node [
         id 304202
-        size 40
         label "Leaves' Eyes"
-        color "red"
+        size 40
+        color "blue"
     ]
     node [
         id 639051
-        size 0
         label "Sunterra"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 337999
-        size 5
         label "The Order Of The Fly"
-        color "red"
+        size 5
+        color "blue"
     ]
     node [
         id 637008
-        size 6
         label "On Thorns I Lay"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 1130936
-        size 0
         label "Gates Of Dawn"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1542740
-        size 0
         label "Ani Lo. Projekt"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1782362
-        size 0
         label "November Aria"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 754267
-        size 16
         label "Catharsis"
-        color "red"
+        size 16
+        color "blue"
     ]
     node [
         id 2154077
-        size 0
         label "Bangladeafy"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 302175
-        size 19
         label "Týr"
-        color "red"
+        size 19
+        color "blue"
     ]
     node [
         id 1414587
-        size 3
         label "The Sundial"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 2561128
-        size 2
         label "Sopor"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 2201197
-        size 0
         label "Universal Theory"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1648751
-        size 6
         label "Heldmaschine"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 1098354
-        size 3
         label "Necroart"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 1927283
-        size 3
         label "Armaga"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 1792117
-        size 2
         label "The Equinox Ov the Gods"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 2109558
-        size 8
         label "Aesma Daeva (Symphonic Metal)"
-        color "red"
+        size 8
+        color "blue"
     ]
     node [
         id 891001
-        size 1
         label "Eden Weint Im Grab"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 1173115
-        size 3
         label "The Dreamside"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 414332
-        size 2
         label "Blinded Rain"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 1372797
-        size 1
         label "Merrow"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 2022527
-        size 7
         label "Silent Opera"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 2097280
-        size 4
         label "Matthew Mills"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 805227
-        size 8
         label "Svart Crown"
-        color "red"
+        size 8
+        color "blue"
     ]
     node [
         id 944776
-        size 4
         label "Dunwich"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 910987
-        size 16
         label "Tony MacAlpine"
-        color "red"
+        size 16
+        color "blue"
     ]
     node [
         id 1799309
-        size 22
         label "Edward Box"
-        color "red"
+        size 22
+        color "blue"
     ]
     node [
         id 437390
-        size 8
         label "Dama"
-        color "red"
+        size 8
+        color "blue"
     ]
     node [
         id 1767567
-        size 0
         label "Mastercastle"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 2630293
-        size 0
         label "KharmaGuess"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 817297
-        size 4
         label "Wildpath"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 10899
-        size 23
         label "Nightwish"
-        color "red"
+        size 23
+        color "blue"
     ]
     node [
         id 358549
-        size 3
         label "Inactive Messiah"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 2364566
-        size 6
         label "Tommy Ermolli"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 2009239
-        size 0
         label "Der Fluch"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1360537
-        size 0
         label "Grave Robber"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 917658
-        size 4
         label "The Amenta"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 427163
-        size 3
         label "Symfomania"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 1022234
-        size 33
         label "Cyril Achard"
-        color "red"
+        size 33
+        color "blue"
     ]
     node [
         id 1979041
-        size 19
         label "Magion"
-        color "red"
+        size 19
+        color "blue"
     ]
     node [
         id 893602
-        size 9
         label "SinHeresY"
-        color "red"
+        size 9
+        color "blue"
     ]
     node [
         id 2302627
-        size 6
         label "Lars Eric Mattsson"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 921252
-        size 0
         label "Il Segno del Comando"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1042085
-        size 4
         label "Weena Morloch"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 344742
-        size 45
         label "Sabaton"
-        color "red"
+        size 45
+        color "blue"
     ]
     node [
         id 1625772
-        size 7
         label "Hand of God"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 359597
-        size 22
         label "Margenta"
-        color "red"
+        size 22
+        color "blue"
     ]
     node [
         id 1536690
-        size 0
         label "Agony Lords"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 576185
-        size 2
         label "Nhor"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 2055867
-        size 1
         label "Of Shadow People"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 673114
-        size 7
         label "Rob Johnson"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 64189
-        size 0
         label "Marc Rizzo"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1843392
-        size 0
         label "Masquerade of Shadows"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 523152
-        size 20
         label "Alcest"
-        color "red"
+        size 20
+        color "blue"
     ]
     node [
         id 764099
-        size 27
         label "Lyriel"
-        color "red"
+        size 27
+        color "blue"
     ]
     node [
         id 523118
-        size 6
         label "Ewigheim"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 2739914
-        size 1
         label "Celestial Crown"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 318668
-        size 15
         label "Draconian"
-        color "red"
+        size 15
+        color "blue"
     ]
     node [
         id 359629
-        size 14
         label "5 Стихий"
-        color "red"
+        size 14
+        color "blue"
     ]
     node [
         id 1619917
-        size 18
         label "Tothem"
-        color "red"
+        size 18
+        color "blue"
     ]
     node [
         id 1788633
-        size 2
         label "Tempting Tragedy"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 917813
-        size 0
         label "As We Die For... Paradise Lost"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 2497755
-        size 0
         label "My Deception"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 431324
-        size 6
         label "Omega Lithium"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 881530
-        size 8
         label "Milan Polak"
-        color "red"
+        size 8
+        color "blue"
     ]
     node [
         id 94331
-        size 6
         label "Lordi"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 1910652
-        size 0
         label "Dennis H. Lotka"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1885821
-        size 0
         label "Tomohiro Nishimura"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 2220275
-        size 0
         label "Ivana d'Arc"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 867796
-        size 4
         label "Strings 24"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 292431
-        size 7
         label "Lunatica"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 523135
-        size 3
         label "The Vision Bleak"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 296702
-        size 34
         label "Equilibrium"
-        color "red"
+        size 34
+        color "blue"
     ]
     node [
         id 1021183
-        size 3
         label "Heavenwood"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 2012928
-        size 0
         label "Virus Garage"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 682753
-        size 5
         label "Dave Sharman"
-        color "red"
+        size 5
+        color "blue"
     ]
     node [
         id 924419
-        size 9
         label "Armonight"
-        color "red"
+        size 9
+        color "blue"
     ]
     node [
         id 1993476
-        size 0
         label "Seree Lee"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 2081029
-        size 0
         label "Bill Majoros"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 2272520
-        size 0
         label "Dan Johansen"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 3002905
-        size 0
         label "Celestial Wish"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1320203
-        size 16
         label "Greg Rapaport"
-        color "red"
+        size 16
+        color "blue"
     ]
     node [
         id 2062604
-        size 2
         label "A Doom"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 779195
-        size 6
         label "Gothminister"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 32526
-        size 60
         label "Sonata Arctica"
-        color "red"
+        size 60
+        color "blue"
     ]
     node [
         id 2735890
-        size 0
         label "Orisonata"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 2522389
-        size 1
         label "Meden Agan"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 2332439
-        size 1
         label "Daedalean Complex"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 304408
-        size 2
         label "Saviour Machine"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 58138
-        size 8
         label "Michael Harris"
-        color "red"
+        size 8
+        color "blue"
     ]
     node [
         id 1340701
-        size 6
         label "Theodore Ziras"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 2741022
-        size 3
         label "Beyond Violet"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 2013471
-        size 4
         label "Echoterra"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 891168
-        size 7
         label "Saints of Ruin"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 1191716
-        size 10
         label "George Bellas"
-        color "red"
+        size 10
+        color "blue"
     ]
     node [
         id 523052
-        size 7
         label "Secrets Of The Moon"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 20782
-        size 3
         label "Tess"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 523057
-        size 10
         label "Helrunar"
-        color "red"
+        size 10
+        color "blue"
     ]
     node [
         id 860469
-        size 6
         label "Sin Deadly Sin"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 2296119
-        size 1
         label "Weeping Silence"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 2155320
-        size 0
         label "Autumns Eyes"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 798013
-        size 1
         label "Eleanor"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 1841973
-        size 30
         label "Hydria"
-        color "red"
+        size 30
+        color "blue"
     ]
     node [
         id 2736963
-        size 1
         label "The Strigas"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 1260598
-        size 0
         label "Nostra Morte"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1612614
-        size 4
         label "Abnormal Thought Patterns"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 947016
-        size 3
         label "Supuration"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 523081
-        size 3
         label "Farsot"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 523087
-        size 7
         label "Negura Bunget"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 303416
-        size 40
         label "Sirenia"
-        color "red"
+        size 40
+        color "blue"
     ]
     node [
         id 292692
-        size 3
         label "Lacrimosa"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 523093
-        size 14
         label "Empyrium"
-        color "red"
+        size 14
+        color "blue"
     ]
     node [
         id 703320
-        size 17
         label "Zonaria"
-        color "red"
+        size 17
+        color "blue"
     ]
     node [
         id 129369
-        size 7
         label "Haggard"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 523098
-        size 1
         label "Leakh"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 2331279
-        size 6
         label "Vindictiv"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 896348
-        size 25
         label "Yotangor"
-        color "red"
+        size 25
+        color "blue"
     ]
     node [
         id 2213725
-        size 0
         label "Alex Masi"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 648030
-        size 2
         label "Inner Shrine"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 1529317
-        size 8
         label "Bruce Bouillet"
-        color "red"
+        size 8
+        color "blue"
     ]
     node [
         id 237408
-        size 1
         label "Heller"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 802657
-        size 3
         label "Loudblast"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 1116002
-        size 14
         label "Torben Enevoldsen"
-        color "red"
+        size 14
+        color "blue"
     ]
     node [
         id 896355
-        size 3
         label "Adrana"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 252262
-        size 20
         label "GERM"
-        color "red"
+        size 20
+        color "blue"
     ]
     node [
         id 1755281
-        size 2
         label "Avishay Mizrav"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 222057
-        size 37
         label "Epica"
-        color "red"
+        size 37
+        color "blue"
     ]
     node [
         id 2112362
-        size 0
         label "Eärendil"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 48491
-        size 27
         label "Delain"
-        color "red"
+        size 27
+        color "blue"
     ]
     node [
         id 915822
-        size 1
         label "Godsend"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 516465
-        size 0
         label "Benjamin Woods"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1742202
-        size 7
         label "Tourniquet"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 2606972
-        size 0
         label "Point Of View Secondhand"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 2927998
-        size 1
         label "Enkelination"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 1835174
-        size 7
         label "Francesco Fareri"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 296000
-        size 3
         label "Dies Irae"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 1022879
-        size 6
         label "Octavion"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 314760
-        size 25
         label "Trail of Tears"
-        color "red"
+        size 25
+        color "blue"
     ]
     node [
         id 416651
-        size 9
         label "Anorexia Nervosa"
-        color "red"
+        size 9
+        color "blue"
     ]
     node [
         id 38284
-        size 1
         label "Elias Viljanen"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 2293648
-        size 12
         label "Luna Obscura"
-        color "red"
+        size 12
+        color "blue"
     ]
     node [
         id 1238417
-        size 4
         label "Voodoma"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 1984402
-        size 7
         label "Lumus"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 677270
-        size 2
         label "Gory Blister"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 2066327
-        size 1
         label "Psychostatus"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 564121
-        size 18
         label "Dordeduh"
-        color "red"
+        size 18
+        color "blue"
     ]
     node [
         id 1273583
-        size 1
         label "ERock"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 1849246
-        size 0
         label "Dan Mumm"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 151455
-        size 21
         label "Lacuna Coil"
-        color "red"
+        size 21
+        color "blue"
     ]
     node [
         id 789920
-        size 4
         label "Hate"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 2410401
-        size 8
         label "Suddenlash"
-        color "red"
+        size 8
+        color "blue"
     ]
     node [
         id 292770
-        size 0
         label "Orphanage"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 830790
-        size 1
         label "November-7"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 936870
-        size 2
         label "Yearning"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 936872
-        size 2
         label "Tristitia"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 2808391
-        size 0
         label "The Sean Baker Orchestra"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1850799
-        size 24
         label "Cassandra Syndrome"
-        color "red"
+        size 24
+        color "blue"
     ]
     node [
         id 1328563
-        size 15
         label "Embellish"
-        color "red"
+        size 15
+        color "blue"
     ]
     node [
         id 901046
-        size 3
         label "Misanthrope"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 774399
-        size 8
         label "Matenrou Opera"
-        color "red"
+        size 8
+        color "blue"
     ]
     node [
         id 814011
-        size 4
         label "Domina Noctis"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 899011
-        size 2
         label "Allfader"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 1594531
-        size 8
         label "Sutratma"
-        color "red"
+        size 8
+        color "blue"
     ]
     node [
         id 1744801
-        size 3
         label "Flametal"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 2308554
-        size 0
         label "Holyhell"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 291788
-        size 58
         label "Therion"
-        color "red"
+        size 58
+        color "blue"
     ]
     node [
         id 2247117
-        size 6
         label "Sirgaus"
-        color "red"
+        size 6
+        color "blue"
     ]
     node [
         id 473551
-        size 31
         label "Avantasia"
-        color "red"
+        size 31
+        color "blue"
     ]
     node [
         id 1828304
-        size 2
         label "Guilty as Sin"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 1124515
-        size 14
         label "Nemesea"
-        color "red"
+        size 14
+        color "blue"
     ]
     node [
         id 266196
-        size 18
         label "Rhapsody Of Fire"
-        color "red"
+        size 18
+        color "blue"
     ]
     node [
         id 1542991
-        size 1
         label "Black Deep White"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 294367
-        size 4
         label "Dornenreich"
-        color "red"
+        size 4
+        color "blue"
     ]
     node [
         id 2612304
-        size 1
         label "Kraton"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 1406946
-        size 17
         label "Jonas Tamas"
-        color "red"
+        size 17
+        color "blue"
     ]
     node [
         id 564196
-        size 24
         label "Stahlmann"
-        color "red"
+        size 24
+        color "blue"
     ]
     node [
         id 487078
-        size 14
         label "Sopor Aeternus & The Ensemble Of Shadows"
-        color "red"
+        size 14
+        color "blue"
     ]
     node [
         id 1922535
-        size 1
         label "Maestro Alex Gregory"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 2782187
-        size 2
         label "Savn"
-        color "red"
+        size 2
+        color "blue"
     ]
     node [
         id 2113518
-        size 0
         label "To Cast A Shadow"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 447983
-        size 25
         label "Battle Beast"
-        color "red"
+        size 25
+        color "blue"
     ]
     node [
         id 1021263
-        size 1
         label "Denight"
-        color "red"
+        size 1
+        color "blue"
     ]
     node [
         id 913398
-        size 3
         label "Northwinds"
-        color "red"
+        size 3
+        color "blue"
     ]
     node [
         id 1272823
-        size 32
         label "Angelical Tears"
-        color "red"
+        size 32
+        color "blue"
     ]
     node [
         id 2578260
-        size 0
         label "Plateau Sigma"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 2334319
-        size 0
         label "Undecimber"
-        color "red"
+        size 0
+        color "blue"
     ]
     node [
         id 1607677
-        size 7
         label "Teodasia"
-        color "red"
+        size 7
+        color "blue"
     ]
     node [
         id 3485695
-        size 6
         label "Satyrian"
-        color "red"
+        size 6
+        color "blue"
     ]
     edge [
         source 2782187

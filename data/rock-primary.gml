@@ -2,41624 +2,41624 @@ graph [
     directed 1
     node [
         id 49152
-        size 11
         label "Iron Butterfly"
+        size 11
         color "red"
     ]
     node [
         id 147459
-        size 0
         label "Cascades"
+        size 0
         color "red"
     ]
     node [
         id 2441224
-        size 4
         label "Nailed To Obscurity"
+        size 4
         color "red"
     ]
     node [
         id 9
-        size 27
         label "Status Quo"
+        size 27
         color "red"
     ]
     node [
         id 1818635
-        size 1
         label "Suns of Stone"
+        size 1
         color "red"
     ]
     node [
         id 49164
-        size 1
         label "Enuff Z'nuff"
+        size 1
         color "red"
     ]
     node [
         id 14
-        size 4
         label "Carole King"
+        size 4
         color "red"
     ]
     node [
         id 1949713
-        size 14
         label "Fish On Friday"
+        size 14
         color "red"
     ]
     node [
         id 2998291
-        size 3
         label "Polyphia"
+        size 3
         color "red"
     ]
     node [
         id 4423700
-        size 0
         label "PM Saari"
+        size 0
         color "red"
     ]
     node [
         id 1015830
-        size 4
         label "Teaze"
+        size 4
         color "red"
     ]
     node [
         id 901149
-        size 0
         label "Tri State Corner"
+        size 0
         color "red"
     ]
     node [
         id 679941
-        size 1
         label "Irish Party Music"
+        size 1
         color "red"
     ]
     node [
         id 933922
-        size 2
         label "Tempano"
+        size 2
         color "red"
     ]
     node [
         id 1867814
-        size 0
         label "Main Line Riders"
+        size 0
         color "red"
     ]
     node [
         id 821938
-        size 1
         label "New England"
+        size 1
         color "red"
     ]
     node [
         id 410812
-        size 0
         label "Mini Mansions"
+        size 0
         color "red"
     ]
     node [
         id 1179700
-        size 5
         label "Vreid"
+        size 5
         color "red"
     ]
     node [
         id 49209
-        size 18
         label "Beth Hart"
+        size 18
         color "red"
     ]
     node [
         id 32827
-        size 2
         label "Ronnie Montrose"
+        size 2
         color "red"
     ]
     node [
         id 294972
-        size 6
         label "Polecats"
+        size 6
         color "red"
     ]
     node [
         id 3342397
-        size 1
         label "I Prevail"
+        size 1
         color "red"
     ]
     node [
         id 445109
-        size 0
         label "Mandrake"
+        size 0
         color "red"
     ]
     node [
         id 98368
-        size 29
         label "Everclear"
+        size 29
         color "red"
     ]
     node [
         id 81985
-        size 5
         label "Fruit Bats"
+        size 5
         color "red"
     ]
     node [
         id 81986
-        size 5
         label "Cul De Sac"
+        size 5
         color "red"
     ]
     node [
         id 540741
-        size 1
         label "Tying Tiffany"
+        size 1
         color "red"
     ]
     node [
         id 81990
-        size 0
         label "Blues Traveler"
+        size 0
         color "red"
     ]
     node [
         id 802890
-        size 1
         label "Baby Woodrose"
+        size 1
         color "red"
     ]
     node [
         id 32844
-        size 19
         label "Noah And The Whale"
+        size 19
         color "red"
     ]
     node [
         id 360526
-        size 1
         label "Skyy"
+        size 1
         color "red"
     ]
     node [
         id 114767
-        size 6
         label "Jane's Addiction"
+        size 6
         color "red"
     ]
     node [
         id 29463
-        size 2
         label "Richard"
+        size 2
         color "red"
     ]
     node [
         id 1589329
-        size 0
         label "Flagship"
+        size 0
         color "red"
     ]
     node [
         id 82002
-        size 0
         label "Indigenous"
+        size 0
         color "red"
     ]
     node [
         id 2768979
-        size 1
         label "Dancing Flame"
+        size 1
         color "red"
     ]
     node [
         id 87
-        size 22
         label "Michael Schenker"
+        size 22
         color "red"
     ]
     node [
         id 2441304
-        size 1
         label "Travis Mills"
+        size 1
         color "red"
     ]
     node [
         id 90
-        size 24
         label "Scorpions"
+        size 24
         color "red"
     ]
     node [
         id 295003
-        size 10
         label "Bardo Pond"
+        size 10
         color "red"
     ]
     node [
         id 94
-        size 2
         label "Brett Dennen"
+        size 2
         color "red"
     ]
     node [
         id 704610
-        size 0
         label "Lord David Sutch"
+        size 0
         color "red"
     ]
     node [
         id 295011
-        size 7
         label "Steel Attack"
+        size 7
         color "red"
     ]
     node [
         id 49252
-        size 0
         label "Unwritten Law"
+        size 0
         color "red"
     ]
     node [
         id 295013
-        size 8
         label "Metalium"
+        size 8
         color "red"
     ]
     node [
         id 311399
-        size 0
         label "Dave 'Baby' Cortez"
+        size 0
         color "red"
     ]
     node [
         id 49258
-        size 15
         label "Skillet"
+        size 15
         color "red"
     ]
     node [
         id 8187
-        size 5
         label "Boy Kill Boy"
+        size 5
         color "red"
     ]
     node [
         id 344179
-        size 7
         label "Spock's Beard"
+        size 7
         color "red"
     ]
     node [
         id 589941
-        size 10
         label "Sadist"
+        size 10
         color "red"
     ]
     node [
         id 144745
-        size 5
         label "The Frantics"
+        size 5
         color "red"
     ]
     node [
         id 65657
-        size 0
         label "Noel Harrison"
+        size 0
         color "red"
     ]
     node [
         id 2501311
-        size 0
         label "Aram Bedrosian"
+        size 0
         color "red"
     ]
     node [
         id 655485
-        size 6
         label "The Trophy Fire"
+        size 6
         color "red"
     ]
     node [
         id 344190
-        size 18
         label "Woe, Is Me"
+        size 18
         color "red"
     ]
     node [
         id 655488
-        size 0
         label "Poor Bailey"
+        size 0
         color "red"
     ]
     node [
         id 1785988
-        size 1
         label "Prosevere"
+        size 1
         color "red"
     ]
     node [
         id 65669
-        size 5
         label "Orleans"
+        size 5
         color "red"
     ]
     node [
         id 82055
-        size 6
         label "Steve Roberts"
+        size 6
         color "red"
     ]
     node [
         id 82059
-        size 1
         label "Indigo Girls"
+        size 1
         color "red"
     ]
     node [
         id 1185133
-        size 19
         label "The Rumjacks"
+        size 19
         color "red"
     ]
     node [
         id 1318732
-        size 3
         label "Stars of the Lid"
+        size 3
         color "red"
     ]
     node [
         id 16530
-        size 5
         label "Eric Burdon"
+        size 5
         color "red"
     ]
     node [
         id 458899
-        size 0
         label "Soundscape"
+        size 0
         color "red"
     ]
     node [
         id 934037
-        size 0
         label "Tony Pisante"
+        size 0
         color "red"
     ]
     node [
         id 49303
-        size 15
         label "Halestorm"
+        size 15
         color "red"
     ]
     node [
         id 2146459
-        size 9
         label "Silvergun"
+        size 9
         color "red"
     ]
     node [
         id 679963
-        size 1
         label "Irish Rock Songs"
+        size 1
         color "red"
     ]
     node [
         id 98468
-        size 18
         label "Talk Talk"
+        size 18
         color "red"
     ]
     node [
         id 1818791
-        size 2
         label "Julie Meckler"
+        size 2
         color "red"
     ]
     node [
         id 311464
-        size 2
         label "SIC"
+        size 2
         color "red"
     ]
     node [
         id 311465
-        size 1
         label "Anvil"
+        size 1
         color "red"
     ]
     node [
         id 587123
-        size 4
         label "Brighter Than A Thousand Suns"
+        size 4
         color "red"
     ]
     node [
         id 409781
-        size 0
         label "Snowblink"
+        size 0
         color "red"
     ]
     node [
         id 183
-        size 29
         label "Simple Minds"
+        size 29
         color "red"
     ]
     node [
         id 1717620
-        size 0
         label "InstaHit Crew"
+        size 0
         color "red"
     ]
     node [
         id 1327290
-        size 4
         label "Extrechinato y Tu"
+        size 4
         color "red"
     ]
     node [
         id 1179835
-        size 7
         label "Bleed From Within"
+        size 7
         color "red"
     ]
     node [
         id 188
-        size 33
         label "Neil Young"
+        size 33
         color "red"
     ]
     node [
         id 592586
-        size 32
         label "The Amity Affliction"
+        size 32
         color "red"
     ]
     node [
         id 639168
-        size 1
         label "Belial"
+        size 1
         color "red"
     ]
     node [
         id 195
-        size 9
         label "Nick Lowe"
+        size 9
         color "red"
     ]
     node [
         id 98500
-        size 3
         label "Suicide"
+        size 3
         color "red"
     ]
     node [
         id 4063430
-        size 0
         label "ПШО ПроРок"
+        size 0
         color "red"
     ]
     node [
         id 98507
-        size 7
         label "Tempest"
+        size 7
         color "red"
     ]
     node [
         id 1835217
-        size 2
         label "Marc Eric"
+        size 2
         color "red"
     ]
     node [
         id 22151
-        size 3
         label "Kubb"
+        size 3
         color "red"
     ]
     node [
         id 2293974
-        size 0
         label "Alexon"
+        size 0
         color "red"
     ]
     node [
         id 82139
-        size 8
         label "Hoods"
+        size 8
         color "red"
     ]
     node [
         id 147678
-        size 33
         label "Stevie Ray Vaughan & Double Trouble"
+        size 33
         color "red"
     ]
     node [
         id 1261792
-        size 5
         label "Galaxy Express"
+        size 5
         color "red"
     ]
     node [
         id 16406
-        size 6
         label "Franz Ferdinand"
+        size 6
         color "red"
     ]
     node [
         id 876582
-        size 2
         label "Outrage"
+        size 2
         color "red"
     ]
     node [
         id 426214
-        size 2
         label "Markscheider Kunst"
+        size 2
         color "red"
     ]
     node [
         id 2441447
-        size 0
         label "Plaid Brixx"
+        size 0
         color "red"
     ]
     node [
         id 82153
-        size 7
         label "Mick Karn"
+        size 7
         color "red"
     ]
     node [
         id 98538
-        size 0
         label "Lea"
+        size 0
         color "red"
     ]
     node [
         id 640501
-        size 5
         label "The Connection"
+        size 5
         color "red"
     ]
     node [
         id 82157
-        size 11
         label "Killing Joke"
+        size 11
         color "red"
     ]
     node [
         id 82158
-        size 28
         label "Misfits"
+        size 28
         color "red"
     ]
     node [
         id 374141
-        size 5
         label "Songs: Ohia"
+        size 5
         color "red"
     ]
     node [
         id 1048816
-        size 0
         label "Tactus Rosa"
+        size 0
         color "red"
     ]
     node [
         id 49393
-        size 3
         label "Black Lips"
+        size 3
         color "red"
     ]
     node [
         id 16626
-        size 3
         label "Jerry Garcia"
+        size 3
         color "red"
     ]
     node [
         id 969477
-        size 2
         label "Hubert Kah"
+        size 2
         color "red"
     ]
     node [
         id 382334
-        size 0
         label "Black 47"
+        size 0
         color "red"
     ]
     node [
         id 147706
-        size 5
         label "The Centurions"
+        size 5
         color "red"
     ]
     node [
         id 671996
-        size 6
         label "Radical Face"
+        size 6
         color "red"
     ]
     node [
         id 1802494
-        size 1
         label "The Donnis Trio"
+        size 1
         color "red"
     ]
     node [
         id 813781
-        size 11
         label "The Beatles Recovered Band"
+        size 11
         color "red"
     ]
     node [
         id 258
-        size 3
         label "Iris"
+        size 3
         color "red"
     ]
     node [
         id 259
-        size 2
         label "Phil Lynott"
+        size 2
         color "red"
     ]
     node [
         id 819461
-        size 11
         label "Carach Angren"
+        size 11
         color "red"
     ]
     node [
         id 213256
-        size 22
         label "Шмели"
+        size 22
         color "red"
     ]
     node [
         id 2130186
-        size 1
         label "Delightful Downfall"
+        size 1
         color "red"
     ]
     node [
         id 19159
-        size 1
         label "The Lilac Time"
+        size 1
         color "red"
     ]
     node [
         id 295182
-        size 6
         label "Johnny Carroll"
+        size 6
         color "red"
     ]
     node [
         id 1589520
-        size 3
         label "Music for Sport"
+        size 3
         color "red"
     ]
     node [
         id 1627523
-        size 2
         label "Phideaux"
+        size 2
         color "red"
     ]
     node [
         id 49430
-        size 15
         label "Paramore"
+        size 15
         color "red"
     ]
     node [
         id 279
-        size 17
         label "Cinderella"
+        size 17
         color "red"
     ]
     node [
         id 196889
-        size 5
         label "Brand New Sin"
+        size 5
         color "red"
     ]
     node [
         id 49434
-        size 3
         label "The Black Ghosts"
+        size 3
         color "red"
     ]
     node [
         id 1556763
-        size 2
         label "Richard Hell & The Voidoids"
+        size 2
         color "red"
     ]
     node [
         id 196893
-        size 28
         label "Zebrahead"
+        size 28
         color "red"
     ]
     node [
         id 49441
-        size 0
         label "Kirstine Stubbe Teglbjærg"
+        size 0
         color "red"
     ]
     node [
         id 426274
-        size 2
         label "Skip The Use"
+        size 2
         color "red"
     ]
     node [
         id 291
-        size 15
         label "a-ha"
+        size 15
         color "red"
     ]
     node [
         id 1250694
-        size 1
         label "Forcefield"
+        size 1
         color "red"
     ]
     node [
         id 409894
-        size 13
         label "Chords of Chaos"
+        size 13
         color "red"
     ]
     node [
         id 147752
-        size 0
         label "Jill Sobule"
+        size 0
         color "red"
     ]
     node [
         id 426282
-        size 0
         label "Melancholy"
+        size 0
         color "red"
     ]
     node [
         id 302
-        size 0
         label "Jimmy Webb"
+        size 0
         color "red"
     ]
     node [
         id 360751
-        size 23
         label "Suicide Silence"
+        size 23
         color "red"
     ]
     node [
         id 426291
-        size 1
         label "Юрий Гагарин"
+        size 1
         color "red"
     ]
     node [
         id 38281
-        size 17
         label "Entwine"
+        size 17
         color "red"
     ]
     node [
         id 313
-        size 9
         label "Kenny Loggins"
+        size 9
         color "red"
     ]
     node [
         id 315
-        size 2
         label "Richard Marx"
+        size 2
         color "red"
     ]
     node [
         id 1917245
-        size 1
         label "Ellipsis"
+        size 1
         color "red"
     ]
     node [
         id 819523
-        size 3
         label "Hatsune Miku"
+        size 3
         color "red"
     ]
     node [
         id 778532
-        size 2
         label "Pino Scotto"
+        size 2
         color "red"
     ]
     node [
         id 331
-        size 1
         label "Tallulah Rendall"
+        size 1
         color "red"
     ]
     node [
         id 2786
-        size 0
         label "Jerry Williams"
+        size 0
         color "red"
     ]
     node [
         id 213330
-        size 2
         label "Surf Punks"
+        size 2
         color "red"
     ]
     node [
         id 1611150
-        size 0
         label "The New Roses"
+        size 0
         color "red"
     ]
     node [
         id 164185
-        size 2
         label "Tokyo Dragons"
+        size 2
         color "red"
     ]
     node [
         id 147802
-        size 1
         label "Ade"
+        size 1
         color "red"
     ]
     node [
         id 2979215
-        size 4
         label "Jain"
+        size 4
         color "red"
     ]
     node [
         id 33116
-        size 1
         label "Jimmy Martin"
+        size 1
         color "red"
     ]
     node [
         id 164189
-        size 14
         label "Dissection"
+        size 14
         color "red"
     ]
     node [
         id 49502
-        size 6
         label "Kid Rock"
+        size 6
         color "red"
     ]
     node [
         id 1573216
-        size 2
         label "Transience"
+        size 2
         color "red"
     ]
     node [
         id 262500
-        size 2
         label "Coda"
+        size 2
         color "red"
     ]
     node [
         id 193937
-        size 8
         label "Stabbing Westward"
+        size 8
         color "red"
     ]
     node [
         id 4096360
-        size 0
         label "Agua de Annique"
+        size 0
         color "red"
     ]
     node [
         id 49513
-        size 3
         label "Phantom Planet"
+        size 3
         color "red"
     ]
     node [
         id 524650
-        size 0
         label "Pintandwefall"
+        size 0
         color "red"
     ]
     node [
         id 82284
-        size 5
         label "Mxpx"
+        size 5
         color "red"
     ]
     node [
         id 294973
-        size 0
         label "The Head Cat"
+        size 0
         color "red"
     ]
     node [
         id 49520
-        size 8
         label "The Pierces"
+        size 8
         color "red"
     ]
     node [
         id 1474929
-        size 6
         label "The Tribute Co."
+        size 6
         color "red"
     ]
     node [
         id 1755508
-        size 18
         label "Scarlet White"
+        size 18
         color "red"
     ]
     node [
         id 2389396
-        size 9
         label "Band In Black"
+        size 9
         color "red"
     ]
     node [
         id 379
-        size 8
         label "We Have Band"
+        size 8
         color "red"
     ]
     node [
         id 377214
-        size 1
         label "Big B"
+        size 1
         color "red"
     ]
     node [
         id 2807189
-        size 1
         label "Amplifier"
+        size 1
         color "red"
     ]
     node [
         id 82305
-        size 8
         label "Spoken"
+        size 8
         color "red"
     ]
     node [
         id 2277765
-        size 13
         label "Confliction"
+        size 13
         color "red"
     ]
     node [
         id 1474951
-        size 9
         label "ToxicRose"
+        size 9
         color "red"
     ]
     node [
         id 82313
-        size 2
         label "Klank"
+        size 2
         color "red"
     ]
     node [
         id 300439
-        size 0
         label "Zodiac Mindwarp & The Love Reaction"
+        size 0
         color "red"
     ]
     node [
         id 295310
-        size 2
         label "Ray Hamilton Orchestra"
+        size 2
         color "red"
     ]
     node [
         id 95487
-        size 0
         label "Paul Lewis"
+        size 0
         color "red"
     ]
     node [
         id 1573265
-        size 0
         label "Vince Vaccaro"
+        size 0
         color "red"
     ]
     node [
         id 49555
-        size 17
         label "We Are Scientists"
+        size 17
         color "red"
     ]
     node [
         id 5529
-        size 13
         label "The Killers"
+        size 13
         color "red"
     ]
     node [
         id 2883993
-        size 0
         label "Holly Henry"
+        size 0
         color "red"
     ]
     node [
         id 328090
-        size 0
         label "The Knights"
+        size 0
         color "red"
     ]
     node [
         id 343379
-        size 2
         label "New Medicine"
+        size 2
         color "red"
     ]
     node [
         id 1524132
-        size 1
         label "Hora Zulu"
+        size 1
         color "red"
     ]
     node [
         id 1822178
-        size 2
         label "North of America"
+        size 2
         color "red"
     ]
     node [
         id 432
-        size 3
         label "Melanie"
+        size 3
         color "red"
     ]
     node [
         id 1327539
-        size 15
         label "Farcry"
+        size 15
         color "red"
     ]
     node [
         id 436
-        size 2
         label "John Denver"
+        size 2
         color "red"
     ]
     node [
         id 934326
-        size 4
         label "Deaf Havana"
+        size 4
         color "red"
     ]
     node [
         id 2179518
-        size 1
         label "Brothers in Law"
+        size 1
         color "red"
     ]
     node [
         id 197055
-        size 2
         label "The Boomtown Rats"
+        size 2
         color "red"
     ]
     node [
         id 1884611
-        size 9
         label "Stone Machine"
+        size 9
         color "red"
     ]
     node [
         id 43766
-        size 3
         label "Julian Lennon"
+        size 3
         color "red"
     ]
     node [
         id 147910
-        size 2
         label "Popol Vuh"
+        size 2
         color "red"
     ]
     node [
         id 967111
-        size 0
         label "After All"
+        size 0
         color "red"
     ]
     node [
         id 1049033
-        size 6
         label "Complot Bronswick"
+        size 6
         color "red"
     ]
     node [
         id 1360331
-        size 0
         label "Pink Fraud"
+        size 0
         color "red"
     ]
     node [
         id 967122
-        size 3
         label "Slowburner"
+        size 3
         color "red"
     ]
     node [
         id 4568577
-        size 0
         label "Wenches & Rogues"
+        size 0
         color "red"
     ]
     node [
         id 1311189
-        size 10
         label "Dirty Penny"
+        size 10
         color "red"
     ]
     node [
         id 2583289
-        size 0
         label "Arthur Lee and Love"
+        size 0
         color "red"
     ]
     node [
         id 1163736
-        size 1
         label "The Joneses"
+        size 1
         color "red"
     ]
     node [
         id 38308
-        size 2
         label "Deathlike Silence"
+        size 2
         color "red"
     ]
     node [
         id 377307
-        size 0
         label "Now, Now Every Children"
+        size 0
         color "red"
     ]
     node [
         id 3768796
-        size 0
         label "Robots Don't Cry"
+        size 0
         color "red"
     ]
     node [
         id 197085
-        size 2
         label "Scary Kids Scaring Kids"
+        size 2
         color "red"
     ]
     node [
         id 426462
-        size 2
         label "Carlo Ambrosio"
+        size 2
         color "red"
     ]
     node [
         id 2015312
-        size 0
         label "Lord Tracy"
+        size 0
         color "red"
     ]
     node [
         id 115170
-        size 0
         label "Steve Hunter"
+        size 0
         color "red"
     ]
     node [
         id 8745
-        size 8
         label "Dolly Parton"
+        size 8
         color "red"
     ]
     node [
         id 360934
-        size 0
         label "Thor"
+        size 0
         color "red"
     ]
     node [
         id 49640
-        size 4
         label "Operator"
+        size 4
         color "red"
     ]
     node [
         id 1163755
-        size 1
         label "Bajo Tierra"
+        size 1
         color "red"
     ]
     node [
         id 164333
-        size 3
         label "De Staat"
+        size 3
         color "red"
     ]
     node [
         id 2140268
-        size 0
         label "Blacklist Union"
+        size 0
         color "red"
     ]
     node [
         id 328179
-        size 19
         label "Rosetta"
+        size 19
         color "red"
     ]
     node [
         id 500
-        size 0
         label "The International Classic Rock Orchestra [Orchestra]"
+        size 0
         color "red"
     ]
     node [
         id 229879
-        size 0
         label "Scars On Broadway"
+        size 0
         color "red"
     ]
     node [
         id 600831
-        size 28
         label "God Is an Astronaut"
+        size 28
         color "red"
     ]
     node [
         id 164349
-        size 3
         label "Husky Rescue"
+        size 3
         color "red"
     ]
     node [
         id 33282
-        size 0
         label "The Zimmers"
+        size 0
         color "red"
     ]
     node [
         id 1245703
-        size 0
         label "Nash The Slash"
+        size 0
         color "red"
     ]
     node [
         id 410122
-        size 1
         label "Gretta"
+        size 1
         color "red"
     ]
     node [
         id 1917451
-        size 2
         label "Attalus"
+        size 2
         color "red"
     ]
     node [
         id 16908
-        size 11
         label "Arthur Brown"
+        size 11
         color "red"
     ]
     node [
         id 16911
-        size 3
         label "Cozy Powell"
+        size 3
         color "red"
     ]
     node [
         id 311824
-        size 0
         label "Tnk"
+        size 0
         color "red"
     ]
     node [
         id 16913
-        size 18
         label "The Alan Parsons Project"
+        size 18
         color "red"
     ]
     node [
         id 232195
-        size 4
         label "Gorky Park"
+        size 4
         color "red"
     ]
     node [
         id 590361
-        size 4
         label "Citizens!"
+        size 4
         color "red"
     ]
     node [
         id 311835
-        size 6
         label "Yüksek Sadakat"
+        size 6
         color "red"
     ]
     node [
         id 164383
-        size 3
         label "Sam The Sham & The Pharaohs"
+        size 3
         color "red"
     ]
     node [
         id 918048
-        size 9
         label "Cloudscape"
+        size 9
         color "red"
     ]
     node [
         id 164385
-        size 3
         label "The Rockin' Berries"
+        size 3
         color "red"
     ]
     node [
         id 3277349
-        size 3
         label "Picture Me Broken"
+        size 3
         color "red"
     ]
     node [
         id 410150
-        size 9
         label "The Poodles"
+        size 9
         color "red"
     ]
     node [
         id 98855
-        size 4
         label "Gazpacho"
+        size 4
         color "red"
     ]
     node [
         id 552
-        size 0
         label "Bill Withers"
+        size 0
         color "red"
     ]
     node [
         id 950825
-        size 0
         label "Олег Скрипка"
+        size 0
         color "red"
     ]
     node [
         id 868908
-        size 0
         label "Stille Volk"
+        size 0
         color "red"
     ]
     node [
         id 1933873
-        size 5
         label "Mojo Monkeys"
+        size 5
         color "red"
     ]
     node [
         id 4391474
-        size 0
         label "4 Апреля"
+        size 0
         color "red"
     ]
     node [
         id 16951
-        size 0
         label "Disco Ensemble"
+        size 0
         color "red"
     ]
     node [
         id 1770040
-        size 1
         label "60th Cycle"
+        size 1
         color "red"
     ]
     node [
         id 357812
-        size 4
         label "James Christian"
+        size 4
         color "red"
     ]
     node [
         id 56212
-        size 20
         label "Faith No More"
+        size 20
         color "red"
     ]
     node [
         id 33341
-        size 3
         label "Regina"
+        size 3
         color "red"
     ]
     node [
         id 319584
-        size 0
         label "Linda Gail Lewis & The Firebirds"
+        size 0
         color "red"
     ]
     node [
         id 508482
-        size 2
         label "Raaka-Aine"
+        size 2
         color "red"
     ]
     node [
         id 164422
-        size 0
         label "Here We Go Magic"
+        size 0
         color "red"
     ]
     node [
         id 574023
-        size 9
         label "Turmion Kätilöt"
+        size 9
         color "red"
     ]
     node [
         id 311885
-        size 1
         label "The Virtues"
+        size 1
         color "red"
     ]
     node [
         id 1868367
-        size 3
         label "The Grande Bois"
+        size 3
         color "red"
     ]
     node [
         id 721488
-        size 3
         label "Promenade"
+        size 3
         color "red"
     ]
     node [
         id 2146897
-        size 7
         label "Truth & Janey"
+        size 7
         color "red"
     ]
     node [
         id 2163283
-        size 0
         label "Thomas Lang & Conrad Schrenk"
+        size 0
         color "red"
     ]
     node [
         id 16983
-        size 0
         label "Paul Butterfield"
+        size 0
         color "red"
     ]
     node [
         id 835685
-        size 10
         label "Siggi Schwarz"
+        size 10
         color "red"
     ]
     node [
         id 612
-        size 0
         label "Michael McDonald"
+        size 0
         color "red"
     ]
     node [
         id 4735592
-        size 0
         label "Boneyard Dog"
+        size 0
         color "red"
     ]
     node [
         id 147323
-        size 0
         label "Jealousy Curve"
+        size 0
         color "red"
     ]
     node [
         id 1229425
-        size 2
         label "Trashcan Sinatras"
+        size 2
         color "red"
     ]
     node [
         id 2097780
-        size 1
         label "The Butties"
+        size 1
         color "red"
     ]
     node [
         id 1131128
-        size 7
         label "Пахом"
+        size 7
         color "red"
     ]
     node [
         id 635
-        size 7
         label "Dave Matthews Band"
+        size 7
         color "red"
     ]
     node [
         id 637
-        size 0
         label "Bonnie Raitt"
+        size 0
         color "red"
     ]
     node [
         id 1131134
-        size 8
         label "Voicians"
+        size 8
         color "red"
     ]
     node [
         id 672383
-        size 8
         label "Bronz"
+        size 8
         color "red"
     ]
     node [
         id 640
-        size 6
         label "Brian Wilson"
+        size 6
         color "red"
     ]
     node [
         id 641
-        size 27
         label "John Fogerty"
+        size 27
         color "red"
     ]
     node [
         id 642
-        size 4
         label "Dr. John"
+        size 4
         color "red"
     ]
     node [
         id 1911408
-        size 9
         label "At War"
+        size 9
         color "red"
     ]
     node [
         id 644
-        size 10
         label "Kanye West"
+        size 10
         color "red"
     ]
     node [
         id 672391
-        size 27
         label "Corbin King"
+        size 27
         color "red"
     ]
     node [
         id 869003
-        size 6
         label "Adversus"
+        size 6
         color "red"
     ]
     node [
         id 33421
-        size 37
         label "Love"
+        size 37
         color "red"
     ]
     node [
         id 158488
-        size 1
         label "The Boys Next Door"
+        size 1
         color "red"
     ]
     node [
         id 2015892
-        size 0
         label "Arc of the Aurora"
+        size 0
         color "red"
     ]
     node [
         id 661
-        size 17
         label "Lynyrd Skynyrd"
+        size 17
         color "red"
     ]
     node [
         id 662
-        size 6
         label "Lenny Kravitz"
+        size 6
         color "red"
     ]
     node [
         id 1360537
-        size 0
         label "Grave Robber"
+        size 0
         color "red"
     ]
     node [
         id 22
-        size 6
         label "Leonard Cohen"
+        size 6
         color "red"
     ]
     node [
         id 668
-        size 44
         label "Elton John"
+        size 44
         color "red"
     ]
     node [
         id 669
-        size 23
         label "J.J. Cale"
+        size 23
         color "red"
     ]
     node [
         id 164510
-        size 6
         label "Circa Survive"
+        size 6
         color "red"
     ]
     node [
         id 671
-        size 16
         label "Coldplay"
+        size 16
         color "red"
     ]
     node [
         id 672
-        size 93
         label "Eric Clapton"
+        size 93
         color "red"
     ]
     node [
         id 115361
-        size 11
         label "Fool's Garden"
+        size 11
         color "red"
     ]
     node [
         id 33443
-        size 2
         label "Reamonn"
+        size 2
         color "red"
     ]
     node [
         id 1311396
-        size 2
         label "Propeller"
+        size 2
         color "red"
     ]
     node [
         id 983718
-        size 2
         label "Phazm"
+        size 2
         color "red"
     ]
     node [
         id 115367
-        size 1
         label "Schweisser"
+        size 1
         color "red"
     ]
     node [
         id 680
-        size 28
         label "Sting"
+        size 28
         color "red"
     ]
     node [
         id 325063
-        size 3
         label "Adam Wakeman"
+        size 3
         color "red"
     ]
     node [
         id 28392
-        size 21
         label "Brand New"
+        size 21
         color "red"
     ]
     node [
         id 27421
-        size 21
         label "Alter Bridge"
+        size 21
         color "red"
     ]
     node [
         id 1770163
-        size 0
         label "Jimmy and the Mustangs"
+        size 0
         color "red"
     ]
     node [
         id 692
-        size 13
         label "Van Morrison"
+        size 13
         color "red"
     ]
     node [
         id 17083
-        size 2
         label "Jimmy Williams"
+        size 2
         color "red"
     ]
     node [
         id 82037
-        size 7
         label "Jimmie Vaughan"
+        size 7
         color "red"
     ]
     node [
         id 704
-        size 5
         label "John Mayer"
+        size 5
         color "red"
     ]
     node [
         id 1835713
-        size 0
         label "Connor Thuotte"
+        size 0
         color "red"
     ]
     node [
         id 2360007
-        size 0
         label "Skew Siskin"
+        size 0
         color "red"
     ]
     node [
         id 712
-        size 2
         label "Michael B. Bloomfield"
+        size 2
         color "red"
     ]
     node [
         id 1688265
-        size 0
         label "Highway 50"
+        size 0
         color "red"
     ]
     node [
         id 49866
-        size 5
         label "Tyrone Wells"
+        size 5
         color "red"
     ]
     node [
         id 3359438
-        size 0
         label "Danny Worsnop"
+        size 0
         color "red"
     ]
     node [
         id 754383
-        size 3
         label "Johnny Richter"
+        size 3
         color "red"
     ]
     node [
         id 335992
-        size 0
         label "Little Bee"
+        size 0
         color "red"
     ]
     node [
         id 158499
-        size 2
         label "Warrior Soul"
+        size 2
         color "red"
     ]
     node [
         id 836308
-        size 7
         label "Melody Fall"
+        size 7
         color "red"
     ]
     node [
         id 13775
-        size 0
         label "Steve Perry"
+        size 0
         color "red"
     ]
     node [
         id 33504
-        size 2
         label "Modena City Ramblers"
+        size 2
         color "red"
     ]
     node [
         id 308688
-        size 1
         label "Freddy Cannon"
+        size 1
         color "red"
     ]
     node [
         id 164578
-        size 2
         label "The Blasters"
+        size 2
         color "red"
     ]
     node [
         id 33507
-        size 0
         label "Negrita"
+        size 0
         color "red"
     ]
     node [
         id 740
-        size 20
         label "Sparks"
+        size 20
         color "red"
     ]
     node [
         id 344805
-        size 3
         label "Tracer"
+        size 3
         color "red"
     ]
     node [
         id 30162
-        size 7
         label "Chiodos"
+        size 7
         color "red"
     ]
     node [
         id 312049
-        size 10
         label "The Vibrants"
+        size 10
         color "red"
     ]
     node [
         id 33522
-        size 5
         label "Johnossi"
+        size 5
         color "red"
     ]
     node [
         id 75313
-        size 0
         label "Gamma"
+        size 0
         color "red"
     ]
     node [
         id 758
-        size 6
         label "Albert Collins"
+        size 6
         color "red"
     ]
     node [
         id 852728
-        size 0
         label "The Experimental Tropic Blues Band"
+        size 0
         color "red"
     ]
     node [
         id 115451
-        size 12
         label "Middle Of The Road"
+        size 12
         color "red"
     ]
     node [
         id 764
-        size 61
         label "Little Richard"
+        size 61
         color "red"
     ]
     node [
         id 393981
-        size 3
         label "Bakkushan"
+        size 3
         color "red"
     ]
     node [
         id 770
-        size 29
         label "Eels"
+        size 29
         color "red"
     ]
     node [
         id 1360645
-        size 8
         label "U-Melt"
+        size 8
         color "red"
     ]
     node [
         id 1164038
-        size 7
         label "The Surf Teens"
+        size 7
         color "red"
     ]
     node [
         id 2097927
-        size 1
         label "Rob Machado"
+        size 1
         color "red"
     ]
     node [
         id 154508
-        size 3
         label "Taking Dawn"
+        size 3
         color "red"
     ]
     node [
         id 3326731
-        size 7
         label "Emperor"
+        size 7
         color "red"
     ]
     node [
         id 551725
-        size 15
         label "Lonewolf"
+        size 15
         color "red"
     ]
     node [
         id 1946602
-        size 1
         label "Samavayo"
+        size 1
         color "red"
     ]
     node [
         id 1344275
-        size 0
         label "The Getaway Plan"
+        size 0
         color "red"
     ]
     node [
         id 1934102
-        size 2
         label "Jason Manns"
+        size 2
         color "red"
     ]
     node [
         id 49945
-        size 7
         label "Sixpence None The Richer"
+        size 7
         color "red"
     ]
     node [
         id 798
-        size 22
         label "Creedence Clearwater Revival"
+        size 22
         color "red"
     ]
     node [
         id 800
-        size 1
         label "Dale Hawkins"
+        size 1
         color "red"
     ]
     node [
         id 410403
-        size 0
         label "Dale & Grace"
+        size 0
         color "red"
     ]
     node [
         id 262948
-        size 3
         label "Duman"
+        size 3
         color "red"
     ]
     node [
         id 426789
-        size 1
         label "Street Sweeper Social Club"
+        size 1
         color "red"
     ]
     node [
         id 869158
-        size 2
         label "Dana Berger"
+        size 2
         color "red"
     ]
     node [
         id 410408
-        size 0
         label "#1 Beatles Cover Band"
+        size 0
         color "red"
     ]
     node [
         id 1772338
-        size 0
         label "Endoxi"
+        size 0
         color "red"
     ]
     node [
         id 1745836
-        size 1
         label "DW. Dunphy"
+        size 1
         color "red"
     ]
     node [
         id 11059
-        size 0
         label "Joe Vitale"
+        size 0
         color "red"
     ]
     node [
         id 197430
-        size 0
         label "James White And The Blacks"
+        size 0
         color "red"
     ]
     node [
         id 672567
-        size 25
         label "Persuader"
+        size 25
         color "red"
     ]
     node [
         id 84788
-        size 3
         label "Gong"
+        size 3
         color "red"
     ]
     node [
         id 82753
-        size 1
         label "Dada"
+        size 1
         color "red"
     ]
     node [
         id 426819
-        size 3
         label "Sweethead"
+        size 3
         color "red"
     ]
     node [
         id 392289
-        size 2
         label "Kissin' Dynamite"
+        size 2
         color "red"
     ]
     node [
         id 426826
-        size 8
         label "Chickenfoot"
+        size 8
         color "red"
     ]
     node [
         id 426827
-        size 27
         label "Royal Hunt"
+        size 27
         color "red"
     ]
     node [
         id 99148
-        size 1
         label "Jon McLaughlin"
+        size 1
         color "red"
     ]
     node [
         id 794765
-        size 0
         label "Pop Levi"
+        size 0
         color "red"
     ]
     node [
         id 426833
-        size 4
         label "H.E.A.T"
+        size 4
         color "red"
     ]
     node [
         id 4064084
-        size 0
         label "Breathe Atlantis"
+        size 0
         color "red"
     ]
     node [
         id 426837
-        size 0
         label "Space"
+        size 0
         color "red"
     ]
     node [
         id 1196891
-        size 9
         label "Blood Red Throne"
+        size 9
         color "red"
     ]
     node [
         id 17245
-        size 1
         label "Jim Steinman"
+        size 1
         color "red"
     ]
     node [
         id 17250
-        size 9
         label "Billy Ocean"
+        size 9
         color "red"
     ]
     node [
         id 99171
-        size 1
         label "Cherry Ghost"
+        size 1
         color "red"
     ]
     node [
         id 50020
-        size 7
         label "Jeremy Camp"
+        size 7
         color "red"
     ]
     node [
         id 639846
-        size 9
         label "Aqua Velvets"
+        size 9
         color "red"
     ]
     node [
         id 934761
-        size 2
         label "Strange Advance"
+        size 2
         color "red"
     ]
     node [
         id 185933
-        size 40
         label "The Jeff Healey Band"
+        size 40
         color "red"
     ]
     node [
         id 1428285
-        size 1
         label "Skinny Lister"
+        size 1
         color "red"
     ]
     node [
         id 1721201
-        size 0
         label "The Wans"
+        size 0
         color "red"
     ]
     node [
         id 3399827
-        size 0
         label "Cloves"
+        size 0
         color "red"
     ]
     node [
         id 426868
-        size 2
         label "Truckfighters"
+        size 2
         color "red"
     ]
     node [
         id 27454
-        size 0
         label "The Housemartins"
+        size 0
         color "red"
     ]
     node [
         id 2933624
-        size 0
         label "Haydut"
+        size 0
         color "red"
     ]
     node [
         id 164729
-        size 54
         label "Of Mice & Men"
+        size 54
         color "red"
     ]
     node [
         id 426874
-        size 4
         label "Acid Drinkers"
+        size 4
         color "red"
     ]
     node [
         id 297791
-        size 1
         label "Avraham Tal"
+        size 1
         color "red"
     ]
     node [
         id 590716
-        size 5
         label "A Loss For Words"
+        size 5
         color "red"
     ]
     node [
         id 1005034
-        size 2
         label "Wrathchild"
+        size 2
         color "red"
     ]
     node [
         id 50049
-        size 9
         label "Bread"
+        size 9
         color "red"
     ]
     node [
         id 899
-        size 6
         label "Barry Alan Gibb"
+        size 6
         color "red"
     ]
     node [
         id 164740
-        size 9
         label "The Maine"
+        size 9
         color "red"
     ]
     node [
         id 76609
-        size 1
         label "Evaline"
+        size 1
         color "red"
     ]
     node [
         id 623499
-        size 0
         label "Valhalla"
+        size 0
         color "red"
     ]
     node [
         id 639885
-        size 2
         label "Lighthouse"
+        size 2
         color "red"
     ]
     node [
         id 2179983
-        size 1
         label "Mississippi Bones"
+        size 1
         color "red"
     ]
     node [
         id 913
-        size 7
         label "Tommy Roe"
+        size 7
         color "red"
     ]
     node [
         id 3031955
-        size 4
         label "The Shrine"
+        size 4
         color "red"
     ]
     node [
         id 920
-        size 10
         label "Marty Wilde"
+        size 10
         color "red"
     ]
     node [
         id 1737625
-        size 2
         label "The El Caminos"
+        size 2
         color "red"
     ]
     node [
         id 115610
-        size 3
         label "Econoline Crush"
+        size 3
         color "red"
     ]
     node [
         id 705436
-        size 0
         label "Fallen"
+        size 0
         color "red"
     ]
     node [
         id 2081698
-        size 4
         label "Vampire Beach Babes"
+        size 4
         color "red"
     ]
     node [
         id 2624326
-        size 2
         label "After Crying"
+        size 2
         color "red"
     ]
     node [
         id 2605995
-        size 29
         label "Malrun"
+        size 29
         color "red"
     ]
     node [
         id 557996
-        size 0
         label "MystTerra"
+        size 0
         color "red"
     ]
     node [
         id 841838
-        size 2
         label "Kiemsa"
+        size 2
         color "red"
     ]
     node [
         id 1360814
-        size 1
         label "Hephystus"
+        size 1
         color "red"
     ]
     node [
         id 246705
-        size 11
         label "Karnivool"
+        size 11
         color "red"
     ]
     node [
         id 948
-        size 22
         label "Tori Amos"
+        size 22
         color "red"
     ]
     node [
         id 450718
-        size 1
         label "If"
+        size 1
         color "red"
     ]
     node [
         id 2638774
-        size 7
         label "Pilot"
+        size 7
         color "red"
     ]
     node [
         id 508856
-        size 3
         label "Janah"
+        size 3
         color "red"
     ]
     node [
         id 1639357
-        size 6
         label "Hundredth"
+        size 6
         color "red"
     ]
     node [
         id 1934278
-        size 2
         label "Syn City Cowboys"
+        size 2
         color "red"
     ]
     node [
         id 3916744
-        size 0
         label "Sherlock Blonde"
+        size 0
         color "red"
     ]
     node [
         id 4369228
-        size 0
         label "Argentum"
+        size 0
         color "red"
     ]
     node [
         id 970
-        size 15
         label "The Supremes"
+        size 15
         color "red"
     ]
     node [
         id 3339767
-        size 0
         label "Linked Horizon"
+        size 0
         color "red"
     ]
     node [
         id 348511
-        size 1
         label "American Dog"
+        size 1
         color "red"
     ]
     node [
         id 3261394
-        size 0
         label "Charred Walls of the Damned"
+        size 0
         color "red"
     ]
     node [
         id 147619
-        size 3
         label "JASON BECKER"
+        size 3
         color "red"
     ]
     node [
         id 17364
-        size 1
         label "Spiderbait"
+        size 1
         color "red"
     ]
     node [
         id 297806
-        size 1
         label "Hatikva 6"
+        size 1
         color "red"
     ]
     node [
         id 985
-        size 3
         label "Narada Michael Walden"
+        size 3
         color "red"
     ]
     node [
         id 2851806
-        size 2
         label "Madam Adam"
+        size 2
         color "red"
     ]
     node [
         id 303269
-        size 0
         label "The Plastic Ono Band"
+        size 0
         color "red"
     ]
     node [
         id 115681
-        size 5
         label "The Go-Go's"
+        size 5
         color "red"
     ]
     node [
         id 66534
-        size 3
         label "Fair Warning"
+        size 3
         color "red"
     ]
     node [
         id 50152
-        size 26
         label "Chicago"
+        size 26
         color "red"
     ]
     node [
         id 80777
-        size 4
         label "Dixie Witch"
+        size 4
         color "red"
     ]
     node [
         id 125779
-        size 3
         label "Foxy Shazam"
+        size 3
         color "red"
     ]
     node [
         id 115701
-        size 1
         label "Frankie Miller"
+        size 1
         color "red"
     ]
     node [
         id 1180662
-        size 2
         label "saintkarla"
+        size 2
         color "red"
     ]
     node [
         id 2900983
-        size 8
         label "coldrain"
+        size 8
         color "red"
     ]
     node [
         id 1017
-        size 11
         label "The Isley Brothers"
+        size 11
         color "red"
     ]
     node [
         id 82939
-        size 26
         label "Pink Floyd"
+        size 26
         color "red"
     ]
     node [
         id 197631
-        size 0
         label "Flux"
+        size 0
         color "red"
     ]
     node [
         id 295940
-        size 5
         label "Showaddywaddy"
+        size 5
         color "red"
     ]
     node [
         id 50181
-        size 10
         label "The Lively Ones"
+        size 10
         color "red"
     ]
     node [
         id 1180679
-        size 5
         label "Seven Story Drop"
+        size 5
         color "red"
     ]
     node [
         id 82961
-        size 9
         label "April Wine"
+        size 9
         color "red"
     ]
     node [
         id 246803
-        size 6
         label "Eddie Bond"
+        size 6
         color "red"
     ]
     node [
         id 84825
-        size 1
         label "Jerry Nolan"
+        size 1
         color "red"
     ]
     node [
         id 82972
-        size 7
         label "George Thorogood"
+        size 7
         color "red"
     ]
     node [
         id 87871
-        size 29
         label "Marty Friedman"
+        size 29
         color "red"
     ]
     node [
         id 82978
-        size 27
         label "Heart"
+        size 27
         color "red"
     ]
     node [
         id 82990
-        size 0
         label "Tim Staffell"
+        size 0
         color "red"
     ]
     node [
         id 2032687
-        size 0
         label "Sunshine & Bullets"
+        size 0
         color "red"
     ]
     node [
         id 2583286
-        size 0
         label "Modern Lovers"
+        size 0
         color "red"
     ]
     node [
         id 17462
-        size 4
         label "Stealers Wheel"
+        size 4
         color "red"
     ]
     node [
         id 4726964
-        size 0
         label "Greasy Tree"
+        size 0
         color "red"
     ]
     node [
         id 42590
-        size 1
         label "Скорая помощь"
+        size 1
         color "red"
     ]
     node [
         id 1590335
-        size 0
         label "Goodnight Radio"
+        size 0
         color "red"
     ]
     node [
         id 50243
-        size 2
         label "Leslie"
+        size 2
         color "red"
     ]
     node [
         id 574532
-        size 5
         label "Kultasiipi"
+        size 5
         color "red"
     ]
     node [
         id 1164359
-        size 0
         label "Solvents"
+        size 0
         color "red"
     ]
     node [
         id 1623112
-        size 0
         label "Rags & Ribbons"
+        size 0
         color "red"
     ]
     node [
         id 2081866
-        size 1
         label "The Night Flight Orchestra"
+        size 1
         color "red"
     ]
     node [
         id 345163
-        size 0
         label "The American Analog Set"
+        size 0
         color "red"
     ]
     node [
         id 2262093
-        size 11
         label "Canterbury"
+        size 11
         color "red"
     ]
     node [
         id 640078
-        size 12
         label "Judas Iscariot"
+        size 12
         color "red"
     ]
     node [
         id 1819728
-        size 0
         label "Oh No Not Stereo"
+        size 0
         color "red"
     ]
     node [
         id 1111
-        size 26
         label "U2"
+        size 26
         color "red"
     ]
     node [
         id 84836
-        size 7
         label "T'Pau"
+        size 7
         color "red"
     ]
     node [
         id 83039
-        size 5
         label "Sigue Sigue Sputnik"
+        size 5
         color "red"
     ]
     node [
         id 83043
-        size 15
         label "Hot Chocolate"
+        size 15
         color "red"
     ]
     node [
         id 1311849
-        size 6
         label "Magnatune Compilation"
+        size 6
         color "red"
     ]
     node [
         id 50284
-        size 7
         label "The Blues Brothers"
+        size 7
         color "red"
     ]
     node [
         id 2990269
-        size 0
         label "The Tribute Beat"
+        size 0
         color "red"
     ]
     node [
         id 115825
-        size 12
         label "Lofofora"
+        size 12
         color "red"
     ]
     node [
         id 83058
-        size 4
         label "Billy Squier"
+        size 4
         color "red"
     ]
     node [
         id 296053
-        size 4
         label "Funkadelic"
+        size 4
         color "red"
     ]
     node [
         id 17527
-        size 9
         label "Squeeze"
+        size 9
         color "red"
     ]
     node [
         id 3998841
-        size 6
         label "Babymetal"
+        size 6
         color "red"
     ]
     node [
         id 590973
-        size 0
         label "David Koller"
+        size 0
         color "red"
     ]
     node [
         id 2000002
-        size 1
         label "The Hourglass"
+        size 1
         color "red"
     ]
     node [
         id 230533
-        size 1
         label "Crossfire"
+        size 1
         color "red"
     ]
     node [
         id 1737862
-        size 3
         label "The Moxy"
+        size 3
         color "red"
     ]
     node [
         id 17545
-        size 11
         label "Stroke 9"
+        size 11
         color "red"
     ]
     node [
         id 2072771
-        size 1
         label "Changing Modes"
+        size 1
         color "red"
     ]
     node [
         id 139460
-        size 0
         label "Reanimator"
+        size 0
         color "red"
     ]
     node [
         id 115866
-        size 3
         label "Gravity Kills"
+        size 3
         color "red"
     ]
     node [
         id 833050
-        size 21
         label "Civil War"
+        size 21
         color "red"
     ]
     node [
         id 2933920
-        size 19
         label "Those Who Fear"
+        size 19
         color "red"
     ]
     node [
         id 1950884
-        size 0
         label "Benjamin Wagner"
+        size 0
         color "red"
     ]
     node [
         id 3212453
-        size 0
         label "Cane Hill"
+        size 0
         color "red"
     ]
     node [
         id 17578
-        size 0
         label "Dave Lewis"
+        size 0
         color "red"
     ]
     node [
         id 50352
-        size 1
         label "Lonnie Mack"
+        size 1
         color "red"
     ]
     node [
         id 99505
-        size 38
         label "Sick Puppies"
+        size 38
         color "red"
     ]
     node [
         id 62424
-        size 4
         label "Blackberry Smoke"
+        size 4
         color "red"
     ]
     node [
         id 296116
-        size 2
         label "Southern Cross"
+        size 2
         color "red"
     ]
     node [
         id 146797
-        size 2
         label "Eight Legs"
+        size 2
         color "red"
     ]
     node [
         id 83128
-        size 2
         label "Crowded House"
+        size 2
         color "red"
     ]
     node [
         id 83131
-        size 11
         label "Hawkwind"
+        size 11
         color "red"
     ]
     node [
         id 1082556
-        size 12
         label "Gynger Lynn"
+        size 12
         color "red"
     ]
     node [
         id 230590
-        size 6
         label "Violent Soho"
+        size 6
         color "red"
     ]
     node [
         id 83136
-        size 2
         label "Nik Turner"
+        size 2
         color "red"
     ]
     node [
         id 83137
-        size 5
         label "New Model Army"
+        size 5
         color "red"
     ]
     node [
         id 639179
-        size 1
         label "Rick Berlin"
+        size 1
         color "red"
     ]
     node [
         id 1158006
-        size 6
         label "Drist"
+        size 6
         color "red"
     ]
     node [
         id 705735
-        size 0
         label "B-Back"
+        size 0
         color "red"
     ]
     node [
         id 165065
-        size 0
         label "Warpath"
+        size 0
         color "red"
     ]
     node [
         id 83147
-        size 1
         label "Steve Harley & Cockney Rebel"
+        size 1
         color "red"
     ]
     node [
         id 296140
-        size 2
         label "Blackfoot Sue"
+        size 2
         color "red"
     ]
     node [
         id 226850
-        size 12
         label "SafetySuit"
+        size 12
         color "red"
     ]
     node [
         id 83150
-        size 34
         label "Wings"
+        size 34
         color "red"
     ]
     node [
         id 345296
-        size 7
         label "Rockets"
+        size 7
         color "red"
     ]
     node [
         id 83153
-        size 73
         label "Whitesnake"
+        size 73
         color "red"
     ]
     node [
         id 2606290
-        size 4
         label "Fort Hope"
+        size 4
         color "red"
     ]
     node [
         id 509140
-        size 7
         label "Untoten"
+        size 7
         color "red"
     ]
     node [
         id 296149
-        size 15
         label "The Glitter Band"
+        size 15
         color "red"
     ]
     node [
         id 3048662
-        size 3
         label "Lord Vicar"
+        size 3
         color "red"
     ]
     node [
         id 574679
-        size 1
         label "People Get Ready"
+        size 1
         color "red"
     ]
     node [
         id 1953164
-        size 13
         label "Fivefold"
+        size 13
         color "red"
     ]
     node [
         id 935137
-        size 3
         label "DANY LOGAN"
+        size 3
         color "red"
     ]
     node [
         id 935139
-        size 1
         label "Vic Laurens"
+        size 1
         color "red"
     ]
     node [
         id 83172
-        size 37
         label "Great White"
+        size 37
         color "red"
     ]
     node [
         id 509157
-        size 3
         label "Frozen Plasma"
+        size 3
         color "red"
     ]
     node [
         id 214247
-        size 1
         label "Persephone's Bees"
+        size 1
         color "red"
     ]
     node [
         id 410861
-        size 46
         label "Union of Sound"
+        size 46
         color "red"
     ]
     node [
         id 296174
-        size 8
         label "Modern English"
+        size 8
         color "red"
     ]
     node [
         id 591088
-        size 0
         label "Jerusalem"
+        size 0
         color "red"
     ]
     node [
         id 1265
-        size 28
         label "Dalida"
+        size 28
         color "red"
     ]
     node [
         id 38441
-        size 30
         label "The Veer Union"
+        size 30
         color "red"
     ]
     node [
         id 2880080
-        size 0
         label "Avers"
+        size 0
         color "red"
     ]
     node [
         id 509177
-        size 2
         label "Heimataerde"
+        size 2
         color "red"
     ]
     node [
         id 34042
-        size 3
         label "Chinaski"
+        size 3
         color "red"
     ]
     node [
         id 3247791
-        size 2
         label "Vega"
+        size 2
         color "red"
     ]
     node [
         id 17664
-        size 19
         label "Alice Cooper"
+        size 19
         color "red"
     ]
     node [
         id 361732
-        size 8
         label "The Machine"
+        size 8
         color "red"
     ]
     node [
         id 3998983
-        size 3
         label "The Scorpions"
+        size 3
         color "red"
     ]
     node [
         id 722189
-        size 1
         label "Ivyrise"
+        size 1
         color "red"
     ]
     node [
         id 22061
-        size 12
         label "Elliott Smith"
+        size 12
         color "red"
     ]
     node [
         id 361744
-        size 10
         label "The Joy Formidable"
+        size 10
         color "red"
     ]
     node [
         id 17681
-        size 3
         label "Al Stewart"
+        size 3
         color "red"
     ]
     node [
         id 509202
-        size 6
         label "Hämatom"
+        size 6
         color "red"
     ]
     node [
         id 50451
-        size 5
         label "Saigon Kick"
+        size 5
         color "red"
     ]
     node [
         id 509205
-        size 14
         label "Human Zoo"
+        size 14
         color "red"
     ]
     node [
         id 361760
-        size 1
         label "Will Hoge"
+        size 1
         color "red"
     ]
     node [
         id 443683
-        size 0
         label "Maccabees"
+        size 0
         color "red"
     ]
     node [
         id 509225
-        size 0
         label "Yendri"
+        size 0
         color "red"
     ]
     node [
         id 50477
-        size 1
         label "Sonny & Cher"
+        size 1
         color "red"
     ]
     node [
         id 1327
-        size 1
         label "Donny Hathaway"
+        size 1
         color "red"
     ]
     node [
         id 2262322
-        size 1
         label "Illegal Aliens/Marco Minnemann"
+        size 1
         color "red"
     ]
     node [
         id 1639731
-        size 3
         label "Lonely The Brave"
+        size 3
         color "red"
     ]
     node [
         id 50486
-        size 3
         label "Spacehog"
+        size 3
         color "red"
     ]
     node [
         id 279863
-        size 3
         label "Atom Smash"
+        size 3
         color "red"
     ]
     node [
         id 34108
-        size 5
         label "Bret Michaels"
+        size 5
         color "red"
     ]
     node [
         id 34110
-        size 19
         label "Frank Zappa"
+        size 19
         color "red"
     ]
     node [
         id 87605
-        size 0
         label "Carpark North"
+        size 0
         color "red"
     ]
     node [
         id 2180416
-        size 14
         label "Whispered"
+        size 14
         color "red"
     ]
     node [
         id 50497
-        size 9
         label "Better Than Ezra"
+        size 9
         color "red"
     ]
     node [
         id 1180994
-        size 11
         label "Texas Hippie Coalition"
+        size 11
         color "red"
     ]
     node [
         id 574787
-        size 0
         label "My Funeral"
+        size 0
         color "red"
     ]
     node [
         id 804164
-        size 10
         label "Maxxwell"
+        size 10
         color "red"
     ]
     node [
         id 41185
-        size 10
         label "Смех"
+        size 10
         color "red"
     ]
     node [
         id 509258
-        size 17
         label "State Of Rock"
+        size 17
         color "red"
     ]
     node [
         id 427340
-        size 1
         label "Aylin Prandi"
+        size 1
         color "red"
     ]
     node [
         id 66894
-        size 5
         label "Broadway"
+        size 5
         color "red"
     ]
     node [
         id 361807
-        size 5
         label "Frankenbok"
+        size 5
         color "red"
     ]
     node [
         id 509264
-        size 2
         label "Shylock"
+        size 2
         color "red"
     ]
     node [
         id 17746
-        size 11
         label "Connie Francis"
+        size 11
         color "red"
     ]
     node [
         id 361811
-        size 1
         label "Thornley"
+        size 1
         color "red"
     ]
     node [
         id 228637
-        size 3
         label "Campfire Girls"
+        size 3
         color "red"
     ]
     node [
         id 1475926
-        size 5
         label "Funhouse"
+        size 5
         color "red"
     ]
     node [
         id 247127
-        size 6
         label "Chapterhouse"
+        size 6
         color "red"
     ]
     node [
         id 1181016
-        size 1
         label "Grand Mal"
+        size 1
         color "red"
     ]
     node [
         id 673114
-        size 7
         label "Rob Johnson"
+        size 7
         color "red"
     ]
     node [
         id 165222
-        size 6
         label "Nevermore"
+        size 6
         color "red"
     ]
     node [
         id 1738087
-        size 8
         label "Vindicator"
+        size 8
         color "red"
     ]
     node [
         id 165225
-        size 3
         label "White Rabbits"
+        size 3
         color "red"
     ]
     node [
         id 1229031
-        size 6
         label "NFD"
+        size 6
         color "red"
     ]
     node [
         id 1377645
-        size 0
         label "Animal Alpha"
+        size 0
         color "red"
     ]
     node [
         id 36599
-        size 3
         label "Darin"
+        size 3
         color "red"
     ]
     node [
         id 1983857
-        size 3
         label "The Man from Ravcon"
+        size 3
         color "red"
     ]
     node [
         id 968051
-        size 1
         label "Kevin K"
+        size 1
         color "red"
     ]
     node [
         id 312692
-        size 6
         label "The Murder of My Sweet"
+        size 6
         color "red"
     ]
     node [
         id 554558
-        size 1
         label "Judgement"
+        size 1
         color "red"
     ]
     node [
         id 509303
-        size 0
         label "Aranda"
+        size 0
         color "red"
     ]
     node [
         id 71231
-        size 4
         label "Animosity"
+        size 4
         color "red"
     ]
     node [
         id 411004
-        size 12
         label "Larry Donn"
+        size 12
         color "red"
     ]
     node [
         id 1415
-        size 32
         label "Keith Richards"
+        size 32
         color "red"
     ]
     node [
         id 361864
-        size 0
         label "Wednesday 13's Frankenstein Drag Queens From Planet 13"
+        size 0
         color "red"
     ]
     node [
         id 2367724
-        size 1
         label "Gugun Power Trio"
+        size 1
         color "red"
     ]
     node [
         id 325186
-        size 10
         label "Jaded Heart"
+        size 10
         color "red"
     ]
     node [
         id 41197
-        size 10
         label "Червона рутта"
+        size 10
         color "red"
     ]
     node [
         id 1424
-        size 38
         label "Mick Jagger"
+        size 38
         color "red"
     ]
     node [
         id 188654
-        size 1
         label "The Fashion"
+        size 1
         color "red"
     ]
     node [
         id 3048854
-        size 1
         label "Eric Fish"
+        size 1
         color "red"
     ]
     node [
         id 722327
-        size 0
         label "Storm Corrosion"
+        size 0
         color "red"
     ]
     node [
         id 50586
-        size 17
         label "America"
+        size 17
         color "red"
     ]
     node [
         id 2655645
-        size 0
         label "Other Noises"
+        size 0
         color "red"
     ]
     node [
         id 1442
-        size 54
         label "Doro Pesch"
+        size 54
         color "red"
     ]
     node [
         id 4816296
-        size 0
         label "Him"
+        size 0
         color "red"
     ]
     node [
         id 1557925
-        size 1
         label "Alusa Fallax"
+        size 1
         color "red"
     ]
     node [
         id 1164711
-        size 1
         label "Points North"
+        size 1
         color "red"
     ]
     node [
         id 1223580
-        size 0
         label "Stinking Lizaveta"
+        size 0
         color "red"
     ]
     node [
         id 17834
-        size 1
         label "Alex Chilton"
+        size 1
         color "red"
     ]
     node [
         id 1590701
-        size 0
         label "Violette"
+        size 0
         color "red"
     ]
     node [
         id 591279
-        size 21
         label "Epysode"
+        size 21
         color "red"
     ]
     node [
         id 34224
-        size 3
         label "Vasco Rossi"
+        size 3
         color "red"
     ]
     node [
         id 4965809
-        size 0
         label "Ольга Арефьева, Пётр Акимов"
+        size 0
         color "red"
     ]
     node [
         id 1461
-        size 8
         label "Lloyd Price"
+        size 8
         color "red"
     ]
     node [
         id 1574330
-        size 5
         label "Sanguine Hum"
+        size 5
         color "red"
     ]
     node [
         id 17855
-        size 26
         label "Patti Smith"
+        size 26
         color "red"
     ]
     node [
         id 17856
-        size 8
         label "Screamin' Jay Hawkins"
+        size 8
         color "red"
     ]
     node [
         id 1474
-        size 6
         label "Larry Williams"
+        size 6
         color "red"
     ]
     node [
         id 1328580
-        size 1
         label "Jerry Joseph & The Jackmormons"
+        size 1
         color "red"
     ]
     node [
         id 17871
-        size 9
         label "Jeff Buckley"
+        size 9
         color "red"
     ]
     node [
         id 329168
-        size 6
         label "Vision Divine"
+        size 6
         color "red"
     ]
     node [
         id 1490
-        size 7
         label "Link Wray"
+        size 7
         color "red"
     ]
     node [
         id 17875
-        size 5
         label "Thom Yorke"
+        size 5
         color "red"
     ]
     node [
         id 411092
-        size 1
         label "Strangeways"
+        size 1
         color "red"
     ]
     node [
         id 853465
-        size 27
         label "Tame Impala"
+        size 27
         color "red"
     ]
     node [
         id 50653
-        size 26
         label "Steve Vai"
+        size 26
         color "red"
     ]
     node [
         id 68568
-        size 3
         label "The Belmonts"
+        size 3
         color "red"
     ]
     node [
         id 99823
-        size 0
         label "Tin Machine"
+        size 0
         color "red"
     ]
     node [
         id 312816
-        size 2
         label "Machines"
+        size 2
         color "red"
     ]
     node [
         id 83441
-        size 8
         label "Little River Band"
+        size 8
         color "red"
     ]
     node [
         id 50675
-        size 2
         label "Houston"
+        size 2
         color "red"
     ]
     node [
         id 33022
-        size 0
         label "Travis"
+        size 0
         color "red"
     ]
     node [
         id 132600
-        size 0
         label "JUDE"
+        size 0
         color "red"
     ]
     node [
         id 50681
-        size 6
         label "J. Geils Band"
+        size 6
         color "red"
     ]
     node [
         id 296443
-        size 3
         label "Tsar"
+        size 3
         color "red"
     ]
     node [
         id 296445
-        size 4
         label "The Blue Van"
+        size 4
         color "red"
     ]
     node [
         id 783957
-        size 0
         label "Kenta Koie"
+        size 0
         color "red"
     ]
     node [
         id 1148416
-        size 1
         label "Fourth Estate"
+        size 1
         color "red"
     ]
     node [
         id 83457
-        size 9
         label "Eloy"
+        size 9
         color "red"
     ]
     node [
         id 2819589
-        size 10
         label "Beartooth"
+        size 10
         color "red"
     ]
     node [
         id 591369
-        size 7
         label "Nachtblut"
+        size 7
         color "red"
     ]
     node [
         id 1033738
-        size 4
         label "The Stereotypes"
+        size 4
         color "red"
     ]
     node [
         id 411149
-        size 1
         label "Johnny Come Lately"
+        size 1
         color "red"
     ]
     node [
         id 453416
-        size 5
         label "Still Corners"
+        size 5
         color "red"
     ]
     node [
         id 1552
-        size 9
         label "The Wailers"
+        size 9
         color "red"
     ]
     node [
         id 2143832
-        size 1
         label "Kingstreet"
+        size 1
         color "red"
     ]
     node [
         id 312851
-        size 4
         label "Green Carnation"
+        size 4
         color "red"
     ]
     node [
         id 312852
-        size 16
         label "Tsjuder"
+        size 16
         color "red"
     ]
     node [
         id 158638
-        size 11
         label "Sent By Ravens"
+        size 11
         color "red"
     ]
     node [
         id 247323
-        size 24
         label "Amberian Dawn"
+        size 24
         color "red"
     ]
     node [
         id 3294749
-        size 0
         label "Valentine"
+        size 0
         color "red"
     ]
     node [
         id 1566
-        size 0
         label "Bob Crewe"
+        size 0
         color "red"
     ]
     node [
         id 525855
-        size 5
         label "Les Discrets"
+        size 5
         color "red"
     ]
     node [
         id 329248
-        size 2
         label "Circle"
+        size 2
         color "red"
     ]
     node [
         id 296482
-        size 9
         label "Santa Cruz"
+        size 9
         color "red"
     ]
     node [
         id 17955
-        size 14
         label "Dave Grohl"
+        size 14
         color "red"
     ]
     node [
         id 17956
-        size 8
         label "Kurt Cobain"
+        size 8
         color "red"
     ]
     node [
         id 165413
-        size 0
         label "Lostboy! AKA Jim Kerr"
+        size 0
         color "red"
     ]
     node [
         id 17958
-        size 2
         label "Krist Novoselic"
+        size 2
         color "red"
     ]
     node [
         id 427559
-        size 2
         label "Orange Goblin"
+        size 2
         color "red"
     ]
     node [
         id 1918512
-        size 15
         label "Funny Money"
+        size 15
         color "red"
     ]
     node [
         id 17976
-        size 2
         label "Melissa Etheridge"
+        size 2
         color "red"
     ]
     node [
         id 17977
-        size 18
         label "Tom Petty"
+        size 18
         color "red"
     ]
     node [
         id 739696
-        size 0
         label "Hell Or Highwater"
+        size 0
         color "red"
     ]
     node [
         id 267872
-        size 0
         label "Ronnie Spector"
+        size 0
         color "red"
     ]
     node [
         id 132080
-        size 3
         label "Bed"
+        size 3
         color "red"
     ]
     node [
         id 34374
-        size 2
         label "Martina McBride"
+        size 2
         color "red"
     ]
     node [
         id 122871
-        size 8
         label "Royal Bliss"
+        size 8
         color "red"
     ]
     node [
         id 22114
-        size 0
         label "Bobby Charles"
+        size 0
         color "red"
     ]
     node [
         id 3000
-        size 7
         label "Jackson Browne"
+        size 7
         color "red"
     ]
     node [
         id 1787475
-        size 0
         label "Kevin M. Thomas"
+        size 0
         color "red"
     ]
     node [
         id 1738330
-        size 1
         label "Waterparks"
+        size 1
         color "red"
     ]
     node [
         id 1565196
-        size 2
         label "Tadpoles"
+        size 2
         color "red"
     ]
     node [
         id 150458
-        size 0
         label "Monte Montgomery"
+        size 0
         color "red"
     ]
     node [
         id 2641680
-        size 0
         label "Арт-Клиника"
+        size 0
         color "red"
     ]
     node [
         id 231007
-        size 0
         label "Saving Jane"
+        size 0
         color "red"
     ]
     node [
         id 1632
-        size 27
         label "Tina Turner"
+        size 27
         color "red"
     ]
     node [
         id 2262625
-        size 5
         label "Ongkara"
+        size 5
         color "red"
     ]
     node [
         id 292759
-        size 1
         label "Raise Hell"
+        size 1
         color "red"
     ]
     node [
         id 47911
-        size 0
         label "Twink"
+        size 0
         color "red"
     ]
     node [
         id 1164902
-        size 1
         label "Frank Black and the Catholics"
+        size 1
         color "red"
     ]
     node [
         id 1853033
-        size 0
         label "David Barrett Trio"
+        size 0
         color "red"
     ]
     node [
         id 67178
-        size 7
         label "Dave Gahan"
+        size 7
         color "red"
     ]
     node [
         id 67180
-        size 10
         label "Christie"
+        size 10
         color "red"
     ]
     node [
         id 34413
-        size 6
         label "Meat Loaf"
+        size 6
         color "red"
     ]
     node [
         id 231022
-        size 1
         label "Young Love"
+        size 1
         color "red"
     ]
     node [
         id 1649
-        size 3
         label "Richie Havens"
+        size 3
         color "red"
     ]
     node [
         id 329330
-        size 2
         label "Maninkari"
+        size 2
         color "red"
     ]
     node [
         id 1197686
-        size 1
         label "Midas Fall"
+        size 1
         color "red"
     ]
     node [
         id 165495
-        size 14
         label "Kula Shaker"
+        size 14
         color "red"
     ]
     node [
         id 2246264
-        size 0
         label "Looseleaf"
+        size 0
         color "red"
     ]
     node [
         id 50811
-        size 5
         label "Blues Image"
+        size 5
         color "red"
     ]
     node [
         id 296579
-        size 19
         label "Sonic Syndicate"
+        size 19
         color "red"
     ]
     node [
         id 296582
-        size 1
         label "Ozark Mountain Daredevils"
+        size 1
         color "red"
     ]
     node [
         id 755337
-        size 9
         label "JEFF the Brotherhood"
+        size 9
         color "red"
     ]
     node [
         id 4408970
-        size 0
         label "Пуаре"
+        size 0
         color "red"
     ]
     node [
         id 329355
-        size 0
         label "Sunstorm"
+        size 0
         color "red"
     ]
     node [
         id 2885264
-        size 0
         label "Temples"
+        size 0
         color "red"
     ]
     node [
         id 837265
-        size 11
         label "Pneu"
+        size 11
         color "red"
     ]
     node [
         id 18066
-        size 1
         label "Robin Beck"
+        size 1
         color "red"
     ]
     node [
         id 34451
-        size 0
         label "Los Lonely Boys"
+        size 0
         color "red"
     ]
     node [
         id 83604
-        size 15
         label "Marillion"
+        size 15
         color "red"
     ]
     node [
         id 525973
-        size 0
         label "Bill Quateman"
+        size 0
         color "red"
     ]
     node [
         id 18073
-        size 1
         label "Richard Ashcroft"
+        size 1
         color "red"
     ]
     node [
         id 34458
-        size 29
         label "Sex Pistols"
+        size 29
         color "red"
     ]
     node [
         id 50844
-        size 0
         label "The Watts 103rd. Street Rhythm Band"
+        size 0
         color "red"
     ]
     node [
         id 296606
-        size 5
         label "Communic"
+        size 5
         color "red"
     ]
     node [
         id 3013
-        size 8
         label "Tony Iommi"
+        size 8
         color "red"
     ]
     node [
         id 312992
-        size 0
         label "Hatcham Social"
+        size 0
         color "red"
     ]
     node [
         id 2098849
-        size 1
         label "Echoes and Signals"
+        size 1
         color "red"
     ]
     node [
         id 196891
-        size 1
         label "Eleventh Hour"
+        size 1
         color "red"
     ]
     node [
         id 48457
-        size 0
         label "Dave Peters"
+        size 0
         color "red"
     ]
     node [
         id 165546
-        size 4
         label "Eddie Money"
+        size 4
         color "red"
     ]
     node [
         id 1017519
-        size 1
         label "Peppino Di Capri e i suoi Rockers"
+        size 1
         color "red"
     ]
     node [
         id 722608
-        size 1
         label "Royalty Free Music"
+        size 1
         color "red"
     ]
     node [
         id 3154207
-        size 1
         label "Ruby the Hatchet"
+        size 1
         color "red"
     ]
     node [
         id 142282
-        size 6
         label "Maylene & The Sons Of Disaster"
+        size 6
         color "red"
     ]
     node [
         id 194165
-        size 1
         label "Cowboy Junkies"
+        size 1
         color "red"
     ]
     node [
         id 132800
-        size 2
         label "Spitz"
+        size 2
         color "red"
     ]
     node [
         id 18113
-        size 0
         label "Linda Thompson"
+        size 0
         color "red"
     ]
     node [
         id 50883
-        size 10
         label "MC5"
+        size 10
         color "red"
     ]
     node [
         id 1279689
-        size 1
         label "The Blam"
+        size 1
         color "red"
     ]
     node [
         id 290219
-        size 3
         label "V:28"
+        size 3
         color "red"
     ]
     node [
         id 34519
-        size 18
         label "Saliva"
+        size 18
         color "red"
     ]
     node [
         id 74020
-        size 3
         label "Georgia Satellites"
+        size 3
         color "red"
     ]
     node [
         id 739035
-        size 3
         label "Title Fight"
+        size 3
         color "red"
     ]
     node [
         id 67292
-        size 1
         label "Trevor Menear"
+        size 1
         color "red"
     ]
     node [
         id 149213
-        size 2
         label "Big Wreck"
+        size 2
         color "red"
     ]
     node [
         id 84944
-        size 4
         label "Van Der Graaf Generator"
+        size 4
         color "red"
     ]
     node [
         id 67300
-        size 12
         label "Finger Eleven"
+        size 12
         color "red"
     ]
     node [
         id 84945
-        size 5
         label "Peter Hammill"
+        size 5
         color "red"
     ]
     node [
         id 317052
-        size 2
         label "Unsane"
+        size 2
         color "red"
     ]
     node [
         id 149227
-        size 19
         label "Bauhaus"
+        size 19
         color "red"
     ]
     node [
         id 67310
-        size 32
         label "Yellowcard"
+        size 32
         color "red"
     ]
     node [
         id 67311
-        size 8
         label "Yoko Ono"
+        size 8
         color "red"
     ]
     node [
         id 3442416
-        size 0
         label "Allan Kingdom"
+        size 0
         color "red"
     ]
     node [
         id 18163
-        size 1
         label "Harmonium"
+        size 1
         color "red"
     ]
     node [
         id 1181429
-        size 1
         label "The Growlers"
+        size 1
         color "red"
     ]
     node [
         id 313079
-        size 7
         label "Ava Inferi"
+        size 7
         color "red"
     ]
     node [
         id 67322
-        size 16
         label "Janis Joplin"
+        size 16
         color "red"
     ]
     node [
         id 296699
-        size 7
         label "Hadag Nahash"
+        size 7
         color "red"
     ]
     node [
         id 296701
-        size 55
         label "Eluveitie"
+        size 55
         color "red"
     ]
     node [
         id 296703
-        size 1
         label "Wintersun"
+        size 1
         color "red"
     ]
     node [
         id 231169
-        size 9
         label "Imelda May"
+        size 9
         color "red"
     ]
     node [
         id 149250
-        size 13
         label "FILTER"
+        size 13
         color "red"
     ]
     node [
         id 1140924
-        size 4
         label "The Kaisers"
+        size 4
         color "red"
     ]
     node [
         id 526088
-        size 0
         label "Queen Kwong"
+        size 0
         color "red"
     ]
     node [
         id 8492
-        size 3
         label "Tonic"
+        size 3
         color "red"
     ]
     node [
         id 2472015
-        size 10
         label "Joy Wants Eternity"
+        size 10
         color "red"
     ]
     node [
         id 1214221
-        size 12
         label "Pretend"
+        size 12
         color "red"
     ]
     node [
         id 1918736
-        size 3
         label "E.S. Posthumus"
+        size 3
         color "red"
     ]
     node [
         id 27608
-        size 14
         label "Imogen Heap"
+        size 14
         color "red"
     ]
     node [
         id 1810
-        size 55
         label "John Lennon"
+        size 55
         color "red"
     ]
     node [
         id 67348
-        size 3
         label "Gary Hoey"
+        size 3
         color "red"
     ]
     node [
         id 1814
-        size 97
         label "Paul McCartney"
+        size 97
         color "red"
     ]
     node [
         id 1805273
-        size 1
         label "Beat Radio"
+        size 1
         color "red"
     ]
     node [
         id 1214232
-        size 15
         label "Nema"
+        size 15
         color "red"
     ]
     node [
         id 1361689
-        size 9
         label "Trapeze"
+        size 9
         color "red"
     ]
     node [
         id 4507418
-        size 0
         label "Таверна Лу"
+        size 0
         color "red"
     ]
     node [
         id 231196
-        size 10
         label "Keel"
+        size 10
         color "red"
     ]
     node [
         id 3147550
-        size 2
         label "Make Them Suffer"
+        size 2
         color "red"
     ]
     node [
         id 1787684
-        size 7
         label "The Knew"
+        size 7
         color "red"
     ]
     node [
         id 165669
-        size 8
         label "Royal Republic"
+        size 8
         color "red"
     ]
     node [
         id 67368
-        size 8
         label "Crosby, Stills, Nash & Young"
+        size 8
         color "red"
     ]
     node [
         id 1820459
-        size 4
         label "James Hunnicutt"
+        size 4
         color "red"
     ]
     node [
         id 318671
-        size 6
         label "Hollenthon"
+        size 6
         color "red"
     ]
     node [
         id 1199213
-        size 0
         label "Serena-Maneesh"
+        size 0
         color "red"
     ]
     node [
         id 2641687
-        size 1
         label "The Vintage Caravan"
+        size 1
         color "red"
     ]
     node [
         id 1214257
-        size 0
         label "Sass On 3"
+        size 0
         color "red"
     ]
     node [
         id 2131762
-        size 0
         label "Adam Bones"
+        size 0
         color "red"
     ]
     node [
         id 3588788
-        size 1
         label "Age of Daze"
+        size 1
         color "red"
     ]
     node [
         id 509749
-        size 2
         label "Baroque"
+        size 2
         color "red"
     ]
     node [
         id 95881
-        size 24
         label "Mansun"
+        size 24
         color "red"
     ]
     node [
         id 263992
-        size 1
         label "FULL BLOWN CHERRY"
+        size 1
         color "red"
     ]
     node [
         id 188724
-        size 0
         label "Ari Koivunen"
+        size 0
         color "red"
     ]
     node [
         id 1214268
-        size 5
         label "Voodoo Six"
+        size 5
         color "red"
     ]
     node [
         id 345917
-        size 0
         label "The Riots"
+        size 0
         color "red"
     ]
     node [
         id 2606914
-        size 0
         label "Into Century"
+        size 0
         color "red"
     ]
     node [
         id 1859
-        size 33
         label "Bon Jovi"
+        size 33
         color "red"
     ]
     node [
         id 313156
-        size 7
         label "Maggie Bell"
+        size 7
         color "red"
     ]
     node [
         id 313157
-        size 0
         label "Stackridge"
+        size 0
         color "red"
     ]
     node [
         id 318672
-        size 8
         label "Isole"
+        size 8
         color "red"
     ]
     node [
         id 1328973
-        size 2
         label "Quixotic"
+        size 2
         color "red"
     ]
     node [
         id 1591119
-        size 0
         label "Xenia Nen"
+        size 0
         color "red"
     ]
     node [
         id 1902418
-        size 2
         label "Black Mustang"
+        size 2
         color "red"
     ]
     node [
         id 296787
-        size 9
         label "Johnny & The Hurricanes"
+        size 9
         color "red"
     ]
     node [
         id 67412
-        size 0
         label "Everest"
+        size 0
         color "red"
     ]
     node [
         id 833166
-        size 9
         label "The Mothers Of Invention"
+        size 9
         color "red"
     ]
     node [
         id 2279254
-        size 2
         label "Midnight Rain"
+        size 2
         color "red"
     ]
     node [
         id 329559
-        size 0
         label "Chip Hawkes"
+        size 0
         color "red"
     ]
     node [
         id 1754970
-        size 6
         label "Parabelle"
+        size 6
         color "red"
     ]
     node [
         id 230291
-        size 11
         label "Rev Theory"
+        size 11
         color "red"
     ]
     node [
         id 149341
-        size 2
         label "Lynch Mob"
+        size 2
         color "red"
     ]
     node [
         id 722786
-        size 1
         label "Delusion"
+        size 1
         color "red"
     ]
     node [
         id 68582
-        size 1
         label "Axe"
+        size 1
         color "red"
     ]
     node [
         id 1894
-        size 5
         label "Delta Spirit"
+        size 5
         color "red"
     ]
     node [
         id 149355
-        size 24
         label "Yngwie Malmsteen"
+        size 24
         color "red"
     ]
     node [
         id 67437
-        size 6
         label "System Of A Down"
+        size 6
         color "red"
     ]
     node [
         id 1148782
-        size 7
         label "Halou"
+        size 7
         color "red"
     ]
     node [
         id 1905
-        size 0
         label "Steel Panther"
+        size 0
         color "red"
     ]
     node [
         id 67442
-        size 21
         label "Rage Against The Machine"
+        size 21
         color "red"
     ]
     node [
         id 640886
-        size 2
         label "Swim"
+        size 2
         color "red"
     ]
     node [
         id 1820535
-        size 12
         label "Wolf Mail"
+        size 12
         color "red"
     ]
     node [
         id 345976
-        size 3
         label "Psykup"
+        size 3
         color "red"
     ]
     node [
         id 2430612
-        size 4
         label "Wau Y Los Arrrghs!!!"
+        size 4
         color "red"
     ]
     node [
         id 2393978
-        size 8
         label "Autopsy"
+        size 8
         color "red"
     ]
     node [
         id 1640318
-        size 2
         label "Blitz Kids"
+        size 2
         color "red"
     ]
     node [
         id 1921
-        size 5
         label "The Living End"
+        size 5
         color "red"
     ]
     node [
         id 1820552
-        size 2
         label "Wess Meets West"
+        size 2
         color "red"
     ]
     node [
         id 591753
-        size 5
         label "Von Benzo"
+        size 5
         color "red"
     ]
     node [
         id 345994
-        size 0
         label "Hank Ballard And The Midnighters"
+        size 0
         color "red"
     ]
     node [
         id 149387
-        size 1
         label "Dalton"
+        size 1
         color "red"
     ]
     node [
         id 34701
-        size 3
         label "Discharge"
+        size 3
         color "red"
     ]
     node [
         id 34703
-        size 11
         label "UK Subs"
+        size 11
         color "red"
     ]
     node [
         id 272357
-        size 0
         label "Fatboy"
+        size 0
         color "red"
     ]
     node [
         id 67475
-        size 2
         label "Hale"
+        size 2
         color "red"
     ]
     node [
         id 149396
-        size 21
         label "Metal Church"
+        size 21
         color "red"
     ]
     node [
         id 34710
-        size 0
         label "Toy Dolls"
+        size 0
         color "red"
     ]
     node [
         id 2656152
-        size 1
         label "Wimps"
+        size 1
         color "red"
     ]
     node [
         id 34713
-        size 9
         label "Sham 69"
+        size 9
         color "red"
     ]
     node [
         id 444315
-        size 6
         label "Los Loud Jets"
+        size 6
         color "red"
     ]
     node [
         id 34718
-        size 1
         label "X-Ray Spex"
+        size 1
         color "red"
     ]
     node [
         id 329631
-        size 0
         label "Morgan Street"
+        size 0
         color "red"
     ]
     node [
         id 118998
-        size 1
         label "Time"
+        size 1
         color "red"
     ]
     node [
         id 34721
-        size 15
         label "Buzzcocks"
+        size 15
         color "red"
     ]
     node [
         id 34722
-        size 4
         label "999"
+        size 4
         color "red"
     ]
     node [
         id 214950
-        size 1
         label "Snotkop"
+        size 1
         color "red"
     ]
     node [
         id 1116073
-        size 1
         label "Kreyskull"
+        size 1
         color "red"
     ]
     node [
         id 1964
-        size 35
         label "The Troggs"
+        size 35
         color "red"
     ]
     node [
         id 34734
-        size 0
         label "The Modern Lovers"
+        size 0
         color "red"
     ]
     node [
         id 34735
-        size 1
         label "John Lydon"
+        size 1
         color "red"
     ]
     node [
         id 3475377
-        size 1
         label "Divided Seasons"
+        size 1
         color "red"
     ]
     node [
         id 197560
-        size 0
         label "Carlos Santana & Buddy Miles"
+        size 0
         color "red"
     ]
     node [
         id 296884
-        size 11
         label "Atrocity"
+        size 11
         color "red"
     ]
     node [
         id 67509
-        size 1
         label "TAD"
+        size 1
         color "red"
     ]
     node [
         id 1181622
-        size 7
         label "Putrid Pile"
+        size 7
         color "red"
     ]
     node [
         id 214970
-        size 0
         label "Göksel"
+        size 0
         color "red"
     ]
     node [
         id 788413
-        size 0
         label "The Fab Five Band"
+        size 0
         color "red"
     ]
     node [
         id 608190
-        size 0
         label "The Ineffable Orchestra / Irmin Hütter"
+        size 0
         color "red"
     ]
     node [
         id 67519
-        size 1
         label "Sebadoh"
+        size 1
         color "red"
     ]
     node [
         id 67520
-        size 1
         label "Pond"
+        size 1
         color "red"
     ]
     node [
         id 378826
-        size 2
         label "Doom Unit"
+        size 2
         color "red"
     ]
     node [
         id 1995
-        size 23
         label "Elvis Costello"
+        size 23
         color "red"
     ]
     node [
         id 67532
-        size 2
         label "Earth"
+        size 2
         color "red"
     ]
     node [
         id 2197453
-        size 5
         label "Serum 114"
+        size 5
         color "red"
     ]
     node [
         id 67535
-        size 5
         label "Sunny Day Real Estate"
+        size 5
         color "red"
     ]
     node [
         id 2131920
-        size 7
         label "Devour the Day"
+        size 7
         color "red"
     ]
     node [
         id 100305
-        size 34
         label "Kamelot"
+        size 34
         color "red"
     ]
     node [
         id 67539
-        size 2
         label "Moon"
+        size 2
         color "red"
     ]
     node [
         id 559065
-        size 2
         label "Oil"
+        size 2
         color "red"
     ]
     node [
         id 67549
-        size 3
         label "Kinski"
+        size 3
         color "red"
     ]
     node [
         id 67550
-        size 0
         label "The Thermals"
+        size 0
         color "red"
     ]
     node [
         id 1116128
-        size 0
         label "CDM Rock Project"
+        size 0
         color "red"
     ]
     node [
         id 67553
-        size 6
         label "The Album Leaf"
+        size 6
         color "red"
     ]
     node [
         id 1066978
-        size 1
         label "Hearts & Hands"
+        size 1
         color "red"
     ]
     node [
         id 67555
-        size 1
         label "Flight Of The Conchords"
+        size 1
         color "red"
     ]
     node [
         id 2020
-        size 4
         label "Deja Vu"
+        size 4
         color "red"
     ]
     node [
         id 67558
-        size 6
         label "Wolf Parade"
+        size 6
         color "red"
     ]
     node [
         id 1198056
-        size 4
         label "Trebuchet"
+        size 4
         color "red"
     ]
     node [
         id 1853417
-        size 8
         label "Static Cycle"
+        size 8
         color "red"
     ]
     node [
         id 116714
-        size 24
         label "Johnny Winter"
+        size 24
         color "red"
     ]
     node [
         id 2295788
-        size 6
         label "DRAGON RED"
+        size 6
         color "red"
     ]
     node [
         id 82258
-        size 2
         label "Concrete Blonde"
+        size 2
         color "red"
     ]
     node [
         id 67566
-        size 6
         label "CSS"
+        size 6
         color "red"
     ]
     node [
         id 67567
-        size 2
         label "Grand Archives"
+        size 2
         color "red"
     ]
     node [
         id 67568
-        size 0
         label "Blitzen Trapper"
+        size 0
         color "red"
     ]
     node [
         id 136459
-        size 1
         label "Les Claypool"
+        size 1
         color "red"
     ]
     node [
         id 657401
-        size 0
         label "Anubis"
+        size 0
         color "red"
     ]
     node [
         id 1198077
-        size 13
         label "Dave Martone"
+        size 13
         color "red"
     ]
     node [
         id 1824983
-        size 1
         label "Halcyon Way"
+        size 1
         color "red"
     ]
     node [
         id 993542
-        size 2
         label "Stuart Hamm"
+        size 2
         color "red"
     ]
     node [
         id 2230275
-        size 5
         label "Mexicolas"
+        size 5
         color "red"
     ]
     node [
         id 329733
-        size 19
         label "Revolution Renaissance"
+        size 19
         color "red"
     ]
     node [
         id 2054
-        size 1
         label "Brigitte Fontaine"
+        size 1
         color "red"
     ]
     node [
         id 329737
-        size 1
         label "Decadence"
+        size 1
         color "red"
     ]
     node [
         id 116746
-        size 0
         label "Peter Jöback"
+        size 0
         color "red"
     ]
     node [
         id 34831
-        size 4
         label "The Destroyers"
+        size 4
         color "red"
     ]
     node [
         id 2066
-        size 20
         label "Bloc Party"
+        size 20
         color "red"
     ]
     node [
         id 2070
-        size 25
         label "The All-American Rejects"
+        size 25
         color "red"
     ]
     node [
         id 641052
-        size 1
         label "Turing Machine"
+        size 1
         color "red"
     ]
     node [
         id 2623520
-        size 0
         label "Mike Terrana"
+        size 0
         color "red"
     ]
     node [
         id 52230
-        size 0
         label "Tal Bachman"
+        size 0
         color "red"
     ]
     node [
         id 100394
-        size 0
         label "Bikini"
+        size 0
         color "red"
     ]
     node [
         id 4737069
-        size 14
         label "Jørn Lande"
+        size 14
         color "red"
     ]
     node [
         id 329776
-        size 10
         label "The Answer"
+        size 10
         color "red"
     ]
     node [
         id 142345
-        size 35
         label "Miss May I"
+        size 35
         color "red"
     ]
     node [
         id 346168
-        size 4
         label "Lee Aaron"
+        size 4
         color "red"
     ]
     node [
         id 231481
-        size 1
         label "Kate Voegele"
+        size 1
         color "red"
     ]
     node [
         id 2377786
-        size 10
         label "Being As An Ocean"
+        size 10
         color "red"
     ]
     node [
         id 2558014
-        size 2
         label "Юрий Морозов"
+        size 2
         color "red"
     ]
     node [
         id 329794
-        size 4
         label "P. Paul Fenech"
+        size 4
         color "red"
     ]
     node [
         id 64447
-        size 8
         label "Wednesday 13"
+        size 8
         color "red"
     ]
     node [
         id 133190
-        size 9
         label "Wild Cherry"
+        size 9
         color "red"
     ]
     node [
         id 165961
-        size 0
         label "Legend"
+        size 0
         color "red"
     ]
     node [
         id 84043
-        size 17
         label "Dion"
+        size 17
         color "red"
     ]
     node [
         id 2263120
-        size 4
         label "American Blues Box"
+        size 4
         color "red"
     ]
     node [
         id 3699030
-        size 1
         label "Dead Buttons"
+        size 1
         color "red"
     ]
     node [
         id 2426964
-        size 4
         label "MODOC"
+        size 4
         color "red"
     ]
     node [
         id 67672
-        size 9
         label "Danko Jones"
+        size 9
         color "red"
     ]
     node [
         id 93199
-        size 9
         label "The Quireboys"
+        size 9
         color "red"
     ]
     node [
         id 18525
-        size 8
         label "Jade Warrior"
+        size 8
         color "red"
     ]
     node [
         id 477278
-        size 0
         label "Shane Searles"
+        size 0
         color "red"
     ]
     node [
         id 100451
-        size 9
         label "Missing Persons"
+        size 9
         color "red"
     ]
     node [
         id 319846
-        size 0
         label "The Rattles"
+        size 0
         color "red"
     ]
     node [
         id 297064
-        size 0
         label "The Big Sleep"
+        size 0
         color "red"
     ]
     node [
         id 349884
-        size 1
         label "Ken Block"
+        size 1
         color "red"
     ]
     node [
         id 2089319
-        size 0
         label "Kim Fowley and Buzzy Beano"
+        size 0
         color "red"
     ]
     node [
         id 1329260
-        size 0
         label "Deke Dickerson"
+        size 0
         color "red"
     ]
     node [
         id 360
-        size 1
         label "Pulled Apart By Horses"
+        size 1
         color "red"
     ]
     node [
         id 869157
-        size 0
         label "Itay Pearl"
+        size 0
         color "red"
     ]
     node [
         id 254313
-        size 1
         label "Destine"
+        size 1
         color "red"
     ]
     node [
         id 18555
-        size 6
         label "Colin James"
+        size 6
         color "red"
     ]
     node [
         id 18558
-        size 0
         label "Bobby Bloom"
+        size 0
         color "red"
     ]
     node [
         id 18560
-        size 4
         label "Ian Hunter"
+        size 4
         color "red"
     ]
     node [
         id 297090
-        size 22
         label "Power Quest"
+        size 22
         color "red"
     ]
     node [
         id 3541123
-        size 3
         label "Shaman"
+        size 3
         color "red"
     ]
     node [
         id 34953
-        size 11
         label "Flogging Molly"
+        size 11
         color "red"
     ]
     node [
         id 526474
-        size 0
         label "Noise"
+        size 0
         color "red"
     ]
     node [
         id 493708
-        size 4
         label "2 Times Terror"
+        size 4
         color "red"
     ]
     node [
         id 329870
-        size 5
         label "Morning Parade"
+        size 5
         color "red"
     ]
     node [
         id 116882
-        size 0
         label "Fefe Dobson"
+        size 0
         color "red"
     ]
     node [
         id 116887
-        size 14
         label "Jonny Lang"
+        size 14
         color "red"
     ]
     node [
         id 919715
-        size 3
         label "Detachments"
+        size 3
         color "red"
     ]
     node [
         id 54630
-        size 7
         label "Horrorpops"
+        size 7
         color "red"
     ]
     node [
         id 246129
-        size 1
         label "Bacon Fat"
+        size 1
         color "red"
     ]
     node [
         id 2443435
-        size 0
         label "Ghost"
+        size 0
         color "red"
     ]
     node [
         id 411822
-        size 2
         label "The Surf Dawgs"
+        size 2
         color "red"
     ]
     node [
         id 1198255
-        size 3
         label "Kingdom of Sorrow"
+        size 3
         color "red"
     ]
     node [
         id 411824
-        size 2
         label "Ringtone Masters"
+        size 2
         color "red"
     ]
     node [
         id 51379
-        size 3
         label "The Jayhawks"
+        size 3
         color "red"
     ]
     node [
         id 297142
-        size 12
         label "Chrome Division"
+        size 12
         color "red"
     ]
     node [
         id 297143
-        size 17
         label "Scar Symmetry"
+        size 17
         color "red"
     ]
     node [
         id 35004
-        size 18
         label "The Beatles"
+        size 18
         color "red"
     ]
     node [
         id 35009
-        size 4
         label "Jack Scott"
+        size 4
         color "red"
     ]
     node [
         id 313540
-        size 12
         label "Abigor"
+        size 12
         color "red"
     ]
     node [
         id 35018
-        size 3
         label "Colin Hicks"
+        size 3
         color "red"
     ]
     node [
         id 149707
-        size 0
         label "The Donkeys"
+        size 0
         color "red"
     ]
     node [
         id 248016
-        size 4
         label "His Name Is Alive"
+        size 4
         color "red"
     ]
     node [
         id 133330
-        size 0
         label "The Squires"
+        size 0
         color "red"
     ]
     node [
         id 1010613
-        size 1
         label "TCP"
+        size 1
         color "red"
     ]
     node [
         id 35034
-        size 0
         label "The Marauders"
+        size 0
         color "red"
     ]
     node [
         id 674011
-        size 0
         label "Michael Stanley Band"
+        size 0
         color "red"
     ]
     node [
         id 1427678
-        size 2
         label "Pinnick Gales Pridgen"
+        size 2
         color "red"
     ]
     node [
         id 198879
-        size 30
         label "(hed) p.e."
+        size 30
         color "red"
     ]
     node [
         id 2115812
-        size 0
         label "The Monarchy"
+        size 0
         color "red"
     ]
     node [
         id 609318
-        size 2
         label "Masters Of Guitar"
+        size 2
         color "red"
     ]
     node [
         id 2427114
-        size 5
         label "Midnite String Quartet"
+        size 5
         color "red"
     ]
     node [
         id 680941
-        size 0
         label "Templeton Pek"
+        size 0
         color "red"
     ]
     node [
         id 215276
-        size 14
         label "Uli Jon Roth"
+        size 14
         color "red"
     ]
     node [
         id 18669
-        size 3
         label "Herman Rarebell"
+        size 3
         color "red"
     ]
     node [
         id 84210
-        size 67
         label "The Ventures"
+        size 67
         color "red"
     ]
     node [
         id 18675
-        size 3
         label "The Hellacopters"
+        size 3
         color "red"
     ]
     node [
         id 166132
-        size 16
         label "Prime Circle"
+        size 16
         color "red"
     ]
     node [
         id 2589054
-        size 0
         label "The New Order"
+        size 0
         color "red"
     ]
     node [
         id 231672
-        size 7
         label "The Parlotones"
+        size 7
         color "red"
     ]
     node [
         id 1820921
-        size 0
         label "The Doomsday Device"
+        size 0
         color "red"
     ]
     node [
         id 84219
-        size 12
         label "Sandy Nelson"
+        size 12
         color "red"
     ]
     node [
         id 27691
-        size 5
         label "Nelson"
+        size 5
         color "red"
     ]
     node [
         id 350875
-        size 0
         label "The Million Dollar Quartet"
+        size 0
         color "red"
     ]
     node [
         id 1458561
-        size 0
         label "Metal Drive"
+        size 0
         color "red"
     ]
     node [
         id 1567788
-        size 0
         label "The Love Dimension"
+        size 0
         color "red"
     ]
     node [
         id 67850
-        size 4
         label "Renaissance"
+        size 4
         color "red"
     ]
     node [
         id 1935627
-        size 0
         label "Katie Gray"
+        size 0
         color "red"
     ]
     node [
         id 232493
-        size 1
         label "Howls"
+        size 1
         color "red"
     ]
     node [
         id 84241
-        size 1
         label "Jay & The Americans"
+        size 1
         color "red"
     ]
     node [
         id 1755410
-        size 0
         label "Wild Ride"
+        size 0
         color "red"
     ]
     node [
         id 57731
-        size 0
         label "Stutterfly"
+        size 0
         color "red"
     ]
     node [
         id 51478
-        size 4
         label "Matchbox"
+        size 4
         color "red"
     ]
     node [
         id 3426583
-        size 0
         label "Breakaway"
+        size 0
         color "red"
     ]
     node [
         id 559386
-        size 4
         label "Black Light Discipline"
+        size 4
         color "red"
     ]
     node [
         id 292570
-        size 44
         label "Kataklysm"
+        size 44
         color "red"
     ]
     node [
         id 641311
-        size 1
         label "Bumblefoot"
+        size 1
         color "red"
     ]
     node [
         id 547825
-        size 3
         label "Earlimart"
+        size 3
         color "red"
     ]
     node [
         id 35110
-        size 0
         label "Rocket From The Crypt"
+        size 0
         color "red"
     ]
     node [
         id 1427752
-        size 6
         label "Lazy Bonez"
+        size 6
         color "red"
     ]
     node [
         id 51499
-        size 4
         label "La Fuga"
+        size 4
         color "red"
     ]
     node [
         id 411949
-        size 8
         label "Hardcore Superstar"
+        size 8
         color "red"
     ]
     node [
         id 1280302
-        size 3
         label "Barefoot Truth"
+        size 3
         color "red"
     ]
     node [
         id 575792
-        size 20
         label "Suicidal Angels"
+        size 20
         color "red"
     ]
     node [
         id 1559603
-        size 9
         label "Skull Fist"
+        size 9
         color "red"
     ]
     node [
         id 1018166
-        size 1
         label "Briar"
+        size 1
         color "red"
     ]
     node [
         id 1427768
-        size 8
         label "Parquet Courts"
+        size 8
         color "red"
     ]
     node [
         id 1125428
-        size 10
         label "Nervosa"
+        size 10
         color "red"
     ]
     node [
         id 300280
-        size 1
         label "Prism"
+        size 1
         color "red"
     ]
     node [
         id 67903
-        size 0
         label "Phil Brown"
+        size 0
         color "red"
     ]
     node [
         id 133441
-        size 0
         label "Liquido"
+        size 0
         color "red"
     ]
     node [
         id 1575237
-        size 6
         label "Neverset"
+        size 6
         color "red"
     ]
     node [
         id 2741493
-        size 5
         label "A Lot Like Birds"
+        size 5
         color "red"
     ]
     node [
         id 3435576
-        size 0
         label "Indiana"
+        size 0
         color "red"
     ]
     node [
         id 1132885
-        size 8
         label "Solar Project"
+        size 8
         color "red"
     ]
     node [
         id 2427225
-        size 0
         label "Survive This!"
+        size 0
         color "red"
     ]
     node [
         id 84315
-        size 3
         label "Jimmy Barnes"
+        size 3
         color "red"
     ]
     node [
         id 919900
-        size 6
         label "Egg"
+        size 6
         color "red"
     ]
     node [
         id 2623837
-        size 5
         label "Racing Glaciers"
+        size 5
         color "red"
     ]
     node [
         id 526687
-        size 0
         label "Kerry Ellis"
+        size 0
         color "red"
     ]
     node [
         id 788838
-        size 3
         label "Sugarpie And The Candymen"
+        size 3
         color "red"
     ]
     node [
         id 1362280
-        size 1
         label "tsushimamire"
+        size 1
         color "red"
     ]
     node [
         id 575849
-        size 0
         label "Mary Fay"
+        size 0
         color "red"
     ]
     node [
         id 1116522
-        size 0
         label "Roundabout"
+        size 0
         color "red"
     ]
     node [
         id 3443052
-        size 3
         label "CRX"
+        size 3
         color "red"
     ]
     node [
         id 477552
-        size 3
         label "The Queen Kings"
+        size 3
         color "red"
     ]
     node [
         id 2640244
-        size 0
         label "Lost Ragas"
+        size 0
         color "red"
     ]
     node [
         id 13174
-        size 1
         label "Black"
+        size 1
         color "red"
     ]
     node [
         id 788859
-        size 6
         label "Tall Ships"
+        size 6
         color "red"
     ]
     node [
         id 166268
-        size 4
         label "Pat Travers"
+        size 4
         color "red"
     ]
     node [
         id 2431
-        size 6
         label "David Foster"
+        size 6
         color "red"
     ]
     node [
         id 412033
-        size 0
         label "Trillion"
+        size 0
         color "red"
     ]
     node [
         id 166274
-        size 1
         label "Rick Derringer"
+        size 1
         color "red"
     ]
     node [
         id 35203
-        size 5
         label "Alannah Myles"
+        size 5
         color "red"
     ]
     node [
         id 125561
-        size 1
         label "Oliviero"
+        size 1
         color "red"
     ]
     node [
         id 608650
-        size 0
         label "The Easybeats"
+        size 0
         color "red"
     ]
     node [
         id 608651
-        size 0
         label "The Gentrys"
+        size 0
         color "red"
     ]
     node [
         id 1575309
-        size 0
         label "Tony Travis"
+        size 0
         color "red"
     ]
     node [
         id 477582
-        size 5
         label "Black Messiah"
+        size 5
         color "red"
     ]
     node [
         id 84367
-        size 2
         label "Joe Ely"
+        size 2
         color "red"
     ]
     node [
         id 575888
-        size 2
         label "Milking the Goatmachine"
+        size 2
         color "red"
     ]
     node [
         id 13175
-        size 0
         label "Colin Vearncombe"
+        size 0
         color "red"
     ]
     node [
         id 575892
-        size 1
         label "Seventh Void"
+        size 1
         color "red"
     ]
     node [
         id 84375
-        size 1
         label "Return"
+        size 1
         color "red"
     ]
     node [
         id 2673051
-        size 0
         label "Marlboro Man"
+        size 0
         color "red"
     ]
     node [
         id 412064
-        size 1
         label "The Hit Beat Makers"
+        size 1
         color "red"
     ]
     node [
         id 215458
-        size 1
         label "The Primitives"
+        size 1
         color "red"
     ]
     node [
         id 477603
-        size 1
         label "Headhunter"
+        size 1
         color "red"
     ]
     node [
         id 477604
-        size 15
         label "Made Of Hate"
+        size 15
         color "red"
     ]
     node [
         id 477605
-        size 2
         label "President Evil"
+        size 2
         color "red"
     ]
     node [
         id 431624
-        size 7
         label "Alex Clare"
+        size 7
         color "red"
     ]
     node [
         id 68007
-        size 3
         label "Disciple"
+        size 3
         color "red"
     ]
     node [
         id 477608
-        size 3
         label "Mekong Delta"
+        size 3
         color "red"
     ]
     node [
         id 477609
-        size 16
         label "Helstar"
+        size 16
         color "red"
     ]
     node [
         id 1870919
-        size 7
         label "Menchen"
+        size 7
         color "red"
     ]
     node [
         id 477613
-        size 2
         label "Michael Bormann"
+        size 2
         color "red"
     ]
     node [
         id 166318
-        size 0
         label "Юрий Демидович"
+        size 0
         color "red"
     ]
     node [
         id 100783
-        size 0
         label "Nicky Hopkins"
+        size 0
         color "red"
     ]
     node [
         id 100784
-        size 0
         label "The Tubes"
+        size 0
         color "red"
     ]
     node [
         id 477617
-        size 1
         label "X-World/5"
+        size 1
         color "red"
     ]
     node [
         id 477618
-        size 6
         label "Kotipelto"
+        size 6
         color "red"
     ]
     node [
         id 592307
-        size 5
         label "Graveyard"
+        size 5
         color "red"
     ]
     node [
         id 477620
-        size 33
         label "Shakra"
+        size 33
         color "red"
     ]
     node [
         id 346549
-        size 40
         label "Dragonland"
+        size 40
         color "red"
     ]
     node [
         id 346550
-        size 12
         label "Torment"
+        size 12
         color "red"
     ]
     node [
         id 35913
-        size 1
         label "Treat Her Right"
+        size 1
         color "red"
     ]
     node [
         id 18872
-        size 0
         label "Eric Marienthal"
+        size 0
         color "red"
     ]
     node [
         id 1542586
-        size 1
         label "Mother Jane"
+        size 1
         color "red"
     ]
     node [
         id 68031
-        size 16
         label "Blackfoot"
+        size 16
         color "red"
     ]
     node [
         id 199104
-        size 1
         label "Element Of Crime"
+        size 1
         color "red"
     ]
     node [
         id 2497
-        size 2
         label "Peter Green"
+        size 2
         color "red"
     ]
     node [
         id 1198530
-        size 4
         label "Tapes ‘n Tapes"
+        size 4
         color "red"
     ]
     node [
         id 35915
-        size 10
         label "Danzig"
+        size 10
         color "red"
     ]
     node [
         id 641477
-        size 9
         label "Quarkspace"
+        size 9
         color "red"
     ]
     node [
         id 231878
-        size 1
         label "The Source"
+        size 1
         color "red"
     ]
     node [
         id 2148807
-        size 1
         label "Trend Black"
+        size 1
         color "red"
     ]
     node [
         id 2505
-        size 4
         label "Tom Hambridge"
+        size 4
         color "red"
     ]
     node [
         id 2621858
-        size 3
         label "Maybrick"
+        size 3
         color "red"
     ]
     node [
         id 477649
-        size 6
         label "Gwydion"
+        size 6
         color "red"
     ]
     node [
         id 35283
-        size 1
         label "Utopia"
+        size 1
         color "red"
     ]
     node [
         id 183939
-        size 0
         label "The Only Ones"
+        size 0
         color "red"
     ]
     node [
         id 297430
-        size 1
         label "Fightstar"
+        size 1
         color "red"
     ]
     node [
         id 3738072
-        size 0
         label "Afternoon Acoustic"
+        size 0
         color "red"
     ]
     node [
         id 936410
-        size 0
         label "Mario Fasciano"
+        size 0
         color "red"
     ]
     node [
         id 903644
-        size 6
         label "Charles de Goal"
+        size 6
         color "red"
     ]
     node [
         id 1673699
-        size 3
         label "Papa Razzi and the Photogs"
+        size 3
         color "red"
     ]
     node [
         id 985573
-        size 0
         label "Jean-Pascal Boffo"
+        size 0
         color "red"
     ]
     node [
         id 1231334
-        size 6
         label "Raised By Swans"
+        size 6
         color "red"
     ]
     node [
         id 674279
-        size 1
         label "Stonehand"
+        size 1
         color "red"
     ]
     node [
         id 35308
-        size 0
         label "Tim Booth"
+        size 0
         color "red"
     ]
     node [
         id 3024697
-        size 2
         label "Globus"
+        size 2
         color "red"
     ]
     node [
         id 185031
-        size 9
         label "The Script"
+        size 9
         color "red"
     ]
     node [
         id 117231
-        size 6
         label "The Piltdown Men"
+        size 6
         color "red"
     ]
     node [
         id 2546
-        size 0
         label "The Virgins"
+        size 0
         color "red"
     ]
     node [
         id 1870323
-        size 0
         label "Barnstorm"
+        size 0
         color "red"
     ]
     node [
         id 297463
-        size 1
         label "New Vaudeville Band"
+        size 1
         color "red"
     ]
     node [
         id 870904
-        size 3
         label "Sacramento"
+        size 3
         color "red"
     ]
     node [
         id 1633365
-        size 2
         label "Luke Sital-Singh"
+        size 2
         color "red"
     ]
     node [
         id 1296896
-        size 1
         label "SHOWING OFF TO THIEVES"
+        size 1
         color "red"
     ]
     node [
         id 2771457
-        size 4
         label "Маврик"
+        size 4
         color "red"
     ]
     node [
         id 1477122
-        size 1
         label "HeavensDust"
+        size 1
         color "red"
     ]
     node [
         id 150614
-        size 0
         label "The Simpsons"
+        size 0
         color "red"
     ]
     node [
         id 68105
-        size 5
         label "Chrome"
+        size 5
         color "red"
     ]
     node [
         id 1722891
-        size 8
         label "Chapel Of Disease"
+        size 8
         color "red"
     ]
     node [
         id 1722892
-        size 0
         label "AOR"
+        size 0
         color "red"
     ]
     node [
         id 27736
-        size 2
         label "Barry McGuire"
+        size 2
         color "red"
     ]
     node [
         id 1477139
-        size 1
         label "Demonical"
+        size 1
         color "red"
     ]
     node [
         id 2580
-        size 6
         label "The Duke Spirit"
+        size 6
         color "red"
     ]
     node [
         id 2583
-        size 6
         label "Motion City Soundtrack"
+        size 6
         color "red"
     ]
     node [
         id 1791748
-        size 0
         label "Lotus Pedal"
+        size 0
         color "red"
     ]
     node [
         id 231964
-        size 2
         label "Spinal Tap"
+        size 2
         color "red"
     ]
     node [
         id 626649
-        size 0
         label "Hola Ghost"
+        size 0
         color "red"
     ]
     node [
         id 1821218
-        size 2
         label "Blueheels"
+        size 2
         color "red"
     ]
     node [
         id 2595
-        size 2
         label "Xutos & Pontapés"
+        size 2
         color "red"
     ]
     node [
         id 84516
-        size 2
         label "Camper Van Beethoven"
+        size 2
         color "red"
     ]
     node [
         id 46854
-        size 1
         label "Los Piratas"
+        size 1
         color "red"
     ]
     node [
         id 2951719
-        size 2
         label "417.3"
+        size 2
         color "red"
     ]
     node [
         id 2116137
-        size 15
         label "Blindstone"
+        size 15
         color "red"
     ]
     node [
         id 35375
-        size 3
         label "Barcelona"
+        size 3
         color "red"
     ]
     node [
         id 84532
-        size 15
         label "Orchestral Manoeuvres In The Dark"
+        size 15
         color "red"
     ]
     node [
         id 1754624
-        size 1
         label "The Griswolds"
+        size 1
         color "red"
     ]
     node [
         id 1149499
-        size 1
         label "Home Video"
+        size 1
         color "red"
     ]
     node [
         id 2017855
-        size 0
         label "Mr. Fastfinger"
+        size 0
         color "red"
     ]
     node [
         id 295350
-        size 4
         label "Theatre of Hate"
+        size 4
         color "red"
     ]
     node [
         id 297543
-        size 2
         label "Joey Dee & The Starliters"
+        size 2
         color "red"
     ]
     node [
         id 2378314
-        size 2
         label "The Top Club Band"
+        size 2
         color "red"
     ]
     node [
         id 821838
-        size 4
         label "Steamhammer"
+        size 4
         color "red"
     ]
     node [
         id 882446
-        size 0
         label "John Olav Nilsen & Gjengen"
+        size 0
         color "red"
     ]
     node [
         id 1296983
-        size 4
         label "The Answering Machine"
+        size 4
         color "red"
     ]
     node [
         id 2649
-        size 0
         label "Buck Owens"
+        size 0
         color "red"
     ]
     node [
         id 1051226
-        size 0
         label "Titre A"
+        size 0
         color "red"
     ]
     node [
         id 161551
-        size 14
         label "Black Light Burns"
+        size 14
         color "red"
     ]
     node [
         id 1116767
-        size 2
         label "AC/DC's Greatest Tribute Band"
+        size 2
         color "red"
     ]
     node [
         id 117344
-        size 2
         label "Drive"
+        size 2
         color "red"
     ]
     node [
         id 1608290
-        size 4
         label "No More Fear"
+        size 4
         color "red"
     ]
     node [
         id 19050
-        size 3
         label "Geoff Downes"
+        size 3
         color "red"
     ]
     node [
         id 19052
-        size 17
         label "Asia"
+        size 17
         color "red"
     ]
     node [
         id 789102
-        size 2
         label "Ameritz - Tribute"
+        size 2
         color "red"
     ]
     node [
         id 1739376
-        size 0
         label "The Modest Proposal"
+        size 0
         color "red"
     ]
     node [
         id 297588
-        size 2
         label "Spiders & Snakes"
+        size 2
         color "red"
     ]
     node [
         id 84599
-        size 11
         label "Culture Club"
+        size 11
         color "red"
     ]
     node [
         id 1736649
-        size 0
         label "The Last Word"
+        size 0
         color "red"
     ]
     node [
         id 303969
-        size 0
         label "Herman’s Hermits"
+        size 0
         color "red"
     ]
     node [
         id 84609
-        size 0
         label "Richard Cottle"
+        size 0
         color "red"
     ]
     node [
         id 641666
-        size 1
         label "Troy Stetina"
+        size 1
         color "red"
     ]
     node [
         id 68227
-        size 52
         label "Led Zeppelin"
+        size 52
         color "red"
     ]
     node [
         id 19076
-        size 44
         label "Carl Perkins"
+        size 44
         color "red"
     ]
     node [
         id 1411718
-        size 2
         label "Allele"
+        size 2
         color "red"
     ]
     node [
         id 84618
-        size 1
         label "England"
+        size 1
         color "red"
     ]
     node [
         id 117388
-        size 21
         label "Bonnie Tyler"
+        size 21
         color "red"
     ]
     node [
         id 2034319
-        size 1
         label "Storm the Bay"
+        size 1
         color "red"
     ]
     node [
         id 3099281
-        size 0
         label "Trubetskoy"
+        size 0
         color "red"
     ]
     node [
         id 85102
-        size 13
         label "Slowdive"
+        size 13
         color "red"
     ]
     node [
         id 25029
-        size 8
         label "Eddie Vedder"
+        size 8
         color "red"
     ]
     node [
         id 117408
-        size 0
         label "Trent Dabbs"
+        size 0
         color "red"
     ]
     node [
         id 84650
-        size 19
         label "Public Image Limited"
+        size 19
         color "red"
     ]
     node [
         id 854699
-        size 9
         label "Pop Evil"
+        size 9
         color "red"
     ]
     node [
         id 1020218
-        size 3
         label "Disclosure"
+        size 3
         color "red"
     ]
     node [
         id 2804397
-        size 0
         label "La band del Brasiliano"
+        size 0
         color "red"
     ]
     node [
         id 4016814
-        size 2
         label "Public Access T.V."
+        size 2
         color "red"
     ]
     node [
         id 150191
-        size 4
         label "Timo Maas"
+        size 4
         color "red"
     ]
     node [
         id 19122
-        size 14
         label "Johnny Thunders"
+        size 14
         color "red"
     ]
     node [
         id 1362611
-        size 0
         label "Call US Forgotten"
+        size 0
         color "red"
     ]
     node [
         id 51892
-        size 1
         label "Björn Afzelius"
+        size 1
         color "red"
     ]
     node [
         id 227102
-        size 5
         label "YOURCODENAMEIS:MILO"
+        size 5
         color "red"
     ]
     node [
         id 232119
-        size 1
         label "Yngwie Malmsteen's Rising Force"
+        size 1
         color "red"
     ]
     node [
         id 576185
-        size 2
         label "Nhor"
+        size 2
         color "red"
     ]
     node [
         id 19133
-        size 8
         label "10 Years"
+        size 8
         color "red"
     ]
     node [
         id 2345664
-        size 0
         label "Billy Band"
+        size 0
         color "red"
     ]
     node [
         id 38688
-        size 1
         label "Gary Glitter"
+        size 1
         color "red"
     ]
     node [
         id 3934915
-        size 0
         label "Phantom Phunk"
+        size 0
         color "red"
     ]
     node [
         id 1346247
-        size 1
         label "NOCTURNAL BLOODLUST"
+        size 1
         color "red"
     ]
     node [
         id 2761
-        size 2
         label "Budgie"
+        size 2
         color "red"
     ]
     node [
         id 2762
-        size 25
         label "Siouxsie And The Banshees"
+        size 25
         color "red"
     ]
     node [
         id 2764
-        size 8
         label "Bobby Darin"
+        size 8
         color "red"
     ]
     node [
         id 71458
-        size 4
         label "Giants"
+        size 4
         color "red"
     ]
     node [
         id 84686
-        size 3
         label "Mike + The Mechanics"
+        size 3
         color "red"
     ]
     node [
         id 1198803
-        size 1
         label "Xmal Deutschland"
+        size 1
         color "red"
     ]
     node [
         id 3148502
-        size 3
         label "SayWeCanFly"
+        size 3
         color "red"
     ]
     node [
         id 854743
-        size 1
         label "Kelly Groucutt"
+        size 1
         color "red"
     ]
     node [
         id 35546
-        size 1
         label "The Residents"
+        size 1
         color "red"
     ]
     node [
         id 821979
-        size 1
         label "Shooting Star"
+        size 1
         color "red"
     ]
     node [
         id 723676
-        size 2
         label "Inepsy"
+        size 2
         color "red"
     ]
     node [
         id 1325951
-        size 0
         label "Titãs e Xutos & Pontapés"
+        size 0
         color "red"
     ]
     node [
         id 292645
-        size 17
         label "Theatre Of Tragedy"
+        size 17
         color "red"
     ]
     node [
         id 510690
-        size 15
         label "Samsas Traum"
+        size 15
         color "red"
     ]
     node [
         id 821988
-        size 2
         label "Box Of Frogs"
+        size 2
         color "red"
     ]
     node [
         id 1264358
-        size 2
         label "Slowburn"
+        size 2
         color "red"
     ]
     node [
         id 527084
-        size 4
         label "Fashion Police"
+        size 4
         color "red"
     ]
     node [
         id 123346
-        size 1
         label "Spoil Engine"
+        size 1
         color "red"
     ]
     node [
         id 101105
-        size 10
         label "The Idle Race"
+        size 10
         color "red"
     ]
     node [
         id 510706
-        size 7
         label "Dope Stars Inc."
+        size 7
         color "red"
     ]
     node [
         id 51962
-        size 2
         label "Bananarama"
+        size 2
         color "red"
     ]
     node [
         id 2812
-        size 9
         label "James Taylor"
+        size 9
         color "red"
     ]
     node [
         id 8661
-        size 2
         label "John Williams"
+        size 2
         color "red"
     ]
     node [
         id 1116929
-        size 7
         label "A Forest Of Stars"
+        size 7
         color "red"
     ]
     node [
         id 314115
-        size 8
         label "W.E.T."
+        size 8
         color "red"
     ]
     node [
         id 2648812
-        size 0
         label "Mark Alberts"
+        size 0
         color "red"
     ]
     node [
         id 2935558
-        size 2
         label "Starset"
+        size 2
         color "red"
     ]
     node [
         id 1395464
-        size 1
         label "Mythological Cold Towers"
+        size 1
         color "red"
     ]
     node [
         id 1395465
-        size 6
         label "Glorie"
+        size 6
         color "red"
     ]
     node [
         id 84746
-        size 36
         label "Genesis"
+        size 36
         color "red"
     ]
     node [
         id 2378507
-        size 0
         label "Sun Angle"
+        size 0
         color "red"
     ]
     node [
         id 2280208
-        size 0
         label "Great White Buffalo"
+        size 0
         color "red"
     ]
     node [
         id 674580
-        size 11
         label "ESO"
+        size 11
         color "red"
     ]
     node [
         id 1783598
-        size 0
         label "Easter Island"
+        size 0
         color "red"
     ]
     node [
         id 958937
-        size 7
         label "Fear Of Domination"
+        size 7
         color "red"
     ]
     node [
         id 854814
-        size 2
         label "Spys"
+        size 2
         color "red"
     ]
     node [
         id 576287
-        size 0
         label "Neil Gaiman"
+        size 0
         color "red"
     ]
     node [
         id 3033893
-        size 9
         label "It's Alive"
+        size 9
         color "red"
     ]
     node [
         id 5937
-        size 0
         label "John Sebastian"
+        size 0
         color "red"
     ]
     node [
         id 625452
-        size 0
         label "The Bridgeport Blues Rockers"
+        size 0
         color "red"
     ]
     node [
         id 84785
-        size 2
         label "Captain Beefheart"
+        size 2
         color "red"
     ]
     node [
         id 2165554
-        size 1
         label "At Sea"
+        size 1
         color "red"
     ]
     node [
         id 707380
-        size 25
         label "Unisonic"
+        size 25
         color "red"
     ]
     node [
         id 84792
-        size 0
         label "Daevid Allen"
+        size 0
         color "red"
     ]
     node [
         id 887609
-        size 6
         label "Frequency Drift"
+        size 6
         color "red"
     ]
     node [
         id 2875
-        size 2
         label "Lee Hazlewood"
+        size 2
         color "red"
     ]
     node [
         id 1026849
-        size 1
         label "The Tellers"
+        size 1
         color "red"
     ]
     node [
         id 4311870
-        size 0
         label "Greywind"
+        size 0
         color "red"
     ]
     node [
         id 19263
-        size 6
         label "Tony Hymas"
+        size 6
         color "red"
     ]
     node [
         id 101186
-        size 1
         label "King Kobra"
+        size 1
         color "red"
     ]
     node [
         id 1985348
-        size 2
         label "Stick Men"
+        size 2
         color "red"
     ]
     node [
         id 4852550
-        size 1
         label "Ed Sheeran"
+        size 1
         color "red"
     ]
     node [
         id 1854284
-        size 0
         label "Black Sun Ensemble"
+        size 0
         color "red"
     ]
     node [
         id 2893
-        size 4
         label "Calogero"
+        size 4
         color "red"
     ]
     node [
         id 84814
-        size 4
         label "Sanne Salomonsen"
+        size 4
         color "red"
     ]
     node [
         id 2899
-        size 10
         label "Tony Joe White"
+        size 10
         color "red"
     ]
     node [
         id 117589
-        size 0
         label "Tony Visconti"
+        size 0
         color "red"
     ]
     node [
         id 2116438
-        size 2
         label "Venus & Mars"
+        size 2
         color "red"
     ]
     node [
         id 756569
-        size 0
         label "Ted Poley"
+        size 0
         color "red"
     ]
     node [
         id 84826
-        size 0
         label "James Williamson"
+        size 0
         color "red"
     ]
     node [
         id 2542735
-        size 4
         label "Art of Shock"
+        size 4
         color "red"
     ]
     node [
         id 543582
-        size 3
         label "Kendrick Lamar"
+        size 3
         color "red"
     ]
     node [
         id 519312
-        size 3
         label "Смута"
+        size 3
         color "red"
     ]
     node [
         id 128827
-        size 10
         label "The Friday Night Boys"
+        size 10
         color "red"
     ]
     node [
         id 985956
-        size 2
         label "The Scene"
+        size 2
         color "red"
     ]
     node [
         id 33922
-        size 1
         label "The Monks"
+        size 1
         color "red"
     ]
     node [
         id 2968424
-        size 1
         label "The Cockroaches"
+        size 1
         color "red"
     ]
     node [
         id 2444138
-        size 2
         label "The BlackWhite"
+        size 2
         color "red"
     ]
     node [
         id 297837
-        size 5
         label "Billy J. Kramer"
+        size 5
         color "red"
     ]
     node [
         id 510830
-        size 2
         label "Exotica"
+        size 2
         color "red"
     ]
     node [
         id 576214
-        size 5
         label "A Life Divided"
+        size 5
         color "red"
     ]
     node [
         id 1919858
-        size 6
         label "Ascendant Stranger"
+        size 6
         color "red"
     ]
     node [
         id 84852
-        size 24
         label "Blind Guardian"
+        size 24
         color "red"
     ]
     node [
         id 674677
-        size 0
         label "Cowboy Mouth"
+        size 0
         color "red"
     ]
     node [
         id 101238
-        size 1
         label "Mellowdrone"
+        size 1
         color "red"
     ]
     node [
         id 74217
-        size 7
         label "Five For Fighting"
+        size 7
         color "red"
     ]
     node [
         id 333903
-        size 0
         label "Champs United"
+        size 0
         color "red"
     ]
     node [
         id 1987609
-        size 0
         label "Julia Massey & The Five Finger Discount"
+        size 0
         color "red"
     ]
     node [
         id 431935
-        size 11
         label "Falling In Reverse"
+        size 11
         color "red"
     ]
     node [
         id 1870716
-        size 13
         label "Bonney & Buzz"
+        size 13
         color "red"
     ]
     node [
         id 84863
-        size 7
         label "Can"
+        size 7
         color "red"
     ]
     node [
         id 2343403
-        size 1
         label "The Times"
+        size 1
         color "red"
     ]
     node [
         id 347012
-        size 11
         label "Severe Torture"
+        size 11
         color "red"
     ]
     node [
         id 3722118
-        size 0
         label "The One and Only PPL MVR"
+        size 0
         color "red"
     ]
     node [
         id 227137
-        size 12
         label "MyGrain"
+        size 12
         color "red"
     ]
     node [
         id 84873
-        size 1
         label "The Cross"
+        size 1
         color "red"
     ]
     node [
         id 84877
-        size 2
         label "Wilko Johnson"
+        size 2
         color "red"
     ]
     node [
         id 936847
-        size 15
         label "Marionette"
+        size 15
         color "red"
     ]
     node [
         id 19345
-        size 15
         label "Mike Oldfield"
+        size 15
         color "red"
     ]
     node [
         id 1166227
-        size 1
         label "Marion Crane"
+        size 1
         color "red"
     ]
     node [
         id 84885
-        size 5
         label "The Lightning Seeds"
+        size 5
         color "red"
     ]
     node [
         id 347030
-        size 14
         label "Thulcandra"
+        size 14
         color "red"
     ]
     node [
         id 84889
-        size 4
         label "Lindisfarne"
+        size 4
         color "red"
     ]
     node [
         id 68507
-        size 0
         label "Bel Canto"
+        size 0
         color "red"
     ]
     node [
         id 297890
-        size 27
         label "Saturate"
+        size 27
         color "red"
     ]
     node [
         id 415274
-        size 0
         label "SX-10"
+        size 0
         color "red"
     ]
     node [
         id 494500
-        size 0
         label "Greenland Whalefishers"
+        size 0
         color "red"
     ]
     node [
         id 576421
-        size 7
         label "Mercenary"
+        size 7
         color "red"
     ]
     node [
         id 297895
-        size 5
         label "That Handsome Devil"
+        size 5
         color "red"
     ]
     node [
         id 117672
-        size 5
         label "Family Force 5"
+        size 5
         color "red"
     ]
     node [
         id 297897
-        size 0
         label "Flood"
+        size 0
         color "red"
     ]
     node [
         id 598514
-        size 0
         label "State Far Better"
+        size 0
         color "red"
     ]
     node [
         id 330670
-        size 4
         label "The Reds"
+        size 4
         color "red"
     ]
     node [
         id 84912
-        size 1
         label "Emerson"
+        size 1
         color "red"
     ]
     node [
         id 789426
-        size 0
         label "Viva La Rock"
+        size 0
         color "red"
     ]
     node [
         id 524787
-        size 5
         label "REFLEXION"
+        size 5
         color "red"
     ]
     node [
         id 19383
-        size 5
         label "Derek & The Dominos"
+        size 5
         color "red"
     ]
     node [
         id 936888
-        size 2
         label "Division Alpha"
+        size 2
         color "red"
     ]
     node [
         id 1936314
-        size 4
         label "Devin Williams"
+        size 4
         color "red"
     ]
     node [
         id 3005
-        size 13
         label "Mando Diao"
+        size 13
         color "red"
     ]
     node [
         id 232608
-        size 6
         label "AWOLNATION"
+        size 6
         color "red"
     ]
     node [
         id 150468
-        size 8
         label "Your Demise"
+        size 8
         color "red"
     ]
     node [
         id 641989
-        size 31
         label "IZZ"
+        size 31
         color "red"
     ]
     node [
         id 68551
-        size 7
         label "Cactus"
+        size 7
         color "red"
     ]
     node [
         id 3017
-        size 0
         label "Shooter Jennings"
+        size 0
         color "red"
     ]
     node [
         id 3019
-        size 13
         label "Mark Knopfler"
+        size 13
         color "red"
     ]
     node [
         id 2460624
-        size 0
         label "Steel Wolf"
+        size 0
         color "red"
     ]
     node [
         id 3025
-        size 5
         label "Kent"
+        size 5
         color "red"
     ]
     node [
         id 199634
-        size 3
         label "Jeff Healey"
+        size 3
         color "red"
     ]
     node [
         id 658390
-        size 1
         label "I Killed The Prom Queen"
+        size 1
         color "red"
     ]
     node [
         id 1625048
-        size 1
         label "Juicy Lucy"
+        size 1
         color "red"
     ]
     node [
         id 4049881
-        size 0
         label "Lola Coca"
+        size 0
         color "red"
     ]
     node [
         id 3034
-        size 12
         label "INXS"
+        size 12
         color "red"
     ]
     node [
         id 2444252
-        size 0
         label "Стиз"
+        size 0
         color "red"
     ]
     node [
         id 1985503
-        size 1
         label "Scavenger"
+        size 1
         color "red"
     ]
     node [
         id 68577
-        size 7
         label "Badfinger"
+        size 7
         color "red"
     ]
     node [
         id 1629704
-        size 5
         label "Numic"
+        size 5
         color "red"
     ]
     node [
         id 150504
-        size 25
         label "The Searchers"
+        size 25
         color "red"
     ]
     node [
         id 84969
-        size 3
         label "The Auteurs"
+        size 3
         color "red"
     ]
     node [
         id 84970
-        size 1
         label "Luke Haines"
+        size 1
         color "red"
     ]
     node [
         id 1281003
-        size 0
         label "Big In Japan"
+        size 0
         color "red"
     ]
     node [
         id 84973
-        size 2
         label "Warren Haynes"
+        size 2
         color "red"
     ]
     node [
         id 1608688
-        size 2
         label "Mylets"
+        size 2
         color "red"
     ]
     node [
         id 723953
-        size 14
         label "Chastain"
+        size 14
         color "red"
     ]
     node [
         id 2903028
-        size 0
         label "Million Dead"
+        size 0
         color "red"
     ]
     node [
         id 150517
-        size 4
         label "Will Young"
+        size 4
         color "red"
     ]
     node [
         id 855032
-        size 2
         label "Daemonia Nymphe"
+        size 2
         color "red"
     ]
     node [
         id 314362
-        size 23
         label "Svartsot"
+        size 23
         color "red"
     ]
     node [
         id 330747
-        size 23
         label "Deathstars"
+        size 23
         color "red"
     ]
     node [
         id 527357
-        size 0
         label "Tarantula"
+        size 0
         color "red"
     ]
     node [
         id 314366
-        size 5
         label "Rebel Meets Rebel"
+        size 5
         color "red"
     ]
     node [
         id 1723391
-        size 0
         label "Coal & Crayon"
+        size 0
         color "red"
     ]
     node [
         id 658437
-        size 20
         label "Palisades"
+        size 20
         color "red"
     ]
     node [
         id 3078
-        size 0
         label "Dave Clark"
+        size 0
         color "red"
     ]
     node [
         id 363527
-        size 1
         label "Superette"
+        size 1
         color "red"
     ]
     node [
         id 101395
-        size 1
         label "Mark Lindsay"
+        size 1
         color "red"
     ]
     node [
         id 3093
-        size 4
         label "The Edge"
+        size 4
         color "red"
     ]
     node [
         id 3094
-        size 6
         label "Leon Russell"
+        size 6
         color "red"
     ]
     node [
         id 2903065
-        size 0
         label "Sophie Madeleine"
+        size 0
         color "red"
     ]
     node [
         id 150558
-        size 1
         label "Nick Johnston"
+        size 1
         color "red"
     ]
     node [
         id 3104
-        size 4
         label "Robert Cray"
+        size 4
         color "red"
     ]
     node [
         id 265251
-        size 6
         label "Cuff"
+        size 6
         color "red"
     ]
     node [
         id 199718
-        size 5
         label "Jesus On Extasy"
+        size 5
         color "red"
     ]
     node [
         id 1739821
-        size 1
         label "Discount Guns"
+        size 1
         color "red"
     ]
     node [
         id 3120
-        size 10
         label "Freddie Mercury"
+        size 10
         color "red"
     ]
     node [
         id 3122
-        size 15
         label "Roger Taylor"
+        size 15
         color "red"
     ]
     node [
         id 3123
-        size 15
         label "Brian May"
+        size 15
         color "red"
     ]
     node [
         id 396340
-        size 0
         label "The Golden Palominos"
+        size 0
         color "red"
     ]
     node [
         id 2100277
-        size 8
         label "Shovelhead"
+        size 8
         color "red"
     ]
     node [
         id 330810
-        size 1
         label "Dawn of Relic"
+        size 1
         color "red"
     ]
     node [
         id 1887293
-        size 5
         label "Ideamen"
+        size 5
         color "red"
     ]
     node [
         id 85057
-        size 0
         label "Chris Spedding"
+        size 0
         color "red"
     ]
     node [
         id 347202
-        size 11
         label "Imperium Dekadenz"
+        size 11
         color "red"
     ]
     node [
         id 2427973
-        size 0
         label "Julia Vero"
+        size 0
         color "red"
     ]
     node [
         id 298055
-        size 5
         label "Mortal Sin"
+        size 5
         color "red"
     ]
     node [
         id 35912
-        size 2
         label "Gene Vincent & His Blue Caps"
+        size 2
         color "red"
     ]
     node [
         id 314441
-        size 2
         label "Blackfield"
+        size 2
         color "red"
     ]
     node [
         id 1870923
-        size 2
         label "Kreyson"
+        size 2
         color "red"
     ]
     node [
         id 61451
-        size 4
         label "Afflicted"
+        size 4
         color "red"
     ]
     node [
         id 68686
-        size 8
         label "Britny Fox"
+        size 8
         color "red"
     ]
     node [
         id 1204749
-        size 15
         label "Wo Fat"
+        size 15
         color "red"
     ]
     node [
         id 1477713
-        size 12
         label "Ghost"
+        size 12
         color "red"
     ]
     node [
         id 1215570
-        size 1
         label "Vulkán"
+        size 1
         color "red"
     ]
     node [
         id 3323747
-        size 3
         label "The Armed"
+        size 3
         color "red"
     ]
     node [
         id 117845
-        size 1
         label "Thurston Harris"
+        size 1
         color "red"
     ]
     node [
         id 756822
-        size 1
         label "Call Me No One"
+        size 1
         color "red"
     ]
     node [
         id 19641
-        size 6
         label "Taj Mahal"
+        size 6
         color "red"
     ]
     node [
         id 117853
-        size 0
         label "Ral Donner"
+        size 0
         color "red"
     ]
     node [
         id 199779
-        size 11
         label "Eisheilig"
+        size 11
         color "red"
     ]
     node [
         id 265320
-        size 7
         label "Unheilig"
+        size 7
         color "red"
     ]
     node [
         id 494780
-        size 12
         label "The BopCats"
+        size 12
         color "red"
     ]
     node [
         id 19565
-        size 19
         label "Johnny Burnette"
+        size 19
         color "red"
     ]
     node [
         id 3182
-        size 2
         label "John McLaughlin"
+        size 2
         color "red"
     ]
     node [
         id 1576048
-        size 11
         label "Godless Wicked Creeps"
+        size 11
         color "red"
     ]
     node [
         id 560640
-        size 0
         label "Golden Dawn"
+        size 0
         color "red"
     ]
     node [
         id 2400787
-        size 0
         label "Hell Fire Heathens"
+        size 0
         color "red"
     ]
     node [
         id 1576055
-        size 8
         label "The Hellfreaks"
+        size 8
         color "red"
     ]
     node [
         id 199802
-        size 16
         label "Letzte Instanz"
+        size 16
         color "red"
     ]
     node [
         id 576635
-        size 21
         label "Egypt Central"
+        size 21
         color "red"
     ]
     node [
         id 855168
-        size 5
         label "Hellbats"
+        size 5
         color "red"
     ]
     node [
         id 609414
-        size 0
         label "Kansas Featuring The London Symphony Orchestra"
+        size 0
         color "red"
     ]
     node [
         id 3731
-        size 1
         label "Paul Carrack"
+        size 1
         color "red"
     ]
     node [
         id 494735
-        size 4
         label "Jinx Jones"
+        size 4
         color "red"
     ]
     node [
         id 298129
-        size 0
         label "Japanese Motors"
+        size 0
         color "red"
     ]
     node [
         id 784238
-        size 1
         label "Koritni"
+        size 1
         color "red"
     ]
     node [
         id 2155033
-        size 19
         label "Mad Margritt"
+        size 19
         color "red"
     ]
     node [
         id 1789080
-        size 0
         label "November Blessing"
+        size 0
         color "red"
     ]
     node [
         id 2428058
-        size 1
         label "Jaymes Young"
+        size 1
         color "red"
     ]
     node [
         id 1002654
-        size 0
         label "Zaz"
+        size 0
         color "red"
     ]
     node [
         id 85152
-        size 27
         label "Gerry & The Pacemakers"
+        size 27
         color "red"
     ]
     node [
         id 188955
-        size 3
         label "Kensington"
+        size 3
         color "red"
     ]
     node [
         id 68773
-        size 0
         label "The Adventures"
+        size 0
         color "red"
     ]
     node [
         id 232620
-        size 3
         label "Wendy James"
+        size 3
         color "red"
     ]
     node [
         id 134317
-        size 17
         label "Kyuss"
+        size 17
         color "red"
     ]
     node [
         id 19630
-        size 3
         label "Johnny Hallyday"
+        size 3
         color "red"
     ]
     node [
         id 420193
-        size 0
         label "The Belle Brigade"
+        size 0
         color "red"
     ]
     node [
         id 199858
-        size 1
         label "Qntal"
+        size 1
         color "red"
     ]
     node [
         id 134323
-        size 1
         label "John Garcia"
+        size 1
         color "red"
     ]
     node [
         id 2624692
-        size 3
         label "Emreaydın"
+        size 3
         color "red"
     ]
     node [
         id 150709
-        size 12
         label "The Dillinger Escape Plan"
+        size 12
         color "red"
     ]
     node [
         id 1566971
-        size 0
         label "Greg Hoy"
+        size 0
         color "red"
     ]
     node [
         id 150712
-        size 4
         label "Lower Definition"
+        size 4
         color "red"
     ]
     node [
         id 298169
-        size 0
         label "Gene Summers"
+        size 0
         color "red"
     ]
     node [
         id 1313979
-        size 1
         label "Providence"
+        size 1
         color "red"
     ]
     node [
         id 1723580
-        size 7
         label "Count Raven"
+        size 7
         color "red"
     ]
     node [
         id 2428093
-        size 2
         label "Dead Letter Circus"
+        size 2
         color "red"
     ]
     node [
         id 30581
-        size 0
         label "Days Of The New"
+        size 0
         color "red"
     ]
     node [
         id 150722
-        size 9
         label "Breathe Carolina"
+        size 9
         color "red"
     ]
     node [
         id 150723
-        size 30
         label "Attack Attack!"
+        size 30
         color "red"
     ]
     node [
         id 150724
-        size 14
         label "In Fear And Faith"
+        size 14
         color "red"
     ]
     node [
         id 150725
-        size 15
         label "Of Machines"
+        size 15
         color "red"
     ]
     node [
         id 3270
-        size 10
         label "Robert Palmer"
+        size 10
         color "red"
     ]
     node [
         id 3067079
-        size 0
         label "Radio Live Masters Band"
+        size 0
         color "red"
     ]
     node [
         id 1821899
-        size 3
         label "The Panda Resistance"
+        size 3
         color "red"
     ]
     node [
         id 52431
-        size 7
         label "The Sisters of Mercy"
+        size 7
         color "red"
     ]
     node [
         id 19669
-        size 0
         label "Tom Martin"
+        size 0
         color "red"
     ]
     node [
         id 576727
-        size 16
         label "Secret Sphere"
+        size 16
         color "red"
     ]
     node [
         id 150747
-        size 1
         label "Crocodiles"
+        size 1
         color "red"
     ]
     node [
         id 3293
-        size 9
         label "Neil Sedaka"
+        size 9
         color "red"
     ]
     node [
         id 904414
-        size 28
         label "Winter Severity Index"
+        size 28
         color "red"
     ]
     node [
         id 1297633
-        size 1
         label "Vitamin Piano"
+        size 1
         color "red"
     ]
     node [
         id 1445090
-        size 3
         label "Black Angel"
+        size 3
         color "red"
     ]
     node [
         id 265443
-        size 3
         label "Willy and his Giants"
+        size 3
         color "red"
     ]
     node [
         id 150757
-        size 4
         label "Super Furry Animals"
+        size 4
         color "red"
     ]
     node [
         id 3263721
-        size 1
         label "The Fall of Troy"
+        size 1
         color "red"
     ]
     node [
         id 410151
-        size 0
         label "OFF!"
+        size 0
         color "red"
     ]
     node [
         id 1854700
-        size 2
         label "Sacred Heart"
+        size 2
         color "red"
     ]
     node [
         id 109778
-        size 8
         label "Peter Doherty"
+        size 8
         color "red"
     ]
     node [
         id 576751
-        size 10
         label "Enslaved"
+        size 10
         color "red"
     ]
     node [
         id 101616
-        size 9
         label "Smile Empty Soul"
+        size 9
         color "red"
     ]
     node [
         id 740593
-        size 0
         label "BeatMakers"
+        size 0
         color "red"
     ]
     node [
         id 3314
-        size 9
         label "Paul Anka"
+        size 9
         color "red"
     ]
     node [
         id 429299
-        size 0
         label "Sharks"
+        size 0
         color "red"
     ]
     node [
         id 675060
-        size 4
         label "Callejeros"
+        size 4
         color "red"
     ]
     node [
         id 292734
-        size 18
         label "Sinister"
+        size 18
         color "red"
     ]
     node [
         id 68854
-        size 1
         label "Weaver"
+        size 1
         color "red"
     ]
     node [
         id 150775
-        size 15
         label "The Horrors"
+        size 15
         color "red"
     ]
     node [
         id 1019128
-        size 2
         label "Church of Misery"
+        size 2
         color "red"
     ]
     node [
         id 675068
-        size 12
         label "Imagine Dragons"
+        size 12
         color "red"
     ]
     node [
         id 265470
-        size 0
         label "The Tielman Brothers"
+        size 0
         color "red"
     ]
     node [
         id 87937
-        size 2
         label "The Showdown"
+        size 2
         color "red"
     ]
     node [
         id 576779
-        size 14
         label "Cipher System"
+        size 14
         color "red"
     ]
     node [
         id 1275778
-        size 4
         label "Serenity In Murder"
+        size 4
         color "red"
     ]
     node [
         id 609552
-        size 3
         label "P.K. 14"
+        size 3
         color "red"
     ]
     node [
         id 3347
-        size 5
         label "Peter Bjorn And John"
+        size 5
         color "red"
     ]
     node [
         id 232727
-        size 12
         label "Gentle Giant"
+        size 12
         color "red"
     ]
     node [
         id 1592602
-        size 0
         label "Within Reason"
+        size 0
         color "red"
     ]
     node [
         id 1330462
-        size 6
         label "Rob Laufer"
+        size 6
         color "red"
     ]
     node [
         id 3359
-        size 2
         label "Corrigan Brothers"
+        size 2
         color "red"
     ]
     node [
         id 134363
-        size 0
         label "Dramarama"
+        size 0
         color "red"
     ]
     node [
         id 265509
-        size 1
         label "The Jaguars"
+        size 1
         color "red"
     ]
     node [
         id 265510
-        size 0
         label "The Jokers"
+        size 0
         color "red"
     ]
     node [
         id 1737265
-        size 0
         label "Randy Mcstine"
+        size 0
         color "red"
     ]
     node [
         id 2870571
-        size 5
         label "Danger Mouse & Daniele Luppi"
+        size 5
         color "red"
     ]
     node [
         id 3372
-        size 15
         label "Steve Winwood"
+        size 15
         color "red"
     ]
     node [
         id 119591
-        size 10
         label "Death From Above 1979"
+        size 10
         color "red"
     ]
     node [
         id 2903358
-        size 0
         label "Srebrna Krila"
+        size 0
         color "red"
     ]
     node [
         id 1116023
-        size 1
         label "Chaosweaver"
+        size 1
         color "red"
     ]
     node [
         id 347459
-        size 1
         label "KolPa"
+        size 1
         color "red"
     ]
     node [
         id 3396
-        size 16
         label "George Harrison"
+        size 16
         color "red"
     ]
     node [
         id 168038
-        size 2
         label "Alabama 3"
+        size 2
         color "red"
     ]
     node [
         id 339169
-        size 1
         label "Terry Noland"
+        size 1
         color "red"
     ]
     node [
         id 3400
-        size 17
         label "PJ Harvey"
+        size 17
         color "red"
     ]
     node [
         id 3401
-        size 0
         label "John Parish"
+        size 0
         color "red"
     ]
     node [
         id 3402
-        size 16
         label "Yeah Yeah Yeahs"
+        size 16
         color "red"
     ]
     node [
         id 19787
-        size 2
         label "Tracey Thorn"
+        size 2
         color "red"
     ]
     node [
         id 477607
-        size 0
         label "Dezperadoz"
+        size 0
         color "red"
     ]
     node [
         id 3247437
-        size 3
         label "Leap Day"
+        size 3
         color "red"
     ]
     node [
         id 1281358
-        size 0
         label "Anoice"
+        size 0
         color "red"
     ]
     node [
         id 249167
-        size 0
         label "Fabian"
+        size 0
         color "red"
     ]
     node [
         id 2264400
-        size 1
         label "The Croup"
+        size 1
         color "red"
     ]
     node [
         id 118097
-        size 11
         label "Since October"
+        size 11
         color "red"
     ]
     node [
         id 347474
-        size 7
         label "Neurosis"
+        size 7
         color "red"
     ]
     node [
         id 281827
-        size 0
         label "Bots"
+        size 0
         color "red"
     ]
     node [
         id 1543508
-        size 17
         label "Lost Society"
+        size 17
         color "red"
     ]
     node [
         id 14222
-        size 19
         label "Supertramp"
+        size 19
         color "red"
     ]
     node [
         id 200022
-        size 0
         label "The Gregg Allman Band"
+        size 0
         color "red"
     ]
     node [
         id 429402
-        size 13
         label "The Plot In You"
+        size 13
         color "red"
     ]
     node [
         id 773469
-        size 2
         label "Sacred Mother Tongue"
+        size 2
         color "red"
     ]
     node [
         id 478558
-        size 3
         label "Witchcraft"
+        size 3
         color "red"
     ]
     node [
         id 224485
-        size 0
         label "Dan Hicks & His Hot Licks"
+        size 0
         color "red"
     ]
     node [
         id 3424
-        size 7
         label "Frankie Valli And The Four Seasons"
+        size 7
         color "red"
     ]
     node [
         id 101740
-        size 4
         label "Soft Machine"
+        size 4
         color "red"
     ]
     node [
         id 101741
-        size 6
         label "Stryper"
+        size 6
         color "red"
     ]
     node [
         id 265583
-        size 15
         label "The Meteors"
+        size 15
         color "red"
     ]
     node [
         id 757104
-        size 1
         label "Raglans"
+        size 1
         color "red"
     ]
     node [
         id 2764008
-        size 3
         label "Albert 2 Stone"
+        size 3
         color "red"
     ]
     node [
         id 68978
-        size 22
         label "Pretenders"
+        size 22
         color "red"
     ]
     node [
         id 1248629
-        size 0
         label "Edgy"
+        size 0
         color "red"
     ]
     node [
         id 249210
-        size 0
         label "Jason Richardson"
+        size 0
         color "red"
     ]
     node [
         id 593280
-        size 0
         label "Rocket From The Tombs"
+        size 0
         color "red"
     ]
     node [
         id 593282
-        size 2
         label "Wooden Wand"
+        size 2
         color "red"
     ]
     node [
         id 347524
-        size 0
         label "Siegfried"
+        size 0
         color "red"
     ]
     node [
         id 642284
-        size 0
         label "Elysian Fields"
+        size 0
         color "red"
     ]
     node [
         id 740747
-        size 8
         label "Lush"
+        size 8
         color "red"
     ]
     node [
         id 658828
-        size 0
         label "Evergreen Terrace"
+        size 0
         color "red"
     ]
     node [
         id 1772945
-        size 1
         label "Gnarls Oakley"
+        size 1
         color "red"
     ]
     node [
         id 2821522
-        size 33
         label "Classic Rock"
+        size 33
         color "red"
     ]
     node [
         id 69012
-        size 0
         label "Poe"
+        size 0
         color "red"
     ]
     node [
         id 62310
-        size 1
         label "Revolver"
+        size 1
         color "red"
     ]
     node [
         id 265622
-        size 14
         label "The Atlantics"
+        size 14
         color "red"
     ]
     node [
         id 85404
-        size 3
         label "Nash"
+        size 3
         color "red"
     ]
     node [
         id 789920
-        size 4
         label "Hate"
+        size 4
         color "red"
     ]
     node [
         id 314786
-        size 4
         label "Bile"
+        size 4
         color "red"
     ]
     node [
         id 757156
-        size 8
         label "Stars In Stereo"
+        size 8
         color "red"
     ]
     node [
         id 1723813
-        size 1
         label "Russkaja"
+        size 1
         color "red"
     ]
     node [
         id 19880
-        size 18
         label "The Mars Volta"
+        size 18
         color "red"
     ]
     node [
         id 593323
-        size 0
         label "Thee Attacks"
+        size 0
         color "red"
     ]
     node [
         id 298412
-        size 7
         label "Jean-Pierre Danel"
+        size 7
         color "red"
     ]
     node [
         id 1150382
-        size 0
         label "Carly Comando"
+        size 0
         color "red"
     ]
     node [
         id 19889
-        size 3
         label "Burton"
+        size 3
         color "red"
     ]
     node [
         id 331188
-        size 13
         label "The Beatles Revival Band"
+        size 13
         color "red"
     ]
     node [
         id 1641911
-        size 3
         label "Stephen Wheel"
+        size 3
         color "red"
     ]
     node [
         id 1510841
-        size 4
         label "Bullet Train Blast"
+        size 4
         color "red"
     ]
     node [
         id 36282
-        size 13
         label "Lifehouse"
+        size 13
         color "red"
     ]
     node [
         id 3518
-        size 2
         label "N.E.R.D."
+        size 2
         color "red"
     ]
     node [
         id 1150400
-        size 12
         label "Mad Caddies"
+        size 12
         color "red"
     ]
     node [
         id 331201
-        size 0
         label "Exhibition"
+        size 0
         color "red"
     ]
     node [
         id 1084866
-        size 4
         label "Tim Hecker"
+        size 4
         color "red"
     ]
     node [
         id 4609953
-        size 0
         label "Ghost of Mary"
+        size 0
         color "red"
     ]
     node [
         id 2952648
-        size 0
         label "WeAreHarlot"
+        size 0
         color "red"
     ]
     node [
         id 101835
-        size 0
         label "Martha Davis"
+        size 0
         color "red"
     ]
     node [
         id 232909
-        size 11
         label "Tony Sheridan"
+        size 11
         color "red"
     ]
     node [
         id 3395022
-        size 3
         label "Interstate Blues"
+        size 3
         color "red"
     ]
     node [
         id 560591
-        size 0
         label "French Films"
+        size 0
         color "red"
     ]
     node [
         id 183762
-        size 4
         label "The Vaughan Brothers"
+        size 4
         color "red"
     ]
     node [
         id 309155
-        size 0
         label "Vinny Appice"
+        size 0
         color "red"
     ]
     node [
         id 691670
-        size 1
         label "Doğa"
+        size 1
         color "red"
     ]
     node [
         id 265687
-        size 13
         label "Blue Explosion"
+        size 13
         color "red"
     ]
     node [
         id 265689
-        size 13
         label "The Sky Devils"
+        size 13
         color "red"
     ]
     node [
         id 3116507
-        size 0
         label "Matty Mullins"
+        size 0
         color "red"
     ]
     node [
         id 1560028
-        size 0
         label "We Were Promised Jetpacks"
+        size 0
         color "red"
     ]
     node [
         id 265693
-        size 3
         label "Shadoogie"
+        size 3
         color "red"
     ]
     node [
         id 298462
-        size 3
         label "Klone"
+        size 3
         color "red"
     ]
     node [
         id 3554
-        size 49
         label "Ian Gillan"
+        size 49
         color "red"
     ]
     node [
         id 1330661
-        size 4
         label "Violet Indiana"
+        size 4
         color "red"
     ]
     node [
         id 265703
-        size 3
         label "The Astronauts"
+        size 3
         color "red"
     ]
     node [
         id 642536
-        size 0
         label "Hortus Animae"
+        size 0
         color "red"
     ]
     node [
         id 134635
-        size 1
         label "Captain Beyond"
+        size 1
         color "red"
     ]
     node [
         id 17031
-        size 1
         label "Powderfinger"
+        size 1
         color "red"
     ]
     node [
         id 265709
-        size 0
         label "The Goldfingers"
+        size 0
         color "red"
     ]
     node [
         id 3567
-        size 5
         label "Kevin Ayers"
+        size 5
         color "red"
     ]
     node [
         id 19952
-        size 5
         label "Robert Gordon"
+        size 5
         color "red"
     ]
     node [
         id 19953
-        size 7
         label "The Fall"
+        size 7
         color "red"
     ]
     node [
         id 69106
-        size 3
         label "Hell"
+        size 3
         color "red"
     ]
     node [
         id 610606
-        size 0
         label "Fatal Error"
+        size 0
         color "red"
     ]
     node [
         id 3573
-        size 6
         label "Robert Wyatt"
+        size 6
         color "red"
     ]
     node [
         id 265719
-        size 6
         label "The Youngers"
+        size 6
         color "red"
     ]
     node [
         id 331256
-        size 7
         label "Make Good Your Escape"
+        size 7
         color "red"
     ]
     node [
         id 404735
-        size 2
         label "Rock'n'Raw Bottled Band"
+        size 2
         color "red"
     ]
     node [
         id 265724
-        size 1
         label "The Charades"
+        size 1
         color "red"
     ]
     node [
         id 3581
-        size 5
         label "Tears For Fears"
+        size 5
         color "red"
     ]
     node [
         id 265728
-        size 0
         label "Burt Blanca"
+        size 0
         color "red"
     ]
     node [
         id 2444801
-        size 6
         label "HARDBONE"
+        size 6
         color "red"
     ]
     node [
         id 3588
-        size 2
         label "David Palmer"
+        size 2
         color "red"
     ]
     node [
         id 2826838
-        size 5
         label "Alive Like Me"
+        size 5
         color "red"
     ]
     node [
         id 675334
-        size 13
         label "Yashin"
+        size 13
         color "red"
     ]
     node [
         id 298503
-        size 1
         label "Classic Rock Heroes"
+        size 1
         color "red"
     ]
     node [
         id 265736
-        size 0
         label "Pipeline ' 61"
+        size 0
         color "red"
     ]
     node [
         id 265738
-        size 0
         label "Of Course"
+        size 0
         color "red"
     ]
     node [
         id 265739
-        size 2
         label "Kaukomaa"
+        size 2
         color "red"
     ]
     node [
         id 1199629
-        size 8
         label "Helms Alee"
+        size 8
         color "red"
     ]
     node [
         id 151055
-        size 10
         label "Riot"
+        size 10
         color "red"
     ]
     node [
         id 151056
-        size 7
         label "The Groundhogs"
+        size 7
         color "red"
     ]
     node [
         id 265745
-        size 6
         label "Happy Times"
+        size 6
         color "red"
     ]
     node [
         id 1887762
-        size 4
         label "Anarchy Club"
+        size 4
         color "red"
     ]
     node [
         id 642581
-        size 0
         label "Burden Brothers"
+        size 0
         color "red"
     ]
     node [
         id 1232406
-        size 0
         label "The Blades"
+        size 0
         color "red"
     ]
     node [
         id 63407
-        size 6
         label "The Enemy"
+        size 6
         color "red"
     ]
     node [
         id 118302
-        size 0
         label "The Honeycombs"
+        size 0
         color "red"
     ]
     node [
         id 380448
-        size 9
         label "Shadow Circus"
+        size 9
         color "red"
     ]
     node [
         id 2690593
-        size 0
         label "Lord Huron"
+        size 0
         color "red"
     ]
     node [
         id 183842
-        size 4
         label "Bruce Springsteen & The E Street Band"
+        size 4
         color "red"
     ]
     node [
         id 609831
-        size 0
         label "The Strays"
+        size 0
         color "red"
     ]
     node [
         id 298537
-        size 5
         label "Asmegin"
+        size 5
         color "red"
     ]
     node [
         id 20010
-        size 10
         label "Bee Gees"
+        size 10
         color "red"
     ]
     node [
         id 20014
-        size 1
         label "David Gordon"
+        size 1
         color "red"
     ]
     node [
         id 3633
-        size 17
         label "3 Doors Down"
+        size 17
         color "red"
     ]
     node [
         id 85555
-        size 1
         label "Gene"
+        size 1
         color "red"
     ]
     node [
         id 380468
-        size 18
         label "Tides Of Man"
+        size 18
         color "red"
     ]
     node [
         id 1375821
-        size 4
         label "Big Something"
+        size 4
         color "red"
     ]
     node [
         id 3639
-        size 21
         label "Free"
+        size 21
         color "red"
     ]
     node [
         id 3640
-        size 1
         label "Simon Kirke"
+        size 1
         color "red"
     ]
     node [
         id 3643
-        size 7
         label "Paul Rodgers"
+        size 7
         color "red"
     ]
     node [
         id 3645
-        size 2
         label "Paul Kossoff"
+        size 2
         color "red"
     ]
     node [
         id 36415
-        size 0
         label "Don Felder"
+        size 0
         color "red"
     ]
     node [
         id 560705
-        size 1
         label "Forlorn"
+        size 1
         color "red"
     ]
     node [
         id 413258
-        size 6
         label "Dollhouse"
+        size 6
         color "red"
     ]
     node [
         id 413260
-        size 9
         label "Liv Kristine"
+        size 9
         color "red"
     ]
     node [
         id 1265229
-        size 3
         label "Ghoul"
+        size 3
         color "red"
     ]
     node [
         id 560722
-        size 13
         label "Artas"
+        size 13
         color "red"
     ]
     node [
         id 200276
-        size 0
         label "The Servant"
+        size 0
         color "red"
     ]
     node [
         id 101973
-        size 22
         label "Nick Cave & The Bad Seeds"
+        size 22
         color "red"
     ]
     node [
         id 30649
-        size 2
         label "Bliss"
+        size 2
         color "red"
     ]
     node [
         id 360195
-        size 0
         label "Salt"
+        size 0
         color "red"
     ]
     node [
         id 773722
-        size 5
         label "One Minute Silence"
+        size 5
         color "red"
     ]
     node [
         id 249436
-        size 11
         label "Mädness"
+        size 11
         color "red"
     ]
     node [
         id 183902
-        size 2
         label "Infectious Grooves"
+        size 2
         color "red"
     ]
     node [
         id 314976
-        size 1
         label "Griffin House"
+        size 1
         color "red"
     ]
     node [
         id 1867046
-        size 0
         label "The Revivalists"
+        size 0
         color "red"
     ]
     node [
         id 1150564
-        size 2
         label "the string cheese incident"
+        size 2
         color "red"
     ]
     node [
         id 2608744
-        size 0
         label "Party Rocker"
+        size 0
         color "red"
     ]
     node [
         id 106518
-        size 1
         label "Sophie B. Hawkins"
+        size 1
         color "red"
     ]
     node [
         id 233068
-        size 6
         label "Van She"
+        size 6
         color "red"
     ]
     node [
         id 265839
-        size 7
         label "Hibria"
+        size 7
         color "red"
     ]
     node [
         id 626293
-        size 2
         label "Lucky Bastardz"
+        size 2
         color "red"
     ]
     node [
         id 104326
-        size 0
         label "Michael Angelo"
+        size 0
         color "red"
     ]
     node [
         id 314999
-        size 0
         label "Libretto"
+        size 0
         color "red"
     ]
     node [
         id 1347193
-        size 1
         label "Kultur Shock"
+        size 1
         color "red"
     ]
     node [
         id 2068092
-        size 1
         label "Brett Bixby"
+        size 1
         color "red"
     ]
     node [
         id 3709
-        size 8
         label "David Byrne"
+        size 8
         color "red"
     ]
     node [
         id 650517
-        size 0
         label "Red Hot Chilli Pipers"
+        size 0
         color "red"
     ]
     node [
         id 265856
-        size 1
         label "Castanets"
+        size 1
         color "red"
     ]
     node [
         id 380547
-        size 0
         label "Destruction of a Rose"
+        size 0
         color "red"
     ]
     node [
         id 659077
-        size 16
         label "First Blood"
+        size 16
         color "red"
     ]
     node [
         id 1642119
-        size 21
         label "Rishloo"
+        size 21
         color "red"
     ]
     node [
         id 544392
-        size 4
         label "Der Bote"
+        size 4
         color "red"
     ]
     node [
         id 183948
-        size 16
         label "Warrant"
+        size 16
         color "red"
     ]
     node [
         id 85645
-        size 10
         label "Dr. Feelgood"
+        size 10
         color "red"
     ]
     node [
         id 347792
-        size 6
         label "Avalanch"
+        size 6
         color "red"
     ]
     node [
         id 183954
-        size 0
         label "After The Fire"
+        size 0
         color "red"
     ]
     node [
         id 183955
-        size 2
         label "Peter Banks"
+        size 2
         color "red"
     ]
     node [
         id 85653
-        size 2
         label "Mickey Jupp"
+        size 2
         color "red"
     ]
     node [
         id 85655
-        size 0
         label "Johnny Guitar"
+        size 0
         color "red"
     ]
     node [
         id 1876591
-        size 1
         label "The Pumps"
+        size 1
         color "red"
     ]
     node [
         id 1248924
-        size 9
         label "Cornbread Red"
+        size 9
         color "red"
     ]
     node [
         id 1855136
-        size 2
         label "Throwback Suburbia"
+        size 2
         color "red"
     ]
     node [
         id 2182817
-        size 1
         label "Washed"
+        size 1
         color "red"
     ]
     node [
         id 659106
-        size 0
         label "Unit Four Plus Two"
+        size 0
         color "red"
     ]
     node [
         id 659108
-        size 23
         label "The Swinging Blue Jeans"
+        size 23
         color "red"
     ]
     node [
         id 429733
-        size 5
         label "Поиск сети"
+        size 5
         color "red"
     ]
     node [
         id 1019559
-        size 3
         label "Thermal And A Quarter"
+        size 3
         color "red"
     ]
     node [
         id 2428584
-        size 0
         label "Last Avenue"
+        size 0
         color "red"
     ]
     node [
         id 69289
-        size 2
         label "Glass"
+        size 2
         color "red"
     ]
     node [
         id 3756
-        size 8
         label "David Gilmour"
+        size 8
         color "red"
     ]
     node [
         id 20141
-        size 1
         label "Carly Simon"
+        size 1
         color "red"
     ]
     node [
         id 3758
-        size 32
         label "Roger Waters"
+        size 32
         color "red"
     ]
     node [
         id 3759
-        size 4
         label "Catherine Wheel"
+        size 4
         color "red"
     ]
     node [
         id 36528
-        size 3
         label "Steve Wynn"
+        size 3
         color "red"
     ]
     node [
         id 233137
-        size 4
         label "Candice Night"
+        size 4
         color "red"
     ]
     node [
         id 4263604
-        size 4
         label "Toothless"
+        size 4
         color "red"
     ]
     node [
         id 364214
-        size 4
         label "The Sword"
+        size 4
         color "red"
     ]
     node [
         id 2150071
-        size 0
         label "Павел Додонов"
+        size 0
         color "red"
     ]
     node [
         id 3165880
-        size 4
         label "Silent Season"
+        size 4
         color "red"
     ]
     node [
         id 265918
-        size 20
         label "Kylesa"
+        size 20
         color "red"
     ]
     node [
         id 2051775
-        size 2
         label "Electric Angels"
+        size 2
         color "red"
     ]
     node [
         id 118468
-        size 6
         label "Bobby Rydell"
+        size 6
         color "red"
     ]
     node [
         id 331462
-        size 0
         label "Lizard"
+        size 0
         color "red"
     ]
     node [
         id 757448
-        size 0
         label "Penguin Prison"
+        size 0
         color "red"
     ]
     node [
         id 233171
-        size 1
         label "Carina Round"
+        size 1
         color "red"
     ]
     node [
         id 347860
-        size 1
         label "Hadden Sayers"
+        size 1
         color "red"
     ]
     node [
         id 659162
-        size 0
         label "Beatallica"
+        size 0
         color "red"
     ]
     node [
         id 563151
-        size 2
         label "Soldier"
+        size 2
         color "red"
     ]
     node [
         id 315101
-        size 14
         label "Ana Popovic"
+        size 14
         color "red"
     ]
     node [
         id 20199
-        size 2
         label "Raul Seixas"
+        size 2
         color "red"
     ]
     node [
         id 1434236
-        size 0
         label "American Royalty"
+        size 0
         color "red"
     ]
     node [
         id 282347
-        size 2
         label "Detonautas Roque Clube"
+        size 2
         color "red"
     ]
     node [
         id 291793
-        size 1
         label "Obscurity"
+        size 1
         color "red"
     ]
     node [
         id 85744
-        size 2
         label "Jesus Jones"
+        size 2
         color "red"
     ]
     node [
         id 1560308
-        size 13
         label "Adebisi Shank"
+        size 13
         color "red"
     ]
     node [
         id 161069
-        size 17
         label "Unitopia"
+        size 17
         color "red"
     ]
     node [
         id 626423
-        size 1
         label "Age Of Rock"
+        size 1
         color "red"
     ]
     node [
         id 626424
-        size 0
         label "Jukebox Envy"
+        size 0
         color "red"
     ]
     node [
         id 151292
-        size 0
         label "Queens Club"
+        size 0
         color "red"
     ]
     node [
         id 3842
-        size 2
         label "Gene Pitney"
+        size 2
         color "red"
     ]
     node [
         id 1775574
-        size 13
         label "Hollow Point Heroes"
+        size 13
         color "red"
     ]
     node [
         id 135652
-        size 1
         label "Durante"
+        size 1
         color "red"
     ]
     node [
         id 2117383
-        size 7
         label "Entertainment System"
+        size 7
         color "red"
     ]
     node [
         id 593680
-        size 24
         label "Wolves At The Gate"
+        size 24
         color "red"
     ]
     node [
         id 298769
-        size 39
         label "The Rock Heroes"
+        size 39
         color "red"
     ]
     node [
         id 1888019
-        size 3
         label "Marya Roxx"
+        size 3
         color "red"
     ]
     node [
         id 331541
-        size 1
         label "Goldblade"
+        size 1
         color "red"
     ]
     node [
         id 3863
-        size 8
         label "Big Star"
+        size 8
         color "red"
     ]
     node [
         id 3864
-        size 8
         label "T-Bone Burnett"
+        size 8
         color "red"
     ]
     node [
         id 331545
-        size 9
         label "Local H"
+        size 9
         color "red"
     ]
     node [
         id 2739995
-        size 0
         label "City Lights"
+        size 0
         color "red"
     ]
     node [
         id 85788
-        size 6
         label "Gary Lewis & The Playboys"
+        size 6
         color "red"
     ]
     node [
         id 298782
-        size 0
         label "Popcorn"
+        size 0
         color "red"
     ]
     node [
         id 298786
-        size 3
         label "Flying Machine"
+        size 3
         color "red"
     ]
     node [
         id 184100
-        size 17
         label "Three Days Grace"
+        size 17
         color "red"
     ]
     node [
         id 647
-        size 15
         label "Rod Stewart"
+        size 15
         color "red"
     ]
     node [
         id 200492
-        size 0
         label "Beck, Bogert & Appice"
+        size 0
         color "red"
     ]
     node [
         id 1838898
-        size 1
         label "Hiroshima Mon Amour"
+        size 1
         color "red"
     ]
     node [
         id 331571
-        size 0
         label "Exo"
+        size 0
         color "red"
     ]
     node [
         id 315192
-        size 1
         label "Girls Under Glass"
+        size 1
         color "red"
     ]
     node [
         id 1855291
-        size 3
         label "Les Friction"
+        size 3
         color "red"
     ]
     node [
         id 1593148
-        size 0
         label "Jett Rebel"
+        size 0
         color "red"
     ]
     node [
         id 331581
-        size 14
         label "Tankard"
+        size 14
         color "red"
     ]
     node [
         id 315199
-        size 1
         label "Face Down"
+        size 1
         color "red"
     ]
     node [
         id 1249088
-        size 8
         label "Liva"
+        size 8
         color "red"
     ]
     node [
         id 1216321
-        size 2
         label "Grapefruit"
+        size 2
         color "red"
     ]
     node [
         id 331586
-        size 36
         label "Iron Savior"
+        size 36
         color "red"
     ]
     node [
         id 511813
-        size 9
         label "Emergency Gate"
+        size 9
         color "red"
     ]
     node [
         id 1199942
-        size 2
         label "Sterling Roswell"
+        size 2
         color "red"
     ]
     node [
         id 118599
-        size 14
         label "Four Year Strong"
+        size 14
         color "red"
     ]
     node [
         id 315209
-        size 10
         label "Axenstar"
+        size 10
         color "red"
     ]
     node [
         id 659276
-        size 2
         label "Dax Riggs"
+        size 2
         color "red"
     ]
     node [
         id 2734050
-        size 1
         label "Credo"
+        size 1
         color "red"
     ]
     node [
         id 331598
-        size 13
         label "Tristania"
+        size 13
         color "red"
     ]
     node [
         id 266067
-        size 0
         label "Unlight"
+        size 0
         color "red"
     ]
     node [
         id 331606
-        size 4
         label "Deadborn"
+        size 4
         color "red"
     ]
     node [
         id 85849
-        size 0
         label "Lake"
+        size 0
         color "red"
     ]
     node [
         id 266075
-        size 1
         label "Alice Donut"
+        size 1
         color "red"
     ]
     node [
         id 266077
-        size 1
         label "Angelzoom"
+        size 1
         color "red"
     ]
     node [
         id 1036128
-        size 2
         label "Gevende"
+        size 2
         color "red"
     ]
     node [
         id 4498064
-        size 5
         label "The Kürtens"
+        size 5
         color "red"
     ]
     node [
         id 757602
-        size 4
         label "Windhand"
+        size 4
         color "red"
     ]
     node [
         id 61780
-        size 2
         label "Cold Blood"
+        size 2
         color "red"
     ]
     node [
         id 151402
-        size 20
         label "The Agonist"
+        size 20
         color "red"
     ]
     node [
         id 4591468
-        size 0
         label "Frank Iero and the Patience"
+        size 0
         color "red"
     ]
     node [
         id 413550
-        size 14
         label "Crystal Ball"
+        size 14
         color "red"
     ]
     node [
         id 240957
-        size 0
         label "Roger Chapman"
+        size 0
         color "red"
     ]
     node [
         id 36720
-        size 52
         label "The Shadows"
+        size 52
         color "red"
     ]
     node [
         id 36721
-        size 1
         label "Vince Taylor"
+        size 1
         color "red"
     ]
     node [
         id 36722
-        size 28
         label "The Animals"
+        size 28
         color "red"
     ]
     node [
         id 4591475
-        size 0
         label "Sibiir"
+        size 0
         color "red"
     ]
     node [
         id 36724
-        size 18
         label "Adam Faith"
+        size 18
         color "red"
     ]
     node [
         id 20343
-        size 19
         label "Pat Boone"
+        size 19
         color "red"
     ]
     node [
         id 36729
-        size 9
         label "Boston"
+        size 9
         color "red"
     ]
     node [
         id 1625978
-        size 3
         label "Poets & Pornstars"
+        size 3
         color "red"
     ]
     node [
         id 1773435
-        size 4
         label "Faithful Darkness"
+        size 4
         color "red"
     ]
     node [
         id 3231612
-        size 0
         label "From the Fire"
+        size 0
         color "red"
     ]
     node [
         id 1068926
-        size 0
         label "Mojo Filter"
+        size 0
         color "red"
     ]
     node [
         id 36736
-        size 4
         label "Jeff Wayne"
+        size 4
         color "red"
     ]
     node [
         id 36749
-        size 38
         label "Foreigner"
+        size 38
         color "red"
     ]
     node [
         id 36750
-        size 10
         label "Mott The Hoople"
+        size 10
         color "red"
     ]
     node [
         id 36753
-        size 27
         label "The Guess Who"
+        size 27
         color "red"
     ]
     node [
         id 36755
-        size 7
         label "The Doobie Brothers"
+        size 7
         color "red"
     ]
     node [
         id 151444
-        size 13
         label "Orphaned Land"
+        size 13
         color "red"
     ]
     node [
         id 85909
-        size 1
         label "Harm"
+        size 1
         color "red"
     ]
     node [
         id 200598
-        size 0
         label "Afterglow"
+        size 0
         color "red"
     ]
     node [
         id 959129
-        size 3
         label "Eyes Wide Open"
+        size 3
         color "red"
     ]
     node [
         id 19780
-        size 10
         label "Howlin' Wolf"
+        size 10
         color "red"
     ]
     node [
         id 36762
-        size 30
         label "Green Day"
+        size 30
         color "red"
     ]
     node [
         id 659358
-        size 1
         label "Open Hand"
+        size 1
         color "red"
     ]
     node [
         id 2690978
-        size 0
         label "The Choppers"
+        size 0
         color "red"
     ]
     node [
         id 36773
-        size 5
         label "Prince And The Revolution"
+        size 5
         color "red"
     ]
     node [
         id 1200043
-        size 2
         label "Holy Fuck"
+        size 2
         color "red"
     ]
     node [
         id 118700
-        size 0
         label "Scroobius Pip"
+        size 0
         color "red"
     ]
     node [
         id 36782
-        size 6
         label "Chad Kroeger"
+        size 6
         color "red"
     ]
     node [
         id 1082013
-        size 10
         label "Restless"
+        size 10
         color "red"
     ]
     node [
         id 36784
-        size 9
         label "Nickelback"
+        size 9
         color "red"
     ]
     node [
         id 19784
-        size 8
         label "David Crosby"
+        size 8
         color "red"
     ]
     node [
         id 36787
-        size 11
         label "The Verve"
+        size 11
         color "red"
     ]
     node [
         id 58014
-        size 8
         label "Damien Rice"
+        size 8
         color "red"
     ]
     node [
         id 36794
-        size 21
         label "Oasis"
+        size 21
         color "red"
     ]
     node [
         id 315325
-        size 3
         label "Burning Brides"
+        size 3
         color "red"
     ]
     node [
         id 36799
-        size 15
         label "Third Eye Blind"
+        size 15
         color "red"
     ]
     node [
         id 85952
-        size 6
         label "Cromwell"
+        size 6
         color "red"
     ]
     node [
         id 15761
-        size 46
         label "T. Rex"
+        size 46
         color "red"
     ]
     node [
         id 118722
-        size 2
         label "Joe Perry Project"
+        size 2
         color "red"
     ]
     node [
         id 1789893
-        size 6
         label "Faded Paper Figures"
+        size 6
         color "red"
     ]
     node [
         id 36807
-        size 47
         label "Blur"
+        size 47
         color "red"
     ]
     node [
         id 53192
-        size 5
         label "The Spotnicks"
+        size 5
         color "red"
     ]
     node [
         id 2658249
-        size 0
         label "Dereng"
+        size 0
         color "red"
     ]
     node [
         id 36810
-        size 23
         label "Depeche Mode"
+        size 23
         color "red"
     ]
     node [
         id 36811
-        size 13
         label "Supergrass"
+        size 13
         color "red"
     ]
     node [
         id 53196
-        size 1
         label "Arthur"
+        size 1
         color "red"
     ]
     node [
         id 36814
-        size 6
         label "Sugar Ray"
+        size 6
         color "red"
     ]
     node [
         id 217043
-        size 1
         label "Daddy Cool"
+        size 1
         color "red"
     ]
     node [
         id 1019862
-        size 1
         label "Mad World"
+        size 1
         color "red"
     ]
     node [
         id 36823
-        size 15
         label "Doves"
+        size 15
         color "red"
     ]
     node [
         id 217048
-        size 5
         label "Maj Karma"
+        size 5
         color "red"
     ]
     node [
         id 102361
-        size 14
         label "The Surfaris"
+        size 14
         color "red"
     ]
     node [
         id 2559963
-        size 1
         label "bakhband"
+        size 1
         color "red"
     ]
     node [
         id 4061
-        size 3
         label "Otis Blackwell"
+        size 3
         color "red"
     ]
     node [
         id 36830
-        size 21
         label "Placebo"
+        size 21
         color "red"
     ]
     node [
         id 36832
-        size 17
         label "Starsailor"
+        size 17
         color "red"
     ]
     node [
         id 3408
-        size 21
         label "Camel"
+        size 21
         color "red"
     ]
     node [
         id 36841
-        size 10
         label "Athlete"
+        size 10
         color "red"
     ]
     node [
         id 102378
-        size 14
         label "The Crystals"
+        size 14
         color "red"
     ]
     node [
         id 823276
-        size 2
         label "Fresh Music  Live"
+        size 2
         color "red"
     ]
     node [
         id 118765
-        size 1
         label "The Playboys"
+        size 1
         color "red"
     ]
     node [
         id 20462
-        size 5
         label "Flaw"
+        size 5
         color "red"
     ]
     node [
         id 643057
-        size 8
         label "Nektar"
+        size 8
         color "red"
     ]
     node [
         id 184307
-        size 4
         label "John Dolmayan"
+        size 4
         color "red"
     ]
     node [
         id 200692
-        size 4
         label "Apoptygma Berzerk"
+        size 4
         color "red"
     ]
     node [
         id 118776
-        size 2
         label "Question Mark & the Mysterians"
+        size 2
         color "red"
     ]
     node [
         id 118777
-        size 1
         label "Jo Ann Campbell"
+        size 1
         color "red"
     ]
     node [
         id 3749887
-        size 9
         label "Ash"
+        size 9
         color "red"
     ]
     node [
         id 675839
-        size 0
         label "Lazy Song"
+        size 0
         color "red"
     ]
     node [
         id 1970176
-        size 11
         label "Year Of The Goat"
+        size 11
         color "red"
     ]
     node [
         id 184322
-        size 0
         label "William Shatner"
+        size 0
         color "red"
     ]
     node [
         id 582315
-        size 3
         label "Weaving The Fate"
+        size 3
         color "red"
     ]
     node [
         id 36868
-        size 3
         label "Gary Puckett & The Union Gap"
+        size 3
         color "red"
     ]
     node [
         id 36869
-        size 34
         label "Donovan"
+        size 34
         color "red"
     ]
     node [
         id 36870
-        size 14
         label "The Association"
+        size 14
         color "red"
     ]
     node [
         id 1249287
-        size 1
         label "Vitamin Baroque"
+        size 1
         color "red"
     ]
     node [
         id 1486621
-        size 0
         label "Speed Violation"
+        size 0
         color "red"
     ]
     node [
         id 593931
-        size 4
         label "2:54"
+        size 4
         color "red"
     ]
     node [
         id 184334
-        size 0
         label "No Name"
+        size 0
         color "red"
     ]
     node [
         id 2019344
-        size 12
         label "Downplay"
+        size 12
         color "red"
     ]
     node [
         id 4028589
-        size 0
         label "Quails"
+        size 0
         color "red"
     ]
     node [
         id 36883
-        size 7
         label "Scott McKenzie"
+        size 7
         color "red"
     ]
     node [
         id 1724436
-        size 4
         label "Dol Theeta"
+        size 4
         color "red"
     ]
     node [
         id 36892
-        size 2
         label "Harpers Bizarre"
+        size 2
         color "red"
     ]
     node [
         id 161797
-        size 9
         label "Manga"
+        size 9
         color "red"
     ]
     node [
         id 872480
-        size 5
         label "Andy Timmons Band"
+        size 5
         color "red"
     ]
     node [
         id 710463
-        size 1
         label "Left Spine Down"
+        size 1
         color "red"
     ]
     node [
         id 219142
-        size 0
         label "Вера Сажина"
+        size 0
         color "red"
     ]
     node [
         id 167975
-        size 5
         label "Glassjaw"
+        size 5
         color "red"
     ]
     node [
         id 675880
-        size 2
         label "Furyon"
+        size 2
         color "red"
     ]
     node [
         id 167977
-        size 0
         label "The Company"
+        size 0
         color "red"
     ]
     node [
         id 646736
-        size 4
         label "Long Boards"
+        size 4
         color "red"
     ]
     node [
         id 1038344
-        size 14
         label "Like Moths To Flames"
+        size 14
         color "red"
     ]
     node [
         id 4147
-        size 3
         label "Chris Cornell"
+        size 3
         color "red"
     ]
     node [
         id 245421
-        size 0
         label "Bobby Smith"
+        size 0
         color "red"
     ]
     node [
         id 708663
-        size 1
         label "For The Win"
+        size 1
         color "red"
     ]
     node [
         id 167992
-        size 11
         label "The Black Keys"
+        size 11
         color "red"
     ]
     node [
         id 167993
-        size 8
         label "The Knack"
+        size 8
         color "red"
     ]
     node [
         id 167994
-        size 10
         label "Big Country"
+        size 10
         color "red"
     ]
     node [
         id 2625595
-        size 3
         label "Starbomb"
+        size 3
         color "red"
     ]
     node [
         id 1577020
-        size 0
         label "Weep"
+        size 0
         color "red"
     ]
     node [
         id 348221
-        size 0
         label "Spleen"
+        size 0
         color "red"
     ]
     node [
         id 200770
-        size 4
         label "Alexander 'Skip' Spence"
+        size 4
         color "red"
     ]
     node [
         id 1806403
-        size 5
         label "Natural Incense"
+        size 5
         color "red"
     ]
     node [
         id 2151847
-        size 0
         label "Andy Black"
+        size 0
         color "red"
     ]
     node [
         id 675910
-        size 2
         label "Tyketto"
+        size 2
         color "red"
     ]
     node [
         id 168009
-        size 0
         label "Виталий Дубинин и Владимир Холстинин"
+        size 0
         color "red"
     ]
     node [
         id 36940
-        size 4
         label "Maria Taylor"
+        size 4
         color "red"
     ]
     node [
         id 1076578
-        size 13
         label "Carousel Kings"
+        size 13
         color "red"
     ]
     node [
         id 643150
-        size 0
         label "Strawberry Song Orchestra"
+        size 0
         color "red"
     ]
     node [
         id 20573
-        size 2
         label "The Bluetones"
+        size 2
         color "red"
     ]
     node [
         id 36958
-        size 15
         label "Daughtry"
+        size 15
         color "red"
     ]
     node [
         id 36961
-        size 6
         label "Plain White T's"
+        size 6
         color "red"
     ]
     node [
         id 118882
-        size 20
         label "Boney M."
+        size 20
         color "red"
     ]
     node [
         id 1802939
-        size 5
         label "Brookroyal"
+        size 5
         color "red"
     ]
     node [
         id 4198
-        size 8
         label "Cyndi Lauper"
+        size 8
         color "red"
     ]
     node [
         id 4199
-        size 2
         label "Don McLean"
+        size 2
         color "red"
     ]
     node [
         id 4200
-        size 9
         label "Joni Mitchell"
+        size 9
         color "red"
     ]
     node [
         id 118889
-        size 13
         label "MGMT"
+        size 13
         color "red"
     ]
     node [
         id 118891
-        size 2
         label "Candy Dulfer"
+        size 2
         color "red"
     ]
     node [
         id 1757293
-        size 0
         label "Those Nights"
+        size 0
         color "red"
     ]
     node [
         id 20591
-        size 0
         label "The Wallflowers"
+        size 0
         color "red"
     ]
     node [
         id 185737
-        size 0
         label "Pavlov's Dog"
+        size 0
         color "red"
     ]
     node [
         id 634217
-        size 2
         label "Wide Awake"
+        size 2
         color "red"
     ]
     node [
         id 544888
-        size 0
         label "Mortem"
+        size 0
         color "red"
     ]
     node [
         id 20602
-        size 7
         label "Le Tigre"
+        size 7
         color "red"
     ]
     node [
         id 118909
-        size 9
         label "Guano Apes"
+        size 9
         color "red"
     ]
     node [
         id 1162194
-        size 1
         label "The Crüxshadows"
+        size 1
         color "red"
     ]
     node [
         id 249985
-        size 0
         label "Czar"
+        size 0
         color "red"
     ]
     node [
         id 413826
-        size 2
         label "Tribute Stars"
+        size 2
         color "red"
     ]
     node [
         id 233603
-        size 4
         label "Lori Meyers"
+        size 4
         color "red"
     ]
     node [
         id 971792
-        size 6
         label "Crash Alley"
+        size 6
         color "red"
     ]
     node [
         id 20616
-        size 4
         label "Dave Edmunds"
+        size 4
         color "red"
     ]
     node [
         id 331915
-        size 10
         label "Emptyself"
+        size 10
         color "red"
     ]
     node [
         id 37009
-        size 1
         label "Rupert Hine"
+        size 1
         color "red"
     ]
     node [
         id 331922
-        size 8
         label "Rob Rock"
+        size 8
         color "red"
     ]
     node [
         id 58051
-        size 1
         label "Electrocute"
+        size 1
         color "red"
     ]
     node [
         id 217237
-        size 1
         label "J.B.O."
+        size 1
         color "red"
     ]
     node [
         id 102552
-        size 11
         label "Bang"
+        size 11
         color "red"
     ]
     node [
         id 626842
-        size 0
         label "Ian Paice and Forever Deep"
+        size 0
         color "red"
     ]
     node [
         id 3992943
-        size 0
         label "Ник Рок-н-Ролл"
+        size 0
         color "red"
     ]
     node [
         id 315548
-        size 4
         label "Moxy"
+        size 4
         color "red"
     ]
     node [
         id 137242
-        size 30
         label "Krokus"
+        size 30
         color "red"
     ]
     node [
         id 168094
-        size 10
         label "Grand Magus"
+        size 10
         color "red"
     ]
     node [
         id 1577121
-        size 8
         label "Zen Rising"
+        size 8
         color "red"
     ]
     node [
         id 479402
-        size 2
         label "Bastard"
+        size 2
         color "red"
     ]
     node [
         id 492231
-        size 28
         label "CONAN"
+        size 28
         color "red"
     ]
     node [
         id 1265837
-        size 1
         label "Dananananaykroyd"
+        size 1
         color "red"
     ]
     node [
         id 4279
-        size 0
         label "Fusion"
+        size 0
         color "red"
     ]
     node [
         id 37054
-        size 9
         label "Electric Six"
+        size 9
         color "red"
     ]
     node [
         id 331968
-        size 0
         label "Mad Francis"
+        size 0
         color "red"
     ]
     node [
         id 184513
-        size 3
         label "Bleu"
+        size 3
         color "red"
     ]
     node [
         id 37060
-        size 11
         label "Huey Lewis & The News"
+        size 11
         color "red"
     ]
     node [
         id 331973
-        size 3
         label "R. Stevie Moore"
+        size 3
         color "red"
     ]
     node [
         id 74444
-        size 0
         label "Rhinoceros"
+        size 0
         color "red"
     ]
     node [
         id 1783842
-        size 4
         label "Trashcan Darlings"
+        size 4
         color "red"
     ]
     node [
         id 331983
-        size 5
         label "Cesar Costa"
+        size 5
         color "red"
     ]
     node [
         id 184529
-        size 15
         label "Good Charlotte"
+        size 15
         color "red"
     ]
     node [
         id 3184675
-        size 0
         label "Boondock"
+        size 0
         color "red"
     ]
     node [
         id 1478868
-        size 4
         label "Cold Fairyland"
+        size 4
         color "red"
     ]
     node [
         id 233686
-        size 0
         label "Link Wray & His Ray Men"
+        size 0
         color "red"
     ]
     node [
         id 233687
-        size 2
         label "The Robins"
+        size 2
         color "red"
     ]
     node [
         id 1873956
-        size 10
         label "Blacklite District"
+        size 10
         color "red"
     ]
     node [
         id 1069277
-        size 3
         label "Aeternitas"
+        size 3
         color "red"
     ]
     node [
         id 479454
-        size 7
         label "Enforcer"
+        size 7
         color "red"
     ]
     node [
         id 872675
-        size 2
         label "Snail"
+        size 2
         color "red"
     ]
     node [
         id 315621
-        size 0
         label "Taliesyn"
+        size 0
         color "red"
     ]
     node [
         id 4328
-        size 0
         label "Justin Hayward"
+        size 0
         color "red"
     ]
     node [
         id 4329
-        size 0
         label "Peter Cetera"
+        size 0
         color "red"
     ]
     node [
         id 184555
-        size 7
         label "Bonfire"
+        size 7
         color "red"
     ]
     node [
         id 446700
-        size 2
         label "The Firebirds"
+        size 2
         color "red"
     ]
     node [
         id 254674
-        size 1
         label "Dive"
+        size 1
         color "red"
     ]
     node [
         id 20718
-        size 0
         label "David Knopfler"
+        size 0
         color "red"
     ]
     node [
         id 2904303
-        size 3
         label "Hotei"
+        size 3
         color "red"
     ]
     node [
         id 430320
-        size 0
         label "Bto"
+        size 0
         color "red"
     ]
     node [
         id 102646
-        size 3
         label "Michael Learns To Rock"
+        size 3
         color "red"
     ]
     node [
         id 1540820
-        size 0
         label "Видели! Знаем"
+        size 0
         color "red"
     ]
     node [
         id 774399
-        size 8
         label "Matenrou Opera"
+        size 8
         color "red"
     ]
     node [
         id 774402
-        size 13
         label "MattRach"
+        size 13
         color "red"
     ]
     node [
         id 1184004
-        size 12
         label "Papir"
+        size 12
         color "red"
     ]
     node [
         id 664278
-        size 5
         label "Skeletonwitch"
+        size 5
         color "red"
     ]
     node [
         id 790792
-        size 1
         label "Vazquez Sounds"
+        size 1
         color "red"
     ]
     node [
         id 184586
-        size 1
         label "Nevada Tan"
+        size 1
         color "red"
     ]
     node [
         id 1839371
-        size 1
         label "Jamie McLean Band"
+        size 1
         color "red"
     ]
     node [
         id 159106
-        size 1
         label "Moth"
+        size 1
         color "red"
     ]
     node [
         id 2658574
-        size 4
         label "Everything In Slow Motion"
+        size 4
         color "red"
     ]
     node [
         id 102672
-        size 11
         label "The Power Station"
+        size 11
         color "red"
     ]
     node [
         id 2658577
-        size 4
         label "My Epic"
+        size 4
         color "red"
     ]
     node [
         id 1151250
-        size 3
         label "Unearthly Trance"
+        size 3
         color "red"
     ]
     node [
         id 1577235
-        size 1
         label "The Hounds Below"
+        size 1
         color "red"
     ]
     node [
         id 610581
-        size 2
         label "JFA"
+        size 2
         color "red"
     ]
     node [
         id 1392973
-        size 0
         label "Brian Page"
+        size 0
         color "red"
     ]
     node [
         id 2609440
-        size 0
         label "Freak Of Nature"
+        size 0
         color "red"
     ]
     node [
         id 2609441
-        size 7
         label "Shotgun Revolution"
+        size 7
         color "red"
     ]
     node [
         id 1741093
-        size 2
         label "Lorus"
+        size 2
         color "red"
     ]
     node [
         id 2363686
-        size 11
         label "Stoner Train"
+        size 11
         color "red"
     ]
     node [
         id 2199847
-        size 16
         label "Flies on the Square Egg"
+        size 16
         color "red"
     ]
     node [
         id 37160
-        size 33
         label "John Oates"
+        size 33
         color "red"
     ]
     node [
         id 3264812
-        size 0
         label "Crushead"
+        size 0
         color "red"
     ]
     node [
         id 2347310
-        size 11
         label "Rattle Cloud"
+        size 11
         color "red"
     ]
     node [
         id 1921327
-        size 2
         label "JunkFood"
+        size 2
         color "red"
     ]
     node [
         id 823601
-        size 4
         label "Road"
+        size 4
         color "red"
     ]
     node [
         id 86326
-        size 7
         label "Mazzy Star"
+        size 7
         color "red"
     ]
     node [
         id 102712
-        size 12
         label "Warren Smith"
+        size 12
         color "red"
     ]
     node [
         id 102714
-        size 1
         label "Hasil Adkins"
+        size 1
         color "red"
     ]
     node [
         id 1773884
-        size 5
         label "Johnny Hollow"
+        size 5
         color "red"
     ]
     node [
         id 20797
-        size 1
         label "Andy Brown"
+        size 1
         color "red"
     ]
     node [
         id 1347904
-        size 6
         label "Pia Fraus"
+        size 6
         color "red"
     ]
     node [
         id 37185
-        size 0
         label "Gruff Rhys"
+        size 0
         color "red"
     ]
     node [
         id 201026
-        size 4
         label "Daniele Benati"
+        size 4
         color "red"
     ]
     node [
         id 1347911
-        size 6
         label "The Anacondas"
+        size 6
         color "red"
     ]
     node [
         id 85388
-        size 38
         label "Bobby Vee"
+        size 38
         color "red"
     ]
     node [
         id 1790282
-        size 22
         label "Todd Grubbs"
+        size 22
         color "red"
     ]
     node [
         id 904352
-        size 0
         label "Cäthe"
+        size 0
         color "red"
     ]
     node [
         id 282957
-        size 5
         label "Asaf Avidan"
+        size 5
         color "red"
     ]
     node [
         id 4247889
-        size 0
         label "Atomahawk"
+        size 0
         color "red"
     ]
     node [
         id 1167698
-        size 4
         label "The Apemen"
+        size 4
         color "red"
     ]
     node [
         id 434915
-        size 1
         label "Slug"
+        size 1
         color "red"
     ]
     node [
         id 446805
-        size 1
         label "Devious"
+        size 1
         color "red"
     ]
     node [
         id 4439
-        size 10
         label "Morrissey"
+        size 10
         color "red"
     ]
     node [
         id 4441
-        size 7
         label "Gene Clark"
+        size 7
         color "red"
     ]
     node [
         id 168283
-        size 10
         label "Pathology"
+        size 10
         color "red"
     ]
     node [
         id 1872221
-        size 0
         label "Jordan Cade"
+        size 0
         color "red"
     ]
     node [
         id 790879
-        size 0
         label "The Chain Gang"
+        size 0
         color "red"
     ]
     node [
         id 1757536
-        size 11
         label "Glasgow Tiki Shakers"
+        size 11
         color "red"
     ]
     node [
         id 4454
-        size 38
         label "Jimmy Page"
+        size 38
         color "red"
     ]
     node [
         id 2347367
-        size 8
         label "Drugstore Cowboys"
+        size 8
         color "red"
     ]
     node [
         id 2412905
-        size 0
         label "Life of the Party"
+        size 0
         color "red"
     ]
     node [
         id 512363
-        size 4
         label "Insense"
+        size 4
         color "red"
     ]
     node [
         id 545132
-        size 0
         label "Autumn Rain Melancholy"
+        size 0
         color "red"
     ]
     node [
         id 2298221
-        size 1
         label "Serenity Broken"
+        size 1
         color "red"
     ]
     node [
         id 233838
-        size 6
         label "Robin Guthrie"
+        size 6
         color "red"
     ]
     node [
         id 1233264
-        size 4
         label "The Machine Perform Pink Floyd"
+        size 4
         color "red"
     ]
     node [
         id 1397107
-        size 8
         label "Uncle Acid & The Deadbeats"
+        size 8
         color "red"
     ]
     node [
         id 233844
-        size 0
         label "The Autumns"
+        size 0
         color "red"
     ]
     node [
         id 1184117
-        size 3
         label "The Darcys"
+        size 3
         color "red"
     ]
     node [
         id 348534
-        size 2
         label "Chris Poland"
+        size 2
         color "red"
     ]
     node [
         id 397688
-        size 0
         label "The Heights"
+        size 0
         color "red"
     ]
     node [
         id 4473
-        size 13
         label "Pete Townshend"
+        size 13
         color "red"
     ]
     node [
         id 4475
-        size 36
         label "Eddie Cochran"
+        size 36
         color "red"
     ]
     node [
         id 4477
-        size 0
         label "Roger Daltrey"
+        size 0
         color "red"
     ]
     node [
         id 348542
-        size 2
         label "Joetown"
+        size 2
         color "red"
     ]
     node [
         id 2321
-        size 0
         label "Raul Malo"
+        size 0
         color "red"
     ]
     node [
         id 4481
-        size 36
         label "The Who"
+        size 36
         color "red"
     ]
     node [
         id 348546
-        size 4
         label "Neil Zaza"
+        size 4
         color "red"
     ]
     node [
         id 79937
-        size 1
         label "As Tall As Lions"
+        size 1
         color "red"
     ]
     node [
         id 1200521
-        size 0
         label "Kindest Lines"
+        size 0
         color "red"
     ]
     node [
         id 168330
-        size 1
         label "Cuarteto de Nos"
+        size 1
         color "red"
     ]
     node [
         id 659852
-        size 2
         label "Deadboy & The Elephantmen"
+        size 2
         color "red"
     ]
     node [
         id 1364368
-        size 1
         label "The Birthday"
+        size 1
         color "red"
     ]
     node [
         id 4497
-        size 9
         label "Jon Anderson"
+        size 9
         color "red"
     ]
     node [
         id 610706
-        size 1
         label "Various Artists - The Eagles Tribute"
+        size 1
         color "red"
     ]
     node [
         id 3805591
-        size 0
         label "Miguel"
+        size 0
         color "red"
     ]
     node [
         id 79940
-        size 1
         label "Desaparecidos"
+        size 1
         color "red"
     ]
     node [
         id 643483
-        size 10
         label "Demented Are Go"
+        size 10
         color "red"
     ]
     node [
         id 4508
-        size 4
         label "The Mavericks"
+        size 4
         color "red"
     ]
     node [
         id 299426
-        size 3
         label "Bobby Day"
+        size 3
         color "red"
     ]
     node [
         id 37283
-        size 7
         label "David Hodges"
+        size 7
         color "red"
     ]
     node [
         id 2037830
-        size 0
         label "Rock Guitar Factory"
+        size 0
         color "red"
     ]
     node [
         id 590577
-        size 15
         label "Silent Screams"
+        size 15
         color "red"
     ]
     node [
         id 643496
-        size 5
         label "The Silver Shine"
+        size 5
         color "red"
     ]
     node [
         id 601500
-        size 0
         label "Avril Lavigne Tribute"
+        size 0
         color "red"
     ]
     node [
         id 856491
-        size 18
         label "Hacride"
+        size 18
         color "red"
     ]
     node [
         id 4524
-        size 53
         label "Chuck Berry"
+        size 53
         color "red"
     ]
     node [
         id 1266095
-        size 0
         label "Metal"
+        size 0
         color "red"
     ]
     node [
         id 1642929
-        size 0
         label "Bobby Whitlock & Coco Carmel"
+        size 0
         color "red"
     ]
     node [
         id 4534
-        size 0
         label "David Lee"
+        size 0
         color "red"
     ]
     node [
         id 3412409
-        size 0
         label "Алгебра Слова"
+        size 0
         color "red"
     ]
     node [
         id 233914
-        size 1
         label "Howling Bells"
+        size 1
         color "red"
     ]
     node [
         id 2822587
-        size 7
         label "Miss Behaviour"
+        size 7
         color "red"
     ]
     node [
         id 4540
-        size 3
         label "Brian Poole & The Tremeloes"
+        size 3
         color "red"
     ]
     node [
         id 905663
-        size 2
         label "Dead Soul Tribe"
+        size 2
         color "red"
     ]
     node [
         id 905664
-        size 3
         label "The Jelly Jam"
+        size 3
         color "red"
     ]
     node [
         id 232864
-        size 6
         label "NRKTK"
+        size 6
         color "red"
     ]
     node [
         id 1482648
-        size 2
         label "נינט טייב"
+        size 2
         color "red"
     ]
     node [
         id 152005
-        size 4
         label "The Constellations"
+        size 4
         color "red"
     ]
     node [
         id 512455
-        size 1
         label "Dreadful Shadows"
+        size 1
         color "red"
     ]
     node [
         id 102860
-        size 2
         label "Steve Hogarth"
+        size 2
         color "red"
     ]
     node [
         id 512461
-        size 1
         label "Down Below"
+        size 1
         color "red"
     ]
     node [
         id 1266128
-        size 2
         label "Brainbombs"
+        size 2
         color "red"
     ]
     node [
         id 1213176
-        size 1
         label "Theta"
+        size 1
         color "red"
     ]
     node [
         id 43797
-        size 14
         label "Stone Temple Pilots"
+        size 14
         color "red"
     ]
     node [
         id 1937877
-        size 0
         label "Clay Green's Polysorbate Masquerade Band"
+        size 0
         color "red"
     ]
     node [
         id 1642969
-        size 4
         label "The Deadbeat Poets"
+        size 4
         color "red"
     ]
     node [
         id 37338
-        size 1
         label "Edgar Winter"
+        size 1
         color "red"
     ]
     node [
         id 299483
-        size 0
         label "John Payne"
+        size 0
         color "red"
     ]
     node [
         id 20958
-        size 2
         label "Scott Weiland"
+        size 2
         color "red"
     ]
     node [
         id 2724321
-        size 0
         label "Alencar Junior"
+        size 0
         color "red"
     ]
     node [
         id 1118691
-        size 5
         label "Dust Bolt"
+        size 5
         color "red"
     ]
     node [
         id 1610212
-        size 7
         label "Hellbringer"
+        size 7
         color "red"
     ]
     node [
         id 1380838
-        size 0
         label "Ashley Reaks"
+        size 0
         color "red"
     ]
     node [
         id 201192
-        size 0
         label "Takamiy -T.Takamizawa-"
+        size 0
         color "red"
     ]
     node [
         id 4517
-        size 56
         label "The Beach Boys"
+        size 56
         color "red"
     ]
     node [
         id 86507
-        size 5
         label "Dr. Hook"
+        size 5
         color "red"
     ]
     node [
         id 414188
-        size 0
         label "Various Artists - Nickelback Tribute"
+        size 0
         color "red"
     ]
     node [
         id 37359
-        size 2
         label "Mikael Wiehe"
+        size 2
         color "red"
     ]
     node [
         id 381424
-        size 0
         label "Trigger"
+        size 0
         color "red"
     ]
     node [
         id 748968
-        size 0
         label "Young Galaxy"
+        size 0
         color "red"
     ]
     node [
         id 217586
-        size 0
         label "Janis Joplin with Big Brother And The Holding Company"
+        size 0
         color "red"
     ]
     node [
         id 1249792
-        size 2
         label "Aspire"
+        size 2
         color "red"
     ]
     node [
         id 2281985
-        size 2
         label "Plum Nelly"
+        size 2
         color "red"
     ]
     node [
         id 53763
-        size 0
         label "67 Special"
+        size 0
         color "red"
     ]
     node [
         id 905744
-        size 3
         label "Amaseffer"
+        size 3
         color "red"
     ]
     node [
         id 1020435
-        size 5
         label "The Exploding Boy"
+        size 5
         color "red"
     ]
     node [
         id 1167892
-        size 0
         label "Imminence"
+        size 0
         color "red"
     ]
     node [
         id 315927
-        size 3
         label "Seks Bomba"
+        size 3
         color "red"
     ]
     node [
         id 1806872
-        size 2
         label "Charlie McAlister"
+        size 2
         color "red"
     ]
     node [
         id 152089
-        size 18
         label "Lee Rocker"
+        size 18
         color "red"
     ]
     node [
         id 2363933
-        size 5
         label "Seven Circle Sunrise"
+        size 5
         color "red"
     ]
     node [
         id 168478
-        size 4
         label "Red House Painters"
+        size 4
         color "red"
     ]
     node [
         id 643616
-        size 0
         label "Troops of Tomorrow"
+        size 0
         color "red"
     ]
     node [
         id 643617
-        size 0
         label "Black Hole Sun"
+        size 0
         color "red"
     ]
     node [
         id 4646
-        size 0
         label "The McCoys"
+        size 0
         color "red"
     ]
     node [
         id 627239
-        size 4
         label "Egonaut"
+        size 4
         color "red"
     ]
     node [
         id 3068456
-        size 0
         label "Blacklist District"
+        size 0
         color "red"
     ]
     node [
         id 4650
-        size 72
         label "David Bowie"
+        size 72
         color "red"
     ]
     node [
         id 1544747
-        size 1
         label "Madam X"
+        size 1
         color "red"
     ]
     node [
         id 929122
-        size 0
         label "Eureka"
+        size 0
         color "red"
     ]
     node [
         id 102961
-        size 2
         label "Maggie Reilly"
+        size 2
         color "red"
     ]
     node [
         id 905778
-        size 1
         label "Adrenaline Mob"
+        size 1
         color "red"
     ]
     node [
         id 4660
-        size 31
         label "The Hollies"
+        size 31
         color "red"
     ]
     node [
         id 1331765
-        size 0
         label "After Midnight Project"
+        size 0
         color "red"
     ]
     node [
         id 2249270
-        size 0
         label "The Tender Box"
+        size 0
         color "red"
     ]
     node [
         id 37433
-        size 7
         label "Indica"
+        size 7
         color "red"
     ]
     node [
         id 430650
-        size 4
         label "Beardfish"
+        size 4
         color "red"
     ]
     node [
         id 4668
-        size 39
         label "The Kinks"
+        size 39
         color "red"
     ]
     node [
         id 4670
-        size 29
         label "Jeff Beck"
+        size 29
         color "red"
     ]
     node [
         id 4671
-        size 12
         label "Jack Bruce"
+        size 12
         color "red"
     ]
     node [
         id 2118208
-        size 8
         label "Mighty Sideshow"
+        size 8
         color "red"
     ]
     node [
         id 14432
-        size 5
         label "Thirteen Senses"
+        size 5
         color "red"
     ]
     node [
         id 4678
-        size 4
         label "Tommy James"
+        size 4
         color "red"
     ]
     node [
         id 873031
-        size 6
         label "Seelenzorn"
+        size 6
         color "red"
     ]
     node [
         id 19796
-        size 1
         label "March"
+        size 1
         color "red"
     ]
     node [
         id 4681
-        size 5
         label "The Turtles"
+        size 5
         color "red"
     ]
     node [
         id 414282
-        size 0
         label "2 Skinnee J's"
+        size 0
         color "red"
     ]
     node [
         id 37452
-        size 52
         label "Helloween"
+        size 52
         color "red"
     ]
     node [
         id 1626701
-        size 0
         label "Dream Trance Invasion"
+        size 0
         color "red"
     ]
     node [
         id 758351
-        size 2
         label "Southern"
+        size 2
         color "red"
     ]
     node [
         id 3658320
-        size 2
         label "The Gentle Storm"
+        size 2
         color "red"
     ]
     node [
         id 545362
-        size 0
         label "Intercept"
+        size 0
         color "red"
     ]
     node [
         id 4692
-        size 20
         label "The Moody Blues"
+        size 20
         color "red"
     ]
     node [
         id 2413142
-        size 9
         label "From Ashes to New"
+        size 9
         color "red"
     ]
     node [
         id 168535
-        size 1
         label "The Black Ryder"
+        size 1
         color "red"
     ]
     node [
         id 168537
-        size 1
         label "Dunes"
+        size 1
         color "red"
     ]
     node [
         id 168540
-        size 11
         label "No Joy"
+        size 11
         color "red"
     ]
     node [
         id 905822
-        size 1
         label "Erik Norlander"
+        size 1
         color "red"
     ]
     node [
         id 4705
-        size 14
         label "The Tremeloes"
+        size 14
         color "red"
     ]
     node [
         id 234082
-        size 6
         label "Thriving Ivory"
+        size 6
         color "red"
     ]
     node [
         id 905827
-        size 7
         label "Tiles"
+        size 7
         color "red"
     ]
     node [
         id 1970793
-        size 4
         label "Atomwinter"
+        size 4
         color "red"
     ]
     node [
         id 4714
-        size 0
         label "Ida Maria"
+        size 0
         color "red"
     ]
     node [
         id 168556
-        size 2
         label "THE SPORTS"
+        size 2
         color "red"
     ]
     node [
         id 1954414
-        size 2
         label "the hereafter"
+        size 2
         color "red"
     ]
     node [
         id 1806962
-        size 1
         label "Eleisha Eagle"
+        size 1
         color "red"
     ]
     node [
         id 4149876
-        size 0
         label "Age of Days"
+        size 0
         color "red"
     ]
     node [
         id 1904062
-        size 0
         label "4x7"
+        size 0
         color "red"
     ]
     node [
         id 332406
-        size 3
         label "Lock Up"
+        size 3
         color "red"
     ]
     node [
         id 938620
-        size 1
         label "Tempus Fugit"
+        size 1
         color "red"
     ]
     node [
         id 1200772
-        size 10
         label "Sourvein"
+        size 10
         color "red"
     ]
     node [
         id 4742
-        size 1
         label "Black Joe Lewis & The Honeybears"
+        size 1
         color "red"
     ]
     node [
         id 4743
-        size 6
         label "Daniel Lanois"
+        size 6
         color "red"
     ]
     node [
         id 2921097
-        size 0
         label "Son of Aurelius"
+        size 0
         color "red"
     ]
     node [
         id 266890
-        size 2
         label "Michale Graves"
+        size 2
         color "red"
     ]
     node [
         id 119435
-        size 3
         label "40 Below Summer"
+        size 3
         color "red"
     ]
     node [
         id 217740
-        size 1
         label "Ronnie Wood"
+        size 1
         color "red"
     ]
     node [
         id 905873
-        size 17
         label "Marduk"
+        size 17
         color "red"
     ]
     node [
         id 1433418
-        size 6
         label "90s Allstars"
+        size 6
         color "red"
     ]
     node [
         id 3037294
-        size 0
         label "Secret Service"
+        size 0
         color "red"
     ]
     node [
         id 4758
-        size 56
         label "Glenn Hughes"
+        size 56
         color "red"
     ]
     node [
         id 1590041
-        size 0
         label "Breed Society"
+        size 0
         color "red"
     ]
     node [
         id 70296
-        size 1
         label "ESG"
+        size 1
         color "red"
     ]
     node [
         id 905881
-        size 1
         label "Toxpack"
+        size 1
         color "red"
     ]
     node [
         id 184987
-        size 2
         label "Little Tony"
+        size 2
         color "red"
     ]
     node [
         id 430752
-        size 8
         label "Cold Showers"
+        size 8
         color "red"
     ]
     node [
         id 53928
-        size 1
         label "Verde"
+        size 1
         color "red"
     ]
     node [
         id 995023
-        size 0
         label "Doppler"
+        size 0
         color "red"
     ]
     node [
         id 1151660
-        size 3
         label "Robots In Disguise"
+        size 3
         color "red"
     ]
     node [
         id 14450
-        size 14
         label "Tricky"
+        size 14
         color "red"
     ]
     node [
         id 4352932
-        size 3
         label "The Devil and the Almighty Blues"
+        size 3
         color "red"
     ]
     node [
         id 791219
-        size 0
         label "Walk the Moon"
+        size 0
         color "red"
     ]
     node [
         id 781769
-        size 1
         label "The Crowns"
+        size 1
         color "red"
     ]
     node [
         id 4792
-        size 11
         label "Blue October"
+        size 11
         color "red"
     ]
     node [
         id 33311
-        size 2
         label "Tilly And The Wall"
+        size 2
         color "red"
     ]
     node [
         id 1626810
-        size 7
         label "The Passionate & Objective Jokerfan"
+        size 7
         color "red"
     ]
     node [
         id 119483
-        size 9
         label "Nekromantix"
+        size 9
         color "red"
     ]
     node [
         id 119490
-        size 2
         label "The Unseen"
+        size 2
         color "red"
     ]
     node [
         id 86724
-        size 1
         label "Siddharta"
+        size 1
         color "red"
     ]
     node [
         id 1036997
-        size 0
         label "Defiler"
+        size 0
         color "red"
     ]
     node [
         id 119494
-        size 5
         label "Youth Group"
+        size 5
         color "red"
     ]
     node [
         id 2921159
-        size 5
         label "Sorority Noise"
+        size 5
         color "red"
     ]
     node [
         id 1151688
-        size 1
         label "Mahumodo"
+        size 1
         color "red"
     ]
     node [
         id 168650
-        size 27
         label "Lostprophets"
+        size 27
         color "red"
     ]
     node [
         id 2052814
-        size 1
         label "Xiphea"
+        size 1
         color "red"
     ]
     node [
         id 2850192
-        size 0
         label "Henry Paul Band"
+        size 0
         color "red"
     ]
     node [
         id 201427
-        size 5
         label "Fred Frith"
+        size 5
         color "red"
     ]
     node [
         id 414423
-        size 4
         label "Rock Goddess"
+        size 4
         color "red"
     ]
     node [
         id 414424
-        size 4
         label "Magical Mystery"
+        size 4
         color "red"
     ]
     node [
         id 201433
-        size 5
         label "The Four Seasons"
+        size 5
         color "red"
     ]
     node [
         id 1151707
-        size 7
         label "Scum Of The Earth"
+        size 7
         color "red"
     ]
     node [
         id 1151708
-        size 4
         label "Riggs ( x-Rob Zombie )"
+        size 4
         color "red"
     ]
     node [
         id 1151709
-        size 4
         label "Adrian Ost ( Powerman 5000 )"
+        size 4
         color "red"
     ]
     node [
         id 1127298
-        size 3
         label "tricot"
+        size 3
         color "red"
     ]
     node [
         id 262949
-        size 0
         label "Kaan Tangöze"
+        size 0
         color "red"
     ]
     node [
         id 3379942
-        size 2
         label "Havok"
+        size 2
         color "red"
     ]
     node [
         id 86759
-        size 6
         label "Caesars"
+        size 6
         color "red"
     ]
     node [
         id 299753
-        size 1
         label "Jingo"
+        size 1
         color "red"
     ]
     node [
         id 185070
-        size 3
         label "Stanfour"
+        size 3
         color "red"
     ]
     node [
         id 1475368
-        size 0
         label "John And The Volta"
+        size 0
         color "red"
     ]
     node [
         id 119539
-        size 2
         label "The Chills"
+        size 2
         color "red"
     ]
     node [
         id 1118970
-        size 1
         label "Wildlife"
+        size 1
         color "red"
     ]
     node [
         id 309375
-        size 1
         label "Gustafi"
+        size 1
         color "red"
     ]
     node [
         id 299774
-        size 0
         label "Kala"
+        size 0
         color "red"
     ]
     node [
         id 44501
-        size 0
         label "Ben Jelen"
+        size 0
         color "red"
     ]
     node [
         id 3330816
-        size 1
         label "The Legendary Shack Shakers"
+        size 1
         color "red"
     ]
     node [
         id 152322
-        size 1
         label "The Kingsmen"
+        size 1
         color "red"
     ]
     node [
         id 2937605
-        size 0
         label "Transmetal"
+        size 0
         color "red"
     ]
     node [
         id 430856
-        size 1
         label "Go Radio"
+        size 1
         color "red"
     ]
     node [
         id 430857
-        size 1
         label "For All Those Sleeping"
+        size 1
         color "red"
     ]
     node [
         id 1087991
-        size 0
         label "Akacia"
+        size 0
         color "red"
     ]
     node [
         id 85463
-        size 9
         label "Quicksilver Messenger Service"
+        size 9
         color "red"
     ]
     node [
         id 2462476
-        size 0
         label "Samantha Ronson & The Undertakers"
+        size 0
         color "red"
     ]
     node [
         id 3919321
-        size 4
         label "Dust Legacy"
+        size 4
         color "red"
     ]
     node [
         id 4890
-        size 0
         label "David Matthews"
+        size 0
         color "red"
     ]
     node [
         id 676636
-        size 0
         label "Rico"
+        size 0
         color "red"
     ]
     node [
         id 627486
-        size 1
         label "Any Trouble"
+        size 1
         color "red"
     ]
     node [
         id 336231
-        size 6
         label "Pyramaze"
+        size 6
         color "red"
     ]
     node [
         id 3019559
-        size 0
         label "Pet The Preacher"
+        size 0
         color "red"
     ]
     node [
         id 86824
-        size 3
         label "Mickey 3d"
+        size 3
         color "red"
     ]
     node [
         id 600364
-        size 1
         label "Sixty Watt Shaman"
+        size 1
         color "red"
     ]
     node [
         id 119597
-        size 2
         label "Faces"
+        size 2
         color "red"
     ]
     node [
         id 2514127
-        size 0
         label "Elemenopy"
+        size 0
         color "red"
     ]
     node [
         id 594737
-        size 0
         label "? And The Mysterians"
+        size 0
         color "red"
     ]
     node [
         id 332594
-        size 0
         label "Skam"
+        size 0
         color "red"
     ]
     node [
         id 290270
-        size 1
         label "Alien Sex Fiend"
+        size 1
         color "red"
     ]
     node [
         id 612489
-        size 2
         label "The Disappointments"
+        size 2
         color "red"
     ]
     node [
         id 1114753
-        size 0
         label "Black Storm"
+        size 0
         color "red"
     ]
     node [
         id 906041
-        size 22
         label "Karmakanic"
+        size 22
         color "red"
     ]
     node [
         id 21309
-        size 18
         label "Rush"
+        size 18
         color "red"
     ]
     node [
         id 201534
-        size 3
         label "Brujeria"
+        size 3
         color "red"
     ]
     node [
         id 37696
-        size 6
         label "Johnny Marr"
+        size 6
         color "red"
     ]
     node [
         id 136001
-        size 8
         label "Buckethead"
+        size 8
         color "red"
     ]
     node [
         id 37700
-        size 18
         label "Ringo Starr"
+        size 18
         color "red"
     ]
     node [
         id 873285
-        size 0
         label "Atomizer"
+        size 0
         color "red"
     ]
     node [
         id 37702
-        size 25
         label "Wilco"
+        size 25
         color "red"
     ]
     node [
         id 1856328
-        size 4
         label "Death by kite"
+        size 4
         color "red"
     ]
     node [
         id 37706
-        size 16
         label "Pythia"
+        size 16
         color "red"
     ]
     node [
         id 103244
-        size 1
         label "Rossington"
+        size 1
         color "red"
     ]
     node [
         id 69090
-        size 4
         label "Billy Cobham"
+        size 4
         color "red"
     ]
     node [
         id 430927
-        size 10
         label "Portugal. The Man"
+        size 10
         color "red"
     ]
     node [
         id 201554
-        size 4
         label "Little Big Town"
+        size 4
         color "red"
     ]
     node [
         id 1364823
-        size 1
         label "Minutes Til Midnight"
+        size 1
         color "red"
     ]
     node [
         id 103256
-        size 1
         label "Paul Di'Anno"
+        size 1
         color "red"
     ]
     node [
         id 316249
-        size 9
         label "Pride Of Lions"
+        size 9
         color "red"
     ]
     node [
         id 316253
-        size 3
         label "Nine Pound Hammer"
+        size 3
         color "red"
     ]
     node [
         id 316254
-        size 1
         label "The A-Bones"
+        size 1
         color "red"
     ]
     node [
         id 265701
-        size 8
         label "The Silhouets"
+        size 8
         color "red"
     ]
     node [
         id 36718
-        size 22
         label "Helen Shapiro"
+        size 22
         color "red"
     ]
     node [
         id 2249581
-        size 0
         label "Sunset Junkies"
+        size 0
         color "red"
     ]
     node [
         id 217966
-        size 2
         label "The Telephones"
+        size 2
         color "red"
     ]
     node [
         id 151287
-        size 1
         label "Stan Bush"
+        size 1
         color "red"
     ]
     node [
         id 1315696
-        size 0
         label "Rogério Skylab"
+        size 0
         color "red"
     ]
     node [
         id 265704
-        size 1
         label "The Surphonics"
+        size 1
         color "red"
     ]
     node [
         id 1250162
-        size 3
         label "Delusions of Grandeur"
+        size 3
         color "red"
     ]
     node [
         id 1643379
-        size 2
         label "Sandblasters"
+        size 2
         color "red"
     ]
     node [
         id 86901
-        size 0
         label "Milczenie Owiec"
+        size 0
         color "red"
     ]
     node [
         id 1807222
-        size 1
         label "Bobnoxious"
+        size 1
         color "red"
     ]
     node [
         id 454121
-        size 1
         label "Kyla La Grange"
+        size 1
         color "red"
     ]
     node [
         id 2806652
-        size 0
         label "Born to Be Wild"
+        size 0
         color "red"
     ]
     node [
         id 1528702
-        size 2
         label "Alvin Lee & Ten Years Later"
+        size 2
         color "red"
     ]
     node [
         id 1233793
-        size 1
         label "Scarpoint"
+        size 1
         color "red"
     ]
     node [
         id 332674
-        size 0
         label "Engage"
+        size 0
         color "red"
     ]
     node [
         id 250755
-        size 0
         label "Mama"
+        size 0
         color "red"
     ]
     node [
         id 1463172
-        size 0
         label "Static Beatz"
+        size 0
         color "red"
     ]
     node [
         id 246593
-        size 0
         label "Sturm und Drang"
+        size 0
         color "red"
     ]
     node [
         id 775048
-        size 6
         label "Lynch."
+        size 6
         color "red"
     ]
     node [
         id 1250185
-        size 6
         label "Fatso Jetson"
+        size 6
         color "red"
     ]
     node [
         id 709515
-        size 9
         label "Redlight King"
+        size 9
         color "red"
     ]
     node [
         id 430992
-        size 6
         label "Мамонт"
+        size 6
         color "red"
     ]
     node [
         id 90947
-        size 22
         label "Suzi Quatro"
+        size 22
         color "red"
     ]
     node [
         id 1594262
-        size 2
         label "Ten Years Later"
+        size 2
         color "red"
     ]
     node [
         id 5018
-        size 1
         label "Dorsey Burnette"
+        size 1
         color "red"
     ]
     node [
         id 709536
-        size 3
         label "Ameritz Tribute Club"
+        size 3
         color "red"
     ]
     node [
         id 134640
-        size 0
         label "Chad Allan"
+        size 0
         color "red"
     ]
     node [
         id 21410
-        size 2
         label "Midge Ure"
+        size 2
         color "red"
     ]
     node [
         id 2921379
-        size 0
         label "Viva Rosa"
+        size 0
         color "red"
     ]
     node [
         id 906152
-        size 0
         label "Chroma Key"
+        size 0
         color "red"
     ]
     node [
         id 512937
-        size 1
         label "Phoenix Effect"
+        size 1
         color "red"
     ]
     node [
         id 4592555
-        size 0
         label "Graham Bonnet Band"
+        size 0
         color "red"
     ]
     node [
         id 21422
-        size 18
         label "Sonic Youth"
+        size 18
         color "red"
     ]
     node [
         id 47261
-        size 3
         label "Litfiba"
+        size 3
         color "red"
     ]
     node [
         id 757412
-        size 8
         label "Inter Arma"
+        size 8
         color "red"
     ]
     node [
         id 114138
-        size 0
         label "Slaughter"
+        size 0
         color "red"
     ]
     node [
         id 250810
-        size 0
         label "Red"
+        size 0
         color "red"
     ]
     node [
         id 168892
-        size 4
         label "The Brian Setzer Orchestra"
+        size 4
         color "red"
     ]
     node [
         id 1037248
-        size 0
         label "Bad Bad Roxanne"
+        size 0
         color "red"
     ]
     node [
         id 119745
-        size 2
         label "Fear"
+        size 2
         color "red"
     ]
     node [
         id 1823683
-        size 1
         label "We Are!!"
+        size 1
         color "red"
     ]
     node [
         id 309409
-        size 17
         label "Van Canto"
+        size 17
         color "red"
     ]
     node [
         id 426828
-        size 0
         label "Brendan Perry"
+        size 0
         color "red"
     ]
     node [
         id 37834
-        size 4
         label "Aviv Geffen"
+        size 4
         color "red"
     ]
     node [
         id 331255
-        size 1
         label "Apartment"
+        size 1
         color "red"
     ]
     node [
         id 642552
-        size 2
         label "Thanatos"
+        size 2
         color "red"
     ]
     node [
         id 185661
-        size 0
         label "Superbus"
+        size 0
         color "red"
     ]
     node [
         id 168921
-        size 10
         label "Stick To Your Guns"
+        size 10
         color "red"
     ]
     node [
         id 713551
-        size 3
         label "Moriarty"
+        size 3
         color "red"
     ]
     node [
         id 512989
-        size 0
         label "Harmaja"
+        size 0
         color "red"
     ]
     node [
         id 742366
-        size 3
         label "Gooding"
+        size 3
         color "red"
     ]
     node [
         id 1348580
-        size 1
         label "Smash Palace"
+        size 1
         color "red"
     ]
     node [
         id 2266088
-        size 3
         label "PostPosition"
+        size 3
         color "red"
     ]
     node [
         id 1577961
-        size 1
         label "Freak Owls"
+        size 1
         color "red"
     ]
     node [
         id 54254
-        size 37
         label "The Smiths"
+        size 37
         color "red"
     ]
     node [
         id 1201136
-        size 5
         label "Ides Of Gemini"
+        size 5
         color "red"
     ]
     node [
         id 168945
-        size 0
         label "Spirit"
+        size 0
         color "red"
     ]
     node [
         id 289865
-        size 9
         label "The Chameleons"
+        size 9
         color "red"
     ]
     node [
         id 230944
-        size 2
         label "Another Animal"
+        size 2
         color "red"
     ]
     node [
         id 166321
-        size 4
         label "Jettblack"
+        size 4
         color "red"
     ]
     node [
         id 426836
-        size 2
         label "The Jim Jones Revue"
+        size 2
         color "red"
     ]
     node [
         id 5117
-        size 0
         label "John Lodge"
+        size 0
         color "red"
     ]
     node [
         id 1397758
-        size 0
         label "The Strikers"
+        size 0
         color "red"
     ]
     node [
         id 2331649
-        size 8
         label "Joan Red"
+        size 8
         color "red"
     ]
     node [
         id 3009242
-        size 0
         label "Days of Confusion"
+        size 0
         color "red"
     ]
     node [
         id 300036
-        size 3
         label "Naka"
+        size 3
         color "red"
     ]
     node [
         id 807943
-        size 7
         label "SoundMachine"
+        size 7
         color "red"
     ]
     node [
         id 627721
-        size 2
         label "Bai Bang"
+        size 2
         color "red"
     ]
     node [
         id 5130
-        size 18
         label "Papa Roach"
+        size 18
         color "red"
     ]
     node [
         id 290306
-        size 5
         label "Big Electric Cat"
+        size 5
         color "red"
     ]
     node [
         id 1889294
-        size 11
         label "Currents"
+        size 11
         color "red"
     ]
     node [
         id 70957
-        size 3
         label "The Tossers"
+        size 3
         color "red"
     ]
     node [
         id 168976
-        size 5
         label "The Mustangs"
+        size 5
         color "red"
     ]
     node [
         id 1856532
-        size 2
         label "Tawny Peaks"
+        size 2
         color "red"
     ]
     node [
         id 431127
-        size 8
         label "The Bunny The Bear"
+        size 8
         color "red"
     ]
     node [
         id 168985
-        size 6
         label "The Peanut Butter Conspiracy"
+        size 6
         color "red"
     ]
     node [
         id 1971228
-        size 12
         label "Epicrenel"
+        size 12
         color "red"
     ]
     node [
         id 70687
-        size 12
         label "ASG"
+        size 12
         color "red"
     ]
     node [
         id 726049
-        size 4
         label "The Dave Clark Five"
+        size 4
         color "red"
     ]
     node [
         id 201762
-        size 7
         label "The Chordettes"
+        size 7
         color "red"
     ]
     node [
         id 101101
-        size 1
         label "Bonzo Dog Doo Dah Band"
+        size 1
         color "red"
     ]
     node [
         id 545834
-        size 14
         label "Ex Libris"
+        size 14
         color "red"
     ]
     node [
         id 2610219
-        size 0
         label "Decorate.Decorate"
+        size 0
         color "red"
     ]
     node [
         id 37932
-        size 32
         label "OK Go"
+        size 32
         color "red"
     ]
     node [
         id 2413206
-        size 1
         label "Artëma"
+        size 1
         color "red"
     ]
     node [
         id 1971248
-        size 7
         label "Heavatar"
+        size 7
         color "red"
     ]
     node [
         id 300081
-        size 10
         label "Acylum"
+        size 10
         color "red"
     ]
     node [
         id 267314
-        size 0
         label "Action"
+        size 0
         color "red"
     ]
     node [
         id 37941
-        size 7
         label "Airbourne"
+        size 7
         color "red"
     ]
     node [
         id 169014
-        size 0
         label "Vintage"
+        size 0
         color "red"
     ]
     node [
         id 2071137
-        size 1
         label "Afterimage"
+        size 1
         color "red"
     ]
     node [
         id 4166714
-        size 0
         label "Robben"
+        size 0
         color "red"
     ]
     node [
         id 37948
-        size 12
         label "The Perishers"
+        size 12
         color "red"
     ]
     node [
         id 738179
-        size 4
         label "Weekend Nachos"
+        size 4
         color "red"
     ]
     node [
         id 119870
-        size 5
         label "Jason Falkner"
+        size 5
         color "red"
     ]
     node [
         id 54336
-        size 3
         label "Tony Lucca"
+        size 3
         color "red"
     ]
     node [
         id 1905729
-        size 0
         label "The Inactivists"
+        size 0
         color "red"
     ]
     node [
         id 300098
-        size 3
         label "Linda Gail Lewis"
+        size 3
         color "red"
     ]
     node [
         id 300101
-        size 6
         label "Ike"
+        size 6
         color "red"
     ]
     node [
         id 316486
-        size 6
         label "Dark Age"
+        size 6
         color "red"
     ]
     node [
         id 1971271
-        size 0
         label "Per Nilsson"
+        size 0
         color "red"
     ]
     node [
         id 2724936
-        size 1
         label "Seaway"
+        size 1
         color "red"
     ]
     node [
         id 300105
-        size 11
         label "Marmalade"
+        size 11
         color "red"
     ]
     node [
         id 1643594
-        size 0
         label "The Toilet Bowl Cleaners"
+        size 0
         color "red"
     ]
     node [
         id 1954893
-        size 1
         label "Beach Patrol"
+        size 1
         color "red"
     ]
     node [
         id 1643599
-        size 4
         label "The Cog Is Dead"
+        size 4
         color "red"
     ]
     node [
         id 1119313
-        size 0
         label "Wolfpakk"
+        size 0
         color "red"
     ]
     node [
         id 2856022
-        size 0
         label "Citizen King"
+        size 0
         color "red"
     ]
     node [
         id 70743
-        size 0
         label "Bazooka"
+        size 0
         color "red"
     ]
     node [
         id 44364
-        size 0
         label "Gavin Friday"
+        size 0
         color "red"
     ]
     node [
         id 250969
-        size 11
         label "Tuatara"
+        size 11
         color "red"
     ]
     node [
         id 200207
-        size 0
         label "Kee Marcello"
+        size 0
         color "red"
     ]
     node [
         id 1807453
-        size 10
         label "One Less Reason"
+        size 10
         color "red"
     ]
     node [
         id 1348702
-        size 0
         label "Hammers of Misfortune"
+        size 0
         color "red"
     ]
     node [
         id 21602
-        size 0
         label "The Hoxtons"
+        size 0
         color "red"
     ]
     node [
         id 300136
-        size 13
         label "The Seven Mile Journey"
+        size 13
         color "red"
     ]
     node [
         id 169066
-        size 1
         label "The Escape Club"
+        size 1
         color "red"
     ]
     node [
         id 5229
-        size 2
         label "The House Of Love"
+        size 2
         color "red"
     ]
     node [
         id 3118190
-        size 4
         label "Athena"
+        size 4
         color "red"
     ]
     node [
         id 169074
-        size 10
         label "Editors"
+        size 10
         color "red"
     ]
     node [
         id 1430644
-        size 12
         label "Skepticism"
+        size 12
         color "red"
     ]
     node [
         id 301246
-        size 0
         label "The Paladins"
+        size 0
         color "red"
     ]
     node [
         id 54390
-        size 0
         label "Surferosa"
+        size 0
         color "red"
     ]
     node [
         id 250999
-        size 4
         label "3 Colours Red"
+        size 4
         color "red"
     ]
     node [
         id 1266808
-        size 3
         label "El Trio"
+        size 3
         color "red"
     ]
     node [
         id 87161
-        size 8
         label "Hawk Nelson"
+        size 8
         color "red"
     ]
     node [
         id 87162
-        size 26
         label "Ten Years After"
+        size 26
         color "red"
     ]
     node [
         id 87163
-        size 13
         label "Alvin Lee"
+        size 13
         color "red"
     ]
     node [
         id 755782
-        size 1
         label "Mike Rimbaud"
+        size 1
         color "red"
     ]
     node [
         id 3658877
-        size 10
         label "Feuerschwanz"
+        size 10
         color "red"
     ]
     node [
         id 87167
-        size 8
         label "Steeleye Span"
+        size 8
         color "red"
     ]
     node [
         id 5248
-        size 4
         label "Steve Gadd"
+        size 4
         color "red"
     ]
     node [
         id 365698
-        size 3
         label "Mental As Anything"
+        size 3
         color "red"
     ]
     node [
         id 1184899
-        size 14
         label "Christian Mistress"
+        size 14
         color "red"
     ]
     node [
         id 87173
-        size 51
         label "Jethro Tull"
+        size 51
         color "red"
     ]
     node [
         id 87174
-        size 15
         label "Ian Anderson"
+        size 15
         color "red"
     ]
     node [
         id 328556
-        size 1
         label "The Dukes"
+        size 1
         color "red"
     ]
     node [
         id 1430666
-        size 0
         label "Forgotten Sunrise"
+        size 0
         color "red"
     ]
     node [
         id 153794
-        size 10
         label "Young Guns"
+        size 10
         color "red"
     ]
     node [
         id 54416
-        size 27
         label "Story Of The Year"
+        size 27
         color "red"
     ]
     node [
         id 2184338
-        size 14
         label "Demon Eye"
+        size 14
         color "red"
     ]
     node [
         id 2020499
-        size 6
         label "Counterparts"
+        size 6
         color "red"
     ]
     node [
         id 2040686
-        size 3
         label "Last Rites"
+        size 3
         color "red"
     ]
     node [
         id 971926
-        size 6
         label "Atoma"
+        size 6
         color "red"
     ]
     node [
         id 1119386
-        size 3
         label "The Backbeats"
+        size 3
         color "red"
     ]
     node [
         id 87197
-        size 44
         label "UFO"
+        size 44
         color "red"
     ]
     node [
         id 1926000
-        size 0
         label "Exit 380"
+        size 0
         color "red"
     ]
     node [
         id 390657
-        size 1
         label "Jennifer Matthews"
+        size 1
         color "red"
     ]
     node [
         id 30918
-        size 8
         label "Cut Copy"
+        size 8
         color "red"
     ]
     node [
         id 726184
-        size 7
         label "Stingray Music (Karaoke)"
+        size 7
         color "red"
     ]
     node [
         id 38061
-        size 21
         label "Ricky Nelson"
+        size 21
         color "red"
     ]
     node [
         id 2446512
-        size 9
         label "The Ruins Of Beverast"
+        size 9
         color "red"
     ]
     node [
         id 1987761
-        size 10
         label "Starlite Rock Revival"
+        size 10
         color "red"
     ]
     node [
         id 1299637
-        size 0
         label "Electric Earth"
+        size 0
         color "red"
     ]
     node [
         id 742582
-        size 13
         label "Electric Mary"
+        size 13
         color "red"
     ]
     node [
         id 448713
-        size 0
         label "Ringtone Truetones"
+        size 0
         color "red"
     ]
     node [
         id 87229
-        size 1
         label "Runrig"
+        size 1
         color "red"
     ]
     node [
         id 38078
-        size 12
         label "Warmen"
+        size 12
         color "red"
     ]
     node [
         id 1152194
-        size 4
         label "Michael Lee Firkins"
+        size 4
         color "red"
     ]
     node [
         id 1889478
-        size 0
         label "Elric Phares"
+        size 0
         color "red"
     ]
     node [
         id 513224
-        size 4
         label "Mooncry"
+        size 4
         color "red"
     ]
     node [
         id 5323
-        size 12
         label "Fleet Foxes"
+        size 12
         color "red"
     ]
     node [
         id 338973
-        size 0
         label "Dropkick Murphys & The Business"
+        size 0
         color "red"
     ]
     node [
         id 1971405
-        size 0
         label "Black Country Rockers"
+        size 0
         color "red"
     ]
     node [
         id 1692879
-        size 0
         label "Сергей Кузин"
+        size 0
         color "red"
     ]
     node [
         id 1529042
-        size 1
         label "The Wild Feathers"
+        size 1
         color "red"
     ]
     node [
         id 87251
-        size 12
         label "Generation x"
+        size 12
         color "red"
     ]
     node [
         id 185556
-        size 1
         label "The Loft"
+        size 1
         color "red"
     ]
     node [
         id 2905302
-        size 0
         label "Hellspin"
+        size 0
         color "red"
     ]
     node [
         id 201944
-        size 3
         label "Goose"
+        size 3
         color "red"
     ]
     node [
         id 185561
-        size 1
         label "Outlandish"
+        size 1
         color "red"
     ]
     node [
         id 2331866
-        size 2
         label "The Fore"
+        size 2
         color "red"
     ]
     node [
         id 95106
-        size 10
         label "Ruoska"
+        size 10
         color "red"
     ]
     node [
         id 325840
-        size 1
         label "Jack Fender"
+        size 1
         color "red"
     ]
     node [
         id 1266916
-        size 2
         label "Dartz!"
+        size 2
         color "red"
     ]
     node [
         id 1066212
-        size 0
         label "AuroraBrivido"
+        size 0
         color "red"
     ]
     node [
         id 1922280
-        size 0
         label "Living Dead Lights"
+        size 0
         color "red"
     ]
     node [
         id 793391
-        size 2
         label "Casa Murilo"
+        size 2
         color "red"
     ]
     node [
         id 489682
-        size 23
         label "Tune Robbers"
+        size 23
         color "red"
     ]
     node [
         id 251118
-        size 2
         label "L.A."
+        size 2
         color "red"
     ]
     node [
         id 677103
-        size 9
         label "Black Country Communion"
+        size 9
         color "red"
     ]
     node [
         id 1299701
-        size 0
         label "The Irresponsibles"
+        size 0
         color "red"
     ]
     node [
         id 87286
-        size 27
         label "Michael Schenker Group"
+        size 27
         color "red"
     ]
     node [
         id 87288
-        size 0
         label "Gary Barden"
+        size 0
         color "red"
     ]
     node [
         id 185594
-        size 37
         label "Pretty Maids"
+        size 37
         color "red"
     ]
     node [
         id 3118331
-        size 0
         label "МОНОМАХ"
+        size 0
         color "red"
     ]
     node [
         id 873730
-        size 3
         label "The Rumour"
+        size 3
         color "red"
     ]
     node [
         id 333060
-        size 15
         label "antimatter"
+        size 15
         color "red"
     ]
     node [
         id 2790665
-        size 0
         label "The Allegrettes"
+        size 0
         color "red"
     ]
     node [
         id 333066
-        size 2
         label "Sarah Jezebel Deva"
+        size 2
         color "red"
     ]
     node [
         id 2201815
-        size 4
         label "JD McPherson"
+        size 4
         color "red"
     ]
     node [
         id 333068
-        size 1
         label "Persephone"
+        size 1
         color "red"
     ]
     node [
         id 333069
-        size 11
         label "The Gathering"
+        size 11
         color "red"
     ]
     node [
         id 5393
-        size 27
         label "Bruce Springsteen"
+        size 27
         color "red"
     ]
     node [
         id 333074
-        size 1
         label "Ulver"
+        size 1
         color "red"
     ]
     node [
         id 230275
-        size 2
         label "Ben Nichols"
+        size 2
         color "red"
     ]
     node [
         id 21783
-        size 3
         label "Steve Hillage"
+        size 3
         color "red"
     ]
     node [
         id 3233048
-        size 2
         label "NitroDive"
+        size 2
         color "red"
     ]
     node [
         id 1234202
-        size 8
         label "Hate Eternal"
+        size 8
         color "red"
     ]
     node [
         id 611611
-        size 0
         label "The Shape Shifters"
+        size 0
         color "red"
     ]
     node [
         id 1889567
-        size 1
         label "Tragedy Machine"
+        size 1
         color "red"
     ]
     node [
         id 611616
-        size 0
         label "The Dancing Vamps"
+        size 0
         color "red"
     ]
     node [
         id 1348900
-        size 2
         label "Meliah Rage"
+        size 2
         color "red"
     ]
     node [
         id 185640
-        size 1
         label "Helmut Fritz"
+        size 1
         color "red"
     ]
     node [
         id 283945
-        size 2
         label "SBB"
+        size 2
         color "red"
     ]
     node [
         id 70954
-        size 1
         label "The Sleeping"
+        size 1
         color "red"
     ]
     node [
         id 87339
-        size 4
         label "Bosse"
+        size 4
         color "red"
     ]
     node [
         id 70956
-        size 1
         label "Farewell To Freeway"
+        size 1
         color "red"
     ]
     node [
         id 1905965
-        size 1
         label "Death Day"
+        size 1
         color "red"
     ]
     node [
         id 70958
-        size 5
         label "Blind Witness"
+        size 5
         color "red"
     ]
     node [
         id 234799
-        size 0
         label "Face To Face"
+        size 0
         color "red"
     ]
     node [
         id 1365298
-        size 1
         label "Gravelroad"
+        size 1
         color "red"
     ]
     node [
         id 2446644
-        size 0
         label "Novi Ierusalim"
+        size 0
         color "red"
     ]
     node [
         id 644407
-        size 2
         label "Dionysos"
+        size 2
         color "red"
     ]
     node [
         id 21816
-        size 5
         label "Grace Slick"
+        size 5
         color "red"
     ]
     node [
         id 300345
-        size 11
         label "Slick Idiot"
+        size 11
         color "red"
     ]
     node [
         id 21818
-        size 17
         label "Buffalo Springfield"
+        size 17
         color "red"
     ]
     node [
         id 70971
-        size 16
         label "Assemblage 23"
+        size 16
         color "red"
     ]
     node [
         id 21820
-        size 2
         label "The Youngbloods"
+        size 2
         color "red"
     ]
     node [
         id 431421
-        size 2
         label "The Creation"
+        size 2
         color "red"
     ]
     node [
         id 70974
-        size 4
         label "Bella Morte"
+        size 4
         color "red"
     ]
     node [
         id 70977
-        size 9
         label "Velvet Acid Christ"
+        size 9
         color "red"
     ]
     node [
         id 2004290
-        size 0
         label "The Hungry Mile"
+        size 0
         color "red"
     ]
     node [
         id 21827
-        size 7
         label "Big Brother & The Holding Company"
+        size 7
         color "red"
     ]
     node [
         id 267588
-        size 6
         label "All Out War"
+        size 6
         color "red"
     ]
     node [
         id 300361
-        size 15
         label "Laaz Rockit"
+        size 15
         color "red"
     ]
     node [
         id 3970379
-        size 0
         label "Ultra Rock"
+        size 0
         color "red"
     ]
     node [
         id 218444
-        size 38
         label "Stratovarius"
+        size 38
         color "red"
     ]
     node [
         id 316749
-        size 16
         label "Lagwagon"
+        size 16
         color "red"
     ]
     node [
         id 70990
-        size 9
         label "Christian Death"
+        size 9
         color "red"
     ]
     node [
         id 70991
-        size 8
         label "Suicidal Tendencies"
+        size 8
         color "red"
     ]
     node [
         id 70994
-        size 1
         label "Thin White Rope"
+        size 1
         color "red"
     ]
     node [
         id 5459
-        size 3
         label "Max Romeo"
+        size 3
         color "red"
     ]
     node [
         id 398676
-        size 0
         label "Stevie T"
+        size 0
         color "red"
     ]
     node [
         id 1414485
-        size 0
         label "Whisky of Blood"
+        size 0
         color "red"
     ]
     node [
         id 2561369
-        size 1
         label "Парнас Дыбом"
+        size 1
         color "red"
     ]
     node [
         id 58255
-        size 8
         label "Greeley Estates"
+        size 8
         color "red"
     ]
     node [
         id 5469
-        size 3
         label "Albert Hammond"
+        size 3
         color "red"
     ]
     node [
         id 2774368
-        size 7
         label "I Divide"
+        size 7
         color "red"
     ]
     node [
         id 578913
-        size 6
         label "Kitty In A Casket"
+        size 6
         color "red"
     ]
     node [
         id 85563
-        size 1
         label "Be Bop Deluxe"
+        size 1
         color "red"
     ]
     node [
         id 890213
-        size 0
         label "Headcharger"
+        size 0
         color "red"
     ]
     node [
         id 300390
-        size 6
         label "Opera IX"
+        size 6
         color "red"
     ]
     node [
         id 1622929
-        size 1
         label "Juniore"
+        size 1
         color "red"
     ]
     node [
         id 227559
-        size 7
         label "Grinspoon"
+        size 7
         color "red"
     ]
     node [
         id 1447277
-        size 9
         label "black gene for the next scene"
+        size 9
         color "red"
     ]
     node [
         id 1545583
-        size 5
         label "Minor Detail"
+        size 5
         color "red"
     ]
     node [
         id 808304
-        size 6
         label "Studio Sound Group"
+        size 6
         color "red"
     ]
     node [
         id 71025
-        size 1
         label "Boy Sets Fire"
+        size 1
         color "red"
     ]
     node [
         id 21875
-        size 3
         label "Jennifer Warnes"
+        size 3
         color "red"
     ]
     node [
         id 38262
-        size 1
         label "The Gabe Dixon Band"
+        size 1
         color "red"
     ]
     node [
         id 185720
-        size 0
         label "The Undertones"
+        size 0
         color "red"
     ]
     node [
         id 71035
-        size 9
         label "Cave In"
+        size 9
         color "red"
     ]
     node [
         id 38268
-        size 1
         label "Graham Bond"
+        size 1
         color "red"
     ]
     node [
         id 71037
-        size 5
         label "Indecision"
+        size 5
         color "red"
     ]
     node [
         id 38270
-        size 2
         label "Colosseum II"
+        size 2
         color "red"
     ]
     node [
         id 58261
-        size 3
         label "John Sykes"
+        size 3
         color "red"
     ]
     node [
         id 185728
-        size 2
         label "Dragon"
+        size 2
         color "red"
     ]
     node [
         id 136577
-        size 2
         label "Cloud Cult"
+        size 2
         color "red"
     ]
     node [
         id 677250
-        size 2
         label "Ancient Rites"
+        size 2
         color "red"
     ]
     node [
         id 38275
-        size 2
         label "Don Airey"
+        size 2
         color "red"
     ]
     node [
         id 1201540
-        size 1
         label "Broncho"
+        size 1
         color "red"
     ]
     node [
         id 1820
-        size 0
         label "Dickey Lee"
+        size 0
         color "red"
     ]
     node [
         id 677255
-        size 5
         label "Cosmosquad"
+        size 5
         color "red"
     ]
     node [
         id 595337
-        size 4
         label "DJ ReDo"
+        size 4
         color "red"
     ]
     node [
         id 1611146
-        size 13
         label "Deserted Fear"
+        size 13
         color "red"
     ]
     node [
         id 38283
-        size 4
         label "Tarot"
+        size 4
         color "red"
     ]
     node [
         id 415116
-        size 4
         label "NDX"
+        size 4
         color "red"
     ]
     node [
         id 972174
-        size 1
         label "Old Gods of Asgard"
+        size 1
         color "red"
     ]
     node [
         id 71058
-        size 0
         label "Screeching Weasel"
+        size 0
         color "red"
     ]
     node [
         id 1873299
-        size 1
         label "Kirby Krackle"
+        size 1
         color "red"
     ]
     node [
         id 38292
-        size 14
         label "Dead by April"
+        size 14
         color "red"
     ]
     node [
         id 5525
-        size 15
         label "Brandon Flowers"
+        size 15
         color "red"
     ]
     node [
         id 2807190
-        size 0
         label "The Winery Dogs"
+        size 0
         color "red"
     ]
     node [
         id 677271
-        size 7
         label "Greg Howe"
+        size 7
         color "red"
     ]
     node [
         id 562585
-        size 3
         label "Apogee"
+        size 3
         color "red"
     ]
     node [
         id 2741658
-        size 2
         label "Tyler Carter"
+        size 2
         color "red"
     ]
     node [
         id 38301
-        size 11
         label "Backyard Babies"
+        size 11
         color "red"
     ]
     node [
         id 71070
-        size 3
         label "Earthless"
+        size 3
         color "red"
     ]
     node [
         id 185760
-        size 1
         label "The Ataris"
+        size 1
         color "red"
     ]
     node [
         id 120225
-        size 0
         label "MACHINE"
+        size 0
         color "red"
     ]
     node [
         id 3773858
-        size 2
         label "Changing Scene"
+        size 2
         color "red"
     ]
     node [
         id 2827163
-        size 1
         label "No Sinner"
+        size 1
         color "red"
     ]
     node [
         id 218532
-        size 9
         label "Snowy White"
+        size 9
         color "red"
     ]
     node [
         id 38311
-        size 3
         label "D'espairsRay"
+        size 3
         color "red"
     ]
     node [
         id 87466
-        size 3
         label "Idlewild"
+        size 3
         color "red"
     ]
     node [
         id 5550
-        size 53
         label "Jerry Lee Lewis"
+        size 53
         color "red"
     ]
     node [
         id 5559
-        size 12
         label "Bryan Adams"
+        size 12
         color "red"
     ]
     node [
         id 1136059
-        size 10
         label "Funeral"
+        size 10
         color "red"
     ]
     node [
         id 349628
-        size 2
         label "Cold Cave"
+        size 2
         color "red"
     ]
     node [
         id 316861
-        size 5
         label "Angel Witch"
+        size 5
         color "red"
     ]
     node [
         id 2315711
-        size 2
         label "Scarlet Youth"
+        size 2
         color "red"
     ]
     node [
         id 611778
-        size 0
         label "Lauschangriff"
+        size 0
         color "red"
     ]
     node [
         id 611780
-        size 0
         label "Various Artists - Oasis Tribute"
+        size 0
         color "red"
     ]
     node [
         id 1448183
-        size 0
         label "Hallucination"
+        size 0
         color "red"
     ]
     node [
         id 267725
-        size 7
         label "Bal-Sagoth"
+        size 7
         color "red"
     ]
     node [
         id 21971
-        size 24
         label "Gary Moore"
+        size 24
         color "red"
     ]
     node [
         id 218587
-        size 16
         label "Atomic Rooster"
+        size 16
         color "red"
     ]
     node [
         id 268538
-        size 0
         label "Fuat Güner"
+        size 0
         color "red"
     ]
     node [
         id 2141776
-        size 0
         label "SuperHuman"
+        size 0
         color "red"
     ]
     node [
         id 1529316
-        size 1
         label "The Chimpz"
+        size 1
         color "red"
     ]
     node [
         id 1529317
-        size 8
         label "Bruce Bouillet"
+        size 8
         color "red"
     ]
     node [
         id 349670
-        size 3
         label "Anneke Van Giersbergen"
+        size 3
         color "red"
     ]
     node [
         id 1922535
-        size 1
         label "Maestro Alex Gregory"
+        size 1
         color "red"
     ]
     node [
         id 71146
-        size 1
         label "The Gun Club"
+        size 1
         color "red"
     ]
     node [
         id 21995
-        size 3
         label "Ryan Adams & The Cardinals"
+        size 3
         color "red"
     ]
     node [
         id 23646
-        size 1
         label "Montgomery"
+        size 1
         color "red"
     ]
     node [
         id 71151
-        size 5
         label "The Come Ons"
+        size 5
         color "red"
     ]
     node [
         id 120306
-        size 0
         label "Dare"
+        size 0
         color "red"
     ]
     node [
         id 38387
-        size 3
         label "David Gray"
+        size 3
         color "red"
     ]
     node [
         id 12735
-        size 3
         label "Roger McGuinn"
+        size 3
         color "red"
     ]
     node [
         id 2807288
-        size 14
         label "Devil You Know"
+        size 14
         color "red"
     ]
     node [
         id 316924
-        size 3
         label "The Chinese Stars"
+        size 3
         color "red"
     ]
     node [
         id 3151359
-        size 0
         label "It Lives, It Breathes"
+        size 0
         color "red"
     ]
     node [
         id 136704
-        size 11
         label "Gogol Bordello"
+        size 11
         color "red"
     ]
     node [
         id 3261355
-        size 2
         label "In The Midst Of Lions"
+        size 2
         color "red"
     ]
     node [
         id 44630
-        size 17
         label "John Petrucci"
+        size 17
         color "red"
     ]
     node [
         id 857606
-        size 1
         label "Confusional Quartet"
+        size 1
         color "red"
     ]
     node [
         id 185864
-        size 1
         label "Norman Greenbaum"
+        size 1
         color "red"
     ]
     node [
         id 205740
-        size 4
         label "H-Blockx"
+        size 4
         color "red"
     ]
     node [
         id 54794
-        size 2
         label "RONNIE HAWKINS"
+        size 2
         color "red"
     ]
     node [
         id 1355351
-        size 2
         label "Closure In Moscow"
+        size 2
         color "red"
     ]
     node [
         id 120336
-        size 3
         label "City"
+        size 3
         color "red"
     ]
     node [
         id 126552
-        size 8
         label "Aiden"
+        size 8
         color "red"
     ]
     node [
         id 824850
-        size 0
         label "Outcast"
+        size 0
         color "red"
     ]
     node [
         id 264853
-        size 1
         label "Obus"
+        size 1
         color "red"
     ]
     node [
         id 1152538
-        size 1
         label "Aarktica"
+        size 1
         color "red"
     ]
     node [
         id 710176
-        size 13
         label "Viking Skull"
+        size 13
         color "red"
     ]
     node [
         id 2024368
-        size 0
         label "Fluid Minds"
+        size 0
         color "red"
     ]
     node [
         id 71203
-        size 10
         label "Clutch"
+        size 10
         color "red"
     ]
     node [
         id 2725414
-        size 5
         label "Mark Lind"
+        size 5
         color "red"
     ]
     node [
         id 185896
-        size 0
         label "Toploader"
+        size 0
         color "red"
     ]
     node [
         id 1594921
-        size 8
         label "Kadavar"
+        size 8
         color "red"
     ]
     node [
         id 1357009
-        size 0
         label "The Old Ceremony"
+        size 0
         color "red"
     ]
     node [
         id 136748
-        size 1
         label "Murder By Death"
+        size 1
         color "red"
     ]
     node [
         id 185901
-        size 0
         label "Wheatus"
+        size 0
         color "red"
     ]
     node [
         id 103982
-        size 2
         label "Blaze Bayley"
+        size 2
         color "red"
     ]
     node [
         id 71221
-        size 2
         label "American Heritage"
+        size 2
         color "red"
     ]
     node [
         id 71224
-        size 0
         label "Killwhitneydead"
+        size 0
         color "red"
     ]
     node [
         id 1545787
-        size 5
         label "Heartist"
+        size 5
         color "red"
     ]
     node [
         id 333372
-        size 4
         label "Blanc Faces"
+        size 4
         color "red"
     ]
     node [
         id 38463
-        size 0
         label "Big Mountain"
+        size 0
         color "red"
     ]
     node [
         id 197558
-        size 1
         label "The Derek Trucks Band"
+        size 1
         color "red"
     ]
     node [
         id 398918
-        size 9
         label "Yoni Rechter"
+        size 9
         color "red"
     ]
     node [
         id 267847
-        size 0
         label "Ozone"
+        size 0
         color "red"
     ]
     node [
         id 185929
-        size 1
         label "Hanoi Rocks"
+        size 1
         color "red"
     ]
     node [
         id 1873485
-        size 1
         label "Neverwake"
+        size 1
         color "red"
     ]
     node [
         id 22094
-        size 49
         label "Dreamtale"
+        size 49
         color "red"
     ]
     node [
         id 185935
-        size 1
         label "Still"
+        size 1
         color "red"
     ]
     node [
         id 410552
-        size 9
         label "Melechesh"
+        size 9
         color "red"
     ]
     node [
         id 1988178
-        size 0
         label "The Bad Light"
+        size 0
         color "red"
     ]
     node [
         id 1773155
-        size 2
         label "Pilgrim Speakeasy"
+        size 2
         color "red"
     ]
     node [
         id 415327
-        size 0
         label "Buck Wild"
+        size 0
         color "red"
     ]
     node [
         id 2381408
-        size 1
         label "Vintage Trouble"
+        size 1
         color "red"
     ]
     node [
         id 54882
-        size 0
         label "Northern Kings"
+        size 0
         color "red"
     ]
     node [
         id 1611368
-        size 0
         label "WÖYH!"
+        size 0
         color "red"
     ]
     node [
         id 4413035
-        size 0
         label "Agent Orange"
+        size 0
         color "red"
     ]
     node [
         id 235117
-        size 1
         label "Holstein"
+        size 1
         color "red"
     ]
     node [
         id 972399
-        size 8
         label "Svartby"
+        size 8
         color "red"
     ]
     node [
         id 120432
-        size 6
         label "Dawes"
+        size 6
         color "red"
     ]
     node [
         id 71286
-        size 9
         label "M.O.D."
+        size 9
         color "red"
     ]
     node [
         id 333431
-        size 1
         label "The Syn"
+        size 1
         color "red"
     ]
     node [
         id 3036792
-        size 2
         label "Marc Bolan & Trex"
+        size 2
         color "red"
     ]
     node [
         id 1152636
-        size 0
         label "Misdemeanor"
+        size 0
         color "red"
     ]
     node [
         id 2725502
-        size 0
         label "Acoustic Guitar Songs"
+        size 0
         color "red"
     ]
     node [
         id 3711937
-        size 5
         label "Karenin"
+        size 5
         color "red"
     ]
     node [
         id 87689
-        size 6
         label "The Vines"
+        size 6
         color "red"
     ]
     node [
         id 54926
-        size 2
         label "Refused"
+        size 2
         color "red"
     ]
     node [
         id 863276
-        size 2
         label "Lady Pank"
+        size 2
         color "red"
     ]
     node [
         id 22161
-        size 0
         label "Dave Davies"
+        size 0
         color "red"
     ]
     node [
         id 54931
-        size 6
         label "The Business"
+        size 6
         color "red"
     ]
     node [
         id 1611412
-        size 5
         label "Noumena"
+        size 5
         color "red"
     ]
     node [
         id 4724373
-        size 0
         label "Breakpoint Method"
+        size 0
         color "red"
     ]
     node [
         id 382615
-        size 3
         label "Robert Marlow"
+        size 3
         color "red"
     ]
     node [
         id 1152664
-        size 2
         label "Grails"
+        size 2
         color "red"
     ]
     node [
         id 2035311
-        size 2
         label "The Temperance Movement"
+        size 2
         color "red"
     ]
     node [
         id 14618
-        size 0
         label "Tony Carey"
+        size 0
         color "red"
     ]
     node [
         id 235171
-        size 2
         label "Rita Pavone"
+        size 2
         color "red"
     ]
     node [
         id 317093
-        size 4
         label "Skeletal Family"
+        size 4
         color "red"
     ]
     node [
         id 28273
-        size 0
         label "Them"
+        size 0
         color "red"
     ]
     node [
         id 218793
-        size 0
         label "Love Amongst Ruin"
+        size 0
         color "red"
     ]
     node [
         id 251563
-        size 15
         label "Mass Hysteria"
+        size 15
         color "red"
     ]
     node [
         id 87724
-        size 3
         label "Hartmann"
+        size 3
         color "red"
     ]
     node [
         id 1054381
-        size 11
         label "Eths"
+        size 11
         color "red"
     ]
     node [
         id 98405
-        size 0
         label "Closer"
+        size 0
         color "red"
     ]
     node [
         id 349874
-        size 3
         label "Slightly Stoopid"
+        size 3
         color "red"
     ]
     node [
         id 431800
-        size 10
         label "Stam1na"
+        size 10
         color "red"
     ]
     node [
         id 431801
-        size 7
         label "Rytmihäiriö"
+        size 7
         color "red"
     ]
     node [
         id 235194
-        size 18
         label "Gotthard"
+        size 18
         color "red"
     ]
     node [
         id 431804
-        size 3
         label "Timo Rautiainen & Trio Niskalaukaus"
+        size 3
         color "red"
     ]
     node [
         id 356072
-        size 1
         label "Medicine Head"
+        size 1
         color "red"
     ]
     node [
         id 1639371
-        size 3
         label "Exotic Animal Petting Zoo"
+        size 3
         color "red"
     ]
     node [
         id 22212
-        size 1
         label "Andreas Kisser"
+        size 1
         color "red"
     ]
     node [
         id 28278
-        size 0
         label "Blind Faith"
+        size 0
         color "red"
     ]
     node [
         id 333510
-        size 6
         label "Los Juniors"
+        size 6
         color "red"
     ]
     node [
         id 169671
-        size 4
         label "Dorothy"
+        size 4
         color "red"
     ]
     node [
         id 71369
-        size 2
         label "Cryptopsy"
+        size 2
         color "red"
     ]
     node [
         id 431818
-        size 7
         label "Marco Hietala"
+        size 7
         color "red"
     ]
     node [
         id 431821
-        size 6
         label "Verjnuarmu"
+        size 6
         color "red"
     ]
     node [
         id 2021071
-        size 1
         label "Three Years Hollow"
+        size 1
         color "red"
     ]
     node [
         id 1175887
-        size 3
         label "The Field Mice"
+        size 3
         color "red"
     ]
     node [
         id 1611479
-        size 8
         label "Gama Bomb"
+        size 8
         color "red"
     ]
     node [
         id 38618
-        size 10
         label "Hello"
+        size 10
         color "red"
     ]
     node [
         id 716410
-        size 0
         label "Grim"
+        size 0
         color "red"
     ]
     node [
         id 546527
-        size 0
         label "Adastra"
+        size 0
         color "red"
     ]
     node [
         id 14630
-        size 40
         label "Daryl Hall"
+        size 40
         color "red"
     ]
     node [
         id 169704
-        size 2
         label "Studio Musicians"
+        size 2
         color "red"
     ]
     node [
         id 120553
-        size 1
         label "The Great Society"
+        size 1
         color "red"
     ]
     node [
         id 3036908
-        size 1
         label "KXM"
+        size 1
         color "red"
     ]
     node [
         id 71405
-        size 3
         label "Wreckless Eric"
+        size 3
         color "red"
     ]
     node [
         id 595698
-        size 1
         label "Gabriela Gunčíková"
+        size 1
         color "red"
     ]
     node [
         id 1038069
-        size 22
         label "We As Human"
+        size 22
         color "red"
     ]
     node [
         id 980
-        size 16
         label "Lionel Richie"
+        size 16
         color "red"
     ]
     node [
         id 136959
-        size 7
         label "Jeff Beck Group"
+        size 7
         color "red"
     ]
     node [
         id 104193
-        size 0
         label "David Brent"
+        size 0
         color "red"
     ]
     node [
         id 629778
-        size 1
         label "The Starliters"
+        size 1
         color "red"
     ]
     node [
         id 104196
-        size 0
         label "The Black"
+        size 0
         color "red"
     ]
     node [
         id 186118
-        size 3
         label "Ocean Drive"
+        size 3
         color "red"
     ]
     node [
         id 956172
-        size 0
         label "Droog"
+        size 0
         color "red"
     ]
     node [
         id 2272898
-        size 1
         label "Other People"
+        size 1
         color "red"
     ]
     node [
         id 202511
-        size 1
         label "Screaming Trees"
+        size 1
         color "red"
     ]
     node [
         id 349969
-        size 0
         label "Johan Olsen"
+        size 0
         color "red"
     ]
     node [
         id 1085059
-        size 1
         label "Flume"
+        size 1
         color "red"
     ]
     node [
         id 1988372
-        size 0
         label "Kevin Matisyn"
+        size 0
         color "red"
     ]
     node [
         id 38683
-        size 27
         label "Smokie"
+        size 27
         color "red"
     ]
     node [
         id 251676
-        size 4
         label "Seigmen"
+        size 4
         color "red"
     ]
     node [
         id 1382176
-        size 1
         label "Figaro"
+        size 1
         color "red"
     ]
     node [
         id 2037538
-        size 1
         label "CAMION"
+        size 1
         color "red"
     ]
     node [
         id 1782716
-        size 0
         label "Donut Kings"
+        size 0
         color "red"
     ]
     node [
         id 2081029
-        size 0
         label "Bill Majoros"
+        size 0
         color "red"
     ]
     node [
         id 595750
-        size 0
         label "La Banda De Los 80's"
+        size 0
         color "red"
     ]
     node [
         id 218923
-        size 1
         label "Spiritual Beggars"
+        size 1
         color "red"
     ]
     node [
         id 235313
-        size 46
         label "Rage"
+        size 46
         color "red"
     ]
     node [
         id 161962
-        size 0
         label "The Runaways"
+        size 0
         color "red"
     ]
     node [
         id 431923
-        size 1
         label "Showoff"
+        size 1
         color "red"
     ]
     node [
         id 104244
-        size 22
         label "Brian Setzer"
+        size 22
         color "red"
     ]
     node [
         id 104247
-        size 14
         label "Stray Cats"
+        size 14
         color "red"
     ]
     node [
         id 5944
-        size 14
         label "The Fratellis"
+        size 14
         color "red"
     ]
     node [
         id 115679
-        size 0
         label "Captain Beefheart & His Magic Band"
+        size 0
         color "red"
     ]
     node [
         id 5950
-        size 14
         label "Sum 41"
+        size 14
         color "red"
     ]
     node [
         id 2414399
-        size 1
         label "Khushi"
+        size 1
         color "red"
     ]
     node [
         id 5952
-        size 11
         label "OneRepublic"
+        size 11
         color "red"
     ]
     node [
         id 677697
-        size 3
         label "Folkstone"
+        size 3
         color "red"
     ]
     node [
         id 431940
-        size 3
         label "Sublime With Rome"
+        size 3
         color "red"
     ]
     node [
         id 5957
-        size 4
         label "Razorlight"
+        size 4
         color "red"
     ]
     node [
         id 5958
-        size 0
         label "The Feeling"
+        size 0
         color "red"
     ]
     node [
         id 612168
-        size 0
         label "Various Artists - Disturbed Tribute"
+        size 0
         color "red"
     ]
     node [
         id 2185033
-        size 2
         label "Pronther"
+        size 2
         color "red"
     ]
     node [
         id 4134733
-        size 0
         label "КЭШ"
+        size 0
         color "red"
     ]
     node [
         id 202574
-        size 1
         label "Paul Revere"
+        size 1
         color "red"
     ]
     node [
         id 38735
-        size 4
         label "I Am Giant"
+        size 4
         color "red"
     ]
     node [
         id 595792
-        size 30
         label "Classic Rock Masters"
+        size 30
         color "red"
     ]
     node [
         id 808786
-        size 0
         label "The Lights"
+        size 0
         color "red"
     ]
     node [
         id 5971
-        size 4
         label "Nina Persson"
+        size 4
         color "red"
     ]
     node [
         id 1120088
-        size 1
         label "Picnic"
+        size 1
         color "red"
     ]
     node [
         id 448346
-        size 2
         label "Stingray Music"
+        size 2
         color "red"
     ]
     node [
         id 5982
-        size 14
         label "Emerson, Lake & Palmer"
+        size 14
         color "red"
     ]
     node [
         id 1300319
-        size 0
         label "Matt Heath"
+        size 0
         color "red"
     ]
     node [
         id 87905
-        size 5
         label "Michael Quinn"
+        size 5
         color "red"
     ]
     node [
         id 5986
-        size 0
         label "Greg Lake"
+        size 0
         color "red"
     ]
     node [
         id 3544931
-        size 0
         label "Triad Eternal"
+        size 0
         color "red"
     ]
     node [
         id 137060
-        size 2
         label "Bad English"
+        size 2
         color "red"
     ]
     node [
         id 5989
-        size 5
         label "Keith Emerson"
+        size 5
         color "red"
     ]
     node [
         id 87910
-        size 11
         label "Underøath"
+        size 11
         color "red"
     ]
     node [
         id 2692968
-        size 1
         label "Следы"
+        size 1
         color "red"
     ]
     node [
         id 300906
-        size 10
         label "Fejd"
+        size 10
         color "red"
     ]
     node [
         id 1873779
-        size 2
         label "The House Harkonnen"
+        size 2
         color "red"
     ]
     node [
         id 333684
-        size 3
         label "His Comets"
+        size 3
         color "red"
     ]
     node [
         id 634692
-        size 1
         label "The Baboons"
+        size 1
         color "red"
     ]
     node [
         id 1234817
-        size 21
         label "The Mire"
+        size 21
         color "red"
     ]
     node [
         id 546693
-        size 4
         label "Alicate"
+        size 4
         color "red"
     ]
     node [
         id 6022
-        size 4
         label "Saga"
+        size 4
         color "red"
     ]
     node [
         id 87943
-        size 20
         label "Switchfoot"
+        size 20
         color "red"
     ]
     node [
         id 939915
-        size 0
         label "Rolo Tomassi"
+        size 0
         color "red"
     ]
     node [
         id 1578895
-        size 9
         label "Surfadelica"
+        size 9
         color "red"
     ]
     node [
         id 120720
-        size 9
         label "The Names"
+        size 9
         color "red"
     ]
     node [
         id 2185106
-        size 0
         label "Crack City Rockers"
+        size 0
         color "red"
     ]
     node [
         id 1644867
-        size 0
         label "Dan Mervis"
+        size 0
         color "red"
     ]
     node [
         id 1529749
-        size 25
         label "Powerwolf"
+        size 25
         color "red"
     ]
     node [
         id 792471
-        size 2
         label "Kobra And The Lotus"
+        size 2
         color "red"
     ]
     node [
         id 235423
-        size 0
         label "Herman Brood & His Wild Romance"
+        size 0
         color "red"
     ]
     node [
         id 87968
-        size 18
         label "Thousand Foot Krutch"
+        size 18
         color "red"
     ]
     node [
         id 2873249
-        size 6
         label "Danger Mouse & Sparklehorse"
+        size 6
         color "red"
     ]
     node [
         id 120741
-        size 3
         label "Crazy Horse"
+        size 3
         color "red"
     ]
     node [
         id 1890215
-        size 0
         label "Band of Rain"
+        size 0
         color "red"
     ]
     node [
         id 137128
-        size 0
         label "Múm"
+        size 0
         color "red"
     ]
     node [
         id 317356
-        size 0
         label "The Cloud Room"
+        size 0
         color "red"
     ]
     node [
         id 300981
-        size 4
         label "Chandeen"
+        size 4
         color "red"
     ]
     node [
         id 6072
-        size 0
         label "Bon Scott"
+        size 0
         color "red"
     ]
     node [
         id 664564
-        size 4
         label "Goatwhore"
+        size 4
         color "red"
     ]
     node [
         id 1791930
-        size 3
         label "40 Sons"
+        size 3
         color "red"
     ]
     node [
         id 1306271
-        size 3
         label "Living Loud"
+        size 3
         color "red"
     ]
     node [
         id 743358
-        size 9
         label "Municipal Waste"
+        size 9
         color "red"
     ]
     node [
         id 38847
-        size 44
         label "Pearl Jam"
+        size 44
         color "red"
     ]
     node [
         id 317377
-        size 11
         label "Shining"
+        size 11
         color "red"
     ]
     node [
         id 186308
-        size 4
         label "The Motels"
+        size 4
         color "red"
     ]
     node [
         id 709437
-        size 3
         label "Emilie Autumn"
+        size 3
         color "red"
     ]
     node [
         id 2876967
-        size 7
         label "Structures"
+        size 7
         color "red"
     ]
     node [
         id 2480074
-        size 4
         label "Scarlet Room"
+        size 4
         color "red"
     ]
     node [
         id 186315
-        size 3
         label "The Outlaws"
+        size 3
         color "red"
     ]
     node [
         id 1079629
-        size 0
         label "F.E.S.T"
+        size 0
         color "red"
     ]
     node [
         id 2037713
-        size 21
         label "Rocket To Memphis"
+        size 21
         color "red"
     ]
     node [
         id 21480
-        size 0
         label "José Feliciano"
+        size 0
         color "red"
     ]
     node [
         id 22486
-        size 0
         label "Alicia Bridges"
+        size 0
         color "red"
     ]
     node [
         id 1464279
-        size 4
         label "Evangelist"
+        size 4
         color "red"
     ]
     node [
         id 1333209
-        size 1
         label "...Of Sinking Ships"
+        size 1
         color "red"
     ]
     node [
         id 284637
-        size 2
         label "Semisonic"
+        size 2
         color "red"
     ]
     node [
         id 841695
-        size 15
         label "Unit 731"
+        size 15
         color "red"
     ]
     node [
         id 3971041
-        size 4
         label "AnnenMayKantereit"
+        size 4
         color "red"
     ]
     node [
         id 759778
-        size 3
         label "Echosmith"
+        size 3
         color "red"
     ]
     node [
         id 50941
-        size 0
         label "Mona Lisa"
+        size 0
         color "red"
     ]
     node [
         id 907240
-        size 1
         label "Cotton Mather"
+        size 1
         color "red"
     ]
     node [
         id 202729
-        size 3
         label "Uncle Tupelo"
+        size 3
         color "red"
     ]
     node [
         id 4708330
-        size 0
         label "John Steel"
+        size 0
         color "red"
     ]
     node [
         id 1759212
-        size 0
         label "Bad Seed Rising"
+        size 0
         color "red"
     ]
     node [
         id 874478
-        size 3
         label "Scarab"
+        size 3
         color "red"
     ]
     node [
         id 2562031
-        size 0
         label "D'Rockmasters"
+        size 0
         color "red"
     ]
     node [
         id 186353
-        size 1
         label "Meja"
+        size 1
         color "red"
     ]
     node [
         id 88403
-        size 0
         label "Lunik"
+        size 0
         color "red"
     ]
     node [
         id 1628150
-        size 6
         label "Mamont"
+        size 6
         color "red"
     ]
     node [
         id 1841143
-        size 5
         label "Mister Neutron"
+        size 5
         color "red"
     ]
     node [
         id 415737
-        size 2
         label "Half Japanese"
+        size 2
         color "red"
     ]
     node [
         id 1431546
-        size 3
         label "Ephel Duath"
+        size 3
         color "red"
     ]
     node [
         id 22523
-        size 5
         label "Yann Tiersen"
+        size 5
         color "red"
     ]
     node [
         id 1153022
-        size 0
         label "The Room"
+        size 0
         color "red"
     ]
     node [
         id 1172480
-        size 0
         label "The Giraffes"
+        size 0
         color "red"
     ]
     node [
         id 22534
-        size 1
         label "Buddy Miles"
+        size 1
         color "red"
     ]
     node [
         id 22536
-        size 1
         label "Wilson Pickett"
+        size 1
         color "red"
     ]
     node [
         id 1366025
-        size 1
         label "Yehu Yaron"
+        size 1
         color "red"
     ]
     node [
         id 2005002
-        size 1
         label "Love Darling"
+        size 1
         color "red"
     ]
     node [
         id 48814
-        size 12
         label "My Chemical Romance"
+        size 12
         color "red"
     ]
     node [
         id 38924
-        size 0
         label "Pat Monahan"
+        size 0
         color "red"
     ]
     node [
         id 317456
-        size 6
         label "TREIBHAUS"
+        size 6
         color "red"
     ]
     node [
         id 251924
-        size 2
         label "Cause & Effect"
+        size 2
         color "red"
     ]
     node [
         id 290478
-        size 1
         label "The Pretty Things"
+        size 1
         color "red"
     ]
     node [
         id 219158
-        size 0
         label "Забытая память"
+        size 0
         color "red"
     ]
     node [
         id 202778
-        size 3
         label "Frank Marino"
+        size 3
         color "red"
     ]
     node [
         id 52911
-        size 3
         label "Anne Linnet"
+        size 3
         color "red"
     ]
     node [
         id 989212
-        size 0
         label "Spitfire"
+        size 0
         color "red"
     ]
     node [
         id 1115141
-        size 3
         label "Bodh'aktan"
+        size 3
         color "red"
     ]
     node [
         id 290480
-        size 0
         label "Confessor"
+        size 0
         color "red"
     ]
     node [
         id 612386
-        size 0
         label "Various Artists - Coldplay Tribute"
+        size 0
         color "red"
     ]
     node [
         id 1153059
-        size 6
         label "Rip Masters"
+        size 6
         color "red"
     ]
     node [
         id 1153060
-        size 3
         label "Mike Zito"
+        size 3
         color "red"
     ]
     node [
         id 615431
-        size 2
         label "Bruford"
+        size 2
         color "red"
     ]
     node [
         id 1153070
-        size 4
         label "Mostly Autumn"
+        size 4
         color "red"
     ]
     node [
         id 2611256
-        size 1
         label "Ramallah"
+        size 1
         color "red"
     ]
     node [
         id 159412
-        size 7
         label "Sleater-Kinney"
+        size 7
         color "red"
     ]
     node [
         id 2381884
-        size 0
         label "Carbon White"
+        size 0
         color "red"
     ]
     node [
         id 120895
-        size 9
         label "Billy Sheehan"
+        size 9
         color "red"
     ]
     node [
         id 120896
-        size 6
         label "Richie Kotzen"
+        size 6
         color "red"
     ]
     node [
         id 6496
-        size 4
         label "Marc Bolan"
+        size 4
         color "red"
     ]
     node [
         id 644519
-        size 3
         label "The Menzingers"
+        size 3
         color "red"
     ]
     node [
         id 661574
-        size 1
         label "Drivin' N' Cryin'"
+        size 1
         color "red"
     ]
     node [
         id 2037832
-        size 9
         label "Death Dealer"
+        size 9
         color "red"
     ]
     node [
         id 6218
-        size 7
         label "Gerry Rafferty"
+        size 7
         color "red"
     ]
     node [
         id 366671
-        size 1
         label "Gabinete Caligari"
+        size 1
         color "red"
     ]
     node [
         id 2873427
-        size 0
         label "Beso Negro"
+        size 0
         color "red"
     ]
     node [
         id 202843
-        size 0
         label "Mother Love Bone"
+        size 0
         color "red"
     ]
     node [
         id 186461
-        size 1
         label "Erik Grönwall"
+        size 1
         color "red"
     ]
     node [
         id 1251426
-        size 2
         label "C'Mon"
+        size 2
         color "red"
     ]
     node [
         id 944081
-        size 0
         label "Forever Deep"
+        size 0
         color "red"
     ]
     node [
         id 252006
-        size 2
         label "Breton"
+        size 2
         color "red"
     ]
     node [
         id 1426449
-        size 3
         label "Antiqcool"
+        size 3
         color "red"
     ]
     node [
         id 3610734
-        size 0
         label "Calvin Love"
+        size 0
         color "red"
     ]
     node [
         id 6258
-        size 5
         label "Tommy Steele"
+        size 5
         color "red"
     ]
     node [
         id 173075
-        size 0
         label "Adiam Dymott"
+        size 0
         color "red"
     ]
     node [
         id 219253
-        size 0
         label "Mausoleum"
+        size 0
         color "red"
     ]
     node [
         id 891001
-        size 1
         label "Eden Weint Im Grab"
+        size 1
         color "red"
     ]
     node [
         id 6266
-        size 8
         label "Ritchie Valens"
+        size 8
         color "red"
     ]
     node [
         id 1625791
-        size 1
         label "The Cavernarios"
+        size 1
         color "red"
     ]
     node [
         id 383101
-        size 4
         label "Fujifabric"
+        size 4
         color "red"
     ]
     node [
         id 1257736
-        size 0
         label "David Byron Band"
+        size 0
         color "red"
     ]
     node [
         id 1063275
-        size 7
         label "The Contortionist"
+        size 7
         color "red"
     ]
     node [
         id 1284230
-        size 1
         label "First Generation"
+        size 1
         color "red"
     ]
     node [
         id 2431111
-        size 2
         label "Anavae"
+        size 2
         color "red"
     ]
     node [
         id 55433
-        size 6
         label "Shy'm"
+        size 6
         color "red"
     ]
     node [
         id 120970
-        size 1
         label "Arcadia"
+        size 1
         color "red"
     ]
     node [
         id 6284
-        size 1
         label "Ronnie Lane"
+        size 1
         color "red"
     ]
     node [
         id 6285
-        size 2
         label "Ron Wood"
+        size 2
         color "red"
     ]
     node [
         id 1955982
-        size 19
         label "Hail the Sun"
+        size 19
         color "red"
     ]
     node [
         id 189464
-        size 16
         label "Hellyeah"
+        size 16
         color "red"
     ]
     node [
         id 6290
-        size 9
         label "Linda McCartney"
+        size 9
         color "red"
     ]
     node [
         id 1569513
-        size 2
         label "Three Thirteen"
+        size 2
         color "red"
     ]
     node [
         id 498030
-        size 6
         label "Gravestone"
+        size 6
         color "red"
     ]
     node [
         id 6294
-        size 1
         label "Tim Hardin"
+        size 1
         color "red"
     ]
     node [
         id 1726621
-        size 4
         label "Shamall"
+        size 4
         color "red"
     ]
     node [
         id 39073
-        size 4
         label "Sublime"
+        size 4
         color "red"
     ]
     node [
         id 298694
-        size 22
         label "Catamenia"
+        size 22
         color "red"
     ]
     node [
         id 153766
-        size 1
         label "Boikot"
+        size 1
         color "red"
     ]
     node [
         id 295964
-        size 2
         label "KargO"
+        size 2
         color "red"
     ]
     node [
         id 1366186
-        size 3
         label "Society 1"
+        size 3
         color "red"
     ]
     node [
         id 22699
-        size 2
         label "Carola"
+        size 2
         color "red"
     ]
     node [
         id 628908
-        size 13
         label "Best Guitar Songs"
+        size 13
         color "red"
     ]
     node [
         id 2972018
-        size 0
         label "Ultratumba"
+        size 0
         color "red"
     ]
     node [
         id 55470
-        size 2
         label "Skinner"
+        size 2
         color "red"
     ]
     node [
         id 88240
-        size 2
         label "Laurent Voulzy"
+        size 2
         color "red"
     ]
     node [
         id 22705
-        size 9
         label "Y&T"
+        size 9
         color "red"
     ]
     node [
         id 415922
-        size 5
         label "King Drapes"
+        size 5
         color "red"
     ]
     node [
         id 22710
-        size 1
         label "Jody Reynolds"
+        size 1
         color "red"
     ]
     node [
         id 39098
-        size 25
         label "Pat Benatar"
+        size 25
         color "red"
     ]
     node [
         id 322937
-        size 0
         label "Dreamers"
+        size 0
         color "red"
     ]
     node [
         id 1202366
-        size 13
         label "Backwoods Payback"
+        size 13
         color "red"
     ]
     node [
         id 1284287
-        size 6
         label "Sir Lord Baltimore"
+        size 6
         color "red"
     ]
     node [
         id 334017
-        size 3
         label "Nasty Idols"
+        size 3
         color "red"
     ]
     node [
         id 678082
-        size 10
         label "Hands Like Houses"
+        size 10
         color "red"
     ]
     node [
         id 2119875
-        size 1
         label "Airless"
+        size 1
         color "red"
     ]
     node [
         id 186564
-        size 1
         label "Turboweekend"
+        size 1
         color "red"
     ]
     node [
         id 168075
-        size 14
         label "Stereophonics"
+        size 14
         color "red"
     ]
     node [
         id 186743
-        size 4
         label "Shlomo Artzi"
+        size 4
         color "red"
     ]
     node [
         id 121036
-        size 0
         label "Soho"
+        size 0
         color "red"
     ]
     node [
         id 153809
-        size 1
         label "Miyavi"
+        size 1
         color "red"
     ]
     node [
         id 55507
-        size 4
         label "Russ Ballard"
+        size 4
         color "red"
     ]
     node [
         id 1775831
-        size 5
         label "Celestial Wolves"
+        size 5
         color "red"
     ]
     node [
         id 3324885
-        size 2
         label "Империя"
+        size 2
         color "red"
     ]
     node [
         id 4823259
-        size 0
         label "Iron Horse"
+        size 0
         color "red"
     ]
     node [
         id 145786
-        size 0
         label "Grace Potter"
+        size 0
         color "red"
     ]
     node [
         id 6371
-        size 14
         label "Tarja Turunen"
+        size 14
         color "red"
     ]
     node [
         id 71908
-        size 2
         label "Torfrock"
+        size 2
         color "red"
     ]
     node [
         id 145788
-        size 1
         label "Grace Potter and the Nocturnals"
+        size 1
         color "red"
     ]
     node [
         id 22766
-        size 13
         label "Fiona Apple"
+        size 13
         color "red"
     ]
     node [
         id 6386
-        size 21
         label "The Velvet Underground"
+        size 21
         color "red"
     ]
     node [
         id 825590
-        size 3
         label "Tempesta"
+        size 3
         color "red"
     ]
     node [
         id 6391
-        size 13
         label "John Cale"
+        size 13
         color "red"
     ]
     node [
         id 2398456
-        size 0
         label "Hanni El Khatib"
+        size 0
         color "red"
     ]
     node [
         id 6394
-        size 16
         label "Lou Reed"
+        size 16
         color "red"
     ]
     node [
         id 88315
-        size 22
         label "The 69 Eyes"
+        size 22
         color "red"
     ]
     node [
         id 353739
-        size 3
         label "Linnea Henriksson"
+        size 3
         color "red"
     ]
     node [
         id 1195546
-        size 0
         label "Tribal Ink"
+        size 0
         color "red"
     ]
     node [
         id 3610883
-        size 0
         label "Like A Storm"
+        size 0
         color "red"
     ]
     node [
         id 4593925
-        size 7
         label "Communism"
+        size 7
         color "red"
     ]
     node [
         id 1366279
-        size 22
         label "Claps for Caroline"
+        size 22
         color "red"
     ]
     node [
         id 514312
-        size 0
         label "UTAH"
+        size 0
         color "red"
     ]
     node [
         id 4004109
-        size 0
         label "Fatherson"
+        size 0
         color "red"
     ]
     node [
         id 88341
-        size 17
         label "The Classic Crime"
+        size 17
         color "red"
     ]
     node [
         id 1349910
-        size 0
         label "Meniketti"
+        size 0
         color "red"
     ]
     node [
         id 1120536
-        size 3
         label "Crossplane"
+        size 3
         color "red"
     ]
     node [
         id 88348
-        size 1
         label "Robert Scott"
+        size 1
         color "red"
     ]
     node [
         id 6439
-        size 3
         label "Claude François"
+        size 3
         color "red"
     ]
     node [
         id 233181
-        size 0
         label "Desert Sessions"
+        size 0
         color "red"
     ]
     node [
         id 2158302
-        size 28
         label "Beware of Safety"
+        size 28
         color "red"
     ]
     node [
         id 3447097
-        size 0
         label "ELEL"
+        size 0
         color "red"
     ]
     node [
         id 301377
-        size 10
         label "Place Vendome"
+        size 10
         color "red"
     ]
     node [
         id 219458
-        size 2
         label "Mahogany Rush"
+        size 2
         color "red"
     ]
     node [
         id 137611
-        size 0
         label "Japandroids"
+        size 0
         color "red"
     ]
     node [
         id 514375
-        size 9
         label "Slaves"
+        size 9
         color "red"
     ]
     node [
         id 121161
-        size 2
         label "Stereolab"
+        size 2
         color "red"
     ]
     node [
         id 448842
-        size 0
         label "Party Rock Band"
+        size 0
         color "red"
     ]
     node [
         id 2021708
-        size 3
         label "Headstart"
+        size 3
         color "red"
     ]
     node [
         id 448848
-        size 0
         label "Big Brother"
+        size 0
         color "red"
     ]
     node [
         id 35339
-        size 0
         label "Space Cowboy"
+        size 0
         color "red"
     ]
     node [
         id 88402
-        size 5
         label "Liz Phair"
+        size 5
         color "red"
     ]
     node [
         id 121171
-        size 1
         label "Percy Jones"
+        size 1
         color "red"
     ]
     node [
         id 510682
-        size 3
         label "Black Heaven"
+        size 3
         color "red"
     ]
     node [
         id 678231
-        size 1
         label "Maps & Atlases"
+        size 1
         color "red"
     ]
     node [
         id 2398552
-        size 0
         label "Big Little Lions"
+        size 0
         color "red"
     ]
     node [
         id 55644
-        size 4
         label "The First"
+        size 4
         color "red"
     ]
     node [
         id 1481056
-        size 3
         label "Incura"
+        size 3
         color "red"
     ]
     node [
         id 2120036
-        size 0
         label "Free Soda"
+        size 0
         color "red"
     ]
     node [
         id 252262
-        size 20
         label "GERM"
+        size 20
         color "red"
     ]
     node [
         id 1481063
-        size 4
         label "Wampire"
+        size 4
         color "red"
     ]
     node [
         id 1431912
-        size 0
         label "John Cafferty & The Beaver Brown Band"
+        size 0
         color "red"
     ]
     node [
         id 3815
-        size 11
         label "Level 42"
+        size 11
         color "red"
     ]
     node [
         id 6508
-        size 27
         label "Rick Wakeman"
+        size 27
         color "red"
     ]
     node [
         id 1907054
-        size 4
         label "Antennas to Heaven"
+        size 4
         color "red"
     ]
     node [
         id 219505
-        size 2
         label "Lullacry"
+        size 2
         color "red"
     ]
     node [
         id 22898
-        size 2
         label "Joe Brown"
+        size 2
         color "red"
     ]
     node [
         id 39284
-        size 1
         label "Paul Kelly"
+        size 1
         color "red"
     ]
     node [
         id 6518
-        size 10
         label "Vince Neil"
+        size 10
         color "red"
     ]
     node [
         id 358368
-        size 7
         label "Necromantia"
+        size 7
         color "red"
     ]
     node [
         id 711035
-        size 2
         label "King Tuff"
+        size 2
         color "red"
     ]
     node [
         id 6526
-        size 35
         label "Mötley Crüe"
+        size 35
         color "red"
     ]
     node [
         id 973191
-        size 6
         label "Craving Lucy"
+        size 6
         color "red"
     ]
     node [
         id 6536
-        size 43
         label "Phil Collins"
+        size 43
         color "red"
     ]
     node [
         id 6539
-        size 1
         label "Udo Lindenberg"
+        size 1
         color "red"
     ]
     node [
         id 88463
-        size 1
         label "Terrorvision"
+        size 1
         color "red"
     ]
     node [
         id 137622
-        size 3
         label "Loney Dear"
+        size 3
         color "red"
     ]
     node [
         id 47513
-        size 5
         label "Echo And The Bunnymen"
+        size 5
         color "red"
     ]
     node [
         id 39324
-        size 0
         label "All-4-One"
+        size 0
         color "red"
     ]
     node [
         id 1317280
-        size 2
         label "Cadabra"
+        size 2
         color "red"
     ]
     node [
         id 610032
-        size 3
         label "Hotel Diablo"
+        size 3
         color "red"
     ]
     node [
         id 317860
-        size 9
         label "I Am Kloot"
+        size 9
         color "red"
     ]
     node [
         id 137642
-        size 3
         label "Michael Landau"
+        size 3
         color "red"
     ]
     node [
         id 1022380
-        size 1
         label "Porcelain"
+        size 1
         color "red"
     ]
     node [
         id 645554
-        size 13
         label "Benighted"
+        size 13
         color "red"
     ]
     node [
         id 22964
-        size 4
         label "Sir Douglas Quintet"
+        size 4
         color "red"
     ]
     node [
         id 645558
-        size 9
         label "Nightbringer"
+        size 9
         color "red"
     ]
     node [
         id 22968
-        size 4
         label "The Waterboys"
+        size 4
         color "red"
     ]
     node [
         id 170427
-        size 12
         label "Flatfoot 56"
+        size 12
         color "red"
     ]
     node [
         id 3922364
-        size 6
         label "MARCHEVSKY"
+        size 6
         color "red"
     ]
     node [
         id 2917450
-        size 0
         label "Meridian String Quartet"
+        size 0
         color "red"
     ]
     node [
         id 626421
-        size 3
         label "The Vintage Masters"
+        size 3
         color "red"
     ]
     node [
         id 317888
-        size 4
         label "Mendeed"
+        size 4
         color "red"
     ]
     node [
         id 106059
-        size 0
         label "Michael Thompson"
+        size 0
         color "red"
     ]
     node [
         id 88515
-        size 14
         label "Bruce Dickinson"
+        size 14
         color "red"
     ]
     node [
         id 1759687
-        size 0
         label "Rocketship Radio"
+        size 0
         color "red"
     ]
     node [
         id 6601
-        size 70
         label "The Rolling Stones"
+        size 70
         color "red"
     ]
     node [
         id 317899
-        size 1
         label "Flood Of Red"
+        size 1
         color "red"
     ]
     node [
         id 137677
-        size 1
         label "John Vanderslice"
+        size 1
         color "red"
     ]
     node [
         id 6613
-        size 7
         label "Gregg Allman"
+        size 7
         color "red"
     ]
     node [
         id 2808278
-        size 0
         label "Gabriel Marian"
+        size 0
         color "red"
     ]
     node [
         id 137687
-        size 5
         label "Jimmy Isle"
+        size 5
         color "red"
     ]
     node [
         id 4889052
-        size 2
         label "Brian Setzer & The Brian Setzer Orchestra"
+        size 2
         color "red"
     ]
     node [
         id 6621
-        size 21
         label "The Allman Brothers Band"
+        size 21
         color "red"
     ]
     node [
         id 137694
-        size 1
         label "Mount Eerie"
+        size 1
         color "red"
     ]
     node [
         id 88544
-        size 2
         label "David Ackles"
+        size 2
         color "red"
     ]
     node [
         id 678371
-        size 1
         label "Carlos Sarmiento"
+        size 1
         color "red"
     ]
     node [
         id 973286
-        size 33
         label "Words Of Farewell"
+        size 33
         color "red"
     ]
     node [
         id 1432040
-        size 9
         label "Ramesses"
+        size 9
         color "red"
     ]
     node [
         id 170475
-        size 15
         label "Fireflight"
+        size 15
         color "red"
     ]
     node [
         id 449004
-        size 8
         label "Voivod"
+        size 8
         color "red"
     ]
     node [
         id 416241
-        size 8
         label "Nashville Pussy"
+        size 8
         color "red"
     ]
     node [
         id 317938
-        size 3
         label "Mörk Gryning"
+        size 3
         color "red"
     ]
     node [
         id 203252
-        size 0
         label "Liz Mitchell"
+        size 0
         color "red"
     ]
     node [
         id 154103
-        size 0
         label "Timothy B. Schmit"
+        size 0
         color "red"
     ]
     node [
         id 170490
-        size 7
         label "F.R. David"
+        size 7
         color "red"
     ]
     node [
         id 913151
-        size 0
         label "Multifuse"
+        size 0
         color "red"
     ]
     node [
         id 301564
-        size 1
         label "Georgia Gibbs"
+        size 1
         color "red"
     ]
     node [
         id 6653
-        size 12
         label "Billy Joel"
+        size 12
         color "red"
     ]
     node [
         id 9301
-        size 29
         label "Roy Orbison"
+        size 29
         color "red"
     ]
     node [
         id 170499
-        size 0
         label "Until June"
+        size 0
         color "red"
     ]
     node [
         id 2734048
-        size 2
         label "RasKar"
+        size 2
         color "red"
     ]
     node [
         id 55816
-        size 0
         label "Strangers"
+        size 0
         color "red"
     ]
     node [
         id 63917
-        size 3
         label "Ty Tabor"
+        size 3
         color "red"
     ]
     node [
         id 1759764
-        size 0
         label "Footprints in the Custard"
+        size 0
         color "red"
     ]
     node [
         id 6677
-        size 3
         label "Colosseum"
+        size 3
         color "red"
     ]
     node [
         id 334108
-        size 0
         label "I Love You"
+        size 0
         color "red"
     ]
     node [
         id 39447
-        size 2
         label "Måntra"
+        size 2
         color "red"
     ]
     node [
         id 1743384
-        size 7
         label "DANIEL BAND"
+        size 7
         color "red"
     ]
     node [
         id 1169945
-        size 25
         label "Behexen"
+        size 25
         color "red"
     ]
     node [
         id 72218
-        size 7
         label "Alan Price"
+        size 7
         color "red"
     ]
     node [
         id 203291
-        size 2
         label "Vanity Fare"
+        size 2
         color "red"
     ]
     node [
         id 2234908
-        size 9
         label "Against All Will"
+        size 9
         color "red"
     ]
     node [
         id 29683
-        size 10
         label "Enter Shikari"
+        size 10
         color "red"
     ]
     node [
         id 23073
-        size 1
         label "Ivan Kral"
+        size 1
         color "red"
     ]
     node [
         id 612900
-        size 0
         label "Joe Stone's Soul Kitchen"
+        size 0
         color "red"
     ]
     node [
         id 2382373
-        size 25
         label "Frosttide"
+        size 25
         color "red"
     ]
     node [
         id 137768
-        size 0
         label "Sparky"
+        size 0
         color "red"
     ]
     node [
         id 891439
-        size 3
         label "שלומי שבן"
+        size 3
         color "red"
     ]
     node [
         id 39473
-        size 2
         label "Mutts"
+        size 2
         color "red"
     ]
     node [
         id 432692
-        size 8
         label "Rise To Remain"
+        size 8
         color "red"
     ]
     node [
         id 612919
-        size 0
         label "Flatfoot"
+        size 0
         color "red"
     ]
     node [
         id 318009
-        size 0
         label "Hellfueled"
+        size 0
         color "red"
     ]
     node [
         id 185099
-        size 7
         label "Cannata"
+        size 7
         color "red"
     ]
     node [
         id 1579583
-        size 3
         label "The Red Planets"
+        size 3
         color "red"
     ]
     node [
         id 711232
-        size 6
         label "Unknown Mortal Orchestra"
+        size 6
         color "red"
     ]
     node [
         id 6722
-        size 6
         label "Capital Inicial"
+        size 6
         color "red"
     ]
     node [
         id 3217988
-        size 0
         label "Angel"
+        size 0
         color "red"
     ]
     node [
         id 612935
-        size 7
         label "Лунный пёс"
+        size 7
         color "red"
     ]
     node [
         id 6730
-        size 2
         label "Glenn Frey"
+        size 2
         color "red"
     ]
     node [
         id 39503
-        size 2
         label "Paula Cole"
+        size 2
         color "red"
     ]
     node [
         id 1038776
-        size 2
         label "Deluka"
+        size 2
         color "red"
     ]
     node [
         id 1251927
-        size 3
         label "Ben Harper & The Innocent Criminals"
+        size 3
         color "red"
     ]
     node [
         id 39512
-        size 5
         label "Gillan"
+        size 5
         color "red"
     ]
     node [
         id 481885
-        size 1
         label "Neverland"
+        size 1
         color "red"
     ]
     node [
         id 629342
-        size 0
         label "Defueld"
+        size 0
         color "red"
     ]
     node [
         id 3378960
-        size 2
         label "The Nebulas"
+        size 2
         color "red"
     ]
     node [
         id 645563
-        size 20
         label "Elitist"
+        size 20
         color "red"
     ]
     node [
         id 1563238
-        size 4
         label "The Guy Who Sings Songs About Cities & Towns"
+        size 4
         color "red"
     ]
     node [
         id 2628199
-        size 0
         label "ЧУЖИЕ"
+        size 0
         color "red"
     ]
     node [
         id 2382440
-        size 2
         label "Arstidir Lifsins"
+        size 2
         color "red"
     ]
     node [
         id 252521
-        size 0
         label "Thunderhead"
+        size 0
         color "red"
     ]
     node [
         id 252525
-        size 1
         label "Hate Squad"
+        size 1
         color "red"
     ]
     node [
         id 825966
-        size 2
         label "Red 7"
+        size 2
         color "red"
     ]
     node [
         id 154225
-        size 3
         label "Luca Colombo"
+        size 3
         color "red"
     ]
     node [
         id 645750
-        size 0
         label "Man Or Astro-Man?"
+        size 0
         color "red"
     ]
     node [
         id 481914
-        size 4
         label "Gutter Demons"
+        size 4
         color "red"
     ]
     node [
         id 47551
-        size 0
         label "Billy Bragg"
+        size 0
         color "red"
     ]
     node [
         id 8716
-        size 0
         label "Rod Argent"
+        size 0
         color "red"
     ]
     node [
         id 760445
-        size 2
         label "Naif"
+        size 2
         color "red"
     ]
     node [
         id 481918
-        size 28
         label "Out Of Luck"
+        size 28
         color "red"
     ]
     node [
         id 1355541
-        size 11
         label "Kiev"
+        size 11
         color "red"
     ]
     node [
         id 481924
-        size 5
         label "Johnny Rocket"
+        size 5
         color "red"
     ]
     node [
         id 1483884
-        size 19
         label "Fferyllt"
+        size 19
         color "red"
     ]
     node [
         id 1071754
-        size 0
         label "Fight the Bear"
+        size 0
         color "red"
     ]
     node [
         id 1514123
-        size 1
         label "Jets Overhead"
+        size 1
         color "red"
     ]
     node [
         id 154252
-        size 7
         label "Wisdom In Chains"
+        size 7
         color "red"
     ]
     node [
         id 744078
-        size 1
         label "Heights"
+        size 1
         color "red"
     ]
     node [
         id 219793
-        size 3
         label "The Jason Bonham Band"
+        size 3
         color "red"
     ]
     node [
         id 168951
-        size 1
         label "The Music Machine"
+        size 1
         color "red"
     ]
     node [
         id 2382489
-        size 1
         label "Dehuman Reign"
+        size 1
         color "red"
     ]
     node [
         id 1172591
-        size 8
         label "Peccatum"
+        size 8
         color "red"
     ]
     node [
         id 596636
-        size 1
         label "Arik Einstein"
+        size 1
         color "red"
     ]
     node [
         id 809633
-        size 0
         label "Andrea Cervetto"
+        size 0
         color "red"
     ]
     node [
         id 28443
-        size 0
         label "Luke Smith"
+        size 0
         color "red"
     ]
     node [
         id 481956
-        size 0
         label "Dharma"
+        size 0
         color "red"
     ]
     node [
         id 88743
-        size 0
         label "The Explosion"
+        size 0
         color "red"
     ]
     node [
         id 23208
-        size 0
         label "Andrew W.K."
+        size 0
         color "red"
     ]
     node [
         id 137899
-        size 1
         label "Year Long Disaster"
+        size 1
         color "red"
     ]
     node [
         id 121516
-        size 3
         label "Flamin' Groovies"
+        size 3
         color "red"
     ]
     node [
         id 1912605
-        size 2
         label "Les Fradkin"
+        size 2
         color "red"
     ]
     node [
         id 334512
-        size 6
         label "Taake"
+        size 6
         color "red"
     ]
     node [
         id 72370
-        size 13
         label "Brant Bjork"
+        size 13
         color "red"
     ]
     node [
         id 85790
-        size 0
         label "Sloan"
+        size 0
         color "red"
     ]
     node [
         id 137911
-        size 0
         label "Billy Gale"
+        size 0
         color "red"
     ]
     node [
         id 1221748
-        size 1
         label "Paik"
+        size 1
         color "red"
     ]
     node [
         id 645820
-        size 0
         label "Soen"
+        size 0
         color "red"
     ]
     node [
         id 907965
-        size 0
         label "Legs Diamond"
+        size 0
         color "red"
     ]
     node [
         id 170690
-        size 5
         label "The Verve Pipe"
+        size 5
         color "red"
     ]
     node [
         id 596675
-        size 0
         label "Luca Olivieri"
+        size 0
         color "red"
     ]
     node [
         id 858823
-        size 10
         label "My Own Private Alaska"
+        size 10
         color "red"
     ]
     node [
         id 56009
-        size 0
         label "John Cooper Clarke"
+        size 0
         color "red"
     ]
     node [
         id 711371
-        size 0
         label "James Bond"
+        size 0
         color "red"
     ]
     node [
         id 56012
-        size 19
         label "Joy Division"
+        size 19
         color "red"
     ]
     node [
         id 88784
-        size 7
         label "Sponge"
+        size 7
         color "red"
     ]
     node [
         id 23249
-        size 2
         label "Marta Jandová"
+        size 2
         color "red"
     ]
     node [
         id 6866
-        size 2
         label "Bodyrockers"
+        size 2
         color "red"
     ]
     node [
         id 1483897
-        size 1
         label "The Morningside"
+        size 1
         color "red"
     ]
     node [
         id 989912
-        size 1
         label "Noxious"
+        size 1
         color "red"
     ]
     node [
         id 170713
-        size 14
         label "Devil Sold His Soul"
+        size 14
         color "red"
     ]
     node [
         id 547547
-        size 2
         label "Triosphere"
+        size 2
         color "red"
     ]
     node [
         id 1622727
-        size 0
         label "Toners"
+        size 0
         color "red"
     ]
     node [
         id 6891
-        size 31
         label "Nazareth"
+        size 31
         color "red"
     ]
     node [
         id 170735
-        size 9
         label "Danger Mouse"
+        size 9
         color "red"
     ]
     node [
         id 1432304
-        size 16
         label "Aeternam"
+        size 16
         color "red"
     ]
     node [
         id 6898
-        size 19
         label "Traffic"
+        size 19
         color "red"
     ]
     node [
         id 547572
-        size 3
         label "COS"
+        size 3
         color "red"
     ]
     node [
         id 957176
-        size 10
         label "Unantastbar"
+        size 10
         color "red"
     ]
     node [
         id 6906
-        size 11
         label "Bachman-Turner Overdrive"
+        size 11
         color "red"
     ]
     node [
         id 6909
-        size 41
         label "Joe Lynn Turner"
+        size 41
         color "red"
     ]
     node [
         id 6912
-        size 33
         label "Ken Hensley"
+        size 33
         color "red"
     ]
     node [
         id 2480897
-        size 1
         label "Cayne"
+        size 1
         color "red"
     ]
     node [
         id 334594
-        size 17
         label "We Came As Romans"
+        size 17
         color "red"
     ]
     node [
         id 924419
-        size 9
         label "Armonight"
+        size 9
         color "red"
     ]
     node [
         id 6916
-        size 7
         label "The Robert Cray Band"
+        size 7
         color "red"
     ]
     node [
         id 6917
-        size 17
         label "Humble Pie"
+        size 17
         color "red"
     ]
     node [
         id 6918
-        size 0
         label "Johnny O'Keefe"
+        size 0
         color "red"
     ]
     node [
         id 6919
-        size 11
         label "Joe Cocker"
+        size 11
         color "red"
     ]
     node [
         id 107161
-        size 1
         label "Sky Saxon"
+        size 1
         color "red"
     ]
     node [
         id 6921
-        size 42
         label "Rainbow"
+        size 42
         color "red"
     ]
     node [
         id 6922
-        size 8
         label "Joe Walsh"
+        size 8
         color "red"
     ]
     node [
         id 6923
-        size 0
         label "Lenny Wolf"
+        size 0
         color "red"
     ]
     node [
         id 6924
-        size 26
         label "Roger Glover"
+        size 26
         color "red"
     ]
     node [
         id 760589
-        size 3
         label "Les Vautours"
+        size 3
         color "red"
     ]
     node [
         id 2562830
-        size 2
         label "The Grand Astoria"
+        size 2
         color "red"
     ]
     node [
         id 744208
-        size 0
         label "Splinter"
+        size 0
         color "red"
     ]
     node [
         id 350996
-        size 1
         label "Laika & The Cosmonauts"
+        size 1
         color "red"
     ]
     node [
         id 6933
-        size 1
         label "John Kay"
+        size 1
         color "red"
     ]
     node [
         id 6934
-        size 12
         label "Golden Earring"
+        size 12
         color "red"
     ]
     node [
         id 6935
-        size 0
         label "Peter Frampton"
+        size 0
         color "red"
     ]
     node [
         id 6937
-        size 4
         label "Tommy Shaw"
+        size 4
         color "red"
     ]
     node [
         id 121626
-        size 10
         label "Eric Johnson"
+        size 10
         color "red"
     ]
     node [
         id 6939
-        size 48
         label "Uriah Heep"
+        size 48
         color "red"
     ]
     node [
         id 473562
-        size 7
         label "Jon Oliva's Pain"
+        size 7
         color "red"
     ]
     node [
         id 4578081
-        size 0
         label "Unrest"
+        size 0
         color "red"
     ]
     node [
         id 564002
-        size 6
         label "Thaurorod"
+        size 6
         color "red"
     ]
     node [
         id 2988835
-        size 1
         label "Strike"
+        size 1
         color "red"
     ]
     node [
         id 645929
-        size 7
         label "Dodecahedron"
+        size 7
         color "red"
     ]
     node [
         id 138028
-        size 1
         label "Redbone"
+        size 1
         color "red"
     ]
     node [
         id 1104687
-        size 0
         label "Diagonal"
+        size 0
         color "red"
     ]
     node [
         id 301872
-        size 3
         label "Real Life"
+        size 3
         color "red"
     ]
     node [
         id 1841973
-        size 30
         label "Hydria"
+        size 30
         color "red"
     ]
     node [
         id 1727288
-        size 1
         label "Crash Kings"
+        size 1
         color "red"
     ]
     node [
         id 531259
-        size 1
         label "Delany"
+        size 1
         color "red"
     ]
     node [
         id 318269
-        size 25
         label "Rock Heroes"
+        size 25
         color "red"
     ]
     node [
         id 28469
-        size 4
         label "Sam & Dave"
+        size 4
         color "red"
     ]
     node [
         id 3283776
-        size 0
         label "Walking Dead On Broadway"
+        size 0
         color "red"
     ]
     node [
         id 203588
-        size 2
         label "The Mahavishnu Orchestra"
+        size 2
         color "red"
     ]
     node [
         id 318282
-        size 17
         label "The Creepshow"
+        size 17
         color "red"
     ]
     node [
         id 2935918
-        size 1
         label "1000mods"
+        size 1
         color "red"
     ]
     node [
         id 662351
-        size 0
         label "Chiddy"
+        size 0
         color "red"
     ]
     node [
         id 809813
-        size 0
         label "Black Books"
+        size 0
         color "red"
     ]
     node [
         id 334679
-        size 9
         label "Hladno pivo"
+        size 9
         color "red"
     ]
     node [
         id 1153880
-        size 0
         label "In Exile"
+        size 0
         color "red"
     ]
     node [
         id 334685
-        size 19
         label "Auras"
+        size 19
         color "red"
     ]
     node [
         id 2366303
-        size 4
         label "Burn Season"
+        size 4
         color "red"
     ]
     node [
         id 695139
-        size 0
         label "Agora"
+        size 0
         color "red"
     ]
     node [
         id 1940324
-        size 17
         label "Bloody Hammers"
+        size 17
         color "red"
     ]
     node [
         id 825830
-        size 21
         label "May Blitz"
+        size 21
         color "red"
     ]
     node [
         id 662385
-        size 0
         label "The Flux Fiddlers"
+        size 0
         color "red"
     ]
     node [
         id 23411
-        size 3
         label "G. Love"
+        size 3
         color "red"
     ]
     node [
         id 1858420
-        size 0
         label "Glass Harp"
+        size 0
         color "red"
     ]
     node [
         id 473577
-        size 6
         label "Nostradameus"
+        size 6
         color "red"
     ]
     node [
         id 269176
-        size 2
         label "Novalis"
+        size 2
         color "red"
     ]
     node [
         id 124052
-        size 0
         label "Heathen"
+        size 0
         color "red"
     ]
     node [
         id 727931
-        size 0
         label "Juliet Simms"
+        size 0
         color "red"
     ]
     node [
         id 3677052
-        size 6
         label "Sam Roberts Band"
+        size 6
         color "red"
     ]
     node [
         id 1489866
-        size 0
         label "Private Kill"
+        size 0
         color "red"
     ]
     node [
         id 3464069
-        size 4
         label "B.T.R."
+        size 4
         color "red"
     ]
     node [
         id 3005322
-        size 5
         label "Dot Legacy"
+        size 5
         color "red"
     ]
     node [
         id 416651
-        size 9
         label "Anorexia Nervosa"
+        size 9
         color "red"
     ]
     node [
         id 383884
-        size 0
         label "Eberhard Schoener"
+        size 0
         color "red"
     ]
     node [
         id 301966
-        size 4
         label "Fairyland"
+        size 4
         color "red"
     ]
     node [
         id 2055056
-        size 0
         label "Daylight for Deadeyes"
+        size 0
         color "red"
     ]
     node [
         id 2169745
-        size 6
         label "Michael Angelo Batio"
+        size 6
         color "red"
     ]
     node [
         id 809875
-        size 0
         label "Shary"
+        size 0
         color "red"
     ]
     node [
         id 23444
-        size 5
         label "The Rapture"
+        size 5
         color "red"
     ]
     node [
         id 564121
-        size 18
         label "Dordeduh"
+        size 18
         color "red"
     ]
     node [
         id 564122
-        size 2
         label "Lantlôs"
+        size 2
         color "red"
     ]
     node [
         id 1825694
-        size 10
         label "Outline in Color"
+        size 10
         color "red"
     ]
     node [
         id 1036101
-        size 0
         label "Nine Below Zero"
+        size 0
         color "red"
     ]
     node [
         id 2451459
-        size 14
         label "nobody.one"
+        size 14
         color "red"
     ]
     node [
         id 1268642
-        size 4
         label "London After Midnight"
+        size 4
         color "red"
     ]
     node [
         id 290476
-        size 6
         label "Ozric Tentacles"
+        size 6
         color "red"
     ]
     node [
         id 154533
-        size 0
         label "Brian Connolly"
+        size 0
         color "red"
     ]
     node [
         id 956611
-        size 10
         label "Kerrs Pink"
+        size 10
         color "red"
     ]
     node [
         id 1121193
-        size 2
         label "The Graviators"
+        size 2
         color "red"
     ]
     node [
         id 2055083
-        size 2
         label "Silversyde"
+        size 2
         color "red"
     ]
     node [
         id 296093
-        size 5
         label "Magma"
+        size 5
         color "red"
     ]
     node [
         id 7090
-        size 1
         label "Nelly Furtado"
+        size 1
         color "red"
     ]
     node [
         id 564150
-        size 7
         label "Crystal Viper"
+        size 7
         color "red"
     ]
     node [
         id 170942
-        size 8
         label "The Avett Brothers"
+        size 8
         color "red"
     ]
     node [
         id 1800693
-        size 2
         label "Led Zepagain"
+        size 2
         color "red"
     ]
     node [
         id 187328
-        size 5
         label "Sleigh Bells"
+        size 5
         color "red"
     ]
     node [
         id 7105
-        size 1
         label "Bobby Brown"
+        size 1
         color "red"
     ]
     node [
         id 136523
-        size 1
         label "Krause"
+        size 1
         color "red"
     ]
     node [
         id 1330350
-        size 1
         label "Hank Davison Band"
+        size 1
         color "red"
     ]
     node [
         id 7109
-        size 5
         label "Randy Newman"
+        size 5
         color "red"
     ]
     node [
         id 47607
-        size 1
         label "Anonymus"
+        size 1
         color "red"
     ]
     node [
         id 236492
-        size 0
         label "Sutherland Brothers & Quiver"
+        size 0
         color "red"
     ]
     node [
         id 187341
-        size 2
         label "The View"
+        size 2
         color "red"
     ]
     node [
         id 416718
-        size 2
         label "The Velvet Teen"
+        size 2
         color "red"
     ]
     node [
         id 662482
-        size 0
         label "Pitty"
+        size 0
         color "red"
     ]
     node [
         id 416724
-        size 15
         label "Minsk"
+        size 15
         color "red"
     ]
     node [
         id 76535
-        size 0
         label "Mike Reno"
+        size 0
         color "red"
     ]
     node [
         id 187353
-        size 5
         label "Death In Vegas"
+        size 5
         color "red"
     ]
     node [
         id 613340
-        size 8
         label "Zakkum"
+        size 8
         color "red"
     ]
     node [
         id 7135
-        size 7
         label "Michael Bolton"
+        size 7
         color "red"
     ]
     node [
         id 7138
-        size 4
         label "Ace Frehley"
+        size 4
         color "red"
     ]
     node [
         id 564196
-        size 24
         label "Stahlmann"
+        size 24
         color "red"
     ]
     node [
         id 89061
-        size 0
         label "K-OS"
+        size 0
         color "red"
     ]
     node [
         id 7142
-        size 7
         label "Gene Simmons"
+        size 7
         color "red"
     ]
     node [
         id 7145
-        size 7
         label "Paul Stanley"
+        size 7
         color "red"
     ]
     node [
         id 170986
-        size 2
         label "Melissa Horn"
+        size 2
         color "red"
     ]
     node [
         id 433131
-        size 2
         label "Bully"
+        size 2
         color "red"
     ]
     node [
         id 1235949
-        size 2
         label "The Blue Stones"
+        size 2
         color "red"
     ]
     node [
         id 23537
-        size 3
         label "Ultravox!"
+        size 3
         color "red"
     ]
     node [
         id 547827
-        size 4
         label "French Kicks"
+        size 4
         color "red"
     ]
     node [
         id 39924
-        size 22
         label "Steve Morse"
+        size 22
         color "red"
     ]
     node [
         id 1840429
-        size 4
         label "Cold Driven"
+        size 4
         color "red"
     ]
     node [
         id 7159
-        size 18
         label "Ted Nugent"
+        size 18
         color "red"
     ]
     node [
         id 3283965
-        size 2
         label "Sleeping Pulse"
+        size 2
         color "red"
     ]
     node [
         id 89088
-        size 11
         label "Martin L. Gore"
+        size 11
         color "red"
     ]
     node [
         id 318466
-        size 1
         label "Grouper"
+        size 1
         color "red"
     ]
     node [
         id 138247
-        size 0
         label "Colin Linden"
+        size 0
         color "red"
     ]
     node [
         id 1383434
-        size 0
         label "Singularity 3"
+        size 0
         color "red"
     ]
     node [
         id 768940
-        size 1
         label "Blind Digital Citizen"
+        size 1
         color "red"
     ]
     node [
         id 2661391
-        size 0
         label "The Curtis Mayflower"
+        size 0
         color "red"
     ]
     node [
         id 1907728
-        size 0
         label "The Laughing Dogs"
+        size 0
         color "red"
     ]
     node [
         id 3447826
-        size 0
         label "Slothrust"
+        size 0
         color "red"
     ]
     node [
         id 3149657
-        size 2
         label "Reignwolf"
+        size 2
         color "red"
     ]
     node [
         id 2149220
-        size 0
         label "Gargantuan Music"
+        size 0
         color "red"
     ]
     node [
         id 203805
-        size 9
         label "John Norum"
+        size 9
         color "red"
     ]
     node [
         id 7200
-        size 0
         label "Mark Gardener"
+        size 0
         color "red"
     ]
     node [
         id 630613
-        size 1
         label "VCMG"
+        size 1
         color "red"
     ]
     node [
         id 33969
-        size 5
         label "Jackie Wilson"
+        size 5
         color "red"
     ]
     node [
         id 236585
-        size 30
         label "Volbeat"
+        size 30
         color "red"
     ]
     node [
         id 1148673
-        size 9
         label "Greenleaf"
+        size 9
         color "red"
     ]
     node [
         id 49341
-        size 0
         label "Pepper"
+        size 0
         color "red"
     ]
     node [
         id 1334325
-        size 1
         label "ArthurKill"
+        size 1
         color "red"
     ]
     node [
         id 564280
-        size 8
         label "Lebowski"
+        size 8
         color "red"
     ]
     node [
         id 154681
-        size 3
         label "Discipline"
+        size 3
         color "red"
     ]
     node [
         id 138298
-        size 11
         label "Comeback Kid"
+        size 11
         color "red"
     ]
     node [
         id 742209
-        size 0
         label "Blacksmith"
+        size 0
         color "red"
     ]
     node [
         id 138305
-        size 1
         label "Bayside"
+        size 1
         color "red"
     ]
     node [
         id 1222852
-        size 6
         label "Iron Horse"
+        size 6
         color "red"
     ]
     node [
         id 138310
-        size 31
         label "Emmure"
+        size 31
         color "red"
     ]
     node [
         id 1154120
-        size 5
         label "Trap Them"
+        size 5
         color "red"
     ]
     node [
         id 40019
-        size 0
         label "Chad Smith's Bombastic Meatbats"
+        size 0
         color "red"
     ]
     node [
         id 138324
-        size 35
         label "Carnifex"
+        size 35
         color "red"
     ]
     node [
         id 1809494
-        size 7
         label "I Legion"
+        size 7
         color "red"
     ]
     node [
         id 154712
-        size 6
         label "Fozzy"
+        size 6
         color "red"
     ]
     node [
         id 7257
-        size 36
         label "Adriano Celentano"
+        size 36
         color "red"
     ]
     node [
         id 121946
-        size 2
         label "Outloud"
+        size 2
         color "red"
     ]
     node [
         id 1727579
-        size 1
         label "Solar Deity"
+        size 1
         color "red"
     ]
     node [
         id 138332
-        size 0
         label "The Audition"
+        size 0
         color "red"
     ]
     node [
         id 302174
-        size 1
         label "My Brightest Diamond"
+        size 1
         color "red"
     ]
     node [
         id 302176
-        size 8
         label "Icon In Me"
+        size 8
         color "red"
     ]
     node [
         id 138341
-        size 1
         label "Destrophy"
+        size 1
         color "red"
     ]
     node [
         id 83132
-        size 1
         label "Robert Calvert"
+        size 1
         color "red"
     ]
     node [
         id 416876
-        size 5
         label "72Blues"
+        size 5
         color "red"
     ]
     node [
         id 138349
-        size 3
         label "Indukti"
+        size 3
         color "red"
     ]
     node [
         id 138350
-        size 18
         label "Knight Area"
+        size 18
         color "red"
     ]
     node [
         id 94056
-        size 17
         label "Norma Jean"
+        size 17
         color "red"
     ]
     node [
         id 990322
-        size 0
         label "Brad Stock"
+        size 0
         color "red"
     ]
     node [
         id 1882643
-        size 1
         label "Ocean Grove"
+        size 1
         color "red"
     ]
     node [
         id 105589
-        size 0
         label "Killer"
+        size 0
         color "red"
     ]
     node [
         id 219014
-        size 0
         label "Beachwood Sparks"
+        size 0
         color "red"
     ]
     node [
         id 89207
-        size 13
         label "Fm Static"
+        size 13
         color "red"
     ]
     node [
         id 1432084
-        size 0
         label "Panik"
+        size 0
         color "red"
     ]
     node [
         id 2628731
-        size 5
         label "Paradox"
+        size 5
         color "red"
     ]
     node [
         id 423147
-        size 3
         label "Nightbox"
+        size 3
         color "red"
     ]
     node [
         id 7299
-        size 0
         label "Paul Williams"
+        size 0
         color "red"
     ]
     node [
         id 12791
-        size 2
         label "Jim Croce"
+        size 2
         color "red"
     ]
     node [
         id 1257324
-        size 6
         label "Dangers"
+        size 6
         color "red"
     ]
     node [
         id 317975
-        size 1
         label "Ian Lloyd"
+        size 1
         color "red"
     ]
     node [
         id 1924238
-        size 1
         label "Celtic Legacy"
+        size 1
         color "red"
     ]
     node [
         id 547983
-        size 0
         label "Battalion"
+        size 0
         color "red"
     ]
     node [
         id 122001
-        size 1
         label "Kean"
+        size 1
         color "red"
     ]
     node [
         id 2137234
-        size 5
         label "Dimidium"
+        size 5
         color "red"
     ]
     node [
         id 351379
-        size 21
         label "Iron Fire"
+        size 21
         color "red"
     ]
     node [
         id 318612
-        size 0
         label "Murat Kekilli"
+        size 0
         color "red"
     ]
     node [
         id 171157
-        size 4
         label "Sophie Zelmani"
+        size 4
         color "red"
     ]
     node [
         id 151365
-        size 3
         label "Lis Sørensen"
+        size 3
         color "red"
     ]
     node [
         id 89243
-        size 1
         label "Wir Sind Helden"
+        size 1
         color "red"
     ]
     node [
         id 2822000
-        size 0
         label "Halloween"
+        size 0
         color "red"
     ]
     node [
         id 236707
-        size 0
         label "Elf"
+        size 0
         color "red"
     ]
     node [
         id 2989220
-        size 0
         label "Colt Silvers"
+        size 0
         color "red"
     ]
     node [
         id 1875112
-        size 0
         label "Sans Gras"
+        size 0
         color "red"
     ]
     node [
         id 490012
-        size 0
         label "Heartbreakin' Rebels"
+        size 0
         color "red"
     ]
     node [
         id 2514097
-        size 6
         label "Eowyn"
+        size 6
         color "red"
     ]
     node [
         id 315252
-        size 0
         label "King Cobra"
+        size 0
         color "red"
     ]
     node [
         id 1629370
-        size 7
         label "Labradford"
+        size 7
         color "red"
     ]
     node [
         id 646332
-        size 4
         label "The Life And Times"
+        size 4
         color "red"
     ]
     node [
         id 2120894
-        size 0
         label "The Singular"
+        size 0
         color "red"
     ]
     node [
         id 23744
-        size 3
         label "Peel"
+        size 3
         color "red"
     ]
     node [
         id 2415810
-        size 0
         label "Lee Andre"
+        size 0
         color "red"
     ]
     node [
         id 42188
-        size 60
         label "Chubby Checker"
+        size 60
         color "red"
     ]
     node [
         id 318667
-        size 11
         label "The Fixx"
+        size 11
         color "red"
     ]
     node [
         id 23756
-        size 1
         label "Roy Wood"
+        size 1
         color "red"
     ]
     node [
         id 318670
-        size 9
         label "Katra"
+        size 9
         color "red"
     ]
     node [
         id 122063
-        size 2
         label "Bodeans"
+        size 2
         color "red"
     ]
     node [
         id 105680
-        size 1
         label "Johnny Rivers"
+        size 1
         color "red"
     ]
     node [
         id 335057
-        size 1
         label "Night"
+        size 1
         color "red"
     ]
     node [
         id 318674
-        size 4
         label "Stuck Mojo"
+        size 4
         color "red"
     ]
     node [
         id 105683
-        size 1
         label "Rick Nelson"
+        size 1
         color "red"
     ]
     node [
         id 2055380
-        size 1
         label "A Silent Escape"
+        size 1
         color "red"
     ]
     node [
         id 427214
-        size 4
         label "Lizzy Borden"
+        size 4
         color "red"
     ]
     node [
         id 7392
-        size 5
         label "Ray Manzarek"
+        size 5
         color "red"
     ]
     node [
         id 296144
-        size 0
         label "Peter Rivera"
+        size 0
         color "red"
     ]
     node [
         id 7394
-        size 6
         label "Jim Morrison"
+        size 6
         color "red"
     ]
     node [
         id 3133307
-        size 1
         label "The Blackout"
+        size 1
         color "red"
     ]
     node [
         id 2317540
-        size 5
         label "The Spoils"
+        size 5
         color "red"
     ]
     node [
         id 810214
-        size 1
         label "(((S)))"
+        size 1
         color "red"
     ]
     node [
         id 1121513
-        size 0
         label "Red Eleven"
+        size 0
         color "red"
     ]
     node [
         id 1924331
-        size 1
         label "Lazlo Hollyfeld"
+        size 1
         color "red"
     ]
     node [
         id 302317
-        size 4
         label "Studio Union"
+        size 4
         color "red"
     ]
     node [
         id 1128925
-        size 2
         label "Greg Kihn Band"
+        size 2
         color "red"
     ]
     node [
         id 477616
-        size 3
         label "Beautiful Sin"
+        size 3
         color "red"
     ]
     node [
         id 1629428
-        size 0
         label "Ghostship"
+        size 0
         color "red"
     ]
     node [
         id 1596661
-        size 0
         label "Le Bal Des Enragés"
+        size 0
         color "red"
     ]
     node [
         id 417016
-        size 4
         label "Los Coronas"
+        size 4
         color "red"
     ]
     node [
         id 7418
-        size 1
         label "Hanson"
+        size 1
         color "red"
     ]
     node [
         id 822959
-        size 2
         label "The Top Orchestra"
+        size 2
         color "red"
     ]
     node [
         id 1580286
-        size 2
         label "Wiretree"
+        size 2
         color "red"
     ]
     node [
         id 582869
-        size 6
         label "The Tangent"
+        size 6
         color "red"
     ]
     node [
         id 302336
-        size 2
         label "Tommy Steele & The Steelmen"
+        size 2
         color "red"
     ]
     node [
         id 7425
-        size 9
         label "Zucchero"
+        size 9
         color "red"
     ]
     node [
         id 1449220
-        size 12
         label "The Elijah"
+        size 12
         color "red"
     ]
     node [
         id 1256138
-        size 0
         label "Dude Tone"
+        size 0
         color "red"
     ]
     node [
         id 171275
-        size 0
         label "Pacific Gas & Electric"
+        size 0
         color "red"
     ]
     node [
         id 7437
-        size 2
         label "Texas"
+        size 2
         color "red"
     ]
     node [
         id 220432
-        size 1
         label "Marco Minnemann"
+        size 1
         color "red"
     ]
     node [
         id 2184690
-        size 1
         label "Mimes on Rollercoasters"
+        size 1
         color "red"
     ]
     node [
         id 7444
-        size 4
         label "The Cranberries"
+        size 4
         color "red"
     ]
     node [
         id 72982
-        size 12
         label "Sylvan"
+        size 12
         color "red"
     ]
     node [
         id 7448
-        size 5
         label "Stakka Bo"
+        size 5
         color "red"
     ]
     node [
         id 7449
-        size 1
         label "Harry Chapin"
+        size 1
         color "red"
     ]
     node [
         id 171290
-        size 20
         label "Bay City Rollers"
+        size 20
         color "red"
     ]
     node [
         id 859420
-        size 10
         label "Death In June"
+        size 10
         color "red"
     ]
     node [
         id 72990
-        size 0
         label "Starcastle"
+        size 0
         color "red"
     ]
     node [
         id 597283
-        size 2
         label "Eifo hayeled"
+        size 2
         color "red"
     ]
     node [
         id 171301
-        size 0
         label "Ram Jam"
+        size 0
         color "red"
     ]
     node [
         id 171302
-        size 16
         label "Kansas"
+        size 16
         color "red"
     ]
     node [
         id 40231
-        size 8
         label "Devics"
+        size 8
         color "red"
     ]
     node [
         id 7466
-        size 4
         label "James"
+        size 4
         color "red"
     ]
     node [
         id 7468
-        size 0
         label "Jack Hammer"
+        size 0
         color "red"
     ]
     node [
         id 171310
-        size 2
         label "Cheap Trick"
+        size 2
         color "red"
     ]
     node [
         id 548143
-        size 3
         label "Mactätus"
+        size 3
         color "red"
     ]
     node [
         id 1088816
-        size 0
         label "The Difference"
+        size 0
         color "red"
     ]
     node [
         id 7475
-        size 7
         label "Suzanne Vega"
+        size 7
         color "red"
     ]
     node [
         id 40245
-        size 3
         label "Townes Van Zandt"
+        size 3
         color "red"
     ]
     node [
         id 240424
-        size 2
         label "Cranes"
+        size 2
         color "red"
     ]
     node [
         id 269623
-        size 1
         label "Pekka Tiilikainen"
+        size 1
         color "red"
     ]
     node [
         id 122169
-        size 7
         label "Ascension"
+        size 7
         color "red"
     ]
     node [
         id 171323
-        size 0
         label "The Charlie Daniels Band"
+        size 0
         color "red"
     ]
     node [
         id 171324
-        size 0
         label "Secret Affair"
+        size 0
         color "red"
     ]
     node [
         id 7485
-        size 6
         label "Cher"
+        size 6
         color "red"
     ]
     node [
         id 843071
-        size 1
         label "Crank County Daredevils"
+        size 1
         color "red"
     ]
     node [
         id 548162
-        size 15
         label "Einherjer"
+        size 15
         color "red"
     ]
     node [
         id 1383747
-        size 1
         label "Prototype-A"
+        size 1
         color "red"
     ]
     node [
         id 7492
-        size 17
         label "Pulp"
+        size 17
         color "red"
     ]
     node [
         id 646469
-        size 1
         label "Abigail Williams"
+        size 1
         color "red"
     ]
     node [
         id 171334
-        size 7
         label "Shakin' Stevens"
+        size 7
         color "red"
     ]
     node [
         id 7497
-        size 0
         label "Dolores O'Riordan"
+        size 0
         color "red"
     ]
     node [
         id 7499
-        size 12
         label "Extreme"
+        size 12
         color "red"
     ]
     node [
         id 7502
-        size 6
         label "Ugly Kid Joe"
+        size 6
         color "red"
     ]
     node [
         id 7503
-        size 6
         label "Shed Seven"
+        size 6
         color "red"
     ]
     node [
         id 7504
-        size 3
         label "Paul Weller"
+        size 3
         color "red"
     ]
     node [
         id 449874
-        size 8
         label "Cave Catt Sammy"
+        size 8
         color "red"
     ]
     node [
         id 171347
-        size 10
         label "REO Speedwagon"
+        size 10
         color "red"
     ]
     node [
         id 823182
-        size 3
         label "Ignis Fatuu"
+        size 3
         color "red"
     ]
     node [
         id 154966
-        size 8
         label "Reckless Love"
+        size 8
         color "red"
     ]
     node [
         id 997945
-        size 4
         label "Rob Townsend"
+        size 4
         color "red"
     ]
     node [
         id 73049
-        size 49
         label "The Devil Wears Prada"
+        size 49
         color "red"
     ]
     node [
         id 73050
-        size 1
         label "Cathérine"
+        size 1
         color "red"
     ]
     node [
         id 7515
-        size 6
         label "Ocean Colour Scene"
+        size 6
         color "red"
     ]
     node [
         id 73053
-        size 15
         label "American Me"
+        size 15
         color "red"
     ]
     node [
         id 73054
-        size 6
         label "Burden Of A Day"
+        size 6
         color "red"
     ]
     node [
         id 73055
-        size 0
         label "Oceana"
+        size 0
         color "red"
     ]
     node [
         id 171362
-        size 13
         label "A Flock Of Seagulls"
+        size 13
         color "red"
     ]
     node [
         id 269673
-        size 1
         label "John Bongiovi"
+        size 1
         color "red"
     ]
     node [
         id 3251564
-        size 1
         label "BFM Hits"
+        size 1
         color "red"
     ]
     node [
         id 7535
-        size 2
         label "Chrissie Hynde"
+        size 2
         color "red"
     ]
     node [
         id 302450
-        size 3
         label "Acid Mothers Temple"
+        size 3
         color "red"
     ]
     node [
         id 13890
-        size 3
         label "Angelo Badalamenti"
+        size 3
         color "red"
     ]
     node [
         id 2104699
-        size 0
         label "Corvus"
+        size 0
         color "red"
     ]
     node [
         id 318844
-        size 0
         label "Quicksilver"
+        size 0
         color "red"
     ]
     node [
         id 220542
-        size 0
         label "Poi Dog Pondering"
+        size 0
         color "red"
     ]
     node [
         id 602005
-        size 0
         label "The Sultans Of Swing"
+        size 0
         color "red"
     ]
     node [
         id 318849
-        size 0
         label "Jay Reatard"
+        size 0
         color "red"
     ]
     node [
         id 639108
-        size 0
         label "UFO Jim"
+        size 0
         color "red"
     ]
     node [
         id 1386431
-        size 0
         label "Futurebirds"
+        size 0
         color "red"
     ]
     node [
         id 645655
-        size 8
         label "Plan Three"
+        size 8
         color "red"
     ]
     node [
         id 23948
-        size 0
         label "Ross"
+        size 0
         color "red"
     ]
     node [
         id 318861
-        size 2
         label "Spencer Davis Group"
+        size 2
         color "red"
     ]
     node [
         id 351630
-        size 11
         label "Månegarm"
+        size 11
         color "red"
     ]
     node [
         id 115949
-        size 0
         label "Stray"
+        size 0
         color "red"
     ]
     node [
         id 23952
-        size 15
         label "Sly & The Family Stone"
+        size 15
         color "red"
     ]
     node [
         id 171412
-        size 1
         label "Dead Or Alive"
+        size 1
         color "red"
     ]
     node [
         id 741273
-        size 3
         label "The Silent Comedy"
+        size 3
         color "red"
     ]
     node [
         id 630171
-        size 17
         label "Dj in the Night"
+        size 17
         color "red"
     ]
     node [
         id 2432414
-        size 20
         label "Daybreak Embrace"
+        size 20
         color "red"
     ]
     node [
         id 171432
-        size 1
         label "The Blow Monkeys"
+        size 1
         color "red"
     ]
     node [
         id 72263
-        size 22
         label "The Rifles"
+        size 22
         color "red"
     ]
     node [
         id 2317743
-        size 2
         label "Young Savages"
+        size 2
         color "red"
     ]
     node [
         id 531890
-        size 2
         label "Aidan Baker"
+        size 2
         color "red"
     ]
     node [
         id 171444
-        size 1
         label "The Hooters"
+        size 1
         color "red"
     ]
     node [
         id 331485
-        size 0
         label "Le Mans"
+        size 0
         color "red"
     ]
     node [
         id 604745
-        size 0
         label "Robert Berry"
+        size 0
         color "red"
     ]
     node [
         id 40376
-        size 0
         label "The Hunters"
+        size 0
         color "red"
     ]
     node [
         id 654771
-        size 6
         label "Peter Pan Speedrock"
+        size 6
         color "red"
     ]
     node [
         id 990650
-        size 11
         label "Ihsahn"
+        size 11
         color "red"
     ]
     node [
         id 1159579
-        size 6
         label "Black Spiders"
+        size 6
         color "red"
     ]
     node [
         id 171453
-        size 0
         label "Fairground Attraction"
+        size 0
         color "red"
     ]
     node [
         id 40384
-        size 0
         label "Heather Nova"
+        size 0
         color "red"
     ]
     node [
         id 613826
-        size 3
         label "Gorilla"
+        size 3
         color "red"
     ]
     node [
         id 1957318
-        size 2
         label "Neroargento"
+        size 2
         color "red"
     ]
     node [
         id 105930
-        size 0
         label "Murdoc"
+        size 0
         color "red"
     ]
     node [
         id 417232
-        size 0
         label "System Of A Down Tribute"
+        size 0
         color "red"
     ]
     node [
         id 1777106
-        size 1
         label "Shawn James & the Shapeshifters"
+        size 1
         color "red"
     ]
     node [
         id 1777107
-        size 3
         label "Shawn James"
+        size 3
         color "red"
     ]
     node [
         id 171476
-        size 15
         label "The Stone Roses"
+        size 15
         color "red"
     ]
     node [
         id 417247
-        size 4
         label "Leatherwolf"
+        size 4
         color "red"
     ]
     node [
         id 761317
-        size 0
         label "Guitar Chillout"
+        size 0
         color "red"
     ]
     node [
         id 777702
-        size 1
         label "Johnny Foreigner"
+        size 1
         color "red"
     ]
     node [
         id 40425
-        size 1
         label "Bobby Fuller Four"
+        size 1
         color "red"
     ]
     node [
         id 89578
-        size 7
         label "Roxette"
+        size 7
         color "red"
     ]
     node [
         id 7659
-        size 17
         label "Kaiser Chiefs"
+        size 17
         color "red"
     ]
     node [
         id 40430
-        size 0
         label "Bobby Fuller"
+        size 0
         color "red"
     ]
     node [
         id 531957
-        size 1
         label "The Search"
+        size 1
         color "red"
     ]
     node [
         id 843256
-        size 13
         label "Lifelover"
+        size 13
         color "red"
     ]
     node [
         id 843258
-        size 3
         label "The Yesterdays"
+        size 3
         color "red"
     ]
     node [
         id 898801
-        size 0
         label "Rosie"
+        size 0
         color "red"
     ]
     node [
         id 2776572
-        size 0
         label "Angry Again"
+        size 0
         color "red"
     ]
     node [
         id 1220100
-        size 4
         label "Knockout Kid"
+        size 4
         color "red"
     ]
     node [
         id 531976
-        size 2
         label "Völkerball"
+        size 2
         color "red"
     ]
     node [
         id 1056265
-        size 0
         label "Ronnie Hawkins And The Hawks"
+        size 0
         color "red"
     ]
     node [
         id 2807188
-        size 1
         label "Steve Hogarth & Richard Barbieri"
+        size 1
         color "red"
     ]
     node [
         id 384524
-        size 0
         label "Red Zebra"
+        size 0
         color "red"
     ]
     node [
         id 2055694
-        size 4
         label "BulletProof Messenger"
+        size 4
         color "red"
     ]
     node [
         id 1991939
-        size 1
         label "The Oh Hellos"
+        size 1
         color "red"
     ]
     node [
         id 1154580
-        size 3
         label "The Deviants"
+        size 3
         color "red"
     ]
     node [
         id 24085
-        size 14
         label "Small Faces"
+        size 14
         color "red"
     ]
     node [
         id 1236502
-        size 1
         label "Lavagance"
+        size 1
         color "red"
     ]
     node [
         id 187928
-        size 3
         label "Corrosion Of Conformity"
+        size 3
         color "red"
     ]
     node [
         id 564762
-        size 1
         label "Romantic Flutes Orchestra"
+        size 1
         color "red"
     ]
     node [
         id 1793565
-        size 6
         label "A Sound of Thunder"
+        size 6
         color "red"
     ]
     node [
         id 40478
-        size 0
         label "Orianthi"
+        size 0
         color "red"
     ]
     node [
         id 319007
-        size 3
         label "Ambulance LTD"
+        size 3
         color "red"
     ]
     node [
         id 456349
-        size 1
         label "Emphatic"
+        size 1
         color "red"
     ]
     node [
         id 10077
-        size 9
         label "Alan Parsons"
+        size 9
         color "red"
     ]
     node [
         id 1154600
-        size 23
         label "The Real McKenzies"
+        size 23
         color "red"
     ]
     node [
         id 1154601
-        size 1
         label "Strung Out"
+        size 1
         color "red"
     ]
     node [
         id 56876
-        size 2
         label "NENA"
+        size 2
         color "red"
     ]
     node [
         id 1154607
-        size 1
         label "Diesel Boy"
+        size 1
         color "red"
     ]
     node [
         id 400944
-        size 2
         label "Ashton"
+        size 2
         color "red"
     ]
     node [
         id 320405
-        size 2
         label "Hydrogyn"
+        size 2
         color "red"
     ]
     node [
         id 1236530
-        size 0
         label "Almora"
+        size 0
         color "red"
     ]
     node [
         id 73269
-        size 18
         label "morphine"
+        size 18
         color "red"
     ]
     node [
         id 304393
-        size 0
         label "Reign"
+        size 0
         color "red"
     ]
     node [
         id 4234808
-        size 0
         label "Wallfish"
+        size 0
         color "red"
     ]
     node [
         id 1580602
-        size 0
         label "Wyldlife"
+        size 0
         color "red"
     ]
     node [
         id 1613374
-        size 0
         label "Three Kings High"
+        size 0
         color "red"
     ]
     node [
         id 73279
-        size 0
         label "Eric Andersen"
+        size 0
         color "red"
     ]
     node [
         id 812299
-        size 1
         label "Reverend and the Makers"
+        size 1
         color "red"
     ]
     node [
         id 6753
-        size 2
         label "John Martyn"
+        size 2
         color "red"
     ]
     node [
         id 298472
-        size 0
         label "The Raiders"
+        size 0
         color "red"
     ]
     node [
         id 1629770
-        size 1
         label "Logan Hugueny-Clark"
+        size 1
         color "red"
     ]
     node [
         id 532043
-        size 0
         label "Pure Inc."
+        size 0
         color "red"
     ]
     node [
         id 73296
-        size 3
         label "My Life With The Thrill Kill Kult"
+        size 3
         color "red"
     ]
     node [
         id 73299
-        size 0
         label "Fastball"
+        size 0
         color "red"
     ]
     node [
         id 73300
-        size 1
         label "The Posies"
+        size 1
         color "red"
     ]
     node [
         id 73301
-        size 4
         label "Revolting Cocks"
+        size 4
         color "red"
     ]
     node [
         id 1728086
-        size 0
         label "Templo"
+        size 0
         color "red"
     ]
     node [
         id 761436
-        size 5
         label "Psychotic Waltz"
+        size 5
         color "red"
     ]
     node [
         id 532061
-        size 2
         label "Perzonal War"
+        size 2
         color "red"
     ]
     node [
         id 1449567
-        size 0
         label "World In Union"
+        size 0
         color "red"
     ]
     node [
         id 876131
-        size 27
         label "Minimum Vital"
+        size 27
         color "red"
     ]
     node [
         id 613988
-        size 0
         label "Killer Filler"
+        size 0
         color "red"
     ]
     node [
         id 56933
-        size 29
         label "The Stranglers"
+        size 29
         color "red"
     ]
     node [
         id 40551
-        size 3
         label "Blixa Bargeld"
+        size 3
         color "red"
     ]
     node [
         id 93670
-        size 0
         label "Art Brut"
+        size 0
         color "red"
     ]
     node [
         id 252519
-        size 25
         label "U.D.O."
+        size 25
         color "red"
     ]
     node [
         id 356285
-        size 8
         label "Mean Streak"
+        size 8
         color "red"
     ]
     node [
         id 2940528
-        size 2
         label "Crash and Burn"
+        size 2
         color "red"
     ]
     node [
         id 587833
-        size 0
         label "The Bevis Frond"
+        size 0
         color "red"
     ]
     node [
         id 24184
-        size 3
         label "Dredg"
+        size 3
         color "red"
     ]
     node [
         id 2842233
-        size 2
         label "Jamie Lenman"
+        size 2
         color "red"
     ]
     node [
         id 7803
-        size 13
         label "Neil Diamond"
+        size 13
         color "red"
     ]
     node [
         id 335484
-        size 1
         label "Working Class Heroes"
+        size 1
         color "red"
     ]
     node [
         id 532093
-        size 6
         label "Circle II Circle"
+        size 6
         color "red"
     ]
     node [
         id 73345
-        size 10
         label "Cavalera Conspiracy"
+        size 10
         color "red"
     ]
     node [
         id 73349
-        size 7
         label "The Cult"
+        size 7
         color "red"
     ]
     node [
         id 56966
-        size 0
         label "Gordon Haskell"
+        size 0
         color "red"
     ]
     node [
         id 73351
-        size 11
         label "Robin Trower"
+        size 11
         color "red"
     ]
     node [
         id 4169353
-        size 3
         label "Wildways"
+        size 3
         color "red"
     ]
     node [
         id 73354
-        size 2
         label "Steve Harris"
+        size 2
         color "red"
     ]
     node [
         id 515727
-        size 3
         label "Soko"
+        size 3
         color "red"
     ]
     node [
         id 1078297
-        size 0
         label "Purple Nights"
+        size 0
         color "red"
     ]
     node [
         id 73369
-        size 2
         label "Gang Green"
+        size 2
         color "red"
     ]
     node [
         id 7834
-        size 13
         label "10cc"
+        size 13
         color "red"
     ]
     node [
         id 1489519
-        size 12
         label "Music Factory"
+        size 12
         color "red"
     ]
     node [
         id 253596
-        size 8
         label "Entombed"
+        size 8
         color "red"
     ]
     node [
         id 3576644
-        size 0
         label "Loïc Nottet"
+        size 0
         color "red"
     ]
     node [
         id 73374
-        size 6
         label "Crimson Glory"
+        size 6
         color "red"
     ]
     node [
         id 7839
-        size 7
         label "Dave Berry"
+        size 7
         color "red"
     ]
     node [
         id 1990304
-        size 6
         label "Shelflyfe"
+        size 6
         color "red"
     ]
     node [
         id 73377
-        size 10
         label "Midnight"
+        size 10
         color "red"
     ]
     node [
         id 2104994
-        size 0
         label "Omenopus"
+        size 0
         color "red"
     ]
     node [
         id 532131
-        size 15
         label "Debauchery"
+        size 15
         color "red"
     ]
     node [
         id 7846
-        size 4
         label "Marianne Faithfull"
+        size 4
         color "red"
     ]
     node [
         id 64113
-        size 5
         label "Army Of Me"
+        size 5
         color "red"
     ]
     node [
         id 7850
-        size 9
         label "Brian Hyland"
+        size 9
         color "red"
     ]
     node [
         id 7851
-        size 35
         label "The Mamas & The Papas"
+        size 35
         color "red"
     ]
     node [
         id 188077
-        size 1
         label "Friendly Fires"
+        size 1
         color "red"
     ]
     node [
         id 532146
-        size 6
         label "Heavenly"
+        size 6
         color "red"
     ]
     node [
         id 73395
-        size 0
         label "The Blue Hawaiians"
+        size 0
         color "red"
     ]
     node [
         id 7860
-        size 56
         label "Buddy Holly"
+        size 56
         color "red"
     ]
     node [
         id 369950
-        size 1
         label "Gene Parsons"
+        size 1
         color "red"
     ]
     node [
         id 73399
-        size 11
         label "They Might Be Giants"
+        size 11
         color "red"
     ]
     node [
         id 3038905
-        size 19
         label "Zodiac"
+        size 19
         color "red"
     ]
     node [
         id 1564351
-        size 0
         label "The Shadow Principle"
+        size 0
         color "red"
     ]
     node [
         id 7876
-        size 0
         label "Boz Scaggs"
+        size 0
         color "red"
     ]
     node [
         id 7877
-        size 0
         label "Alessi Brothers"
+        size 0
         color "red"
     ]
     node [
         id 614087
-        size 4
         label "The Hit Factory"
+        size 4
         color "red"
     ]
     node [
         id 7880
-        size 3
         label "Georgie Fame"
+        size 3
         color "red"
     ]
     node [
         id 2662092
-        size 0
         label "Gunshot Bride"
+        size 0
         color "red"
     ]
     node [
         id 7887
-        size 7
         label "Chris De Burgh"
+        size 7
         color "red"
     ]
     node [
         id 7890
-        size 2
         label "Eric Stewart"
+        size 2
         color "red"
     ]
     node [
         id 299778
-        size 0
         label "Oho"
+        size 0
         color "red"
     ]
     node [
         id 302811
-        size 2
         label "Glittertind"
+        size 2
         color "red"
     ]
     node [
         id 614108
-        size 4
         label "Surf Raiders"
+        size 4
         color "red"
     ]
     node [
         id 532189
-        size 3
         label "Voodoo Circle"
+        size 3
         color "red"
     ]
     node [
         id 1335008
-        size 2
         label "Down In Ashes"
+        size 2
         color "red"
     ]
     node [
         id 2907875
-        size 0
         label "Krokodil"
+        size 0
         color "red"
     ]
     node [
         id 426895
-        size 1
         label "The Datsuns"
+        size 1
         color "red"
     ]
     node [
         id 597733
-        size 0
         label "Charlie Daniels Band"
+        size 0
         color "red"
     ]
     node [
         id 2565415
-        size 0
         label "The Lip Singers"
+        size 0
         color "red"
     ]
     node [
         id 24301
-        size 9
         label "Thin Lizzy"
+        size 9
         color "red"
     ]
     node [
         id 483054
-        size 0
         label "Moebius"
+        size 0
         color "red"
     ]
     node [
         id 1302261
-        size 3
         label "Hollerado"
+        size 3
         color "red"
     ]
     node [
         id 252543
-        size 40
         label "Grave Digger"
+        size 40
         color "red"
     ]
     node [
         id 2752094
-        size 4
         label "Eliza And The Bear"
+        size 4
         color "red"
     ]
     node [
         id 1646333
-        size 0
         label "Conscious Souls"
+        size 0
         color "red"
     ]
     node [
         id 515841
-        size 9
         label "J:МОРС"
+        size 9
         color "red"
     ]
     node [
         id 204547
-        size 0
         label "Smokie & Chris Norman"
+        size 0
         color "red"
     ]
     node [
         id 1433349
-        size 10
         label "Crossfade"
+        size 10
         color "red"
     ]
     node [
         id 1433350
-        size 24
         label "Red"
+        size 24
         color "red"
     ]
     node [
         id 352007
-        size 2
         label "The Delltones"
+        size 2
         color "red"
     ]
     node [
         id 741335
-        size 2
         label "Matt and Kim"
+        size 2
         color "red"
     ]
     node [
         id 7949
-        size 3
         label "Lulu"
+        size 3
         color "red"
     ]
     node [
         id 171790
-        size 0
         label "Taylor Hawkins & The Coattail Riders"
+        size 0
         color "red"
     ]
     node [
         id 2383632
-        size 4
         label "Animal Eyes"
+        size 4
         color "red"
     ]
     node [
         id 2412504
-        size 1
         label "Massacration"
+        size 1
         color "red"
     ]
     node [
         id 594385
-        size 15
         label "Мері"
+        size 15
         color "red"
     ]
     node [
         id 7957
-        size 2
         label "Paul Brady"
+        size 2
         color "red"
     ]
     node [
         id 1134553
-        size 4
         label "Rockabye Baby!"
+        size 4
         color "red"
     ]
     node [
         id 1178244
-        size 1
         label "Killer Aspect"
+        size 1
         color "red"
     ]
     node [
         id 75553
-        size 0
         label "D-A-D"
+        size 0
         color "red"
     ]
     node [
         id 220958
-        size 1
         label "Eurogliders"
+        size 1
         color "red"
     ]
     node [
         id 171807
-        size 1
         label "Quiver"
+        size 1
         color "red"
     ]
     node [
         id 121604
-        size 0
         label "Zephyr"
+        size 0
         color "red"
     ]
     node [
         id 171814
-        size 13
         label "Chris Norman"
+        size 13
         color "red"
     ]
     node [
         id 171815
-        size 11
         label "Patti Smith Group"
+        size 11
         color "red"
     ]
     node [
         id 1253162
-        size 6
         label "Malory"
+        size 6
         color "red"
     ]
     node [
         id 2154285
-        size 2
         label "Arc Angel"
+        size 2
         color "red"
     ]
     node [
         id 2154286
-        size 5
         label "Find Me"
+        size 5
         color "red"
     ]
     node [
         id 1377587
-        size 0
         label "Sound and Fury"
+        size 0
         color "red"
     ]
     node [
         id 614197
-        size 13
         label "The Fathoms"
+        size 13
         color "red"
     ]
     node [
         id 352054
-        size 1
         label "Aardvark"
+        size 1
         color "red"
     ]
     node [
         id 1154871
-        size 46
         label "The Rock Masters"
+        size 46
         color "red"
     ]
     node [
         id 1728314
-        size 0
         label "Haar"
+        size 0
         color "red"
     ]
     node [
         id 40765
-        size 0
         label "Puressence"
+        size 0
         color "red"
     ]
     node [
         id 171838
-        size 0
         label "Sha Na Na"
+        size 0
         color "red"
     ]
     node [
         id 40769
-        size 0
         label "Was (Not Was)"
+        size 0
         color "red"
     ]
     node [
         id 1170059
-        size 24
         label "Archgoat"
+        size 24
         color "red"
     ]
     node [
         id 1334
-        size 1
         label "Roberta Flack"
+        size 1
         color "red"
     ]
     node [
         id 36833
-        size 14
         label "Red Hot Chili Peppers"
+        size 14
         color "red"
     ]
     node [
         id 40776
-        size 1
         label "Adrian Belew"
+        size 1
         color "red"
     ]
     node [
         id 40777
-        size 5
         label "The B-52's"
+        size 5
         color "red"
     ]
     node [
         id 450378
-        size 4
         label "The Yesteryears"
+        size 4
         color "red"
     ]
     node [
         id 1606967
-        size 5
         label "URSA"
+        size 5
         color "red"
     ]
     node [
         id 1564492
-        size 3
         label "Kris Lager Band"
+        size 3
         color "red"
     ]
     node [
         id 515918
-        size 7
         label "Нейро дюбель"
+        size 7
         color "red"
     ]
     node [
         id 40784
-        size 1
         label "Cristina"
+        size 1
         color "red"
     ]
     node [
         id 335697
-        size 0
         label "Warped Kidz"
+        size 0
         color "red"
     ]
     node [
         id 2367315
-        size 2
         label "Austin Jenckes"
+        size 2
         color "red"
     ]
     node [
         id 23182
-        size 10
         label "The Equals"
+        size 10
         color "red"
     ]
     node [
         id 335703
-        size 15
         label "Lower Than Atlantis"
+        size 15
         color "red"
     ]
     node [
         id 188248
-        size 0
         label "Neil Taylor"
+        size 0
         color "red"
     ]
     node [
         id 40794
-        size 0
         label "Tom Tom Club"
+        size 0
         color "red"
     ]
     node [
         id 89950
-        size 2
         label "Mustasch"
+        size 2
         color "red"
     ]
     node [
         id 1335135
-        size 4
         label "Mark Cook"
+        size 4
         color "red"
     ]
     node [
         id 237408
-        size 1
         label "Heller"
+        size 1
         color "red"
     ]
     node [
         id 171873
-        size 7
         label "Emre Aydın"
+        size 7
         color "red"
     ]
     node [
         id 40804
-        size 10
         label "Spandau Ballet"
+        size 10
         color "red"
     ]
     node [
         id 319335
-        size 1
         label "Europa"
+        size 1
         color "red"
     ]
     node [
         id 188268
-        size 3
         label "Midnight Oil"
+        size 3
         color "red"
     ]
     node [
         id 24432
-        size 4
         label "Rob Thomas"
+        size 4
         color "red"
     ]
     node [
         id 188277
-        size 0
         label "The Chambers Brothers"
+        size 0
         color "red"
     ]
     node [
         id 73590
-        size 3
         label "The Les Humphries Singers"
+        size 3
         color "red"
     ]
     node [
         id 188283
-        size 3
         label "The Union Gap"
+        size 3
         color "red"
     ]
     node [
         id 40828
-        size 2
         label "NX Zero"
+        size 2
         color "red"
     ]
     node [
         id 188291
-        size 3
         label "Frank Marino & Mahogany Rush"
+        size 3
         color "red"
     ]
     node [
         id 827269
-        size 1
         label "The Moon and the Nightspirit"
+        size 1
         color "red"
     ]
     node [
         id 188294
-        size 7
         label "Molly Hatchet"
+        size 7
         color "red"
     ]
     node [
         id 217068
-        size 2
         label "Louise Attaque"
+        size 2
         color "red"
     ]
     node [
         id 188298
-        size 0
         label "Jeff Smith"
+        size 0
         color "red"
     ]
     node [
         id 13908
-        size 1
         label "Alan Hull"
+        size 1
         color "red"
     ]
     node [
         id 2891666
-        size 2
         label "The Guitaraculas"
+        size 2
         color "red"
     ]
     node [
         id 1033539
-        size 0
         label "Zeljko Bebek"
+        size 0
         color "red"
     ]
     node [
         id 1825433
-        size 0
         label "Ancient Spell"
+        size 0
         color "red"
     ]
     node [
         id 188312
-        size 0
         label "Yvonne Catterfeld"
+        size 0
         color "red"
     ]
     node [
         id 2327876
-        size 1
         label "Lo-Fang"
+        size 1
         color "red"
     ]
     node [
         id 3710876
-        size 0
         label "VANT"
+        size 0
         color "red"
     ]
     node [
         id 319392
-        size 0
         label "Undertow"
+        size 0
         color "red"
     ]
     node [
         id 334491
-        size 2
         label "Bobby Lewis"
+        size 2
         color "red"
     ]
     node [
         id 673095
-        size 14
         label "The Lost Patrol"
+        size 14
         color "red"
     ]
     node [
         id 1089454
-        size 2
         label "Not Moving"
+        size 2
         color "red"
     ]
     node [
         id 4321267
-        size 0
         label "Lightwave Empire"
+        size 0
         color "red"
     ]
     node [
         id 283528
-        size 1
         label "Muchy"
+        size 1
         color "red"
     ]
     node [
         id 107849
-        size 22
         label "Black Rebel Motorcycle Club"
+        size 22
         color "red"
     ]
     node [
         id 237497
-        size 2
         label "Transit"
+        size 2
         color "red"
     ]
     node [
         id 38460
-        size 44
         label "Nile"
+        size 44
         color "red"
     ]
     node [
         id 106440
-        size 1
         label "Modo"
+        size 1
         color "red"
     ]
     node [
         id 761806
-        size 5
         label "Cambodian Space Project"
+        size 5
         color "red"
     ]
     node [
         id 8143
-        size 29
         label "The Cure"
+        size 29
         color "red"
     ]
     node [
         id 4088
-        size 0
         label "The Sunsets"
+        size 0
         color "red"
     ]
     node [
         id 204756
-        size 0
         label "Trettioåriga Kriget"
+        size 0
         color "red"
     ]
     node [
         id 598756
-        size 2
         label "Reptoids"
+        size 2
         color "red"
     ]
     node [
         id 379439
-        size 2
         label "She Keeps Bees"
+        size 2
         color "red"
     ]
     node [
         id 1105883
-        size 0
         label "The Strypes"
+        size 0
         color "red"
     ]
     node [
         id 24542
-        size 51
         label "Stevie Ray Vaughan"
+        size 51
         color "red"
     ]
     node [
         id 1744863
-        size 4
         label "Meniskus"
+        size 4
         color "red"
     ]
     node [
         id 1279312
-        size 0
         label "Danney Alkana"
+        size 0
         color "red"
     ]
     node [
         id 2400228
-        size 1
         label "The Sorry Apology Song Person"
+        size 1
         color "red"
     ]
     node [
         id 679915
-        size 6
         label "Flying Colors"
+        size 6
         color "red"
     ]
     node [
         id 188399
-        size 4
         label "Dúné"
+        size 4
         color "red"
     ]
     node [
         id 1568226
-        size 21
         label "Diary of Destruction"
+        size 21
         color "red"
     ]
     node [
         id 385010
-        size 1
         label "Dick Rivers"
+        size 1
         color "red"
     ]
     node [
         id 188404
-        size 1
         label "Grace Slick & The Great Society"
+        size 1
         color "red"
     ]
     node [
         id 188407
-        size 0
         label "The Electric Flag"
+        size 0
         color "red"
     ]
     node [
         id 188408
-        size 9
         label "Birth Control"
+        size 9
         color "red"
     ]
     node [
         id 188410
-        size 0
         label "Die Happy"
+        size 0
         color "red"
     ]
     node [
         id 36863
-        size 0
         label "Blood  Sweat & Tears"
+        size 0
         color "red"
     ]
     node [
         id 188416
-        size 9
         label "The Buckinghams"
+        size 9
         color "red"
     ]
     node [
         id 40961
-        size 1
         label "Ray Mason"
+        size 1
         color "red"
     ]
     node [
         id 188421
-        size 8
         label "Paul Revere & The Raiders"
+        size 8
         color "red"
     ]
     node [
         id 192513
-        size 0
         label "B.W. Stevenson"
+        size 0
         color "red"
     ]
     node [
         id 1433609
-        size 12
         label "Holy Grail"
+        size 12
         color "red"
     ]
     node [
         id 303120
-        size 5
         label "Janis Martin"
+        size 5
         color "red"
     ]
     node [
         id 3727377
-        size 0
         label "Ecstatic Vision"
+        size 0
         color "red"
     ]
     node [
         id 204820
-        size 0
         label "Romeo Void"
+        size 0
         color "red"
     ]
     node [
         id 942102
-        size 0
         label "Sugarcoma"
+        size 0
         color "red"
     ]
     node [
         id 450584
-        size 3
         label "Smash Hits Cover Band"
+        size 3
         color "red"
     ]
     node [
         id 188442
-        size 2
         label "Kashmir"
+        size 2
         color "red"
     ]
     node [
         id 1843227
-        size 0
         label "All Drums"
+        size 0
         color "red"
     ]
     node [
         id 1732613
-        size 2
         label "Rick Saucedo"
+        size 2
         color "red"
     ]
     node [
         id 140373
-        size 1
         label "Toyah"
+        size 1
         color "red"
     ]
     node [
         id 827425
-        size 0
         label "Vic Vergeat"
+        size 0
         color "red"
     ]
     node [
         id 1220642
-        size 1
         label "Stereotyperider"
+        size 1
         color "red"
     ]
     node [
         id 1531939
-        size 5
         label "The Blackwater Fever"
+        size 5
         color "red"
     ]
     node [
         id 827428
-        size 4
         label "Count Five"
+        size 4
         color "red"
     ]
     node [
         id 1237029
-        size 1
         label "Hayseed Dixie"
+        size 1
         color "red"
     ]
     node [
         id 188454
-        size 9
         label "Augustana"
+        size 9
         color "red"
     ]
     node [
         id 1120946
-        size 0
         label "Heaven Rain"
+        size 0
         color "red"
     ]
     node [
         id 958512
-        size 10
         label "RPWL"
+        size 10
         color "red"
     ]
     node [
         id 434227
-        size 6
         label "Kite"
+        size 6
         color "red"
     ]
     node [
         id 1777718
-        size 5
         label "Awaken the Giant"
+        size 5
         color "red"
     ]
     node [
         id 293556
-        size 10
         label "Lacrimas Profundere"
+        size 10
         color "red"
     ]
     node [
         id 483386
-        size 2
         label "Singularity"
+        size 2
         color "red"
     ]
     node [
         id 122943
-        size 1
         label "Phosphorescent"
+        size 1
         color "red"
     ]
     node [
         id 122945
-        size 0
         label "Bowerbirds"
+        size 0
         color "red"
     ]
     node [
         id 319554
-        size 6
         label "Solitude Aeturnus"
+        size 6
         color "red"
     ]
     node [
         id 36875
-        size 51
         label "The Byrds"
+        size 51
         color "red"
     ]
     node [
         id 8263
-        size 7
         label "Knorkator"
+        size 7
         color "red"
     ]
     node [
         id 680008
-        size 1
         label "The Bards"
+        size 1
         color "red"
     ]
     node [
         id 3825737
-        size 4
         label "One Ok Rock"
+        size 4
         color "red"
     ]
     node [
         id 1515595
-        size 3
         label "The Quarrymen"
+        size 3
         color "red"
     ]
     node [
         id 634893
-        size 0
         label "Queen - Karaoke"
+        size 0
         color "red"
     ]
     node [
         id 24663
-        size 0
         label "Alisha's Attic"
+        size 0
         color "red"
     ]
     node [
         id 122968
-        size 3
         label "Spokane"
+        size 3
         color "red"
     ]
     node [
         id 122970
-        size 2
         label "Oneida"
+        size 2
         color "red"
     ]
     node [
         id 41056
-        size 19
         label "Кирпичи"
+        size 19
         color "red"
     ]
     node [
         id 8289
-        size 7
         label "James Morrison"
+        size 7
         color "red"
     ]
     node [
         id 1826914
-        size 28
         label "Digital Summer"
+        size 28
         color "red"
     ]
     node [
         id 24675
-        size 8
         label "Miller Anderson"
+        size 8
         color "red"
     ]
     node [
         id 2318437
-        size 0
         label "John Common"
+        size 0
         color "red"
     ]
     node [
         id 335976
-        size 1
         label "Warhorse"
+        size 1
         color "red"
     ]
     node [
         id 73834
-        size 7
         label "Honeymoon Suite"
+        size 7
         color "red"
     ]
     node [
         id 2678901
-        size 0
         label "The Rock Army"
+        size 0
         color "red"
     ]
     node [
         id 630903
-        size 17
         label "Рада & Терновник"
+        size 17
         color "red"
     ]
     node [
         id 123000
-        size 5
         label "Black Mountain"
+        size 5
         color "red"
     ]
     node [
         id 155773
-        size 1
         label "Close Your Eyes"
+        size 1
         color "red"
     ]
     node [
         id 211648
-        size 0
         label "Future Leaders of the World"
+        size 0
         color "red"
     ]
     node [
         id 254082
-        size 7
         label "Skinny Puppy"
+        size 7
         color "red"
     ]
     node [
         id 8323
-        size 0
         label "Lauren Wood"
+        size 0
         color "red"
     ]
     node [
         id 450692
-        size 0
         label "Guitar Warriors"
+        size 0
         color "red"
     ]
     node [
         id 1319045
-        size 0
         label "Randy Coven"
+        size 0
         color "red"
     ]
     node [
         id 45559
-        size 5
         label "Seals and Crofts"
+        size 5
         color "red"
     ]
     node [
         id 520215
-        size 13
         label "Paragon Of Beauty"
+        size 13
         color "red"
     ]
     node [
         id 1613965
-        size 2
         label "Marc Bolan & T.Rex"
+        size 2
         color "red"
     ]
     node [
         id 123023
-        size 1
         label "Ladyhawk"
+        size 1
         color "red"
     ]
     node [
         id 663696
-        size 2
         label "Conditions"
+        size 2
         color "red"
     ]
     node [
         id 2039953
-        size 2
         label "Monokino"
+        size 2
         color "red"
     ]
     node [
         id 64195
-        size 7
         label "Chad VanGaalen"
+        size 7
         color "red"
     ]
     node [
         id 121393
-        size 7
         label "Raven"
+        size 7
         color "red"
     ]
     node [
         id 2597014
-        size 7
         label "Tammany Hall NYC"
+        size 7
         color "red"
     ]
     node [
         id 8343
-        size 30
         label "Tony Banks"
+        size 30
         color "red"
     ]
     node [
         id 2482334
-        size 3
         label "The Unripes"
+        size 3
         color "red"
     ]
     node [
         id 352419
-        size 3
         label "Airfare"
+        size 3
         color "red"
     ]
     node [
         id 352421
-        size 2
         label "Fire"
+        size 2
         color "red"
     ]
     node [
         id 417958
-        size 12
         label "Schandmaul"
+        size 12
         color "red"
     ]
     node [
         id 73895
-        size 0
         label "Richard And Linda Thompson"
+        size 0
         color "red"
     ]
     node [
         id 1324897
-        size 0
         label "Free Fall"
+        size 0
         color "red"
     ]
     node [
         id 1630382
-        size 5
         label "Winny Puhh"
+        size 5
         color "red"
     ]
     node [
         id 57519
-        size 1
         label "Tantric"
+        size 1
         color "red"
     ]
     node [
         id 188594
-        size 0
         label "Chris Trapper"
+        size 0
         color "red"
     ]
     node [
         id 155828
-        size 4
         label "Stephen Pearcy"
+        size 4
         color "red"
     ]
     node [
         id 909495
-        size 0
         label "Little Tony & His Brothers"
+        size 0
         color "red"
     ]
     node [
         id 680120
-        size 21
         label "Geordie"
+        size 21
         color "red"
     ]
     node [
         id 2105533
-        size 1
         label "Subrosa Union"
+        size 1
         color "red"
     ]
     node [
         id 645564
-        size 5
         label "Thy Catafalque"
+        size 5
         color "red"
     ]
     node [
         id 417987
-        size 2
         label "Weto"
+        size 2
         color "red"
     ]
     node [
         id 647364
-        size 2
         label "Frijid Pink"
+        size 2
         color "red"
     ]
     node [
         id 188613
-        size 6
         label "Sandra Nasic"
+        size 6
         color "red"
     ]
     node [
         id 1810633
-        size 0
         label "Tribe After Tribe"
+        size 0
         color "red"
     ]
     node [
         id 712909
-        size 4
         label "The Klone Orchestra"
+        size 4
         color "red"
     ]
     node [
         id 41166
-        size 37
         label "Ляпис Трубецкой"
+        size 37
         color "red"
     ]
     node [
         id 155858
-        size 14
         label "311"
+        size 14
         color "red"
     ]
     node [
         id 8403
-        size 14
         label "Snow Patrol"
+        size 14
         color "red"
     ]
     node [
         id 3858644
-        size 2
         label "Gnash"
+        size 2
         color "red"
     ]
     node [
         id 352469
-        size 22
         label "Stream Of Passion"
+        size 22
         color "red"
     ]
     node [
         id 1745110
-        size 0
         label "Walter Sickert & the Army of Broken Toys"
+        size 0
         color "red"
     ]
     node [
         id 2678999
-        size 9
         label "Angra"
+        size 9
         color "red"
     ]
     node [
         id 2040025
-        size 9
         label "Signal Hill"
+        size 9
         color "red"
     ]
     node [
         id 41183
-        size 7
         label "Тени свободы"
+        size 7
         color "red"
     ]
     node [
         id 2269409
-        size 0
         label "Pablo Mendoza"
+        size 0
         color "red"
     ]
     node [
         id 1138915
-        size 1
         label "Lee Saunders"
+        size 1
         color "red"
     ]
     node [
         id 1122537
-        size 5
         label "Colorstar"
+        size 5
         color "red"
     ]
     node [
         id 24811
-        size 0
         label "Frankie Avalon"
+        size 0
         color "red"
     ]
     node [
         id 24812
-        size 7
         label "Frankie Valli"
+        size 7
         color "red"
     ]
     node [
         id 123117
-        size 1
         label "Wovenhand"
+        size 1
         color "red"
     ]
     node [
         id 893166
-        size 1
         label "Mayan"
+        size 1
         color "red"
     ]
     node [
         id 1433840
-        size 3
         label "Dead Sara"
+        size 3
         color "red"
     ]
     node [
         id 1499377
-        size 16
         label "White Sister"
+        size 16
         color "red"
     ]
     node [
         id 352500
-        size 0
         label "Marshall Law"
+        size 0
         color "red"
     ]
     node [
         id 73975
-        size 3
         label "10,000 Maniacs"
+        size 3
         color "red"
     ]
     node [
         id 57595
-        size 5
         label "Mest"
+        size 5
         color "red"
     ]
     node [
         id 1220863
-        size 1
         label "The Unfinished Sympathy"
+        size 1
         color "red"
     ]
     node [
         id 319747
-        size 0
         label "Liverpool"
+        size 0
         color "red"
     ]
     node [
         id 2384133
-        size 0
         label "People's Blues of Richmond"
+        size 0
         color "red"
     ]
     node [
         id 73991
-        size 14
         label "Television"
+        size 14
         color "red"
     ]
     node [
         id 90380
-        size 1
         label "O'Funk'Illo"
+        size 1
         color "red"
     ]
     node [
         id 505201
-        size 0
         label "Absolute"
+        size 0
         color "red"
     ]
     node [
         id 237840
-        size 1
         label "Shannon Wright"
+        size 1
         color "red"
     ]
     node [
         id 1598851
-        size 14
         label "No Resolve"
+        size 14
         color "red"
     ]
     node [
         id 4101
-        size 5
         label "Saint Etienne"
+        size 5
         color "red"
     ]
     node [
         id 172317
-        size 0
         label "Big Audio Dynamite"
+        size 0
         color "red"
     ]
     node [
         id 139550
-        size 7
         label "Texas In July"
+        size 7
         color "red"
     ]
     node [
         id 8479
-        size 5
         label "Dishwalla"
+        size 5
         color "red"
     ]
     node [
         id 2089252
-        size 7
         label "Low Roar"
+        size 7
         color "red"
     ]
     node [
         id 336166
-        size 0
         label "XXX"
+        size 0
         color "red"
     ]
     node [
         id 1433895
-        size 5
         label "Drowners"
+        size 5
         color "red"
     ]
     node [
         id 188712
-        size 11
         label "Ska-P"
+        size 11
         color "red"
     ]
     node [
         id 139561
-        size 0
         label "Decades"
+        size 0
         color "red"
     ]
     node [
         id 74028
-        size 7
         label "Violent Femmes"
+        size 7
         color "red"
     ]
     node [
         id 1794349
-        size 6
         label "Shattered"
+        size 6
         color "red"
     ]
     node [
         id 74030
-        size 0
         label "Brian Ritchie"
+        size 0
         color "red"
     ]
     node [
         id 312712
-        size 0
         label "Razors Edge"
+        size 0
         color "red"
     ]
     node [
         id 8498
-        size 14
         label "Blink-182"
+        size 14
         color "red"
     ]
     node [
         id 57652
-        size 10
         label "Neil Young & Crazy Horse"
+        size 10
         color "red"
     ]
     node [
         id 2187575
-        size 18
         label "Cire"
+        size 18
         color "red"
     ]
     node [
         id 352569
-        size 5
         label "Twin Peaks"
+        size 5
         color "red"
     ]
     node [
         id 57658
-        size 0
         label "Meshell Ndegeocello"
+        size 0
         color "red"
     ]
     node [
         id 2941244
-        size 0
         label "The Legal Matters"
+        size 0
         color "red"
     ]
     node [
         id 319805
-        size 6
         label "Nosound"
+        size 6
         color "red"
     ]
     node [
         id 24898
-        size 31
         label "The Smashing Pumpkins"
+        size 31
         color "red"
     ]
     node [
         id 24899
-        size 0
         label "Barry Adamson"
+        size 0
         color "red"
     ]
     node [
         id 24900
-        size 6
         label "David Lynch"
+        size 6
         color "red"
     ]
     node [
         id 766006
-        size 0
         label "The Grassy Knoll"
+        size 0
         color "red"
     ]
     node [
         id 2302286
-        size 21
         label "Two Fires"
+        size 21
         color "red"
     ]
     node [
         id 221519
-        size 0
         label "Souvenirs"
+        size 0
         color "red"
     ]
     node [
         id 680273
-        size 1
         label "Les Pirates"
+        size 1
         color "red"
     ]
     node [
         id 25998
-        size 8
         label "Paul Westerberg"
+        size 8
         color "red"
     ]
     node [
         id 450902
-        size 2
         label "Steve Von Till"
+        size 2
         color "red"
     ]
     node [
         id 12345
-        size 0
         label "Delaney & Bonnie & Friends"
+        size 0
         color "red"
     ]
     node [
         id 989487
-        size 0
         label "Pile"
+        size 0
         color "red"
     ]
     node [
         id 110650
-        size 0
         label "Karla Devito"
+        size 0
         color "red"
     ]
     node [
         id 74082
-        size 0
         label "David Lindley"
+        size 0
         color "red"
     ]
     node [
         id 336230
-        size 4
         label "Brazzaville"
+        size 4
         color "red"
     ]
     node [
         id 41319
-        size 7
         label "Garbage"
+        size 7
         color "red"
     ]
     node [
         id 418152
-        size 0
         label "Apocalyptica feat. Doug Robb"
+        size 0
         color "red"
     ]
     node [
         id 516457
-        size 3
         label "Cressida"
+        size 3
         color "red"
     ]
     node [
         id 1220972
-        size 0
         label "Trey Gunn"
+        size 0
         color "red"
     ]
     node [
         id 167997
-        size 21
         label "Don Henley"
+        size 21
         color "red"
     ]
     node [
         id 57714
-        size 8
         label "Nancy Sinatra"
+        size 8
         color "red"
     ]
     node [
         id 57718
-        size 3
         label "Charlie Feathers"
+        size 3
         color "red"
     ]
     node [
         id 794999
-        size 9
         label "Don Broco"
+        size 9
         color "red"
     ]
     node [
         id 57721
-        size 2
         label "The 5.6.7.8's"
+        size 2
         color "red"
     ]
     node [
         id 74108
-        size 13
         label "Derek Sherinian"
+        size 13
         color "red"
     ]
     node [
         id 123267
-        size 8
         label "Heaven & Hell"
+        size 8
         color "red"
     ]
     node [
         id 123268
-        size 19
         label "Alexisonfire"
+        size 19
         color "red"
     ]
     node [
         id 8581
-        size 2
         label "Moore"
+        size 2
         color "red"
     ]
     node [
         id 123271
-        size 4
         label "Takida"
+        size 4
         color "red"
     ]
     node [
         id 1941904
-        size 0
         label "RedEyeC"
+        size 0
         color "red"
     ]
     node [
         id 522991
-        size 2
         label "In The Woods..."
+        size 2
         color "red"
     ]
     node [
         id 450973
-        size 0
         label "The Hollywood Argyles"
+        size 0
         color "red"
     ]
     node [
         id 45125
-        size 5
         label "Collective Soul"
+        size 5
         color "red"
     ]
     node [
         id 16108
-        size 18
         label "Savoy Brown"
+        size 18
         color "red"
     ]
     node [
         id 57767
-        size 2
         label "Turin Brakes"
+        size 2
         color "red"
     ]
     node [
         id 1270184
-        size 0
         label "The Ultimate AC/DC Cover Band"
+        size 0
         color "red"
     ]
     node [
         id 1630634
-        size 0
         label "Daemonia"
+        size 0
         color "red"
     ]
     node [
         id 1761712
-        size 5
         label "The Matador"
+        size 5
         color "red"
     ]
     node [
         id 123314
-        size 2
         label "Seven Witches"
+        size 2
         color "red"
     ]
     node [
         id 57779
-        size 7
         label "The 88"
+        size 7
         color "red"
     ]
     node [
         id 303540
-        size 2
         label "Steelheart"
+        size 2
         color "red"
     ]
     node [
         id 2679695
-        size 1
         label "Port Noir"
+        size 1
         color "red"
     ]
     node [
         id 432884
-        size 0
         label "Весна на улице Карла Юхана"
+        size 0
         color "red"
     ]
     node [
         id 1745338
-        size 0
         label "Main Offender"
+        size 0
         color "red"
     ]
     node [
         id 926141
-        size 2
         label "Martyn Bates"
+        size 2
         color "red"
     ]
     node [
         id 2351550
-        size 0
         label "The Shout"
+        size 0
         color "red"
     ]
     node [
         id 303551
-        size 2
         label "Virgin Black"
+        size 2
         color "red"
     ]
     node [
         id 57793
-        size 8
         label "Earshot"
+        size 8
         color "red"
     ]
     node [
         id 1876418
-        size 0
         label "Invasive"
+        size 0
         color "red"
     ]
     node [
         id 123331
-        size 5
         label "Edgewater"
+        size 5
         color "red"
     ]
     node [
         id 188868
-        size 0
         label "Baddiel, Skinner & Lightning Seeds"
+        size 0
         color "red"
     ]
     node [
         id 123333
-        size 7
         label "Cinder"
+        size 7
         color "red"
     ]
     node [
         id 123334
-        size 0
         label "Psychostick"
+        size 0
         color "red"
     ]
     node [
         id 762312
-        size 4
         label "Daughter"
+        size 4
         color "red"
     ]
     node [
         id 762315
-        size 7
         label "Lucy Rose"
+        size 7
         color "red"
     ]
     node [
         id 483788
-        size 0
         label "Sebastien"
+        size 0
         color "red"
     ]
     node [
         id 607650
-        size 0
         label "Vietnam"
+        size 0
         color "red"
     ]
     node [
         id 762318
-        size 3
         label "Matt Corby"
+        size 3
         color "red"
     ]
     node [
         id 106959
-        size 4
         label "The Marshall Tucker Band"
+        size 4
         color "red"
     ]
     node [
         id 451026
-        size 2
         label "Beatle-Mania Band"
+        size 2
         color "red"
     ]
     node [
         id 508739
-        size 0
         label "Headshot"
+        size 0
         color "red"
     ]
     node [
         id 2650190
-        size 1
         label "Guards"
+        size 1
         color "red"
     ]
     node [
         id 172502
-        size 3
         label "Train"
+        size 3
         color "red"
     ]
     node [
         id 47865
-        size 1
         label "X"
+        size 1
         color "red"
     ]
     node [
         id 25049
-        size 18
         label "Soundgarden"
+        size 18
         color "red"
     ]
     node [
         id 1761755
-        size 3
         label "Hammerschmitt"
+        size 3
         color "red"
     ]
     node [
         id 41437
-        size 19
         label "Manic Street Preachers"
+        size 19
         color "red"
     ]
     node [
         id 57822
-        size 2
         label "Sune Rose Wagner"
+        size 2
         color "red"
     ]
     node [
         id 2187743
-        size 1
         label "Brutal Hand"
+        size 1
         color "red"
     ]
     node [
         id 1057248
-        size 1
         label "Mindflow"
+        size 1
         color "red"
     ]
     node [
         id 467427
-        size 7
         label "The Beatles Tribute Band"
+        size 7
         color "red"
     ]
     node [
         id 57828
-        size 1
         label "Kerry Livgren"
+        size 1
         color "red"
     ]
     node [
         id 74213
-        size 5
         label "VonRay"
+        size 5
         color "red"
     ]
     node [
         id 61521
-        size 6
         label "Coalesce"
+        size 6
         color "red"
     ]
     node [
         id 319977
-        size 3
         label "Merrill Moore"
+        size 3
         color "red"
     ]
     node [
         id 680426
-        size 6
         label "The Lumineers"
+        size 6
         color "red"
     ]
     node [
         id 57836
-        size 2
         label "Bell X1"
+        size 2
         color "red"
     ]
     node [
         id 41455
-        size 4
         label "Absoluuttinen nollapiste"
+        size 4
         color "red"
     ]
     node [
         id 1483248
-        size 7
         label "Duologue"
+        size 7
         color "red"
     ]
     node [
         id 319985
-        size 23
         label "Battlelore"
+        size 23
         color "red"
     ]
     node [
         id 8690
-        size 16
         label "Jack Johnson"
+        size 16
         color "red"
     ]
     node [
         id 1155572
-        size 2
         label "Frogg Café"
+        size 2
         color "red"
     ]
     node [
         id 156151
-        size 6
         label "Sneaker Pimps"
+        size 6
         color "red"
     ]
     node [
         id 57850
-        size 5
         label "The Futureheads"
+        size 5
         color "red"
     ]
     node [
         id 222880
-        size 2
         label "Ray Peterson"
+        size 2
         color "red"
     ]
     node [
         id 8702
-        size 4
         label "Serge Gainsbourg"
+        size 4
         color "red"
     ]
     node [
         id 451073
-        size 0
         label "Bill Wyman's Rhythm Kings"
+        size 0
         color "red"
     ]
     node [
         id 1958403
-        size 6
         label "Random Encounter"
+        size 6
         color "red"
     ]
     node [
         id 1813748
-        size 0
         label "Breakaway"
+        size 0
         color "red"
     ]
     node [
         id 57862
-        size 44
         label "Fleetwood Mac"
+        size 44
         color "red"
     ]
     node [
         id 3301898
-        size 16
         label "Indie Rock"
+        size 16
         color "red"
     ]
     node [
         id 303627
-        size 0
         label "Population 1"
+        size 0
         color "red"
     ]
     node [
         id 172556
-        size 8
         label "Hello Saferide"
+        size 8
         color "red"
     ]
     node [
         id 74253
-        size 2
         label "Ken Andrews"
+        size 2
         color "red"
     ]
     node [
         id 156175
-        size 4
         label "Jamie's Elsewhere"
+        size 4
         color "red"
     ]
     node [
         id 57874
-        size 2
         label "The Von Bondies"
+        size 2
         color "red"
     ]
     node [
         id 6915
-        size 11
         label "Styx"
+        size 11
         color "red"
     ]
     node [
         id 139797
-        size 2
         label "The Penetrators"
+        size 2
         color "red"
     ]
     node [
         id 57881
-        size 1
         label "Carmine Appice"
+        size 1
         color "red"
     ]
     node [
         id 71214
-        size 6
         label "Carrion"
+        size 6
         color "red"
     ]
     node [
         id 2695711
-        size 0
         label "StrawDaze"
+        size 0
         color "red"
     ]
     node [
         id 1761825
-        size 8
         label "Surviving Sunrise"
+        size 8
         color "red"
     ]
     node [
         id 1729064
-        size 0
         label "Last to Know"
+        size 0
         color "red"
     ]
     node [
         id 57897
-        size 6
         label "Devo"
+        size 6
         color "red"
     ]
     node [
         id 57900
-        size 1
         label "Keaton Simons"
+        size 1
         color "red"
     ]
     node [
         id 303661
-        size 0
         label "The Figgs"
+        size 0
         color "red"
     ]
     node [
         id 2826799
-        size 8
         label "Sleepytime Gorilla Museum"
+        size 8
         color "red"
     ]
     node [
         id 6920
-        size 133
         label "Deep Purple"
+        size 133
         color "red"
     ]
     node [
         id 320050
-        size 0
         label "Carsick Cars"
+        size 0
         color "red"
     ]
     node [
         id 154377
-        size 7
         label "Murderdolls"
+        size 7
         color "red"
     ]
     node [
         id 2826812
-        size 6
         label "3 Years Hollow"
+        size 6
         color "red"
     ]
     node [
         id 228338
-        size 6
         label "16 Horsepower"
+        size 6
         color "red"
     ]
     node [
         id 2892354
-        size 0
         label "Les Jupes"
+        size 0
         color "red"
     ]
     node [
         id 1712707
-        size 0
         label "Musical Care"
+        size 0
         color "red"
     ]
     node [
         id 74309
-        size 1
         label "Lucero"
+        size 1
         color "red"
     ]
     node [
         id 25158
-        size 17
         label "King Diamond"
+        size 17
         color "red"
     ]
     node [
         id 1167457
-        size 0
         label "Brasstronaut"
+        size 0
         color "red"
     ]
     node [
         id 8782
-        size 3
         label "Smash Mouth"
+        size 3
         color "red"
     ]
     node [
         id 6925
-        size 42
         label "Iggy Pop"
+        size 42
         color "red"
     ]
     node [
         id 614998
-        size 3
         label "The Eight Group"
+        size 3
         color "red"
     ]
     node [
         id 533083
-        size 2
         label "Illusion"
+        size 2
         color "red"
     ]
     node [
         id 680543
-        size 5
         label "Sideburn"
+        size 5
         color "red"
     ]
     node [
         id 303712
-        size 30
         label "Six Feet Under"
+        size 30
         color "red"
     ]
     node [
         id 6928
-        size 13
         label "Steppenwolf"
+        size 13
         color "red"
     ]
     node [
         id 1024610
-        size 0
         label "Dark From Day One"
+        size 0
         color "red"
     ]
     node [
         id 118886
-        size 24
         label "Europe"
+        size 24
         color "red"
     ]
     node [
         id 1577063
-        size 2
         label "K Sera"
+        size 2
         color "red"
     ]
     node [
         id 4465263
-        size 0
         label "Космос"
+        size 0
         color "red"
     ]
     node [
         id 1106544
-        size 3
         label "The Voidoids"
+        size 3
         color "red"
     ]
     node [
         id 1106545
-        size 0
         label "Liverpool Express"
+        size 0
         color "red"
     ]
     node [
         id 123506
-        size 5
         label "Ocean"
+        size 5
         color "red"
     ]
     node [
         id 2695795
-        size 3
         label "Doctor Livingstone"
+        size 3
         color "red"
     ]
     node [
         id 730558
-        size 3
         label "Life As A Ghost"
+        size 3
         color "red"
     ]
     node [
         id 6932
-        size 5
         label "Dave Mason"
+        size 5
         color "red"
     ]
     node [
         id 533114
-        size 5
         label "Stormwarrior"
+        size 5
         color "red"
     ]
     node [
         id 2571399
-        size 3
         label "Stiftelsen"
+        size 3
         color "red"
     ]
     node [
         id 1761917
-        size 0
         label "Surrender Dorothy"
+        size 0
         color "red"
     ]
     node [
         id 1022741
-        size 4
         label "The Condors"
+        size 4
         color "red"
     ]
     node [
         id 888939
-        size 2
         label "Gackt"
+        size 2
         color "red"
     ]
     node [
         id 2056839
-        size 0
         label "Thunderbrew"
+        size 0
         color "red"
     ]
     node [
         id 533129
-        size 5
         label "kneipenterroristen"
+        size 5
         color "red"
     ]
     node [
         id 8844
-        size 0
         label "Gilbert O'Sullivan"
+        size 0
         color "red"
     ]
     node [
         id 303760
-        size 1
         label "Gigolo Aunts"
+        size 1
         color "red"
     ]
     node [
         id 2204305
-        size 0
         label "Moodoid"
+        size 0
         color "red"
     ]
     node [
         id 2630293
-        size 0
         label "KharmaGuess"
+        size 0
         color "red"
     ]
     node [
         id 4154006
-        size 0
         label "Be Cult"
+        size 0
         color "red"
     ]
     node [
         id 1949053
-        size 1
         label "Alyson Avenue"
+        size 1
         color "red"
     ]
     node [
         id 303769
-        size 3
         label "Cem Özkan"
+        size 3
         color "red"
     ]
     node [
         id 336538
-        size 1
         label "Johnny and The Hurricanes"
+        size 1
         color "red"
     ]
     node [
         id 118895
-        size 2
         label "Eurythmics"
+        size 2
         color "red"
     ]
     node [
         id 762525
-        size 3
         label "Brick + Mortar"
+        size 3
         color "red"
     ]
     node [
         id 1008286
-        size 3
         label "Colton Dixon"
+        size 3
         color "red"
     ]
     node [
         id 553072
-        size 0
         label "Baxter Dury"
+        size 0
         color "red"
     ]
     node [
         id 2712226
-        size 5
         label "Storylines"
+        size 5
         color "red"
     ]
     node [
         id 2302627
-        size 6
         label "Lars Eric Mattsson"
+        size 6
         color "red"
     ]
     node [
         id 320168
-        size 12
         label "Time Traveller"
+        size 12
         color "red"
     ]
     node [
         id 107177
-        size 0
         label "Thorn"
+        size 0
         color "red"
     ]
     node [
         id 58027
-        size 19
         label "Goo Goo Dolls"
+        size 19
         color "red"
     ]
     node [
         id 1991341
-        size 3
         label "Merethe Soltvedt"
+        size 3
         color "red"
     ]
     node [
         id 123566
-        size 1
         label "Steadlur"
+        size 1
         color "red"
     ]
     node [
         id 6941
-        size 14
         label "Kingdom Come"
+        size 14
         color "red"
     ]
     node [
         id 25264
-        size 4
         label "Tab Hunter"
+        size 4
         color "red"
     ]
     node [
         id 58038
-        size 11
         label "Rilo Kiley"
+        size 11
         color "red"
     ]
     node [
         id 75209
-        size 6
         label "The Beau Brummels"
+        size 6
         color "red"
     ]
     node [
         id 8890
-        size 14
         label "Feist"
+        size 14
         color "red"
     ]
     node [
         id 473887
-        size 0
         label "Breed 77"
+        size 0
         color "red"
     ]
     node [
         id 1237692
-        size 3
         label "Kaira"
+        size 3
         color "red"
     ]
     node [
         id 533962
-        size 6
         label "General Lee"
+        size 6
         color "red"
     ]
     node [
         id 418494
-        size 9
         label "Bethlehem"
+        size 9
         color "red"
     ]
     node [
         id 58047
-        size 3
         label "Ween"
+        size 3
         color "red"
     ]
     node [
         id 1761984
-        size 0
         label "Teague Alexy"
+        size 0
         color "red"
     ]
     node [
         id 25283
-        size 5
         label "Terry Dene"
+        size 5
         color "red"
     ]
     node [
         id 615108
-        size 1
         label "Back In Black Heroes"
+        size 1
         color "red"
     ]
     node [
         id 12406
-        size 2
         label "Ian Dury"
+        size 2
         color "red"
     ]
     node [
         id 25290
-        size 4
         label "Conway Twitty"
+        size 4
         color "red"
     ]
     node [
         id 2007755
-        size 7
         label "Wild Dogs"
+        size 7
         color "red"
     ]
     node [
         id 664268
-        size 2
         label "The Stone Foxes"
+        size 2
         color "red"
     ]
     node [
         id 58063
-        size 8
         label "Dee Snider"
+        size 8
         color "red"
     ]
     node [
         id 271058
-        size 14
         label "Teoman"
+        size 14
         color "red"
     ]
     node [
         id 25302
-        size 0
         label "Freddie Bell & The Bellboys"
+        size 0
         color "red"
     ]
     node [
         id 74455
-        size 17
         label "Alesana"
+        size 17
         color "red"
     ]
     node [
         id 74464
-        size 10
         label "The So So Glos"
+        size 10
         color "red"
     ]
     node [
         id 4580067
-        size 0
         label "Thunder"
+        size 0
         color "red"
     ]
     node [
         id 156388
-        size 3
         label "Wolf People"
+        size 3
         color "red"
     ]
     node [
         id 1221351
-        size 2
         label "The Exploders"
+        size 2
         color "red"
     ]
     node [
         id 680683
-        size 1
         label "Devil's Train"
+        size 1
         color "red"
     ]
     node [
         id 189063
-        size 8
         label "Charon"
+        size 8
         color "red"
     ]
     node [
         id 172781
-        size 14
         label "Firehouse"
+        size 14
         color "red"
     ]
     node [
         id 172785
-        size 0
         label "Bill Leverty"
+        size 0
         color "red"
     ]
     node [
         id 1860338
-        size 1
         label "The Roxx"
+        size 1
         color "red"
     ]
     node [
         id 427476
-        size 3
         label "Broilers"
+        size 3
         color "red"
     ]
     node [
         id 90874
-        size 4
         label "DIVOKEJ BILL"
+        size 4
         color "red"
     ]
     node [
         id 298
-        size 4
         label "Chris Thompson"
+        size 4
         color "red"
     ]
     node [
         id 1565436
-        size 6
         label "Super Bob"
+        size 6
         color "red"
     ]
     node [
         id 506666
-        size 15
         label ":Wumpscut:"
+        size 15
         color "red"
     ]
     node [
         id 41728
-        size 1
         label "Tony Franklin"
+        size 1
         color "red"
     ]
     node [
         id 1630978
-        size 1
         label "Shane Alexander"
+        size 1
         color "red"
     ]
     node [
         id 779015
-        size 2
         label "Three Trapped Tigers"
+        size 2
         color "red"
     ]
     node [
         id 172697
-        size 0
         label "Apollo 3"
+        size 0
         color "red"
     ]
     node [
         id 58121
-        size 17
         label "Simon & Garfunkel"
+        size 17
         color "red"
     ]
     node [
         id 1926615
-        size 12
         label "One Gun Shy"
+        size 12
         color "red"
     ]
     node [
         id 25356
-        size 2
         label "Treponem Pal"
+        size 2
         color "red"
     ]
     node [
         id 1139470
-        size 1
         label "Jeremy Kay"
+        size 1
         color "red"
     ]
     node [
         id 10119
-        size 0
         label "Dirty Pretty Things"
+        size 0
         color "red"
     ]
     node [
         id 58135
-        size 1
         label "Eisley"
+        size 1
         color "red"
     ]
     node [
         id 893720
-        size 1
         label "Marco Siniscalco"
+        size 1
         color "red"
     ]
     node [
         id 58138
-        size 8
         label "Michael Harris"
+        size 8
         color "red"
     ]
     node [
         id 8987
-        size 3
         label "The Lemonheads"
+        size 3
         color "red"
     ]
     node [
         id 8988
-        size 1
         label "Evan Dando"
+        size 1
         color "red"
     ]
     node [
         id 303907
-        size 8
         label "Das Ich"
+        size 8
         color "red"
     ]
     node [
         id 140068
-        size 1
         label "Ray Wilson"
+        size 1
         color "red"
     ]
     node [
         id 205606
-        size 0
         label "Indochine"
+        size 0
         color "red"
     ]
     node [
         id 1549095
-        size 10
         label "Monster Truck"
+        size 10
         color "red"
     ]
     node [
         id 9000
-        size 0
         label "Les Chaussettes Noires"
+        size 0
         color "red"
     ]
     node [
         id 107307
-        size 2
         label "Rea Garvey"
+        size 2
         color "red"
     ]
     node [
         id 19700
-        size 2
         label "Eddie & The Hot Rods"
+        size 2
         color "red"
     ]
     node [
         id 77960
-        size 6
         label "Dinosaur Jr."
+        size 6
         color "red"
     ]
     node [
         id 156468
-        size 2
         label "Popa Chubby"
+        size 2
         color "red"
     ]
     node [
         id 1565495
-        size 2
         label "The Birdsongs"
+        size 2
         color "red"
     ]
     node [
         id 9018
-        size 52
         label "Gene Vincent"
+        size 52
         color "red"
     ]
     node [
         id 4612931
-        size 0
         label "Jorgen Odegard"
+        size 0
         color "red"
     ]
     node [
         id 2057029
-        size 4
         label "K.P.S.S."
+        size 4
         color "red"
     ]
     node [
         id 2614086
-        size 0
         label "AKADO"
+        size 0
         color "red"
     ]
     node [
         id 1237831
-        size 2
         label "April Divine"
+        size 2
         color "red"
     ]
     node [
         id 1106762
-        size 9
         label "Sacred Oath"
+        size 9
         color "red"
     ]
     node [
         id 25419
-        size 1
         label "Carson"
+        size 1
         color "red"
     ]
     node [
         id 418637
-        size 9
         label "The Crown"
+        size 9
         color "red"
     ]
     node [
         id 74575
-        size 0
         label "The Hush Sound"
+        size 0
         color "red"
     ]
     node [
         id 9040
-        size 2
         label "Kim Fowley"
+        size 2
         color "red"
     ]
     node [
         id 41809
-        size 18
         label "Joshua Radin"
+        size 18
         color "red"
     ]
     node [
         id 254804
-        size 3
         label "CC Cowboys"
+        size 3
         color "red"
     ]
     node [
         id 418646
-        size 8
         label "Neal Morse"
+        size 8
         color "red"
     ]
     node [
         id 1203272
-        size 1
         label "Chris Robinson Brotherhood"
+        size 1
         color "red"
     ]
     node [
         id 1565530
-        size 0
         label "The Super Happy Fun Club"
+        size 0
         color "red"
     ]
     node [
         id 25435
-        size 13
         label "Del Shannon"
+        size 13
         color "red"
     ]
     node [
         id 861023
-        size 6
         label "The Opposition"
+        size 6
         color "red"
     ]
     node [
         id 58209
-        size 3
         label "Bob Welch"
+        size 3
         color "red"
     ]
     node [
         id 877410
-        size 0
         label "The Di Maggio Connection"
+        size 0
         color "red"
     ]
     node [
         id 318267
-        size 0
         label "Phil Lewis of L.A. Guns"
+        size 0
         color "red"
     ]
     node [
         id 1574374
-        size 3
         label "DispersE"
+        size 3
         color "red"
     ]
     node [
         id 631656
-        size 1
         label "Tim Christensen And The Damn Crystals"
+        size 1
         color "red"
     ]
     node [
         id 156522
-        size 43
         label "Soul Secret"
+        size 43
         color "red"
     ]
     node [
         id 40128
-        size 0
         label "Sivert Høyem"
+        size 0
         color "red"
     ]
     node [
         id 58222
-        size 1
         label "Doyle Bramhall Ii"
+        size 1
         color "red"
     ]
     node [
         id 156528
-        size 1
         label "Whiplash"
+        size 1
         color "red"
     ]
     node [
         id 303989
-        size 0
         label "The Future"
+        size 0
         color "red"
     ]
     node [
         id 418683
-        size 9
         label "Beady Eye"
+        size 9
         color "red"
     ]
     node [
         id 2188158
-        size 7
         label "Susan and the SurfTones"
+        size 7
         color "red"
     ]
     node [
         id 1200277
-        size 8
         label "The Raconteurs"
+        size 8
         color "red"
     ]
     node [
         id 828289
-        size 8
         label "Sidilarsen"
+        size 8
         color "red"
     ]
     node [
         id 58245
-        size 17
         label "Trapt"
+        size 17
         color "red"
     ]
     node [
         id 140167
-        size 6
         label "Beseech"
+        size 6
         color "red"
     ]
     node [
         id 723722
-        size 1
         label "Carl Verheyen Band"
+        size 1
         color "red"
     ]
     node [
         id 12439
-        size 3
         label "Gary Wright"
+        size 3
         color "red"
     ]
     node [
         id 41868
-        size 0
         label "Black Strobe"
+        size 0
         color "red"
     ]
     node [
         id 41870
-        size 11
         label "The Sonics"
+        size 11
         color "red"
     ]
     node [
         id 41871
-        size 15
         label "The Subways"
+        size 15
         color "red"
     ]
     node [
         id 74641
-        size 4
         label "Ryan Star"
+        size 4
         color "red"
     ]
     node [
         id 435093
-        size 4
         label "Rude"
+        size 4
         color "red"
     ]
     node [
         id 222102
-        size 0
         label "Andy Jackson"
+        size 0
         color "red"
     ]
     node [
         id 1458053
-        size 0
         label "T&N"
+        size 0
         color "red"
     ]
     node [
         id 172953
-        size 0
         label "Cassette Kids"
+        size 0
         color "red"
     ]
     node [
         id 2073499
-        size 2
         label "Relentless Flood"
+        size 2
         color "red"
     ]
     node [
         id 1172381
-        size 1
         label "A Minor Forest"
+        size 1
         color "red"
     ]
     node [
         id 1208475
-        size 8
         label "Brett Garsed"
+        size 8
         color "red"
     ]
     node [
         id 591345
-        size 1
         label "Dawn of Disease"
+        size 1
         color "red"
     ]
     node [
         id 41897
-        size 0
         label "Dengue Fever"
+        size 0
         color "red"
     ]
     node [
         id 41900
-        size 4
         label "The Brian Jonestown Massacre"
+        size 4
         color "red"
     ]
     node [
         id 41901
-        size 1
         label "The Greenhornes"
+        size 1
         color "red"
     ]
     node [
         id 25519
-        size 4
         label "Shiny Toy Guns"
+        size 4
         color "red"
     ]
     node [
         id 74672
-        size 8
         label "The Cab"
+        size 8
         color "red"
     ]
     node [
         id 2270131
-        size 1
         label "Ironhead"
+        size 1
         color "red"
     ]
     node [
         id 1344031
-        size 0
         label "Origa"
+        size 0
         color "red"
     ]
     node [
         id 779195
-        size 6
         label "Gothminister"
+        size 6
         color "red"
     ]
     node [
         id 877500
-        size 0
         label "Guns Of Brixton"
+        size 0
         color "red"
     ]
     node [
         id 58301
-        size 10
         label "Against Me!"
+        size 10
         color "red"
     ]
     node [
         id 1991615
-        size 0
         label "Werewolf Therewolf"
+        size 0
         color "red"
     ]
     node [
         id 451521
-        size 1
         label "The Pop Heroes"
+        size 1
         color "red"
     ]
     node [
         id 1401797
-        size 1
         label "Mechanism For People"
+        size 1
         color "red"
     ]
     node [
         id 306367
-        size 0
         label "Sonic Boom Six"
+        size 0
         color "red"
     ]
     node [
         id 1106898
-        size 1
         label "Tolerance"
+        size 1
         color "red"
     ]
     node [
         id 58323
-        size 3
         label "The Chiffons"
+        size 3
         color "red"
     ]
     node [
         id 189397
-        size 0
         label "Guthrie Govan"
+        size 0
         color "red"
     ]
     node [
         id 2745305
-        size 3
         label "Ravenscry"
+        size 3
         color "red"
     ]
     node [
         id 58330
-        size 0
         label "The Tokens"
+        size 0
         color "red"
     ]
     node [
         id 1483744
-        size 9
         label "Insision"
+        size 9
         color "red"
     ]
     node [
         id 2819579
-        size 7
         label "True Songs Makers"
+        size 7
         color "red"
     ]
     node [
         id 320486
-        size 4
         label "Skinlab"
+        size 4
         color "red"
     ]
     node [
         id 1483757
-        size 16
         label "Human Mastication"
+        size 16
         color "red"
     ]
     node [
         id 1123313
-        size 14
         label "Betontod"
+        size 14
         color "red"
     ]
     node [
         id 9204
-        size 0
         label "Ozomatli"
+        size 0
         color "red"
     ]
     node [
         id 1762296
-        size 0
         label "The Deep Freeze Mice"
+        size 0
         color "red"
     ]
     node [
         id 408404
-        size 5
         label "Stereoside"
+        size 5
         color "red"
     ]
     node [
         id 189437
-        size 2
         label "Sleepy Sun"
+        size 2
         color "red"
     ]
     node [
         id 336896
-        size 1
         label "Lillian Axe"
+        size 1
         color "red"
     ]
     node [
         id 189441
-        size 0
         label "Alela Diane"
+        size 0
         color "red"
     ]
     node [
         id 1172485
-        size 3
         label "The Gone Jackals"
+        size 3
         color "red"
     ]
     node [
         id 2073607
-        size 1
         label "Scarlet Carson"
+        size 1
         color "red"
     ]
     node [
         id 74765
-        size 31
         label "White Lion"
+        size 31
         color "red"
     ]
     node [
         id 88895
-        size 2
         label "Tim Christensen"
+        size 2
         color "red"
     ]
     node [
         id 648208
-        size 16
         label "Crippled Black Phoenix"
+        size 16
         color "red"
     ]
     node [
         id 2636632
-        size 17
         label "The Unguided"
+        size 17
         color "red"
     ]
     node [
         id 418835
-        size 1
         label "Logh"
+        size 1
         color "red"
     ]
     node [
         id 173080
-        size 1
         label "Maia Hirasawa"
+        size 1
         color "red"
     ]
     node [
         id 959515
-        size 18
         label "Diabulus In Musica"
+        size 18
         color "red"
     ]
     node [
         id 1198914
-        size 4
         label "Blonde Redhead"
+        size 4
         color "red"
     ]
     node [
         id 523098
-        size 1
         label "Leakh"
+        size 1
         color "red"
     ]
     node [
         id 9247
-        size 1
         label "Jim Capaldi"
+        size 1
         color "red"
     ]
     node [
         id 353315
-        size 0
         label "Mutiny On The Bounty"
+        size 0
         color "red"
     ]
     node [
         id 336932
-        size 8
         label "Iron Man"
+        size 8
         color "red"
     ]
     node [
         id 697384
-        size 0
         label "Can Bonomo"
+        size 0
         color "red"
     ]
     node [
         id 2384937
-        size 3
         label "The Underground Youth"
+        size 3
         color "red"
     ]
     node [
         id 1352749
-        size 0
         label "Van Wilks"
+        size 0
         color "red"
     ]
     node [
         id 9262
-        size 42
         label "Nirvana"
+        size 42
         color "red"
     ]
     node [
         id 1733023
-        size 0
         label "Redlake Circus"
+        size 0
         color "red"
     ]
     node [
         id 140344
-        size 0
         label "Johnny Flynn"
+        size 0
         color "red"
     ]
     node [
         id 58427
-        size 25
         label "Ratt"
+        size 25
         color "red"
     ]
     node [
         id 1279498
-        size 12
         label "Eddie Angel"
+        size 12
         color "red"
     ]
     node [
         id 9278
-        size 10
         label "Limp Bizkit"
+        size 10
         color "red"
     ]
     node [
         id 192693
-        size 4
         label "Karat"
+        size 4
         color "red"
     ]
     node [
         id 2106433
-        size 17
         label "Haster"
+        size 17
         color "red"
     ]
     node [
         id 58436
-        size 15
         label "Skid Row"
+        size 15
         color "red"
     ]
     node [
         id 58441
-        size 7
         label "Sebastian Bach"
+        size 7
         color "red"
     ]
     node [
         id 140366
-        size 8
         label "Ion Dissonance"
+        size 8
         color "red"
     ]
     node [
         id 762959
-        size 2
         label "Avion Roe"
+        size 2
         color "red"
     ]
     node [
         id 1650844
-        size 1
         label "Turbowolf"
+        size 1
         color "red"
     ]
     node [
         id 74837
-        size 1
         label "Focus"
+        size 1
         color "red"
     ]
     node [
         id 713815
-        size 1
         label "Royal Wood"
+        size 1
         color "red"
     ]
     node [
         id 730200
-        size 5
         label "Jump Little Children"
+        size 5
         color "red"
     ]
     node [
         id 25690
-        size 5
         label "Ray Smith"
+        size 5
         color "red"
     ]
     node [
         id 2630750
-        size 5
         label "Afformance"
+        size 5
         color "red"
     ]
     node [
         id 74847
-        size 0
         label "Pat Smear"
+        size 0
         color "red"
     ]
     node [
         id 140385
-        size 6
         label "Charlie Winston"
+        size 6
         color "red"
     ]
     node [
         id 3335267
-        size 18
         label "Cold"
+        size 18
         color "red"
     ]
     node [
         id 1748846
-        size 0
         label "The Darkest of the Hillside Thickets"
+        size 0
         color "red"
     ]
     node [
         id 320614
-        size 3
         label "Alternative TV"
+        size 3
         color "red"
     ]
     node [
         id 353386
-        size 1
         label "Eye Of The Storm"
+        size 1
         color "red"
     ]
     node [
         id 58476
-        size 30
         label "The Monkees"
+        size 30
         color "red"
     ]
     node [
         id 58477
-        size 5
         label "Black Oak Arkansas"
+        size 5
         color "red"
     ]
     node [
         id 451695
-        size 1
         label "The Pistoléros"
+        size 1
         color "red"
     ]
     node [
         id 402548
-        size 2
         label "Precedens"
+        size 2
         color "red"
     ]
     node [
         id 1483895
-        size 11
         label "Dawn Of Azazel"
+        size 11
         color "red"
     ]
     node [
         id 238713
-        size 0
         label "Love Shop"
+        size 0
         color "red"
     ]
     node [
         id 369790
-        size 1
         label "Tweedy"
+        size 1
         color "red"
     ]
     node [
         id 1172607
-        size 4
         label "Centinex"
+        size 4
         color "red"
     ]
     node [
         id 599168
-        size 0
         label "Speedealer"
+        size 0
         color "red"
     ]
     node [
         id 9346
-        size 0
         label "Solomon Burke"
+        size 0
         color "red"
     ]
     node [
         id 9347
-        size 6
         label "Bo Diddley"
+        size 6
         color "red"
     ]
     node [
         id 938177
-        size 0
         label "Magni Animi Viri"
+        size 0
         color "red"
     ]
     node [
         id 9359
-        size 11
         label "Steely Dan"
+        size 11
         color "red"
     ]
     node [
         id 58516
-        size 11
         label "Tim Buckley"
+        size 11
         color "red"
     ]
     node [
         id 154161
-        size 3
         label "Gov't Mule"
+        size 3
         color "red"
     ]
     node [
         id 2876953
-        size 15
         label "Mestís"
+        size 15
         color "red"
     ]
     node [
         id 58522
-        size 15
         label "The Cars"
+        size 15
         color "red"
     ]
     node [
         id 58523
-        size 0
         label "Ric Ocasek"
+        size 0
         color "red"
     ]
     node [
         id 664734
-        size 3
         label "The Photo Atlas"
+        size 3
         color "red"
     ]
     node [
         id 58527
-        size 7
         label "Crosby, Stills & Nash"
+        size 7
         color "red"
     ]
     node [
         id 25760
-        size 7
         label "Jet Harris"
+        size 7
         color "red"
     ]
     node [
         id 599202
-        size 11
         label "High On Fire"
+        size 11
         color "red"
     ]
     node [
         id 599203
-        size 3
         label "Unida"
+        size 3
         color "red"
     ]
     node [
         id 140453
-        size 1
         label "VAMPS"
+        size 1
         color "red"
     ]
     node [
         id 648359
-        size 15
         label "The Gaslight Anthem"
+        size 15
         color "red"
     ]
     node [
         id 648364
-        size 0
         label "State Radio"
+        size 0
         color "red"
     ]
     node [
         id 42162
-        size 2
         label "Aldo Nova"
+        size 2
         color "red"
     ]
     node [
         id 1041950
-        size 18
         label "Fueled By Fire"
+        size 18
         color "red"
     ]
     node [
         id 1164831
-        size 0
         label "Rockstars"
+        size 0
         color "red"
     ]
     node [
         id 2024637
-        size 19
         label "Velvet Condom"
+        size 19
         color "red"
     ]
     node [
         id 107710
-        size 0
         label "Wylder"
+        size 0
         color "red"
     ]
     node [
         id 1568
-        size 9
         label "Inner Circle"
+        size 9
         color "red"
     ]
     node [
         id 599234
-        size 19
         label "The Vara-Tones"
+        size 19
         color "red"
     ]
     node [
         id 58564
-        size 15
         label "The West Coast Pop Art Experimental Band"
+        size 15
         color "red"
     ]
     node [
         id 353484
-        size 0
         label "My Beloved"
+        size 0
         color "red"
     ]
     node [
         id 1287373
-        size 0
         label "Exmortem"
+        size 0
         color "red"
     ]
     node [
         id 582865
-        size 11
         label "Ayreon"
+        size 11
         color "red"
     ]
     node [
         id 517332
-        size 2
         label "Antichrisis"
+        size 2
         color "red"
     ]
     node [
         id 1352917
-        size 7
         label "The Bots"
+        size 7
         color "red"
     ]
     node [
         id 2991326
-        size 15
         label "War Of Ages"
+        size 15
         color "red"
     ]
     node [
         id 2237666
-        size 0
         label "Clashing Plaid"
+        size 0
         color "red"
     ]
     node [
         id 1008867
-        size 1
         label "Blue Murder"
+        size 1
         color "red"
     ]
     node [
         id 1484004
-        size 1
         label "Joey Fatone"
+        size 1
         color "red"
     ]
     node [
         id 2172134
-        size 6
         label "Gone for Days"
+        size 6
         color "red"
     ]
     node [
         id 795879
-        size 0
         label "Propagandhi"
+        size 0
         color "red"
     ]
     node [
         id 140521
-        size 10
         label "The Baseballs"
+        size 10
         color "red"
     ]
     node [
         id 1778922
-        size 0
         label "The Churchills"
+        size 0
         color "red"
     ]
     node [
         id 9451
-        size 6
         label "Fred Neil"
+        size 6
         color "red"
     ]
     node [
         id 1860845
-        size 14
         label "The Retroliners"
+        size 14
         color "red"
     ]
     node [
         id 271598
-        size 6
         label "Tankcsapda"
+        size 6
         color "red"
     ]
     node [
         id 255215
-        size 3
         label "Dispatch"
+        size 3
         color "red"
     ]
     node [
         id 320758
-        size 0
         label "Simon Smith"
+        size 0
         color "red"
     ]
     node [
         id 1173033
-        size 0
         label "Frontier"
+        size 0
         color "red"
     ]
     node [
         id 37076
-        size 15
         label "Roxy Music"
+        size 15
         color "red"
     ]
     node [
         id 523135
-        size 3
         label "The Vision Bleak"
+        size 3
         color "red"
     ]
     node [
         id 91389
-        size 8
         label "The Almost"
+        size 8
         color "red"
     ]
     node [
         id 292738
-        size 1
         label "Acheron"
+        size 1
         color "red"
     ]
     node [
         id 25857
-        size 1
         label "City Boy"
+        size 1
         color "red"
     ]
     node [
         id 2778370
-        size 8
         label "The Taking"
+        size 8
         color "red"
     ]
     node [
         id 9475
-        size 9
         label "Donavon Frankenreiter"
+        size 9
         color "red"
     ]
     node [
         id 9476
-        size 4
         label "Twilightning"
+        size 4
         color "red"
     ]
     node [
         id 517381
-        size 10
         label "Koldbrann"
+        size 10
         color "red"
     ]
     node [
         id 9772
-        size 0
         label "The Starting Line"
+        size 0
         color "red"
     ]
     node [
         id 107786
-        size 1
         label "Young Dubliners"
+        size 1
         color "red"
     ]
     node [
         id 1320203
-        size 16
         label "Greg Rapaport"
+        size 16
         color "red"
     ]
     node [
         id 25871
-        size 9
         label "Tesla"
+        size 9
         color "red"
     ]
     node [
         id 664852
-        size 5
         label "Scale the Summit"
+        size 5
         color "red"
     ]
     node [
         id 25877
-        size 1
         label "Urge Overkill"
+        size 1
         color "red"
     ]
     node [
         id 25879
-        size 3
         label "Joe South"
+        size 3
         color "red"
     ]
     node [
         id 25880
-        size 3
         label "38 Special"
+        size 3
         color "red"
     ]
     node [
         id 25881
-        size 42
         label "L.A. Guns"
+        size 42
         color "red"
     ]
     node [
         id 25883
-        size 9
         label "Magnum"
+        size 9
         color "red"
     ]
     node [
         id 25886
-        size 7
         label "Tygers Of Pan Tang"
+        size 7
         color "red"
     ]
     node [
         id 1598752
-        size 11
         label "Melovine"
+        size 11
         color "red"
     ]
     node [
         id 25889
-        size 1
         label "Steve Forbert"
+        size 1
         color "red"
     ]
     node [
         id 58659
-        size 1
         label "The Marketts"
+        size 1
         color "red"
     ]
     node [
         id 42545
-        size 3
         label "Pushking"
+        size 3
         color "red"
     ]
     node [
         id 58664
-        size 2
         label "Cross"
+        size 2
         color "red"
     ]
     node [
         id 304425
-        size 2
         label "Sacred Steel"
+        size 2
         color "red"
     ]
     node [
         id 1598763
-        size 8
         label "Rob Vischer"
+        size 8
         color "red"
     ]
     node [
         id 1647499
-        size 0
         label "Adam Law"
+        size 0
         color "red"
     ]
     node [
         id 9778
-        size 0
         label "The Early November"
+        size 0
         color "red"
     ]
     node [
         id 91439
-        size 6
         label "Seventh Day Slumber"
+        size 6
         color "red"
     ]
     node [
         id 517424
-        size 1
         label "Verdict"
+        size 1
         color "red"
     ]
     node [
         id 1221937
-        size 1
         label "Big Drill Car"
+        size 1
         color "red"
     ]
     node [
         id 9524
-        size 5
         label "No Doubt"
+        size 5
         color "red"
     ]
     node [
         id 290420
-        size 2
         label "Cool Sensation"
+        size 2
         color "red"
     ]
     node [
         id 9529
-        size 20
         label "The BossHoss"
+        size 20
         color "red"
     ]
     node [
         id 3614011
-        size 0
         label "The Mystery Lights"
+        size 0
         color "red"
     ]
     node [
         id 124220
-        size 0
         label "Richard Thompson"
+        size 0
         color "red"
     ]
     node [
         id 328202
-        size 0
         label "The Wall"
+        size 0
         color "red"
     ]
     node [
         id 42307
-        size 8
         label "Hanging Garden"
+        size 8
         color "red"
     ]
     node [
         id 271685
-        size 0
         label "Babylon"
+        size 0
         color "red"
     ]
     node [
         id 156998
-        size 2
         label "The Tallest Man On Earth"
+        size 2
         color "red"
     ]
     node [
         id 1172808
-        size 2
         label "Danger Zone"
+        size 2
         color "red"
     ]
     node [
         id 1549641
-        size 9
         label "Savoir Adore"
+        size 9
         color "red"
     ]
     node [
         id 1385804
-        size 1
         label "Fall From Grace"
+        size 1
         color "red"
     ]
     node [
         id 9551
-        size 5
         label "Stephen Stills"
+        size 5
         color "red"
     ]
     node [
         id 58704
-        size 1
         label "Phil Ochs"
+        size 1
         color "red"
     ]
     node [
         id 1729873
-        size 6
         label "Down & Dirty"
+        size 6
         color "red"
     ]
     node [
         id 1151203
-        size 4
         label "Dug Pinnick"
+        size 4
         color "red"
     ]
     node [
         id 1031054
-        size 0
         label "Islander"
+        size 0
         color "red"
     ]
     node [
         id 1189206
-        size 11
         label "Pale Saints"
+        size 11
         color "red"
     ]
     node [
         id 517468
-        size 0
         label "nonexistence"
+        size 0
         color "red"
     ]
     node [
         id 517482
-        size 4
         label "Fjoergyn"
+        size 4
         color "red"
     ]
     node [
         id 2450797
-        size 3
         label "Henry's Funeral Shoe"
+        size 3
         color "red"
     ]
     node [
         id 261099
-        size 0
         label "Larsen & Bellami"
+        size 0
         color "red"
     ]
     node [
         id 828784
-        size 2
         label "Gollum"
+        size 2
         color "red"
     ]
     node [
         id 2631025
-        size 1
         label "Stonebride"
+        size 1
         color "red"
     ]
     node [
         id 9586
-        size 1
         label "Lucinda Williams"
+        size 1
         color "red"
     ]
     node [
         id 25973
-        size 5
         label "Paolo Nutini"
+        size 5
         color "red"
     ]
     node [
         id 58742
-        size 1
         label "Josh Rouse"
+        size 1
         color "red"
     ]
     node [
         id 845177
-        size 3
         label "Bolt"
+        size 3
         color "red"
     ]
     node [
         id 353658
-        size 2
         label "Star Industry"
+        size 2
         color "red"
     ]
     node [
         id 1156475
-        size 7
         label "Toxic Holocaust"
+        size 7
         color "red"
     ]
     node [
         id 9596
-        size 2
         label "Nitin Sawhney"
+        size 2
         color "red"
     ]
     node [
         id 1385854
-        size 0
         label "Blueshift"
+        size 0
         color "red"
     ]
     node [
         id 140675
-        size 7
         label "The Last Vegas"
+        size 7
         color "red"
     ]
     node [
         id 664965
-        size 8
         label "32 Leaves"
+        size 8
         color "red"
     ]
     node [
         id 9606
-        size 3
         label "Dave Stewart"
+        size 3
         color "red"
     ]
     node [
         id 9793
-        size 2
         label "Something Corporate"
+        size 2
         color "red"
     ]
     node [
         id 58762
-        size 0
         label "Chuck E. Weiss"
+        size 0
         color "red"
     ]
     node [
         id 58763
-        size 1
         label "Scarlett Johansson"
+        size 1
         color "red"
     ]
     node [
         id 25997
-        size 22
         label "Talking Heads"
+        size 22
         color "red"
     ]
     node [
         id 894350
-        size 8
         label "Alan Davey"
+        size 8
         color "red"
     ]
     node [
         id 75153
-        size 0
         label "Crosby, Still, Nash & Young"
+        size 0
         color "red"
     ]
     node [
         id 2188690
-        size 6
         label "Bailiff"
+        size 6
         color "red"
     ]
     node [
         id 1549715
-        size 3
         label "Ameritz - Tributes"
+        size 3
         color "red"
     ]
     node [
         id 140697
-        size 11
         label "Sworn Enemy"
+        size 11
         color "red"
     ]
     node [
         id 1538970
-        size 1
         label "Hyne"
+        size 1
         color "red"
     ]
     node [
         id 20720
-        size 2
         label "The Flying Burrito Brothers"
+        size 2
         color "red"
     ]
     node [
         id 50758
-        size 11
         label "Mr. Big"
+        size 11
         color "red"
     ]
     node [
         id 3073446
-        size 12
         label "Kix"
+        size 12
         color "red"
     ]
     node [
         id 107943
-        size 17
         label "Rock"
+        size 17
         color "red"
     ]
     node [
         id 1467819
-        size 9
         label "Stolen Babies"
+        size 9
         color "red"
     ]
     node [
         id 419247
-        size 3
         label "Виктор Зинчук"
+        size 3
         color "red"
     ]
     node [
         id 665008
-        size 18
         label "Protector"
+        size 18
         color "red"
     ]
     node [
         id 2958772
-        size 3
         label "Neopera"
+        size 3
         color "red"
     ]
     node [
         id 23454
-        size 0
         label "Lisa Miskovsky"
+        size 0
         color "red"
     ]
     node [
         id 91574
-        size 0
         label "Bobby Kimball"
+        size 0
         color "red"
     ]
     node [
         id 108105
-        size 7
         label "Saving Abel"
+        size 7
         color "red"
     ]
     node [
         id 1156537
-        size 1
         label "Modwheelmood"
+        size 1
         color "red"
     ]
     node [
         id 1205693
-        size 19
         label "Gemini Syndrome"
+        size 19
         color "red"
     ]
     node [
         id 26046
-        size 7
         label "Maroon 5"
+        size 7
         color "red"
     ]
     node [
         id 1271232
-        size 1
         label "Texas Renegade"
+        size 1
         color "red"
     ]
     node [
         id 1631682
-        size 1
         label "Stampeders"
+        size 1
         color "red"
     ]
     node [
         id 9667
-        size 9
         label "Glen Hansard"
+        size 9
         color "red"
     ]
     node [
         id 9668
-        size 4
         label "The Frames"
+        size 4
         color "red"
     ]
     node [
         id 75207
-        size 4
         label "Poco"
+        size 4
         color "red"
     ]
     node [
         id 124361
-        size 8
         label "Univers Zero"
+        size 8
         color "red"
     ]
     node [
         id 681418
-        size 7
         label "We Are The In Crowd"
+        size 7
         color "red"
     ]
     node [
         id 45303
-        size 9
         label "Panic! At The Disco"
+        size 9
         color "red"
     ]
     node [
         id 1579938
-        size 8
         label "Wild Frontier"
+        size 8
         color "red"
     ]
     node [
         id 402894
-        size 9
         label "Ten After Two"
+        size 9
         color "red"
     ]
     node [
         id 402896
-        size 8
         label "My Ticket Home"
+        size 8
         color "red"
     ]
     node [
         id 435671
-        size 1
         label "Kristeen Young"
+        size 1
         color "red"
     ]
     node [
         id 75227
-        size 10
         label "The Challengers"
+        size 10
         color "red"
     ]
     node [
         id 2991580
-        size 0
         label "Israel Nash"
+        size 0
         color "red"
     ]
     node [
         id 157153
-        size 0
         label "Deadline"
+        size 0
         color "red"
     ]
     node [
         id 959975
-        size 15
         label "Issues"
+        size 15
         color "red"
     ]
     node [
         id 206314
-        size 1
         label "Prima Donna"
+        size 1
         color "red"
     ]
     node [
         id 239089
-        size 6
         label "My Darkest Days"
+        size 6
         color "red"
     ]
     node [
         id 1164883
-        size 0
         label "Clawhammer"
+        size 0
         color "red"
     ]
     node [
         id 2663928
-        size 13
         label "Nico"
+        size 13
         color "red"
     ]
     node [
         id 665086
-        size 14
         label "Animals as Leaders"
+        size 14
         color "red"
     ]
     node [
         id 3433985
-        size 6
         label "Terror"
+        size 6
         color "red"
     ]
     node [
         id 26117
-        size 6
         label "The Mission"
+        size 6
         color "red"
     ]
     node [
         id 42504
-        size 0
         label "Джан Ку"
+        size 0
         color "red"
     ]
     node [
         id 1178540
-        size 1
         label "Farpoint"
+        size 1
         color "red"
     ]
     node [
         id 9739
-        size 9
         label "Anand"
+        size 9
         color "red"
     ]
     node [
         id 2827799
-        size 6
         label "Nothing More"
+        size 6
         color "red"
     ]
     node [
         id 2827800
-        size 3
         label "Megosh"
+        size 3
         color "red"
     ]
     node [
         id 140825
-        size 2
         label "Masters Of Reality"
+        size 2
         color "red"
     ]
     node [
         id 1173019
-        size 0
         label "Jet Set Satellite"
+        size 0
         color "red"
     ]
     node [
         id 3434014
-        size 7
         label "Boris"
+        size 7
         color "red"
     ]
     node [
         id 2876965
-        size 1
         label "I The Breather"
+        size 1
         color "red"
     ]
     node [
         id 9767
-        size 17
         label "Finch"
+        size 17
         color "red"
     ]
     node [
         id 2876969
-        size 3
         label "Make Me Famous"
+        size 3
         color "red"
     ]
     node [
         id 124459
-        size 1
         label "Deus Ex Machina"
+        size 1
         color "red"
     ]
     node [
         id 2876972
-        size 5
         label "Dayshell"
+        size 5
         color "red"
     ]
     node [
         id 138162
-        size 3
         label "Deine Lakaien"
+        size 3
         color "red"
     ]
     node [
         id 375193
-        size 3
         label "Harvey Milk"
+        size 3
         color "red"
     ]
     node [
         id 1451568
-        size 0
         label "Ester Chester"
+        size 0
         color "red"
     ]
     node [
         id 58929
-        size 0
         label "Billy Rath"
+        size 0
         color "red"
     ]
     node [
         id 58930
-        size 1
         label "Walter Lure"
+        size 1
         color "red"
     ]
     node [
         id 108083
-        size 2
         label "Haloo Helsinki!"
+        size 2
         color "red"
     ]
     node [
         id 206430
-        size 2
         label "Mads Langer"
+        size 2
         color "red"
     ]
     node [
         id 2582070
-        size 1
         label "Robert Ziegler"
+        size 1
         color "red"
     ]
     node [
         id 239165
-        size 3
         label "Theophilus London"
+        size 3
         color "red"
     ]
     node [
         id 9791
-        size 13
         label "Senses Fail"
+        size 13
         color "red"
     ]
     node [
         id 108097
-        size 8
         label "Anthony Phillips"
+        size 8
         color "red"
     ]
     node [
         id 1582665
-        size 0
         label "Alan Bernhoft"
+        size 0
         color "red"
     ]
     node [
         id 1189450
-        size 11
         label "Deerhunter"
+        size 11
         color "red"
     ]
     node [
         id 58958
-        size 2
         label "Hüsker Dü"
+        size 2
         color "red"
     ]
     node [
         id 1107536
-        size 1
         label "Get Hustle"
+        size 1
         color "red"
     ]
     node [
         id 75345
-        size 42
         label "Grand Funk Railroad"
+        size 42
         color "red"
     ]
     node [
         id 140884
-        size 0
         label "Philip Sayce"
+        size 0
         color "red"
     ]
     node [
         id 1336917
-        size 6
         label "The Mantras"
+        size 6
         color "red"
     ]
     node [
         id 140900
-        size 0
         label "Tim Reynolds"
+        size 0
         color "red"
     ]
     node [
         id 2106972
-        size 0
         label "Ethan Ballinger"
+        size 0
         color "red"
     ]
     node [
         id 304734
-        size 3
         label "Disbelief"
+        size 3
         color "red"
     ]
     node [
         id 2680417
-        size 21
         label "Lorna Shore"
+        size 21
         color "red"
     ]
     node [
         id 452194
-        size 5
         label "Black Veil Brides"
+        size 5
         color "red"
     ]
     node [
         id 42596
-        size 6
         label "FM"
+        size 6
         color "red"
     ]
     node [
         id 304743
-        size 19
         label "Visions of Atlantis"
+        size 19
         color "red"
     ]
     node [
         id 26216
-        size 0
         label "Mitch Mitchell"
+        size 0
         color "red"
     ]
     node [
         id 140903
-        size 20
         label "Walter Trout"
+        size 20
         color "red"
     ]
     node [
         id 108143
-        size 0
         label "Paul Glaeser"
+        size 0
         color "red"
     ]
     node [
         id 18025
-        size 0
         label "Rupert Holmes"
+        size 0
         color "red"
     ]
     node [
         id 370297
-        size 0
         label "Ive Mendes"
+        size 0
         color "red"
     ]
     node [
         id 1173115
-        size 3
         label "The Dreamside"
+        size 3
         color "red"
     ]
     node [
         id 1091208
-        size 2
         label "Crazy Cavan & The Rhythm Rockers"
+        size 2
         color "red"
     ]
     node [
         id 9866
-        size 0
         label "Gino Vannelli"
+        size 0
         color "red"
     ]
     node [
         id 9868
-        size 0
         label "David Clayton-Thomas"
+        size 0
         color "red"
     ]
     node [
         id 170946
-        size 2
         label "Neverstore"
+        size 2
         color "red"
     ]
     node [
         id 1582734
-        size 0
         label "Consider the Source"
+        size 0
         color "red"
     ]
     node [
         id 255631
-        size 0
         label "Battery"
+        size 0
         color "red"
     ]
     node [
         id 589272
-        size 0
         label "DECO*27"
+        size 0
         color "red"
     ]
     node [
         id 1828506
-        size 7
         label "HUMANWINE"
+        size 7
         color "red"
     ]
     node [
         id 75419
-        size 6
         label "Electronic"
+        size 6
         color "red"
     ]
     node [
         id 1533599
-        size 0
         label "Hit Co. Masters"
+        size 0
         color "red"
     ]
     node [
         id 1746592
-        size 2
         label "Noctura"
+        size 2
         color "red"
     ]
     node [
         id 4728482
-        size 0
         label "Alternative Carpark"
+        size 0
         color "red"
     ]
     node [
         id 1042085
-        size 4
         label "Weena Morloch"
+        size 4
         color "red"
     ]
     node [
         id 1549990
-        size 5
         label "Holy Wave"
+        size 5
         color "red"
     ]
     node [
         id 812711
-        size 1
         label "Ambiente"
+        size 1
         color "red"
     ]
     node [
         id 1828522
-        size 0
         label "David Arthur Brown"
+        size 0
         color "red"
     ]
     node [
         id 206507
-        size 1
         label "The Cascades"
+        size 1
         color "red"
     ]
     node [
         id 665261
-        size 12
         label "Stingray Music Karaoke"
+        size 12
         color "red"
     ]
     node [
         id 524095
-        size 0
         label "Stigma"
+        size 0
         color "red"
     ]
     node [
         id 370357
-        size 1
         label "Astronautalis"
+        size 1
         color "red"
     ]
     node [
         id 9911
-        size 27
         label "Queens Of The Stone Age"
+        size 27
         color "red"
     ]
     node [
         id 9912
-        size 15
         label "Mark Lanegan"
+        size 15
         color "red"
     ]
     node [
         id 321210
-        size 8
         label "Terraplane"
+        size 8
         color "red"
     ]
     node [
         id 222908
-        size 5
         label "Billy Lee Riley"
+        size 5
         color "red"
     ]
     node [
         id 272061
-        size 3
         label "Chad & Jeremy"
+        size 3
         color "red"
     ]
     node [
         id 26303
-        size 0
         label "Pete Brown"
+        size 0
         color "red"
     ]
     node [
         id 1189569
-        size 0
         label "Mojo Juju"
+        size 0
         color "red"
     ]
     node [
         id 2647747
-        size 0
         label "Relax Baby's"
+        size 0
         color "red"
     ]
     node [
         id 362040
-        size 2
         label "A Global Threat"
+        size 2
         color "red"
     ]
     node [
         id 222922
-        size 10
         label "Sonny Burgess"
+        size 10
         color "red"
     ]
     node [
         id 9931
-        size 2
         label "Fairport Convention"
+        size 2
         color "red"
     ]
     node [
         id 75469
-        size 0
         label "Pat Mastelotto"
+        size 0
         color "red"
     ]
     node [
         id 648910
-        size 53
         label "Amon Amarth"
+        size 53
         color "red"
     ]
     node [
         id 1189584
-        size 12
         label "Surrender The Fall"
+        size 12
         color "red"
     ]
     node [
         id 26323
-        size 2
         label "Robby Krieger"
+        size 2
         color "red"
     ]
     node [
         id 1812180
-        size 2
         label "Paradise Blue"
+        size 2
         color "red"
     ]
     node [
         id 26340
-        size 30
         label "Ramones"
+        size 30
         color "red"
     ]
     node [
         id 157415
-        size 5
         label "Dum Dum Girls"
+        size 5
         color "red"
     ]
     node [
         id 26344
-        size 0
         label "Trevor Hall"
+        size 0
         color "red"
     ]
     node [
         id 304875
-        size 16
         label "LITE"
+        size 16
         color "red"
     ]
     node [
         id 97234
-        size 11
         label "The Fray"
+        size 11
         color "red"
     ]
     node [
         id 2385647
-        size 6
         label "The Twangers"
+        size 6
         color "red"
     ]
     node [
         id 2385648
-        size 5
         label "Finnbeat"
+        size 5
         color "red"
     ]
     node [
         id 430376
-        size 12
         label "That's Outrageous!"
+        size 12
         color "red"
     ]
     node [
         id 337654
-        size 4
         label "Galahad"
+        size 4
         color "red"
     ]
     node [
         id 26362
-        size 1
         label "The Hours"
+        size 1
         color "red"
     ]
     node [
         id 1222395
-        size 1
         label "The Soup Dragons"
+        size 1
         color "red"
     ]
     node [
         id 120902
-        size 26
         label "Paul Gilbert"
+        size 26
         color "red"
     ]
     node [
         id 1763071
-        size 5
         label "Scythia"
+        size 5
         color "red"
     ]
     node [
         id 2746112
-        size 5
         label "The Meantraitors"
+        size 5
         color "red"
     ]
     node [
         id 26369
-        size 20
         label "Elbow"
+        size 20
         color "red"
     ]
     node [
         id 2828034
-        size 5
         label "Exotype"
+        size 5
         color "red"
     ]
     node [
         id 2369283
-        size 0
         label "Brian Johnson and Geordie"
+        size 0
         color "red"
     ]
     node [
         id 3417860
-        size 2
         label "Spidergawd"
+        size 2
         color "red"
     ]
     node [
         id 108295
-        size 2
         label "Megan McCauley"
+        size 2
         color "red"
     ]
     node [
         id 1913132
-        size 0
         label "King Weird"
+        size 0
         color "red"
     ]
     node [
         id 108298
-        size 30
         label "12 Stones"
+        size 30
         color "red"
     ]
     node [
         id 911115
-        size 2
         label "Mud Flow"
+        size 2
         color "red"
     ]
     node [
         id 157453
-        size 5
         label "Versailles"
+        size 5
         color "red"
     ]
     node [
         id 157454
-        size 3
         label "KAMIJO"
+        size 3
         color "red"
     ]
     node [
         id 643374
-        size 10
         label "Eskimo Callboy"
+        size 10
         color "red"
     ]
     node [
         id 3221270
-        size 0
         label "Ancient Masters of Slide"
+        size 0
         color "red"
     ]
     node [
         id 157464
-        size 0
         label "Ignite"
+        size 0
         color "red"
     ]
     node [
         id 1304346
-        size 1
         label "Raygun Cowboys"
+        size 1
         color "red"
     ]
     node [
         id 1320732
-        size 12
         label "Dark the Suns"
+        size 12
         color "red"
     ]
     node [
         id 386847
-        size 2
         label "Base Ball Bear"
+        size 2
         color "red"
     ]
     node [
         id 206624
-        size 1
         label "Michael Penn"
+        size 1
         color "red"
     ]
     node [
         id 10017
-        size 15
         label "Hinder"
+        size 15
         color "red"
     ]
     node [
         id 157474
-        size 12
         label "Blood for Blood"
+        size 12
         color "red"
     ]
     node [
         id 190244
-        size 2
         label "The Dixie Cups"
+        size 2
         color "red"
     ]
     node [
         id 1582887
-        size 19
         label "Lonely Kamel"
+        size 19
         color "red"
     ]
     node [
         id 1828650
-        size 0
         label "Dina D'Alessandro"
+        size 0
         color "red"
     ]
     node [
         id 26413
-        size 0
         label "Python Lee Jackson"
+        size 0
         color "red"
     ]
     node [
         id 419632
-        size 0
         label "Scars On 45"
+        size 0
         color "red"
     ]
     node [
         id 616241
-        size 1
         label "#1 Beatles Tribute Band"
+        size 1
         color "red"
     ]
     node [
         id 108339
-        size 1
         label "Seabird"
+        size 1
         color "red"
     ]
     node [
         id 403255
-        size 1
         label "The Good Natured"
+        size 1
         color "red"
     ]
     node [
         id 190265
-        size 1
         label "Kolor"
+        size 1
         color "red"
     ]
     node [
         id 321340
-        size 7
         label "Ghoultown"
+        size 7
         color "red"
     ]
     node [
         id 42814
-        size 0
         label "Johnny Cymbal"
+        size 0
         color "red"
     ]
     node [
         id 1894207
-        size 0
         label "Keith Morrison"
+        size 0
         color "red"
     ]
     node [
         id 517952
-        size 9
         label "Legenda Aurea"
+        size 9
         color "red"
     ]
     node [
         id 2385730
-        size 17
         label "The Illumination"
+        size 17
         color "red"
     ]
     node [
         id 812684
-        size 5
         label "Ammonia"
+        size 5
         color "red"
     ]
     node [
         id 1648458
-        size 2
         label "Osv"
+        size 2
         color "red"
     ]
     node [
         id 75595
-        size 4
         label "Shuggie Otis"
+        size 4
         color "red"
     ]
     node [
         id 425330
-        size 2
         label "23 Skidoo"
+        size 2
         color "red"
     ]
     node [
         id 10065
-        size 3
         label "End Of You"
+        size 3
         color "red"
     ]
     node [
         id 3106642
-        size 0
         label "The Silver Beatles"
+        size 0
         color "red"
     ]
     node [
         id 894804
-        size 1
         label "The Sade"
+        size 1
         color "red"
     ]
     node [
         id 154596
-        size 2
         label "Disappears"
+        size 2
         color "red"
     ]
     node [
         id 64712
-        size 7
         label "MuteMath"
+        size 7
         color "red"
     ]
     node [
         id 1271645
-        size 7
         label "Berry Sakharof"
+        size 7
         color "red"
     ]
     node [
         id 4700
-        size 25
         label "Jimi Hendrix"
+        size 25
         color "red"
     ]
     node [
         id 50832
-        size 15
         label "Buddy Knox"
+        size 15
         color "red"
     ]
     node [
         id 59234
-        size 0
         label "For Love Not Lisa"
+        size 0
         color "red"
     ]
     node [
         id 2369379
-        size 0
         label "Skarlett Riot"
+        size 0
         color "red"
     ]
     node [
         id 632682
-        size 0
         label "Cybertracks - Virtual Audio Project"
+        size 0
         color "red"
     ]
     node [
         id 75633
-        size 3
         label "Matthew Sweet"
+        size 3
         color "red"
     ]
     node [
         id 534386
-        size 1
         label "b.o.s.c.h."
+        size 1
         color "red"
     ]
     node [
         id 1047821
-        size 0
         label "Inoran"
+        size 0
         color "red"
     ]
     node [
         id 681845
-        size 10
         label "Sussan Kameron"
+        size 10
         color "red"
     ]
     node [
         id 3106682
-        size 2
         label "Deadушки"
+        size 2
         color "red"
     ]
     node [
         id 7146
-        size 5
         label "Peter Criss"
+        size 5
         color "red"
     ]
     node [
         id 59267
-        size 0
         label "The Polyphonic Spree"
+        size 0
         color "red"
     ]
     node [
         id 10118
-        size 1
         label "Carl Barât"
+        size 1
         color "red"
     ]
     node [
         id 1894279
-        size 2
         label "The Tearaways"
+        size 2
         color "red"
     ]
     node [
         id 203287
-        size 0
         label "Tim Sanders"
+        size 0
         color "red"
     ]
     node [
         id 54133
-        size 0
         label "Martin Haene"
+        size 0
         color "red"
     ]
     node [
         id 518029
-        size 4
         label "Svarttjern"
+        size 4
         color "red"
     ]
     node [
         id 1288083
-        size 0
         label "Wanted"
+        size 0
         color "red"
     ]
     node [
         id 26266
-        size 0
         label "PlayRadioPlay!"
+        size 0
         color "red"
     ]
     node [
         id 206750
-        size 0
         label "L'Arc~en~Ciel"
+        size 0
         color "red"
     ]
     node [
         id 632737
-        size 2
         label "The Balboas"
+        size 2
         color "red"
     ]
     node [
         id 2041763
-        size 0
         label "Romeo + Juliet"
+        size 0
         color "red"
     ]
     node [
         id 3041189
-        size 0
         label "Blood God"
+        size 0
         color "red"
     ]
     node [
         id 75686
-        size 1
         label "John Hammond"
+        size 1
         color "red"
     ]
     node [
         id 649127
-        size 18
         label "Allegaeon"
+        size 18
         color "red"
     ]
     node [
         id 1255339
-        size 3
         label "Monoral"
+        size 3
         color "red"
     ]
     node [
         id 10157
-        size 3
         label "Murray Head"
+        size 3
         color "red"
     ]
     node [
         id 69256
-        size 2
         label "Tommy Bolin"
+        size 2
         color "red"
     ]
     node [
         id 583603
-        size 0
         label "Alternative Rock Heroes"
+        size 0
         color "red"
     ]
     node [
         id 42932
-        size 9
         label "Relient K"
+        size 9
         color "red"
     ]
     node [
         id 206777
-        size 2
         label "Vox Angeli"
+        size 2
         color "red"
     ]
     node [
         id 436158
-        size 0
         label "Mushroom"
+        size 0
         color "red"
     ]
     node [
         id 39925
-        size 1
         label "Steve Morse Band"
+        size 1
         color "red"
     ]
     node [
         id 124865
-        size 3
         label "Curve"
+        size 3
         color "red"
     ]
     node [
         id 643403
-        size 0
         label "Rock N' Roll Wizards"
+        size 0
         color "red"
     ]
     node [
         id 1468357
-        size 1
         label "The skull"
+        size 1
         color "red"
     ]
     node [
         id 305094
-        size 6
         label "Kampfar"
+        size 6
         color "red"
     ]
     node [
         id 2238409
-        size 1
         label "Nobodies"
+        size 1
         color "red"
     ]
     node [
         id 714698
-        size 0
         label "The Durango Riot"
+        size 0
         color "red"
     ]
     node [
         id 2222028
-        size 1
         label "Franck Carducci"
+        size 1
         color "red"
     ]
     node [
         id 2926242
-        size 2
         label "Thisquietarmy"
+        size 2
         color "red"
     ]
     node [
         id 583630
-        size 34
         label "Audio Idols"
+        size 34
         color "red"
     ]
     node [
         id 2926545
-        size 0
         label "The Soundcarriers"
+        size 0
         color "red"
     ]
     node [
         id 665555
-        size 24
         label "Chelsea Grin"
+        size 24
         color "red"
     ]
     node [
         id 1583064
-        size 9
         label "IZAH"
+        size 9
         color "red"
     ]
     node [
         id 26585
-        size 9
         label "Elvis Costello & The Attractions"
+        size 9
         color "red"
     ]
     node [
         id 356687
-        size 2
         label "Schelmish"
+        size 2
         color "red"
     ]
     node [
         id 124894
-        size 2
         label "The Hot Melts"
+        size 2
         color "red"
     ]
     node [
         id 108511
-        size 5
         label "M83"
+        size 5
         color "red"
     ]
     node [
         id 763876
-        size 19
         label "Lake Of Tears"
+        size 19
         color "red"
     ]
     node [
         id 304806
-        size 2
         label "Gurd"
+        size 2
         color "red"
     ]
     node [
         id 1124329
-        size 3
         label "Kuusumun Profeetta"
+        size 3
         color "red"
     ]
     node [
         id 2107378
-        size 1
         label "False Pretence"
+        size 1
         color "red"
     ]
     node [
         id 1323348
-        size 0
         label "The Unknown Culprits"
+        size 0
         color "red"
     ]
     node [
         id 2762410
-        size 0
         label "The Power Electric Band"
+        size 0
         color "red"
     ]
     node [
         id 1577301
-        size 0
         label "Ambassador"
+        size 0
         color "red"
     ]
     node [
         id 1861634
-        size 0
         label "The Shanklin Freak Show"
+        size 0
         color "red"
     ]
     node [
         id 813059
-        size 0
         label "Del Rey"
+        size 0
         color "red"
     ]
     node [
         id 1206276
-        size 6
         label "Good Times"
+        size 6
         color "red"
     ]
     node [
         id 714757
-        size 1
         label "Holly Miranda"
+        size 1
         color "red"
     ]
     node [
         id 48129
-        size 0
         label "Jarabe De Palo"
+        size 0
         color "red"
     ]
     node [
         id 780298
-        size 2
         label "Mauro Pagliarino"
+        size 2
         color "red"
     ]
     node [
         id 3123214
-        size 2
         label "Amy Lee"
+        size 2
         color "red"
     ]
     node [
         id 34712
-        size 0
         label "The Dickies"
+        size 0
         color "red"
     ]
     node [
         id 297650
-        size 1
         label "Puerto Muerto"
+        size 1
         color "red"
     ]
     node [
         id 2353180
-        size 1
         label "Scartown"
+        size 1
         color "red"
     ]
     node [
         id 1157150
-        size 2
         label "Hard On"
+        size 2
         color "red"
     ]
     node [
         id 1075237
-        size 0
         label "Rhythm On the Radio"
+        size 0
         color "red"
     ]
     node [
         id 124967
-        size 6
         label "Descendents"
+        size 6
         color "red"
     ]
     node [
         id 92201
-        size 2
         label "Luba"
+        size 2
         color "red"
     ]
     node [
         id 1075243
-        size 1
         label "The Rioters"
+        size 1
         color "red"
     ]
     node [
         id 1610077
-        size 0
         label "Circa:"
+        size 0
         color "red"
     ]
     node [
         id 190512
-        size 14
         label "The Champs"
+        size 14
         color "red"
     ]
     node [
         id 293896
-        size 18
         label "Behemoth"
+        size 18
         color "red"
     ]
     node [
         id 2058291
-        size 1
         label "Growlers"
+        size 1
         color "red"
     ]
     node [
         id 3205174
-        size 2
         label "Марта Кобец"
+        size 2
         color "red"
     ]
     node [
         id 75832
-        size 2
         label "The Marcels"
+        size 2
         color "red"
     ]
     node [
         id 4447
-        size 25
         label "Robert Plant"
+        size 25
         color "red"
     ]
     node [
         id 236554
-        size 0
         label "Methods of Mayhem"
+        size 0
         color "red"
     ]
     node [
         id 75845
-        size 10
         label "Frankie Lymon & The Teenagers"
+        size 10
         color "red"
     ]
     node [
         id 337991
-        size 12
         label "ReVamp"
+        size 12
         color "red"
     ]
     node [
         id 813128
-        size 4
         label "Massimo izzizzari"
+        size 4
         color "red"
     ]
     node [
         id 616525
-        size 5
         label "mothercoat"
+        size 5
         color "red"
     ]
     node [
         id 470779
-        size 0
         label "Solid Gold"
+        size 0
         color "red"
     ]
     node [
         id 829523
-        size 1
         label "Eraldo Bernocchi"
+        size 1
         color "red"
     ]
     node [
         id 338006
-        size 6
         label "Blitzkid"
+        size 6
         color "red"
     ]
     node [
         id 47808
-        size 6
         label "Oblivians"
+        size 6
         color "red"
     ]
     node [
         id 75450
-        size 1
         label "Crosby & Nash"
+        size 1
         color "red"
     ]
     node [
         id 534623
-        size 2
         label "Shenaniganz"
+        size 2
         color "red"
     ]
     node [
         id 1108067
-        size 5
         label "Winterlong"
+        size 5
         color "red"
     ]
     node [
         id 43108
-        size 0
         label "Bring Me The Horizon"
+        size 0
         color "red"
     ]
     node [
         id 2412902
-        size 0
         label "Vital Fire"
+        size 0
         color "red"
     ]
     node [
         id 272486
-        size 2
         label "Boots Brown"
+        size 2
         color "red"
     ]
     node [
         id 15377
-        size 5
         label "Anderson"
+        size 5
         color "red"
     ]
     node [
         id 26731
-        size 5
         label "Mudhoney"
+        size 5
         color "red"
     ]
     node [
         id 10348
-        size 11
         label "The Grass Roots"
+        size 11
         color "red"
     ]
     node [
         id 92269
-        size 6
         label "Freddie & The Dreamers"
+        size 6
         color "red"
     ]
     node [
         id 125045
-        size 6
         label "Downset"
+        size 6
         color "red"
     ]
     node [
         id 2549878
-        size 11
         label "Cylinder"
+        size 11
         color "red"
     ]
     node [
         id 764025
-        size 26
         label "Bloodbound"
+        size 26
         color "red"
     ]
     node [
         id 831850
-        size 3
         label "The Moorings"
+        size 3
         color "red"
     ]
     node [
         id 518272
-        size 0
         label "Elixir"
+        size 0
         color "red"
     ]
     node [
         id 558784
-        size 9
         label "Half The World"
+        size 9
         color "red"
     ]
     node [
         id 4100459
-        size 0
         label "Alex Bollard"
+        size 0
         color "red"
     ]
     node [
         id 59073
-        size 0
         label "Wheat"
+        size 0
         color "red"
     ]
     node [
         id 1861770
-        size 0
         label "Mike McClure Band"
+        size 0
         color "red"
     ]
     node [
         id 1157259
-        size 23
         label "Savage Messiah"
+        size 23
         color "red"
     ]
     node [
         id 43149
-        size 9
         label "Teräsbetoni"
+        size 9
         color "red"
     ]
     node [
         id 288910
-        size 2
         label "Kismet"
+        size 2
         color "red"
     ]
     node [
         id 813199
-        size 7
         label "Sektemtum"
+        size 7
         color "red"
     ]
     node [
         id 125073
-        size 4
         label "Matchbook Romance"
+        size 4
         color "red"
     ]
     node [
         id 338067
-        size 1
         label "Jihad"
+        size 1
         color "red"
     ]
     node [
         id 10389
-        size 12
         label "Carlos Santana"
+        size 12
         color "red"
     ]
     node [
         id 288921
-        size 0
         label "Dkay.com"
+        size 0
         color "red"
     ]
     node [
         id 59546
-        size 17
         label "Poison"
+        size 17
         color "red"
     ]
     node [
         id 272546
-        size 3
         label "Ásgeir"
+        size 3
         color "red"
     ]
     node [
         id 274801
-        size 0
         label "AB/CD"
+        size 0
         color "red"
     ]
     node [
         id 125096
-        size 5
         label "The Veils"
+        size 5
         color "red"
     ]
     node [
         id 75463
-        size 1
         label "The Rembrandts"
+        size 1
         color "red"
     ]
     node [
         id 1583276
-        size 6
         label "Gloryhammer"
+        size 6
         color "red"
     ]
     node [
         id 10417
-        size 6
         label "Agnetha Fältskog"
+        size 6
         color "red"
     ]
     node [
         id 157881
-        size 0
         label "The Savage Rose"
+        size 0
         color "red"
     ]
     node [
         id 3680442
-        size 5
         label "Haustor"
+        size 5
         color "red"
     ]
     node [
         id 92348
-        size 5
         label "Turbo"
+        size 5
         color "red"
     ]
     node [
         id 1222848
-        size 1
         label "Vitamin Piano Series"
+        size 1
         color "red"
     ]
     node [
         id 354498
-        size 0
         label "Smells Like"
+        size 0
         color "red"
     ]
     node [
         id 108235
-        size 1
         label "Babe Ruth"
+        size 1
         color "red"
     ]
     node [
         id 600260
-        size 5
         label "Goatsnake"
+        size 5
         color "red"
     ]
     node [
         id 600261
-        size 16
         label "Electric Wizard"
+        size 16
         color "red"
     ]
     node [
         id 272583
-        size 4
         label "Crashland"
+        size 4
         color "red"
     ]
     node [
         id 780489
-        size 0
         label "No Tears"
+        size 0
         color "red"
     ]
     node [
         id 780496
-        size 8
         label "De Volanges"
+        size 8
         color "red"
     ]
     node [
         id 92370
-        size 14
         label "Blues Saraceno"
+        size 14
         color "red"
     ]
     node [
         id 1485014
-        size 1
         label "Tamar Eisenman"
+        size 1
         color "red"
     ]
     node [
         id 512377
-        size 0
         label "Ashton, Gardner & Dyke"
+        size 0
         color "red"
     ]
     node [
         id 305368
-        size 28
         label "IAMX"
+        size 28
         color "red"
     ]
     node [
         id 829660
-        size 1
         label "Scott Finch"
+        size 1
         color "red"
     ]
     node [
         id 4352224
-        size 0
         label "Dare"
+        size 0
         color "red"
     ]
     node [
         id 1894625
-        size 2
         label "The Frogs"
+        size 2
         color "red"
     ]
     node [
         id 110971
-        size 7
         label "Lovex"
+        size 7
         color "red"
     ]
     node [
         id 76006
-        size 1
         label "Joey Ramone"
+        size 1
         color "red"
     ]
     node [
         id 3205351
-        size 3
         label "СолоИНК"
+        size 3
         color "red"
     ]
     node [
         id 76012
-        size 2
         label "Information Society"
+        size 2
         color "red"
     ]
     node [
         id 649453
-        size 17
         label "Red Fang"
+        size 17
         color "red"
     ]
     node [
         id 305393
-        size 0
         label "Vintersorg"
+        size 0
         color "red"
     ]
     node [
         id 1648886
-        size 0
         label "Hyde Abbey"
+        size 0
         color "red"
     ]
     node [
         id 292772
-        size 0
         label "Skyclad"
+        size 0
         color "red"
     ]
     node [
         id 616700
-        size 4
         label "Pretty Wild"
+        size 4
         color "red"
     ]
     node [
         id 534782
-        size 3
         label "Melotron"
+        size 3
         color "red"
     ]
     node [
         id 305410
-        size 6
         label "Fireball Ministry"
+        size 6
         color "red"
     ]
     node [
         id 141574
-        size 1
         label "Bara Basikova"
+        size 1
         color "red"
     ]
     node [
         id 305416
-        size 24
         label "Secrets"
+        size 24
         color "red"
     ]
     node [
         id 1534217
-        size 2
         label "Geezer"
+        size 2
         color "red"
     ]
     node [
         id 58657
-        size 0
         label "Crabby Appleton"
+        size 0
         color "red"
     ]
     node [
         id 64181
-        size 3
         label "I Am Ghost"
+        size 3
         color "red"
     ]
     node [
         id 113282
-        size 1
         label "Jim Jidhed"
+        size 1
         color "red"
     ]
     node [
         id 553348
-        size 0
         label "The Rock Kid Heroes"
+        size 0
         color "red"
     ]
     node [
         id 10522
-        size 0
         label "Shane MacGowan"
+        size 0
         color "red"
     ]
     node [
         id 764187
-        size 24
         label "Iron Mask"
+        size 24
         color "red"
     ]
     node [
         id 190749
-        size 0
         label "Big Brother And the Holding Company featuring Janis Joplin"
+        size 0
         color "red"
     ]
     node [
         id 829726
-        size 0
         label "Catch This Beat"
+        size 0
         color "red"
     ]
     node [
         id 3303711
-        size 2
         label "Vroudenspil"
+        size 2
         color "red"
     ]
     node [
         id 829728
-        size 0
         label "The Beat Brothers"
+        size 0
         color "red"
     ]
     node [
         id 1648930
-        size 4
         label "Magic Wands"
+        size 4
         color "red"
     ]
     node [
         id 2451747
-        size 0
         label "Ligabue vs. Benny Benassi"
+        size 0
         color "red"
     ]
     node [
         id 10533
-        size 12
         label "Chris Rea"
+        size 12
         color "red"
     ]
     node [
         id 1222953
-        size 2
         label "Los Tiki Phantoms"
+        size 2
         color "red"
     ]
     node [
         id 1403179
-        size 1
         label "Bedouin"
+        size 1
         color "red"
     ]
     node [
         id 272684
-        size 2
         label "The Trip"
+        size 2
         color "red"
     ]
     node [
         id 2271533
-        size 7
         label "Brother Dege"
+        size 7
         color "red"
     ]
     node [
         id 92462
-        size 1
         label "Medeski, Martin & Wood"
+        size 1
         color "red"
     ]
     node [
         id 67293
-        size 0
         label "Widespread Panic"
+        size 0
         color "red"
     ]
     node [
         id 633137
-        size 7
         label "Nocturnus"
+        size 7
         color "red"
     ]
     node [
         id 289074
-        size 1
         label "Psychic TV / PTV3"
+        size 1
         color "red"
     ]
     node [
         id 26931
-        size 13
         label "Amy Macdonald"
+        size 13
         color "red"
     ]
     node [
         id 92469
-        size 3
         label "Maanam"
+        size 3
         color "red"
     ]
     node [
         id 1911099
-        size 11
         label "Cult Of Luna"
+        size 11
         color "red"
     ]
     node [
         id 1157437
-        size 1
         label "Man on Fire"
+        size 1
         color "red"
     ]
     node [
         id 1075520
-        size 0
         label "Freak On a Leash"
+        size 0
         color "red"
     ]
     node [
         id 457782
-        size 0
         label "The Unisex"
+        size 0
         color "red"
     ]
     node [
         id 1075526
-        size 0
         label "At the Hop"
+        size 0
         color "red"
     ]
     node [
         id 296673
-        size 1
         label "Pegasus"
+        size 1
         color "red"
     ]
     node [
         id 10571
-        size 14
         label "The Crickets"
+        size 14
         color "red"
     ]
     node [
         id 338253
-        size 17
         label "Stormlord"
+        size 17
         color "red"
     ]
     node [
         id 382793
-        size 0
         label "Heat"
+        size 0
         color "red"
     ]
     node [
         id 1026388
-        size 1
         label "Dossche"
+        size 1
         color "red"
     ]
     node [
         id 289110
-        size 1
         label "The Popes"
+        size 1
         color "red"
     ]
     node [
         id 207191
-        size 2
         label "Vertical Horizon"
+        size 2
         color "red"
     ]
     node [
         id 343674
-        size 3
         label "Tilt"
+        size 3
         color "red"
     ]
     node [
         id 1315216
-        size 3
         label "Comets On Fire"
+        size 3
         color "red"
     ]
     node [
         id 523004
-        size 8
         label "Mourning Beloveth"
+        size 8
         color "red"
     ]
     node [
         id 76134
-        size 1
         label "Terry Reid"
+        size 1
         color "red"
     ]
     node [
         id 682347
-        size 17
         label "Sixx: A.M."
+        size 17
         color "red"
     ]
     node [
         id 272748
-        size 2
         label "Tommy Womack"
+        size 2
         color "red"
     ]
     node [
         id 10605
-        size 0
         label "Robbie Robertson"
+        size 0
         color "red"
     ]
     node [
         id 64573
-        size 6
         label "Pestilence"
+        size 6
         color "red"
     ]
     node [
         id 1223024
-        size 7
         label "Arenna"
+        size 7
         color "red"
     ]
     node [
         id 714472
-        size 2
         label "Old Crow Medicine Show"
+        size 2
         color "red"
     ]
     node [
         id 10610
-        size 3
         label "Sully Erna"
+        size 3
         color "red"
     ]
     node [
         id 29075
-        size 0
         label "Gus Black"
+        size 0
         color "red"
     ]
     node [
         id 26997
-        size 4
         label "Amber Pacific"
+        size 4
         color "red"
     ]
     node [
         id 1911161
-        size 27
         label "And Hell Followed With"
+        size 27
         color "red"
     ]
     node [
         id 125306
-        size 8
         label "Our Last Night"
+        size 8
         color "red"
     ]
     node [
         id 2828669
-        size 3
         label "Landon Tewers"
+        size 3
         color "red"
     ]
     node [
         id 10625
-        size 11
         label "Angels and Airwaves"
+        size 11
         color "red"
     ]
     node [
         id 67307
-        size 20
         label "The Raveonettes"
+        size 20
         color "red"
     ]
     node [
         id 1108356
-        size 3
         label "Dave Hause"
+        size 3
         color "red"
     ]
     node [
         id 27013
-        size 1
         label "Itch"
+        size 1
         color "red"
     ]
     node [
         id 256390
-        size 1
         label "Skinny"
+        size 1
         color "red"
     ]
     node [
         id 27015
-        size 2
         label "The King Blues"
+        size 2
         color "red"
     ]
     node [
         id 43401
-        size 4
         label "The Pogues"
+        size 4
         color "red"
     ]
     node [
         id 2156939
-        size 10
         label "Fight or Flight"
+        size 10
         color "red"
     ]
     node [
         id 305548
-        size 3
         label "Pylon"
+        size 3
         color "red"
     ]
     node [
         id 239341
-        size 0
         label "Ultraspank"
+        size 0
         color "red"
     ]
     node [
         id 1361646
-        size 1
         label "Gram Rabbit"
+        size 1
         color "red"
     ]
     node [
         id 233881
-        size 2
         label "Murmansk"
+        size 2
         color "red"
     ]
     node [
         id 135109
-        size 8
         label "Seven Mary Three"
+        size 8
         color "red"
     ]
     node [
         id 27038
-        size 2
         label "Immune"
+        size 2
         color "red"
     ]
     node [
         id 27039
-        size 0
         label "The Assembly"
+        size 0
         color "red"
     ]
     node [
         id 27040
-        size 0
         label "The Call"
+        size 0
         color "red"
     ]
     node [
         id 649633
-        size 4
         label "Brokencyde"
+        size 4
         color "red"
     ]
     node [
         id 1157538
-        size 35
         label "Anthropia"
+        size 35
         color "red"
     ]
     node [
         id 1190307
-        size 1
         label "Offcutts"
+        size 1
         color "red"
     ]
     node [
         id 289193
-        size 9
         label "Hardline"
+        size 9
         color "red"
     ]
     node [
         id 2075050
-        size 2
         label "Mr. Maps"
+        size 2
         color "red"
     ]
     node [
         id 125355
-        size 4
         label "I Set My Friends On Fire"
+        size 4
         color "red"
     ]
     node [
         id 289197
-        size 14
         label "Khymera"
+        size 14
         color "red"
     ]
     node [
         id 813486
-        size 25
         label "The Hillbilly Moon Explosion"
+        size 25
         color "red"
     ]
     node [
         id 1960368
-        size 11
         label "Dream Life Misery"
+        size 11
         color "red"
     ]
     node [
         id 1747377
-        size 9
         label "Beggars Ball"
+        size 9
         color "red"
     ]
     node [
         id 813490
-        size 4
         label "Emanuela Hutter"
+        size 4
         color "red"
     ]
     node [
         id 1255859
-        size 12
         label "The Ultimate Beatles Cover Band"
+        size 12
         color "red"
     ]
     node [
         id 1157556
-        size 23
         label "Baroness"
+        size 23
         color "red"
     ]
     node [
         id 1911221
-        size 4
         label "Cauldron"
+        size 4
         color "red"
     ]
     node [
         id 1206710
-        size 7
         label "Dawn Of Dreams"
+        size 7
         color "red"
     ]
     node [
         id 1866825
-        size 14
         label "Disconnect"
+        size 14
         color "red"
     ]
     node [
         id 1911224
-        size 11
         label "Woods of Ypres"
+        size 11
         color "red"
     ]
     node [
         id 567739
-        size 4
         label "Zsk"
+        size 4
         color "red"
     ]
     node [
         id 125372
-        size 0
         label "Martin Barre"
+        size 0
         color "red"
     ]
     node [
         id 190909
-        size 0
         label "Nine Days"
+        size 0
         color "red"
     ]
     node [
         id 1255870
-        size 1
         label "Bbq Chickens"
+        size 1
         color "red"
     ]
     node [
         id 1157567
-        size 4
         label "Dead to Me"
+        size 4
         color "red"
     ]
     node [
         id 1206720
-        size 1
         label "Medusa Cyclone"
+        size 1
         color "red"
     ]
     node [
         id 305601
-        size 8
         label "Tommy Castro"
+        size 8
         color "red"
     ]
     node [
         id 190914
-        size 0
         label "Bob Seger & The Silver Bullet Band"
+        size 0
         color "red"
     ]
     node [
         id 895428
-        size 33
         label "Truth Corroded"
+        size 33
         color "red"
     ]
     node [
         id 2959813
-        size 0
         label "The White Album"
+        size 0
         color "red"
     ]
     node [
         id 158150
-        size 0
         label "The Human Beinz"
+        size 0
         color "red"
     ]
     node [
         id 43463
-        size 4
         label "Ry Cooder"
+        size 4
         color "red"
     ]
     node [
         id 682441
-        size 2
         label "Daniel Amos"
+        size 2
         color "red"
     ]
     node [
         id 4515
-        size 38
         label "Bill Haley & His Comets"
+        size 38
         color "red"
     ]
     node [
         id 2304468
-        size 11
         label "Rainbows Are Free"
+        size 11
         color "red"
     ]
     node [
         id 27093
-        size 1
         label "Gin Blossoms"
+        size 1
         color "red"
     ]
     node [
         id 829916
-        size 3
         label "Youth Lagoon"
+        size 3
         color "red"
     ]
     node [
         id 902906
-        size 1
         label "Mercedes Band"
+        size 1
         color "red"
     ]
     node [
         id 1567199
-        size 5
         label "The Walking Tree"
+        size 5
         color "red"
     ]
     node [
         id 1796578
-        size 2
         label "The Good Fellas"
+        size 2
         color "red"
     ]
     node [
         id 633321
-        size 2
         label "Vibrolux"
+        size 2
         color "red"
     ]
     node [
         id 1567210
-        size 1
         label "Spiritual Plague"
+        size 1
         color "red"
     ]
     node [
         id 10731
-        size 8
         label "Dire Straits"
+        size 8
         color "red"
     ]
     node [
         id 92655
-        size 1
         label "Motor"
+        size 1
         color "red"
     ]
     node [
         id 338420
-        size 2
         label "Chris Caffery"
+        size 2
         color "red"
     ]
     node [
         id 1321461
-        size 1
         label "Maziora The Band"
+        size 1
         color "red"
     ]
     node [
         id 2091510
-        size 0
         label "Rebekah Del Rio"
+        size 0
         color "red"
     ]
     node [
         id 1255927
-        size 9
         label "My Education"
+        size 9
         color "red"
     ]
     node [
         id 43519
-        size 6
         label "Silverchair"
+        size 6
         color "red"
     ]
     node [
         id 4352513
-        size 0
         label "Александр Мраза"
+        size 0
         color "red"
     ]
     node [
         id 1206788
-        size 16
         label "The Black Dahlia Murder"
+        size 16
         color "red"
     ]
     node [
         id 15446
-        size 5
         label "Kate Bush"
+        size 5
         color "red"
     ]
     node [
         id 1312513
-        size 2
         label "Rick Wakeman & Adam Wakeman"
+        size 2
         color "red"
     ]
     node [
         id 715274
-        size 2
         label "Spoons"
+        size 2
         color "red"
     ]
     node [
         id 2566669
-        size 0
         label "Jeff Gutt"
+        size 0
         color "red"
     ]
     node [
         id 92686
-        size 3
         label "Xiii. Stoleti"
+        size 3
         color "red"
     ]
     node [
         id 207377
-        size 9
         label "The Presidents of the United States of America"
+        size 9
         color "red"
     ]
     node [
         id 3271186
-        size 9
         label "Pevitsa Poreva"
+        size 9
         color "red"
     ]
     node [
         id 322068
-        size 1
         label "The Bell"
+        size 1
         color "red"
     ]
     node [
         id 138329
-        size 2
         label "William Control"
+        size 2
         color "red"
     ]
     node [
         id 1911321
-        size 5
         label "Avenger of Blood"
+        size 5
         color "red"
     ]
     node [
         id 1616414
-        size 1
         label "Their / They're / There"
+        size 1
         color "red"
     ]
     node [
         id 76319
-        size 0
         label "Lena Philipsson"
+        size 0
         color "red"
     ]
     node [
         id 27168
-        size 3
         label "The Wonder Stuff"
+        size 3
         color "red"
     ]
     node [
         id 2304550
-        size 3
         label "Steve Carlson"
+        size 3
         color "red"
     ]
     node [
         id 191019
-        size 0
         label "Bo Kaspers Orkester"
+        size 0
         color "red"
     ]
     node [
         id 299329
-        size 1
         label "Raptor"
+        size 1
         color "red"
     ]
     node [
         id 1911345
-        size 12
         label "Exmortus"
+        size 12
         color "red"
     ]
     node [
         id 10804
-        size 2
         label "Shawn Phillips"
+        size 2
         color "red"
     ]
     node [
         id 28729
-        size 1
         label "Oi Va Voi"
+        size 1
         color "red"
     ]
     node [
         id 1813046
-        size 25
         label "Al Estrada"
+        size 25
         color "red"
     ]
     node [
         id 2452028
-        size 14
         label "Blues Pills"
+        size 14
         color "red"
     ]
     node [
         id 2632253
-        size 4
         label "Foxing"
+        size 4
         color "red"
     ]
     node [
         id 617024
-        size 0
         label "The Modern Rock Heroes"
+        size 0
         color "red"
     ]
     node [
         id 1059393
-        size 2
         label "Girls Names"
+        size 2
         color "red"
     ]
     node [
         id 109122
-        size 5
         label "Cage The Elephant"
+        size 5
         color "red"
     ]
     node [
         id 92739
-        size 1
         label "Telephone"
+        size 1
         color "red"
     ]
     node [
         id 1845829
-        size 0
         label "Creed Bratton"
+        size 0
         color "red"
     ]
     node [
         id 181
-        size 2
         label "Sean Kelly"
+        size 2
         color "red"
     ]
     node [
         id 64609
-        size 18
         label "Agnostic Front"
+        size 18
         color "red"
     ]
     node [
         id 813640
-        size 0
         label "James Teej"
+        size 0
         color "red"
     ]
     node [
         id 10825
-        size 0
         label "Eric Martin"
+        size 0
         color "red"
     ]
     node [
         id 1223242
-        size 0
         label "Green Day Can You Rock Instructional"
+        size 0
         color "red"
     ]
     node [
         id 420427
-        size 1
         label "Guilt Machine"
+        size 1
         color "red"
     ]
     node [
         id 158290
-        size 2
         label "Mars"
+        size 2
         color "red"
     ]
     node [
         id 1741242
-        size 3
         label "The Megas"
+        size 3
         color "red"
     ]
     node [
         id 10846
-        size 0
         label "Justin Furstenfeld"
+        size 0
         color "red"
     ]
     node [
         id 92767
-        size 2
         label "Suburban Tribe"
+        size 2
         color "red"
     ]
     node [
         id 240224
-        size 1
         label "Such A Surge"
+        size 1
         color "red"
     ]
     node [
         id 207459
-        size 0
         label "The Union Underground"
+        size 0
         color "red"
     ]
     node [
         id 228454
-        size 8
         label "Drive-By Truckers"
+        size 8
         color "red"
     ]
     node [
         id 1124966
-        size 8
         label "Pela"
+        size 8
         color "red"
     ]
     node [
         id 1124967
-        size 2
         label "Microphones"
+        size 2
         color "red"
     ]
     node [
         id 43624
-        size 20
         label "Against All Odds"
+        size 20
         color "red"
     ]
     node [
         id 141930
-        size 1
         label "Fito y Fitipaldis"
+        size 1
         color "red"
     ]
     node [
         id 158317
-        size 12
         label "Russian Circles"
+        size 12
         color "red"
     ]
     node [
         id 633456
-        size 18
         label "Imperia"
+        size 18
         color "red"
     ]
     node [
         id 43633
-        size 0
         label "Daryl Stuermer"
+        size 0
         color "red"
     ]
     node [
         id 4057716
-        size 0
         label "Daryl Hall , John Oates"
+        size 0
         color "red"
     ]
     node [
         id 2697848
-        size 0
         label "Werner Nadolnys Jane"
+        size 0
         color "red"
     ]
     node [
         id 600697
-        size 4
         label "The Sleepwalkers"
+        size 4
         color "red"
     ]
     node [
         id 109179
-        size 21
         label "The Exies"
+        size 21
         color "red"
     ]
     node [
         id 39680
-        size 0
         label "Michael Anthony"
+        size 0
         color "red"
     ]
     node [
         id 2353796
-        size 3
         label "Sug"
+        size 3
         color "red"
     ]
     node [
         id 27270
-        size 6
         label "The Cowsills"
+        size 6
         color "red"
     ]
     node [
         id 1312536
-        size 1
         label "Mickey Finn's T-Rex"
+        size 1
         color "red"
     ]
     node [
         id 43666
-        size 30
         label "Bad Company"
+        size 30
         color "red"
     ]
     node [
         id 2812563
-        size 0
         label "Trade Wind"
+        size 0
         color "red"
     ]
     node [
         id 10900
-        size 14
         label "Tuomas Holopainen"
+        size 14
         color "red"
     ]
     node [
         id 649877
-        size 4
         label "Heaven's Basement"
+        size 4
         color "red"
     ]
     node [
         id 1918745
-        size 2
         label "Esoterica"
+        size 2
         color "red"
     ]
     node [
         id 223897
-        size 0
         label "Boom Boom Satellites"
+        size 0
         color "red"
     ]
     node [
         id 27291
-        size 4
         label "Strawberry Alarm Clock"
+        size 4
         color "red"
     ]
     node [
         id 1582874
-        size 5
         label "Dynazty"
+        size 5
         color "red"
     ]
     node [
         id 797348
-        size 0
         label "A Great Big Pile Of Leaves"
+        size 0
         color "red"
     ]
     node [
         id 600741
-        size 4
         label "Ancient VVisdom"
+        size 4
         color "red"
     ]
     node [
         id 207526
-        size 0
         label "Nik Page"
+        size 0
         color "red"
     ]
     node [
         id 92840
-        size 2
         label "The Radio"
+        size 2
         color "red"
     ]
     node [
         id 27305
-        size 3
         label "The Damned"
+        size 3
         color "red"
     ]
     node [
         id 600746
-        size 2
         label "Primevil"
+        size 2
         color "red"
     ]
     node [
         id 2042541
-        size 2
         label "Blue Aside"
+        size 2
         color "red"
     ]
     node [
         id 322223
-        size 0
         label "Mission Of Burma"
+        size 0
         color "red"
     ]
     node [
         id 1911475
-        size 0
         label "As It Is"
+        size 0
         color "red"
     ]
     node [
         id 608030
-        size 0
         label "Juliet Kiss"
+        size 0
         color "red"
     ]
     node [
         id 27319
-        size 2
         label "The Proclaimers"
+        size 2
         color "red"
     ]
     node [
         id 551609
-        size 17
         label "Sister Sin"
+        size 17
         color "red"
     ]
     node [
         id 7285
-        size 12
         label "To/Die/For"
+        size 12
         color "red"
     ]
     node [
         id 2091712
-        size 5
         label "Moes Haven"
+        size 5
         color "red"
     ]
     node [
         id 1174210
-        size 5
         label "The Foreshadowing"
+        size 5
         color "red"
     ]
     node [
         id 322245
-        size 1
         label "New Hope"
+        size 1
         color "red"
     ]
     node [
         id 191175
-        size 42
         label "AC/DC"
+        size 42
         color "red"
     ]
     node [
         id 27338
-        size 3
         label "The Story So Far"
+        size 3
         color "red"
     ]
     node [
         id 289484
-        size 1
         label "Darkthrone"
+        size 1
         color "red"
     ]
     node [
         id 763682
-        size 0
         label "Dark Forest"
+        size 0
         color "red"
     ]
     node [
         id 414157
-        size 0
         label "John Wetton & Geoffrey Downes"
+        size 0
         color "red"
     ]
     node [
         id 1157841
-        size 5
         label "Symphonic Rock Project"
+        size 5
         color "red"
     ]
     node [
         id 289490
-        size 18
         label "My Dying Bride"
+        size 18
         color "red"
     ]
     node [
         id 289491
-        size 0
         label "The Elders"
+        size 0
         color "red"
     ]
     node [
         id 2173653
-        size 0
         label "Lynn Stokes & Sol Surfers"
+        size 0
         color "red"
     ]
     node [
         id 15481
-        size 0
         label "Morten Harket"
+        size 0
         color "red"
     ]
     node [
         id 1075928
-        size 11
         label "One Year Later"
+        size 11
         color "red"
     ]
     node [
         id 1075929
-        size 10
         label "Pickin' On Series"
+        size 10
         color "red"
     ]
     node [
         id 326613
-        size 4
         label "Riblja Corba"
+        size 4
         color "red"
     ]
     node [
         id 1649373
-        size 6
         label "Tengger Cavalry"
+        size 6
         color "red"
     ]
     node [
         id 3418847
-        size 0
         label "Fandom"
+        size 0
         color "red"
     ]
     node [
         id 610768
-        size 0
         label "Various Artists - Killers Tribute"
+        size 0
         color "red"
     ]
     node [
         id 27363
-        size 28
         label "Avenged Sevenfold"
+        size 28
         color "red"
     ]
     node [
         id 977636
-        size 0
         label "VerMin"
+        size 0
         color "red"
     ]
     node [
         id 191206
-        size 7
         label "'Weird Al' Yankovic"
+        size 7
         color "red"
     ]
     node [
         id 191207
-        size 1
         label "Greg Kihn"
+        size 1
         color "red"
     ]
     node [
         id 633579
-        size 23
         label "Mors Principium Est"
+        size 23
         color "red"
     ]
     node [
         id 27372
-        size 2
         label "The Tragically Hip"
+        size 2
         color "red"
     ]
     node [
         id 666354
-        size 1
         label "Balance and Composure"
+        size 1
         color "red"
     ]
     node [
         id 273139
-        size 4
         label "Guitar Slingers"
+        size 4
         color "red"
     ]
     node [
         id 191222
-        size 2
         label "Jorma Kaukonen"
+        size 2
         color "red"
     ]
     node [
         id 2763511
-        size 1
         label "IO Echo"
+        size 1
         color "red"
     ]
     node [
         id 846584
-        size 0
         label "Damion"
+        size 0
         color "red"
     ]
     node [
         id 127444
-        size 21
         label "Mägo De Oz"
+        size 21
         color "red"
     ]
     node [
         id 305917
-        size 9
         label "Eisregen"
+        size 9
         color "red"
     ]
     node [
         id 27391
-        size 1
         label "Caravan"
+        size 1
         color "red"
     ]
     node [
         id 11008
-        size 2
         label "John Wetton"
+        size 2
         color "red"
     ]
     node [
         id 682753
-        size 5
         label "Dave Sharman"
+        size 5
         color "red"
     ]
     node [
         id 453385
-        size 0
         label "Studio Sunset"
+        size 0
         color "red"
     ]
     node [
         id 158474
-        size 0
         label "Lee Michaels"
+        size 0
         color "red"
     ]
     node [
         id 76558
-        size 11
         label "Citizen Cope"
+        size 11
         color "red"
     ]
     node [
         id 76559
-        size 2
         label "Grant Nicholas"
+        size 2
         color "red"
     ]
     node [
         id 76560
-        size 7
         label "Feeder"
+        size 7
         color "red"
     ]
     node [
         id 11025
-        size 44
         label "AFI"
+        size 44
         color "red"
     ]
     node [
         id 191252
-        size 2
         label "Lit"
+        size 2
         color "red"
     ]
     node [
         id 2124565
-        size 16
         label "Sons Not Beggars"
+        size 16
         color "red"
     ]
     node [
         id 168409
-        size 6
         label "Rome"
+        size 6
         color "red"
     ]
     node [
         id 191256
-        size 4
         label "Jefferson Starship"
+        size 4
         color "red"
     ]
     node [
         id 27420
-        size 0
         label "Myles Kennedy"
+        size 0
         color "red"
     ]
     node [
         id 43805
-        size 22
         label "Winger"
+        size 22
         color "red"
     ]
     node [
         id 1829665
-        size 0
         label "Gary Alt"
+        size 0
         color "red"
     ]
     node [
         id 158498
-        size 23
         label "Sleeping With Sirens"
+        size 23
         color "red"
     ]
     node [
         id 2108195
-        size 3
         label "Jimkata"
+        size 3
         color "red"
     ]
     node [
         id 1796904
-        size 2
         label "Kingsley Flood"
+        size 2
         color "red"
     ]
     node [
         id 2566954
-        size 1
         label "Universal Sound Machine"
+        size 1
         color "red"
     ]
     node [
         id 650027
-        size 10
         label "Eyes Set To Kill"
+        size 10
         color "red"
     ]
     node [
         id 1567533
-        size 0
         label "Ninja Sex Party"
+        size 0
         color "red"
     ]
     node [
         id 633646
-        size 18
         label "The Casualties"
+        size 18
         color "red"
     ]
     node [
         id 551728
-        size 9
         label "Hazy Hamlet"
+        size 9
         color "red"
     ]
     node [
         id 551729
-        size 0
         label "Weak Aside"
+        size 0
         color "red"
     ]
     node [
         id 764723
-        size 1
         label "Belasco"
+        size 1
         color "red"
     ]
     node [
         id 3746617
-        size 0
         label "Nathaniel Rateliff & The Night Sweats"
+        size 0
         color "red"
     ]
     node [
         id 27451
-        size 14
         label "Hole"
+        size 14
         color "red"
     ]
     node [
         id 48266
-        size 10
         label "The Darkness"
+        size 10
         color "red"
     ]
     node [
         id 43838
-        size 33
         label "Yes"
+        size 33
         color "red"
     ]
     node [
         id 43839
-        size 8
         label "Steve Howe"
+        size 8
         color "red"
     ]
     node [
         id 125760
-        size 0
         label "Dead By Sunrise"
+        size 0
         color "red"
     ]
     node [
         id 43841
-        size 11
         label "Chris Squire"
+        size 11
         color "red"
     ]
     node [
         id 1174339
-        size 9
         label "Octavia Sperati"
+        size 9
         color "red"
     ]
     node [
         id 43844
-        size 4
         label "Tony Kaye"
+        size 4
         color "red"
     ]
     node [
         id 27461
-        size 30
         label "The Stooges"
+        size 30
         color "red"
     ]
     node [
         id 1174343
-        size 1
         label "Lost Eden"
+        size 1
         color "red"
     ]
     node [
         id 11080
-        size 0
         label "Windsor For The Derby"
+        size 0
         color "red"
     ]
     node [
         id 125769
-        size 8
         label "Excel"
+        size 8
         color "red"
     ]
     node [
         id 322378
-        size 1
         label "Ex Deo"
+        size 1
         color "red"
     ]
     node [
         id 1387340
-        size 21
         label "Horisont"
+        size 21
         color "red"
     ]
     node [
         id 2042701
-        size 1
         label "Colepitz"
+        size 1
         color "red"
     ]
     node [
         id 682830
-        size 5
         label "Jeff Kollman"
+        size 5
         color "red"
     ]
     node [
         id 905699
-        size 10
         label "Evocation"
+        size 10
         color "red"
     ]
     node [
         id 27477
-        size 18
         label "Patrick Wolf"
+        size 18
         color "red"
     ]
     node [
         id 27478
-        size 1
         label "Teenage Fanclub"
+        size 1
         color "red"
     ]
     node [
         id 304953
-        size 7
         label "Seksendört"
+        size 7
         color "red"
     ]
     node [
         id 11097
-        size 17
         label "Gang Of Four"
+        size 17
         color "red"
     ]
     node [
         id 11098
-        size 1
         label "Bow Wow Wow"
+        size 1
         color "red"
     ]
     node [
         id 310416
-        size 4
         label "Ereb Altor"
+        size 4
         color "red"
     ]
     node [
         id 11107
-        size 21
         label "The Strokes"
+        size 21
         color "red"
     ]
     node [
         id 27494
-        size 6
         label "Lou Gramm"
+        size 6
         color "red"
     ]
     node [
         id 27495
-        size 0
         label "Marc Cohn"
+        size 0
         color "red"
     ]
     node [
         id 453480
-        size 14
         label "Борис Гребенщиков"
+        size 14
         color "red"
     ]
     node [
         id 1852
-        size 6
         label "Richie Sambora"
+        size 6
         color "red"
     ]
     node [
         id 3255146
-        size 0
         label "TV House Band"
+        size 0
         color "red"
     ]
     node [
         id 1583979
-        size 2
         label "Red Nova"
+        size 2
         color "red"
     ]
     node [
         id 76652
-        size 9
         label "Maxeen"
+        size 9
         color "red"
     ]
     node [
         id 1649518
-        size 0
         label "Pellek"
+        size 0
         color "red"
     ]
     node [
         id 3384510
-        size 0
         label "Masakichi"
+        size 0
         color "red"
     ]
     node [
         id 334995
-        size 5
         label "Nothing"
+        size 5
         color "red"
     ]
     node [
         id 1315182
-        size 7
         label "Colour Haze"
+        size 7
         color "red"
     ]
     node [
         id 584566
-        size 17
         label "Textures"
+        size 17
         color "red"
     ]
     node [
         id 1053161
-        size 0
         label "The Fabulous Wailers"
+        size 0
         color "red"
     ]
     node [
         id 306041
-        size 15
         label "Stormwitch"
+        size 15
         color "red"
     ]
     node [
         id 11137
-        size 11
         label "Cocteau Twins"
+        size 11
         color "red"
     ]
     node [
         id 453507
-        size 4
         label "#1 Beatles Now"
+        size 4
         color "red"
     ]
     node [
         id 2639269
-        size 0
         label "7Horse"
+        size 0
         color "red"
     ]
     node [
         id 1305482
-        size 2
         label "Lydia Miny"
+        size 2
         color "red"
     ]
     node [
         id 273294
-        size 1
         label "Swervedriver"
+        size 1
         color "red"
     ]
     node [
         id 600975
-        size 3
         label "Lucid Nation"
+        size 3
         color "red"
     ]
     node [
         id 600976
-        size 0
         label "Rose Of Avalanche"
+        size 0
         color "red"
     ]
     node [
         id 76691
-        size 34
         label "The Everly Brothers"
+        size 34
         color "red"
     ]
     node [
         id 76694
-        size 2
         label "Giant"
+        size 2
         color "red"
     ]
     node [
         id 76695
-        size 5
         label "Bill Justis"
+        size 5
         color "red"
     ]
     node [
         id 633756
-        size 16
         label "Satan's Pilgrims"
+        size 16
         color "red"
     ]
     node [
         id 289695
-        size 1
         label "Retard-O-Bot"
+        size 1
         color "red"
     ]
     node [
         id 43940
-        size 6
         label "Athenaeum"
+        size 6
         color "red"
     ]
     node [
         id 732070
-        size 2
         label "At The Skylines"
+        size 2
         color "red"
     ]
     node [
         id 298796
-        size 1
         label "Jive Bunny And The Mastermixers"
+        size 1
         color "red"
     ]
     node [
         id 289709
-        size 6
         label "Loop"
+        size 6
         color "red"
     ]
     node [
         id 289710
-        size 3
         label "Sinamore"
+        size 3
         color "red"
     ]
     node [
         id 3173295
-        size 2
         label "Илья Лагутенко"
+        size 2
         color "red"
     ]
     node [
         id 158644
-        size 8
         label "Write This Down"
+        size 8
         color "red"
     ]
     node [
         id 1584053
-        size 3
         label "The Legendary Raw Deal"
+        size 3
         color "red"
     ]
     node [
         id 40555
-        size 0
         label "Nada"
+        size 0
         color "red"
     ]
     node [
         id 2403258
-        size 1
         label "Bruto"
+        size 1
         color "red"
     ]
     node [
         id 29235
-        size 2
         label "Living Colour"
+        size 2
         color "red"
     ]
     node [
         id 583498
-        size 28
         label "The National"
+        size 28
         color "red"
     ]
     node [
         id 3173312
-        size 0
         label "Too Close To Touch"
+        size 0
         color "red"
     ]
     node [
         id 1600449
-        size 0
         label "The Very Very Awesome Song Band"
+        size 0
         color "red"
     ]
     node [
         id 289731
-        size 10
         label "Saint Vitus"
+        size 10
         color "red"
     ]
     node [
         id 1800100
-        size 7
         label "The Surf Rats"
+        size 7
         color "red"
     ]
     node [
         id 329548
-        size 1
         label "Dignity"
+        size 1
         color "red"
     ]
     node [
         id 764874
-        size 13
         label "The Heartbreakers"
+        size 13
         color "red"
     ]
     node [
         id 142283
-        size 8
         label "LoveHateHero"
+        size 8
         color "red"
     ]
     node [
         id 1649613
-        size 3
         label "The Guy Who Sings Your Name Over and Over"
+        size 3
         color "red"
     ]
     node [
         id 43983
-        size 5
         label "Fountains Of Wayne"
+        size 5
         color "red"
     ]
     node [
         id 1797074
-        size 12
         label "Lookin 4 Juice"
+        size 12
         color "red"
     ]
     node [
         id 1547427
-        size 1
         label "The International Classic Rock Orchestra"
+        size 1
         color "red"
     ]
     node [
         id 76757
-        size 2
         label "The Blue Nile"
+        size 2
         color "red"
     ]
     node [
         id 93144
-        size 4
         label "Des'ree"
+        size 4
         color "red"
     ]
     node [
         id 142299
-        size 11
         label "Hester Prynne"
+        size 11
         color "red"
     ]
     node [
         id 27613
-        size 0
         label "Shawn Colvin"
+        size 0
         color "red"
     ]
     node [
         id 2386910
-        size 4
         label "Seven Seals"
+        size 4
         color "red"
     ]
     node [
         id 11232
-        size 50
         label "Johnny Cash"
+        size 50
         color "red"
     ]
     node [
         id 142305
-        size 1
         label "Factory Of Dreams"
+        size 1
         color "red"
     ]
     node [
         id 338916
-        size 1
         label "Ahab"
+        size 1
         color "red"
     ]
     node [
         id 42834
-        size 0
         label "Gary Lucas"
+        size 0
         color "red"
     ]
     node [
         id 142318
-        size 2
         label "Oliver Wakeman"
+        size 2
         color "red"
     ]
     node [
         id 105640
-        size 6
         label "Naked Eyes"
+        size 6
         color "red"
     ]
     node [
         id 2747379
-        size 0
         label "Dean Lewis"
+        size 0
         color "red"
     ]
     node [
         id 2452468
-        size 0
         label "Solus"
+        size 0
         color "red"
     ]
     node [
         id 94718
-        size 0
         label "Patrick Bruel"
+        size 0
         color "red"
     ]
     node [
         id 359593
-        size 7
         label "Круиз"
+        size 7
         color "red"
     ]
     node [
         id 27642
-        size 1
         label "Michael Sembello"
+        size 1
         color "red"
     ]
     node [
         id 11262
-        size 0
         label "Juice Newton"
+        size 0
         color "red"
     ]
     node [
         id 27649
-        size 0
         label "Tiffany"
+        size 0
         color "red"
     ]
     node [
         id 289797
-        size 5
         label "Studio 99"
+        size 5
         color "red"
     ]
     node [
         id 1223689
-        size 0
         label "The Scorched Earth Orchestra"
+        size 0
         color "red"
     ]
     node [
         id 142348
-        size 9
         label "The Color Morale"
+        size 9
         color "red"
     ]
     node [
         id 273423
-        size 4
         label "Nomy"
+        size 4
         color "red"
     ]
     node [
         id 257040
-        size 1
         label "Von Hertzen Brothers"
+        size 1
         color "red"
     ]
     node [
         id 1567761
-        size 3
         label "Silence is Sexy"
+        size 3
         color "red"
     ]
     node [
         id 109586
-        size 0
         label "Morgenstern"
+        size 0
         color "red"
     ]
     node [
         id 45571
-        size 0
         label "Charles Wright & The Watts 103rd. Street Rhythm Band"
+        size 0
         color "red"
     ]
     node [
         id 1158168
-        size 6
         label "Causa Sui"
+        size 6
         color "red"
     ]
     node [
         id 289821
-        size 4
         label "The Pistolas"
+        size 4
         color "red"
     ]
     node [
         id 125984
-        size 0
         label "Waltari"
+        size 0
         color "red"
     ]
     node [
         id 224291
-        size 13
         label "All Ends"
+        size 13
         color "red"
     ]
     node [
         id 289832
-        size 0
         label "Hollywood Rose"
+        size 0
         color "red"
     ]
     node [
         id 420905
-        size 0
         label "Lecherous Gaze"
+        size 0
         color "red"
     ]
     node [
         id 289835
-        size 6
         label "Twisted Tower Dire"
+        size 6
         color "red"
     ]
     node [
         id 289836
-        size 1
         label "Racer X"
+        size 1
         color "red"
     ]
     node [
         id 289837
-        size 38
         label "Primal Fear"
+        size 38
         color "red"
     ]
     node [
         id 125998
-        size 10
         label "Harem Scarem"
+        size 10
         color "red"
     ]
     node [
         id 11311
-        size 26
         label "Guns N' Roses"
+        size 26
         color "red"
     ]
     node [
         id 289840
-        size 1
         label "Order Of Nine"
+        size 1
         color "red"
     ]
     node [
         id 11314
-        size 15
         label "Slash"
+        size 15
         color "red"
     ]
     node [
         id 289843
-        size 2
         label "Icarus Witch"
+        size 2
         color "red"
     ]
     node [
         id 289844
-        size 4
         label "Agent Steel"
+        size 4
         color "red"
     ]
     node [
         id 11317
-        size 0
         label "Duff McKagan"
+        size 0
         color "red"
     ]
     node [
         id 109622
-        size 12
         label "Alcatrazz"
+        size 12
         color "red"
     ]
     node [
         id 1125432
-        size 11
         label "My Sleeping Karma"
+        size 11
         color "red"
     ]
     node [
         id 617530
-        size 23
         label "Soundclash"
+        size 23
         color "red"
     ]
     node [
         id 306238
-        size 0
         label "Dead Moon"
+        size 0
         color "red"
     ]
     node [
         id 2632767
-        size 8
         label "Blessing a Curse"
+        size 8
         color "red"
     ]
     node [
         id 289860
-        size 0
         label "The Elysian Fields"
+        size 0
         color "red"
     ]
     node [
         id 306246
-        size 4
         label "Voltaire"
+        size 4
         color "red"
     ]
     node [
         id 27719
-        size 9
         label "Wishbone Ash"
+        size 9
         color "red"
     ]
     node [
         id 1027144
-        size 0
         label "Lodz"
+        size 0
         color "red"
     ]
     node [
         id 1256521
-        size 0
         label "Pete Molinari"
+        size 0
         color "red"
     ]
     node [
         id 1190988
-        size 0
         label "CMH World"
+        size 0
         color "red"
     ]
     node [
         id 1116002
-        size 14
         label "Torben Enevoldsen"
+        size 14
         color "red"
     ]
     node [
         id 306257
-        size 2
         label "Grand National"
+        size 2
         color "red"
     ]
     node [
         id 4025426
-        size 4
         label "Gum"
+        size 4
         color "red"
     ]
     node [
         id 1584211
-        size 4
         label "Finsterforst"
+        size 4
         color "red"
     ]
     node [
         id 27733
-        size 6
         label "The Shangri-Las"
+        size 6
         color "red"
     ]
     node [
         id 699480
-        size 2
         label "Ultimate Tribute Stars"
+        size 2
         color "red"
     ]
     node [
         id 27737
-        size 7
         label "Lou Christie"
+        size 7
         color "red"
     ]
     node [
         id 1600603
-        size 1
         label "Patria"
+        size 1
         color "red"
     ]
     node [
         id 1158237
-        size 6
         label "Brutal Truth"
+        size 6
         color "red"
     ]
     node [
         id 296805
-        size 0
         label "The Clientele"
+        size 0
         color "red"
     ]
     node [
         id 142433
-        size 21
         label "Asking Alexandria"
+        size 21
         color "red"
     ]
     node [
         id 2632803
-        size 0
         label "Dark Country"
+        size 0
         color "red"
     ]
     node [
         id 355429
-        size 4
         label "Model"
+        size 4
         color "red"
     ]
     node [
         id 1322087
-        size 12
         label "Paddy And The Rats"
+        size 12
         color "red"
     ]
     node [
         id 912489
-        size 0
         label "De La Cruz"
+        size 0
         color "red"
     ]
     node [
         id 781420
-        size 0
         label "The Krolls"
+        size 0
         color "red"
     ]
     node [
         id 1289330
-        size 15
         label "Poor Genetic Material"
+        size 15
         color "red"
     ]
     node [
         id 11380
-        size 0
         label "John Prine"
+        size 0
         color "red"
     ]
     node [
         id 633973
-        size 1
         label "Lilys"
+        size 1
         color "red"
     ]
     node [
         id 886922
-        size 1
         label "Unswabbed"
+        size 1
         color "red"
     ]
     node [
         id 11389
-        size 2
         label "Lindsey Buckingham"
+        size 2
         color "red"
     ]
     node [
         id 11391
-        size 0
         label "Philip Bailey"
+        size 0
         color "red"
     ]
     node [
         id 140285
-        size 5
         label "Marina And The Diamonds"
+        size 5
         color "red"
     ]
     node [
         id 2550913
-        size 0
         label "Невидимки, смотрящие на ботинки"
+        size 0
         color "red"
     ]
     node [
         id 1748099
-        size 1
         label "Graveyard BBQ"
+        size 1
         color "red"
     ]
     node [
         id 15897
-        size 3
         label "John Hiatt"
+        size 3
         color "red"
     ]
     node [
         id 44167
-        size 9
         label "Billy Talent"
+        size 9
         color "red"
     ]
     node [
         id 1420424
-        size 3
         label "Bleached"
+        size 3
         color "red"
     ]
     node [
         id 60554
-        size 5
         label "You"
+        size 5
         color "red"
     ]
     node [
         id 44176
-        size 2
         label "O.A.R."
+        size 2
         color "red"
     ]
     node [
         id 225816
-        size 4
         label "GOB"
+        size 4
         color "red"
     ]
     node [
         id 879762
-        size 2
         label "Citron"
+        size 2
         color "red"
     ]
     node [
         id 1902
-        size 12
         label "Eagles Of Death Metal"
+        size 12
         color "red"
     ]
     node [
         id 306326
-        size 14
         label "Enthroned"
+        size 14
         color "red"
     ]
     node [
         id 355482
-        size 19
         label "Sylar"
+        size 19
         color "red"
     ]
     node [
         id 1961115
-        size 4
         label "At A Downfall"
+        size 4
         color "red"
     ]
     node [
         id 192250
-        size 3
         label "John Wesley"
+        size 3
         color "red"
     ]
     node [
         id 322723
-        size 7
         label "Parni Valjak"
+        size 7
         color "red"
     ]
     node [
         id 3026086
-        size 0
         label "Firehouse"
+        size 0
         color "red"
     ]
     node [
         id 1361777
-        size 0
         label "The Soulbreaker Company"
+        size 0
         color "red"
     ]
     node [
         id 251886
-        size 1
         label "Pulse Ultra"
+        size 1
         color "red"
     ]
     node [
         id 879787
-        size 6
         label "Extreme Noise Terror"
+        size 6
         color "red"
     ]
     node [
         id 11437
-        size 0
         label "Labi Siffre"
+        size 0
         color "red"
     ]
     node [
         id 27822
-        size 5
         label "Cinema Bizarre"
+        size 5
         color "red"
     ]
     node [
         id 1961136
-        size 2
         label "Atari Terror"
+        size 2
         color "red"
     ]
     node [
         id 2292936
-        size 0
         label "Circus Dawn"
+        size 0
         color "red"
     ]
     node [
         id 289970
-        size 9
         label "Razed in Black"
+        size 9
         color "red"
     ]
     node [
         id 961725
-        size 0
         label "Gil Bateman"
+        size 0
         color "red"
     ]
     node [
         id 1486014
-        size 3
         label "Biters"
+        size 3
         color "red"
     ]
     node [
         id 27839
-        size 1
         label "Kaki King"
+        size 1
         color "red"
     ]
     node [
         id 453825
-        size 2
         label "The Struts"
+        size 2
         color "red"
     ]
     node [
         id 1797314
-        size 3
         label "The Hard Goodbye"
+        size 3
         color "red"
     ]
     node [
         id 187595
-        size 2
         label "Happoradio"
+        size 2
         color "red"
     ]
     node [
         id 2141382
-        size 1
         label "Robbi Spencer"
+        size 1
         color "red"
     ]
     node [
         id 11464
-        size 5
         label "Al Kooper"
+        size 5
         color "red"
     ]
     node [
         id 27849
-        size 1
         label "Don Dixon"
+        size 1
         color "red"
     ]
     node [
         id 132983
-        size 5
         label "The Trashmen"
+        size 5
         color "red"
     ]
     node [
         id 3796175
-        size 0
         label "Jonathan Davis & The SFA"
+        size 0
         color "red"
     ]
     node [
         id 12515
-        size 0
         label "The Handsome Family"
+        size 0
         color "red"
     ]
     node [
         id 77010
-        size 1
         label "The Fabulous Thunderbirds"
+        size 1
         color "red"
     ]
     node [
         id 1289434
-        size 1
         label "Dead Eyes Open"
+        size 1
         color "red"
     ]
     node [
         id 158939
-        size 6
         label "Cornerstone"
+        size 6
         color "red"
     ]
     node [
         id 44252
-        size 39
         label "P.O.D."
+        size 39
         color "red"
     ]
     node [
         id 845690
-        size 1
         label "Persiana Jones"
+        size 1
         color "red"
     ]
     node [
         id 77023
-        size 1
         label "John Cougar Mellencamp"
+        size 1
         color "red"
     ]
     node [
         id 725564
-        size 4
         label "The Dirty Youth"
+        size 4
         color "red"
     ]
     node [
         id 77025
-        size 0
         label "Starship"
+        size 0
         color "red"
     ]
     node [
         id 44258
-        size 1
         label "Kill Hannah"
+        size 1
         color "red"
     ]
     node [
         id 44260
-        size 5
         label "The Stills"
+        size 5
         color "red"
     ]
     node [
         id 158949
-        size 14
         label "The Dead Weather"
+        size 14
         color "red"
     ]
     node [
         id 503015
-        size 2
         label "Still Collins"
+        size 2
         color "red"
     ]
     node [
         id 306408
-        size 14
         label "Insect Surfers"
+        size 14
         color "red"
     ]
     node [
         id 306411
-        size 5
         label "No-Man"
+        size 5
         color "red"
     ]
     node [
         id 142572
-        size 4
         label "Mor ve Ötesi"
+        size 4
         color "red"
     ]
     node [
         id 339181
-        size 2
         label "The Jodimars"
+        size 2
         color "red"
     ]
     node [
         id 27887
-        size 2
         label "Dan Fogelberg"
+        size 2
         color "red"
     ]
     node [
         id 4648
-        size 5
         label "The Box Tops"
+        size 5
         color "red"
     ]
     node [
         id 25479
-        size 1
         label "All About Eve"
+        size 1
         color "red"
     ]
     node [
         id 453878
-        size 1
         label "Tom & Jerry"
+        size 1
         color "red"
     ]
     node [
         id 23764
-        size 3
         label "Eric Krasno"
+        size 3
         color "red"
     ]
     node [
         id 355579
-        size 0
         label "Dan Phillipson"
+        size 0
         color "red"
     ]
     node [
         id 765183
-        size 5
         label "Light This City"
+        size 5
         color "red"
     ]
     node [
         id 371969
-        size 1
         label "Bullit"
+        size 1
         color "red"
     ]
     node [
         id 77059
-        size 29
         label "Pixies"
+        size 29
         color "red"
     ]
     node [
         id 1322248
-        size 3
         label "Umut Kaya"
+        size 3
         color "red"
     ]
     node [
         id 29228
-        size 14
         label "Flyleaf"
+        size 14
         color "red"
     ]
     node [
         id 1158412
-        size 11
         label "Mouth Of The Architect"
+        size 11
         color "red"
     ]
     node [
         id 627245
-        size 0
         label "The Royal Rock Stars"
+        size 0
         color "red"
     ]
     node [
         id 11540
-        size 29
         label "Jon Lord"
+        size 29
         color "red"
     ]
     node [
         id 11541
-        size 15
         label "Ian Paice"
+        size 15
         color "red"
     ]
     node [
         id 961814
-        size 0
         label "Sea Level"
+        size 0
         color "red"
     ]
     node [
         id 193071
-        size 2
         label "Parry Gripp"
+        size 2
         color "red"
     ]
     node [
         id 676573
-        size 5
         label "Андрей Смирнов"
+        size 5
         color "red"
     ]
     node [
         id 77089
-        size 3
         label "The Beat Farmers"
+        size 3
         color "red"
     ]
     node [
         id 77095
-        size 7
         label "The Electric Prunes"
+        size 7
         color "red"
     ]
     node [
         id 11560
-        size 4
         label "Lamb"
+        size 4
         color "red"
     ]
     node [
         id 585001
-        size 6
         label "Fish!"
+        size 6
         color "red"
     ]
     node [
         id 1763207
-        size 0
         label "Phi Yaan-Zek"
+        size 0
         color "red"
     ]
     node [
         id 307762
-        size 1
         label "Figure Of Six"
+        size 1
         color "red"
     ]
     node [
         id 208174
-        size 1
         label "Maximo Park"
+        size 1
         color "red"
     ]
     node [
         id 798003
-        size 9
         label "Luca Turilli's Rhapsody"
+        size 9
         color "red"
     ]
     node [
         id 27956
-        size 8
         label "Blue Öyster Cult"
+        size 8
         color "red"
     ]
     node [
         id 4620230
-        size 2
         label "The Iron Bees"
+        size 2
         color "red"
     ]
     node [
         id 905780
-        size 0
         label "Russell Allen"
+        size 0
         color "red"
     ]
     node [
         id 34698
-        size 7
         label "The Boys"
+        size 7
         color "red"
     ]
     node [
         id 1994047
-        size 0
         label "Pastor Brad"
+        size 0
         color "red"
     ]
     node [
         id 208193
-        size 1
         label "Jeremy"
+        size 1
         color "red"
     ]
     node [
         id 60739
-        size 0
         label "Bruder"
+        size 0
         color "red"
     ]
     node [
         id 306500
-        size 16
         label "Serenity"
+        size 16
         color "red"
     ]
     node [
         id 1977669
-        size 0
         label "The Red Romance"
+        size 0
         color "red"
     ]
     node [
         id 535878
-        size 0
         label "Memento"
+        size 0
         color "red"
     ]
     node [
         id 159048
-        size 2
         label "Gorguts"
+        size 2
         color "red"
     ]
     node [
         id 372043
-        size 6
         label "Nyers"
+        size 6
         color "red"
     ]
     node [
         id 257356
-        size 7
         label "Master"
+        size 7
         color "red"
     ]
     node [
         id 1371472
-        size 4
         label "The Daysleepers"
+        size 4
         color "red"
     ]
     node [
         id 1617233
-        size 5
         label "Modern Echo"
+        size 5
         color "red"
     ]
     node [
         id 27990
-        size 1
         label "Crashdiet"
+        size 1
         color "red"
     ]
     node [
         id 3972324
-        size 8
         label "Arena"
+        size 8
         color "red"
     ]
     node [
         id 1420636
-        size 0
         label "Dany Logan et les Pirates"
+        size 0
         color "red"
     ]
     node [
         id 617821
-        size 9
         label "Cosmic Noise"
+        size 9
         color "red"
     ]
     node [
         id 1650014
-        size 29
         label "White Wizzard"
+        size 29
         color "red"
     ]
     node [
         id 431383
-        size 2
         label "Ray Campi"
+        size 2
         color "red"
     ]
     node [
         id 1174882
-        size 1
         label "Tommy Guerrero"
+        size 1
         color "red"
     ]
     node [
         id 1977699
-        size 2
         label "Chinawhite"
+        size 2
         color "red"
     ]
     node [
         id 470373
-        size 0
         label "Domain"
+        size 0
         color "red"
     ]
     node [
         id 191849
-        size 3
         label "Johnny Cash & the Tennessee Two"
+        size 3
         color "red"
     ]
     node [
         id 159082
-        size 6
         label "Hail The Villain"
+        size 6
         color "red"
     ]
     node [
         id 1375463
-        size 2
         label "Junius"
+        size 2
         color "red"
     ]
     node [
         id 159087
-        size 9
         label "Dog Eat Dog"
+        size 9
         color "red"
     ]
     node [
         id 44401
-        size 2
         label "Arthur Lee"
+        size 2
         color "red"
     ]
     node [
         id 1939
-        size 4
         label "Shitdisco"
+        size 4
         color "red"
     ]
     node [
         id 617846
-        size 0
         label "Major Tom Band"
+        size 0
         color "red"
     ]
     node [
         id 902752
-        size 0
         label "The black noodle project"
+        size 0
         color "red"
     ]
     node [
         id 168511
-        size 1
         label "Off With Their  Heads"
+        size 1
         color "red"
     ]
     node [
         id 290172
-        size 1
         label "Godheads"
+        size 1
         color "red"
     ]
     node [
         id 4672
-        size 25
         label "Cream"
+        size 25
         color "red"
     ]
     node [
         id 290178
-        size 0
         label "The Hollaback Girls"
+        size 0
         color "red"
     ]
     node [
         id 3255684
-        size 3
         label "Tenside"
+        size 3
         color "red"
     ]
     node [
         id 127553
-        size 0
         label "Duane Allman"
+        size 0
         color "red"
     ]
     node [
         id 306572
-        size 4
         label "Throwdown"
+        size 4
         color "red"
     ]
     node [
         id 2010509
-        size 2
         label "Saris"
+        size 2
         color "red"
     ]
     node [
         id 28046
-        size 1
         label "The Teardrop Explodes"
+        size 1
         color "red"
     ]
     node [
         id 28049
-        size 6
         label "Milburn"
+        size 6
         color "red"
     ]
     node [
         id 93588
-        size 0
         label "Ace"
+        size 0
         color "red"
     ]
     node [
         id 1568153
-        size 1
         label "The Dynamite Pussy Club"
+        size 1
         color "red"
     ]
     node [
         id 3894682
-        size 0
         label "Виа Харлi"
+        size 0
         color "red"
     ]
     node [
         id 650651
-        size 2
         label "Red Sparowes"
+        size 2
         color "red"
     ]
     node [
         id 634268
-        size 4
         label "Miss Fortune"
+        size 4
         color "red"
     ]
     node [
         id 109987
-        size 4
         label "Cockney Rejects"
+        size 4
         color "red"
     ]
     node [
         id 191911
-        size 4
         label "Southern Culture On The Skids"
+        size 4
         color "red"
     ]
     node [
         id 172242
-        size 6
         label "Lissie"
+        size 6
         color "red"
     ]
     node [
         id 1109418
-        size 2
         label "Final Story"
+        size 2
         color "red"
     ]
     node [
         id 12871
-        size 6
         label "Audioslave"
+        size 6
         color "red"
     ]
     node [
         id 388525
-        size 0
         label "Sweet Billy Pilgrim"
+        size 0
         color "red"
     ]
     node [
         id 28083
-        size 0
         label "Ryan Bingham"
+        size 0
         color "red"
     ]
     node [
         id 11700
-        size 3
         label "Ange"
+        size 3
         color "red"
     ]
     node [
         id 601525
-        size 0
         label "Various Artists - Creedence Clearwater Revival Tribute"
+        size 0
         color "red"
     ]
     node [
         id 1060279
-        size 11
         label "Her Bright Skies"
+        size 11
         color "red"
     ]
     node [
         id 11704
-        size 0
         label "Lloyd Cole And The Commotions"
+        size 0
         color "red"
     ]
     node [
         id 110009
-        size 9
         label "The Exploited"
+        size 9
         color "red"
     ]
     node [
         id 290234
-        size 10
         label "Inkubus Sukkubus"
+        size 10
         color "red"
     ]
     node [
         id 1306046
-        size 2
         label "Tribe 8"
+        size 2
         color "red"
     ]
     node [
         id 201254
-        size 0
         label "Henry Kaiser"
+        size 0
         color "red"
     ]
     node [
         id 2092482
-        size 1
         label "Tango Alpha Tango"
+        size 1
         color "red"
     ]
     node [
         id 290244
-        size 4
         label "Brainticket"
+        size 4
         color "red"
     ]
     node [
         id 370593
-        size 1
         label "Bolero"
+        size 1
         color "red"
     ]
     node [
         id 4684
-        size 8
         label "Procol Harum"
+        size 8
         color "red"
     ]
     node [
         id 40762
-        size 0
         label "Alan Vega"
+        size 0
         color "red"
     ]
     node [
         id 323020
-        size 2
         label "Erkin Koray"
+        size 2
         color "red"
     ]
     node [
         id 2420175
-        size 0
         label "Ключевая"
+        size 0
         color "red"
     ]
     node [
         id 306640
-        size 4
         label "Cobalt"
+        size 4
         color "red"
     ]
     node [
         id 1535441
-        size 10
         label "The Rubens"
+        size 10
         color "red"
     ]
     node [
         id 1076691
-        size 9
         label "Girl On Fire"
+        size 9
         color "red"
     ]
     node [
         id 2420180
-        size 4
         label "Абвиотура"
+        size 4
         color "red"
     ]
     node [
         id 1486293
-        size 1
         label "William Ryan Fritch"
+        size 1
         color "red"
     ]
     node [
         id 4451800
-        size 2
         label "Ам Чёнски"
+        size 2
         color "red"
     ]
     node [
         id 20031
-        size 8
         label "Counting Crows"
+        size 8
         color "red"
     ]
     node [
         id 102991
-        size 0
         label "Head"
+        size 0
         color "red"
     ]
     node [
         id 110044
-        size 17
         label "You Me At Six"
+        size 17
         color "red"
     ]
     node [
         id 1076702
-        size 0
         label "Skyfall"
+        size 0
         color "red"
     ]
     node [
         id 1158623
-        size 1
         label "Rabbit Junk"
+        size 1
         color "red"
     ]
     node [
         id 28128
-        size 5
         label "She Wants Revenge"
+        size 5
         color "red"
     ]
     node [
         id 4386273
-        size 0
         label "Лешак"
+        size 0
         color "red"
     ]
     node [
         id 290274
-        size 8
         label "Leæther Strip"
+        size 8
         color "red"
     ]
     node [
         id 454115
-        size 6
         label "Icon For Hire"
+        size 6
         color "red"
     ]
     node [
         id 3101486
-        size 0
         label "Acoustic Chill Out"
+        size 0
         color "red"
     ]
     node [
         id 454118
-        size 3
         label "The Staves"
+        size 3
         color "red"
     ]
     node [
         id 290281
-        size 14
         label "In Strict Confidence"
+        size 14
         color "red"
     ]
     node [
         id 306671
-        size 0
         label "Rothko"
+        size 0
         color "red"
     ]
     node [
         id 454132
-        size 3
         label "Kill It Kid"
+        size 3
         color "red"
     ]
     node [
         id 1158654
-        size 0
         label "Charlie & the Tunas"
+        size 0
         color "red"
     ]
     node [
         id 2299403
-        size 1
         label "Sycamour"
+        size 1
         color "red"
     ]
     node [
         id 1158657
-        size 3
         label "Don & the Goodtimes"
+        size 3
         color "red"
     ]
     node [
         id 1060354
-        size 6
         label "John Lindberg Trio"
+        size 6
         color "red"
     ]
     node [
         id 290308
-        size 0
         label "Nosferatu"
+        size 0
         color "red"
     ]
     node [
         id 454149
-        size 15
         label "Get Scared"
+        size 15
         color "red"
     ]
     node [
         id 34732
-        size 7
         label "Wire"
+        size 7
         color "red"
     ]
     node [
         id 1060366
-        size 8
         label "Thyrfing"
+        size 8
         color "red"
     ]
     node [
         id 290320
-        size 0
         label "Helios Creed"
+        size 0
         color "red"
     ]
     node [
         id 290321
-        size 3
         label "Switchblade Symphony"
+        size 3
         color "red"
     ]
     node [
         id 51118
-        size 3
         label "Ligabue"
+        size 3
         color "red"
     ]
     node [
         id 28185
-        size 8
         label "Puddle Of Mudd"
+        size 8
         color "red"
     ]
     node [
         id 601628
-        size 0
         label "Various Artists - Shakira Tribute"
+        size 0
         color "red"
     ]
     node [
         id 28189
-        size 19
         label "The Hives"
+        size 19
         color "red"
     ]
     node [
         id 585246
-        size 5
         label "Rock Riot"
+        size 5
         color "red"
     ]
     node [
         id 585247
-        size 16
         label "Rock Crusade"
+        size 16
         color "red"
     ]
     node [
         id 585248
-        size 1
         label "Stairway To Heaven"
+        size 1
         color "red"
     ]
     node [
         id 585252
-        size 1
         label "Jukebox Heaven"
+        size 1
         color "red"
     ]
     node [
         id 589062
-        size 3
         label "Freja Loeb"
+        size 3
         color "red"
     ]
     node [
         id 585255
-        size 1
         label "Renegade Stars"
+        size 1
         color "red"
     ]
     node [
         id 11816
-        size 18
         label "Barclay James Harvest"
+        size 18
         color "red"
     ]
     node [
         id 1905244
-        size 0
         label "Listing Ship"
+        size 0
         color "red"
     ]
     node [
         id 44595
-        size 8
         label "David Lee Roth"
+        size 8
         color "red"
     ]
     node [
         id 4702
-        size 32
         label "The Jimi Hendrix Experience"
+        size 32
         color "red"
     ]
     node [
         id 1125945
-        size 5
         label "Red Moon Architect"
+        size 5
         color "red"
     ]
     node [
         id 60986
-        size 1
         label "Hurriganes"
+        size 1
         color "red"
     ]
     node [
         id 638705
-        size 0
         label "Obsidian"
+        size 0
         color "red"
     ]
     node [
         id 1076801
-        size 0
         label "Metal Ragers"
+        size 0
         color "red"
     ]
     node [
         id 323139
-        size 0
         label "Horslips"
+        size 0
         color "red"
     ]
     node [
         id 884543
-        size 7
         label "Vanadium"
+        size 7
         color "red"
     ]
     node [
         id 4632140
-        size 4
         label "HER"
+        size 4
         color "red"
     ]
     node [
         id 290381
-        size 4
         label "Flotsam and Jetsam"
+        size 4
         color "red"
     ]
     node [
         id 171277
-        size 7
         label "Mountain"
+        size 7
         color "red"
     ]
     node [
         id 306768
-        size 12
         label "Omnium Gatherum"
+        size 12
         color "red"
     ]
     node [
         id 4707
-        size 2
         label "Simon Norrsveden"
+        size 2
         color "red"
     ]
     node [
         id 1799867
-        size 2
         label "And There Stand Empires"
+        size 2
         color "red"
     ]
     node [
         id 2420309
-        size 0
         label "Hollowick"
+        size 0
         color "red"
     ]
     node [
         id 11862
-        size 26
         label "Hoobastank"
+        size 26
         color "red"
     ]
     node [
         id 11863
-        size 21
         label "John Mayall & The Bluesbreakers"
+        size 21
         color "red"
     ]
     node [
         id 44632
-        size 17
         label "James LaBrie"
+        size 17
         color "red"
     ]
     node [
         id 11865
-        size 31
         label "John Mayall"
+        size 31
         color "red"
     ]
     node [
         id 44635
-        size 26
         label "Jordan Rudess"
+        size 26
         color "red"
     ]
     node [
         id 61020
-        size 2
         label "Heinz Rudolf Kunze"
+        size 2
         color "red"
     ]
     node [
         id 110173
-        size 5
         label "Evanescence"
+        size 5
         color "red"
     ]
     node [
         id 548112
-        size 15
         label "The Sins Of Thy Beloved"
+        size 15
         color "red"
     ]
     node [
         id 318737
-        size 0
         label "Ascension Of The Watchers"
+        size 0
         color "red"
     ]
     node [
         id 1131137
-        size 8
         label "The Luna Sequence"
+        size 8
         color "red"
     ]
     node [
         id 110188
-        size 31
         label "Seether"
+        size 31
         color "red"
     ]
     node [
         id 290415
-        size 0
         label "Los Fernandos"
+        size 0
         color "red"
     ]
     node [
         id 78440
-        size 0
         label "Cisco"
+        size 0
         color "red"
     ]
     node [
         id 44658
-        size 12
         label "Jet"
+        size 12
         color "red"
     ]
     node [
         id 28276
-        size 22
         label "Tyrannosaurus Rex"
+        size 22
         color "red"
     ]
     node [
         id 749174
-        size 10
         label "Brian Welch"
+        size 10
         color "red"
     ]
     node [
         id 749175
-        size 0
         label "Love and Death"
+        size 0
         color "red"
     ]
     node [
         id 171284
-        size 0
         label "Argent"
+        size 0
         color "red"
     ]
     node [
         id 208506
-        size 16
         label "Apulanta"
+        size 16
         color "red"
     ]
     node [
         id 1371771
-        size 1
         label "Begemot"
+        size 1
         color "red"
     ]
     node [
         id 192125
-        size 8
         label "Monster Magnet"
+        size 8
         color "red"
     ]
     node [
         id 192130
-        size 0
         label "Gary Jules"
+        size 0
         color "red"
     ]
     node [
         id 160247
-        size 5
         label "The Pretty Reckless"
+        size 5
         color "red"
     ]
     node [
         id 313777
-        size 1
         label "Scanners"
+        size 1
         color "red"
     ]
     node [
         id 224908
-        size 2
         label "Powerman 5000"
+        size 2
         color "red"
     ]
     node [
         id 11918
-        size 16
         label "The Bravery"
+        size 16
         color "red"
     ]
     node [
         id 290447
-        size 0
         label "Out Of Phase"
+        size 0
         color "red"
     ]
     node [
         id 159376
-        size 0
         label "The Walls"
+        size 0
         color "red"
     ]
     node [
         id 2631657
-        size 0
         label "Сон Лемура"
+        size 0
         color "red"
     ]
     node [
         id 290453
-        size 12
         label "Saltatio Mortis"
+        size 12
         color "red"
     ]
     node [
         id 2833689
-        size 0
         label "Masters Of Rock"
+        size 0
         color "red"
     ]
     node [
         id 355997
-        size 2
         label "Back In Black"
+        size 2
         color "red"
     ]
     node [
         id 323231
-        size 4
         label "MFÖ"
+        size 4
         color "red"
     ]
     node [
         id 519843
-        size 0
         label "Oberon"
+        size 0
         color "red"
     ]
     node [
         id 1289892
-        size 1
         label "The Unravelling"
+        size 1
         color "red"
     ]
     node [
         id 452550
-        size 5
         label "Tedeschi Trucks Band"
+        size 5
         color "red"
     ]
     node [
         id 487078
-        size 14
         label "Sopor Aeternus & The Ensemble Of Shadows"
+        size 14
         color "red"
     ]
     node [
         id 138524
-        size 0
         label "Cable"
+        size 0
         color "red"
     ]
     node [
         id 306860
-        size 13
         label "Thunderstone"
+        size 13
         color "red"
     ]
     node [
         id 290477
-        size 5
         label "My Ruin"
+        size 5
         color "red"
     ]
     node [
         id 143022
-        size 2
         label "Racing Cars"
+        size 2
         color "red"
     ]
     node [
         id 290479
-        size 11
         label "W.A.S.P."
+        size 11
         color "red"
     ]
     node [
         id 11952
-        size 14
         label "Bloodhound Gang"
+        size 14
         color "red"
     ]
     node [
         id 290481
-        size 19
         label "Arcturus"
+        size 19
         color "red"
     ]
     node [
         id 1142451
-        size 8
         label "Relay"
+        size 8
         color "red"
     ]
     node [
         id 700084
-        size 1
         label "Cliffhanger"
+        size 1
         color "red"
     ]
     node [
         id 2027189
-        size 7
         label "The Lonely Wild"
+        size 7
         color "red"
     ]
     node [
         id 585398
-        size 0
         label "Evie"
+        size 0
         color "red"
     ]
     node [
         id 77498
-        size 0
         label "Richard Lloyd"
+        size 0
         color "red"
     ]
     node [
         id 706506
-        size 4
         label "Trixter"
+        size 4
         color "red"
     ]
     node [
         id 978622
-        size 0
         label "Tomas N'evergreen"
+        size 0
         color "red"
     ]
     node [
         id 367018
-        size 5
         label "Tata Bojs"
+        size 5
         color "red"
     ]
     node [
         id 1689547
-        size 4
         label "Scream Your Name"
+        size 4
         color "red"
     ]
     node [
         id 143045
-        size 1
         label "Aftershock"
+        size 1
         color "red"
     ]
     node [
         id 110279
-        size 3
         label "HAIM"
+        size 3
         color "red"
     ]
     node [
         id 1896137
-        size 6
         label "Against All Evil"
+        size 6
         color "red"
     ]
     node [
         id 126667
-        size 10
         label "A Skylit Drive"
+        size 10
         color "red"
     ]
     node [
         id 74050
-        size 2
         label "Phish"
+        size 2
         color "red"
     ]
     node [
         id 583629
-        size 0
         label "New Kids In Town"
+        size 0
         color "red"
     ]
     node [
         id 39689
-        size 0
         label "Dorsey"
+        size 0
         color "red"
     ]
     node [
         id 323919
-        size 3
         label "Guitar Instrumentals"
+        size 3
         color "red"
     ]
     node [
         id 1126101
-        size 8
         label "I Am Revenge"
+        size 8
         color "red"
     ]
     node [
         id 28376
-        size 17
         label "David Coverdale"
+        size 17
         color "red"
     ]
     node [
         id 200076
-        size 1
         label "Omega"
+        size 1
         color "red"
     ]
     node [
         id 18383
-        size 30
         label "Weezer"
+        size 30
         color "red"
     ]
     node [
         id 192221
-        size 1
         label "Bruce Springsteen with the Sessions Band"
+        size 1
         color "red"
     ]
     node [
         id 1945310
-        size 0
         label "Scene of Action"
+        size 0
         color "red"
     ]
     node [
         id 2748129
-        size 0
         label "Перцем по сердцу"
+        size 0
         color "red"
     ]
     node [
         id 54956
-        size 0
         label "Xavier Rudd"
+        size 0
         color "red"
     ]
     node [
         id 72998
-        size 4
         label "La Rocca"
+        size 4
         color "red"
     ]
     node [
         id 1968081
-        size 3
         label "AS Animals"
+        size 3
         color "red"
     ]
     node [
         id 454376
-        size 16
         label "Nine Lashes"
+        size 16
         color "red"
     ]
     node [
         id 962283
-        size 3
         label "Luno"
+        size 3
         color "red"
     ]
     node [
         id 634605
-        size 1
         label "Abandoned"
+        size 1
         color "red"
     ]
     node [
         id 1273583
-        size 1
         label "ERock"
+        size 1
         color "red"
     ]
     node [
         id 569082
-        size 5
         label "Los Sinners"
+        size 5
         color "red"
     ]
     node [
         id 560808
-        size 0
         label "Fission"
+        size 0
         color "red"
     ]
     node [
         id 1951341
-        size 1
         label "Difuser"
+        size 1
         color "red"
     ]
     node [
         id 1274496
-        size 0
         label "Listener"
+        size 0
         color "red"
     ]
     node [
         id 126725
-        size 4
         label "Night Ranger"
+        size 4
         color "red"
     ]
     node [
         id 2141959
-        size 1
         label "Kansas Bible Company"
+        size 1
         color "red"
     ]
     node [
         id 126731
-        size 1
         label "Locksley"
+        size 1
         color "red"
     ]
     node [
         id 1492
-        size 13
         label "Cat Stevens"
+        size 13
         color "red"
     ]
     node [
         id 1899616
-        size 0
         label "Endway"
+        size 0
         color "red"
     ]
     node [
         id 1568526
-        size 7
         label "EarlyRise"
+        size 7
         color "red"
     ]
     node [
         id 12048
-        size 9
         label "Muse"
+        size 9
         color "red"
     ]
     node [
         id 3223314
-        size 3
         label "Deuce"
+        size 3
         color "red"
     ]
     node [
         id 290579
-        size 1
         label "Interstellar"
+        size 1
         color "red"
     ]
     node [
         id 356116
-        size 2
         label "Livin' On A Prayer"
+        size 2
         color "red"
     ]
     node [
         id 192277
-        size 2
         label "Dirty Heads"
+        size 2
         color "red"
     ]
     node [
         id 585495
-        size 0
         label "Sunshine Superstars"
+        size 0
         color "red"
     ]
     node [
         id 77593
-        size 1
         label "Stretch"
+        size 1
         color "red"
     ]
     node [
         id 323355
-        size 38
         label "Elis"
+        size 38
         color "red"
     ]
     node [
         id 585500
-        size 2
         label "Let the Music Play"
+        size 2
         color "red"
     ]
     node [
         id 206625
-        size 2
         label "HUM"
+        size 2
         color "red"
     ]
     node [
         id 1503008
-        size 0
         label "SoundSense"
+        size 0
         color "red"
     ]
     node [
         id 2608748
-        size 0
         label "Running Scared"
+        size 0
         color "red"
     ]
     node [
         id 1060642
-        size 0
         label "Sons Of Sounds"
+        size 0
         color "red"
     ]
     node [
         id 601892
-        size 0
         label "Various Artists - Metallica Tribute"
+        size 0
         color "red"
     ]
     node [
         id 48435
-        size 2
         label "Khoma"
+        size 2
         color "red"
     ]
     node [
         id 192308
-        size 4
         label "The Shaggs"
+        size 4
         color "red"
     ]
     node [
         id 2090974
-        size 0
         label "7 Months"
+        size 0
         color "red"
     ]
     node [
         id 610953
-        size 0
         label "OK Rainbow Thief"
+        size 0
         color "red"
     ]
     node [
         id 305119
-        size 5
         label "You Say Party! We Say Die!"
+        size 5
         color "red"
     ]
     node [
         id 1228085
-        size 5
         label "Mine All Mine"
+        size 5
         color "red"
     ]
     node [
         id 3676
-        size 30
         label "Ronnie James Dio"
+        size 30
         color "red"
     ]
     node [
         id 110404
-        size 3
         label "Sixto Rodriguez"
+        size 3
         color "red"
     ]
     node [
         id 346291
-        size 6
         label "Snakebite"
+        size 6
         color "red"
     ]
     node [
         id 1896262
-        size 0
         label "Revolving Doors"
+        size 0
         color "red"
     ]
     node [
         id 765771
-        size 0
         label "Derek Brown"
+        size 0
         color "red"
     ]
     node [
         id 782156
-        size 0
         label "Coockoo"
+        size 0
         color "red"
     ]
     node [
         id 454479
-        size 9
         label "Dream On Dreamer"
+        size 9
         color "red"
     ]
     node [
         id 44881
-        size 1
         label "Diana King"
+        size 1
         color "red"
     ]
     node [
         id 1394659
-        size 6
         label "Sovern"
+        size 6
         color "red"
     ]
     node [
         id 138553
-        size 2
         label "Say Anything"
+        size 2
         color "red"
     ]
     node [
         id 1132516
-        size 5
         label "Slaves On Dope"
+        size 5
         color "red"
     ]
     node [
         id 67508
-        size 0
         label "L7"
+        size 0
         color "red"
     ]
     node [
         id 28511
-        size 0
         label "Slade"
+        size 0
         color "red"
     ]
     node [
         id 2142049
-        size 0
         label "Matt Joiner Band"
+        size 0
         color "red"
     ]
     node [
         id 651109
-        size 6
         label "STRFKR"
+        size 6
         color "red"
     ]
     node [
         id 2895720
-        size 4
         label "Burn the Rez"
+        size 4
         color "red"
     ]
     node [
         id 113980
-        size 1
         label "E.M.D."
+        size 1
         color "red"
     ]
     node [
         id 143211
-        size 2
         label "Howl"
+        size 2
         color "red"
     ]
     node [
         id 847724
-        size 4
         label "Dum Dum Boys"
+        size 4
         color "red"
     ]
     node [
         id 36957
-        size 30
         label "Foo Fighters"
+        size 30
         color "red"
     ]
     node [
         id 2453360
-        size 0
         label "Skydoesminecraft"
+        size 0
         color "red"
     ]
     node [
         id 2125682
-        size 4
         label "Divine Ascension"
+        size 4
         color "red"
     ]
     node [
         id 1175411
-        size 4
         label "Primordial"
+        size 4
         color "red"
     ]
     node [
         id 61300
-        size 3
         label "Seguridad Social"
+        size 3
         color "red"
     ]
     node [
         id 1175415
-        size 7
         label "Mysticum"
+        size 7
         color "red"
     ]
     node [
         id 520058
-        size 0
         label "Tokyo"
+        size 0
         color "red"
     ]
     node [
         id 421757
-        size 14
         label "Man Overboard"
+        size 14
         color "red"
     ]
     node [
         id 28545
-        size 17
         label "Eagles"
+        size 17
         color "red"
     ]
     node [
         id 847748
-        size 2
         label "Di.Di.Sound"
+        size 2
         color "red"
     ]
     node [
         id 1151638
-        size 8
         label "To-Mera"
+        size 8
         color "red"
     ]
     node [
         id 77709
-        size 3
         label "Loggins & Messina"
+        size 3
         color "red"
     ]
     node [
         id 1151640
-        size 2
         label "Blood Tsunami"
+        size 2
         color "red"
     ]
     node [
         id 12178
-        size 0
         label "Peter Wolf"
+        size 0
         color "red"
     ]
     node [
         id 1503125
-        size 0
         label "Robin DiMaggio"
+        size 0
         color "red"
     ]
     node [
         id 470934
-        size 0
         label "Eye Of The Tiger"
+        size 0
         color "red"
     ]
     node [
         id 454553
-        size 6
         label "EF"
+        size 6
         color "red"
     ]
     node [
         id 110492
-        size 0
         label "The Asteroids Galaxy Tour"
+        size 0
         color "red"
     ]
     node [
         id 7493
-        size 7
         label "Del Amitri"
+        size 7
         color "red"
     ]
     node [
         id 946085
-        size 0
         label "The Glamour Manifesto"
+        size 0
         color "red"
     ]
     node [
         id 44970
-        size 9
         label "NEEDTOBREATHE"
+        size 9
         color "red"
     ]
     node [
         id 290731
-        size 1
         label "Jeff Scott Soto"
+        size 1
         color "red"
     ]
     node [
         id 110511
-        size 1
         label "Gilgamesh"
+        size 1
         color "red"
     ]
     node [
         id 1372080
-        size 4
         label "Underbelly"
+        size 4
         color "red"
     ]
     node [
         id 77747
-        size 0
         label "Esquerita"
+        size 0
         color "red"
     ]
     node [
         id 1830839
-        size 32
         label "Slychosis"
+        size 32
         color "red"
     ]
     node [
         id 1224634
-        size 1
         label "Can You Rock?"
+        size 1
         color "red"
     ]
     node [
         id 929723
-        size 3
         label "Dead Gaze"
+        size 3
         color "red"
     ]
     node [
         id 1197922
-        size 4
         label "East Of The Wall"
+        size 4
         color "red"
     ]
     node [
         id 143296
-        size 3
         label "Taylor Hawkins"
+        size 3
         color "red"
     ]
     node [
         id 1781697
-        size 1
         label "Captive"
+        size 1
         color "red"
     ]
     node [
         id 171339
-        size 8
         label "Journey"
+        size 8
         color "red"
     ]
     node [
         id 3915084
-        size 0
         label "Billy Gibbons And The BFG's"
+        size 0
         color "red"
     ]
     node [
         id 651211
-        size 1
         label "Strawman"
+        size 1
         color "red"
     ]
     node [
         id 77774
-        size 18
         label "The Lovin' Spoonful"
+        size 18
         color "red"
     ]
     node [
         id 1159125
-        size 1
         label "Chemical Vocation"
+        size 1
         color "red"
     ]
     node [
         id 1617878
-        size 3
         label "Roo Panes"
+        size 3
         color "red"
     ]
     node [
         id 59385
-        size 0
         label "David Broza"
+        size 0
         color "red"
     ]
     node [
         id 229545
-        size 2
         label "Ekseption"
+        size 2
         color "red"
     ]
     node [
         id 1727823
-        size 0
         label "Morgan Grace"
+        size 0
         color "red"
     ]
     node [
         id 192477
-        size 2
         label "Baltimoore"
+        size 2
         color "red"
     ]
     node [
         id 192482
-        size 1
         label "Ian Dury & The Blockheads"
+        size 1
         color "red"
     ]
     node [
         id 61414
-        size 5
         label "Celebrity"
+        size 5
         color "red"
     ]
     node [
         id 61415
-        size 0
         label "Sunday Driver"
+        size 0
         color "red"
     ]
     node [
         id 831466
-        size 5
         label "Panic Room"
+        size 5
         color "red"
     ]
     node [
         id 2732012
-        size 2
         label "California Breed"
+        size 2
         color "red"
     ]
     node [
         id 110575
-        size 5
         label "Patto"
+        size 5
         color "red"
     ]
     node [
         id 159731
-        size 1
         label "TNT"
+        size 1
         color "red"
     ]
     node [
         id 61429
-        size 14
         label "Anti-Flag"
+        size 14
         color "red"
     ]
     node [
         id 602793
-        size 2
         label "The London Orchestral Symphony"
+        size 2
         color "red"
     ]
     node [
         id 258042
-        size 4
         label "Arakain"
+        size 4
         color "red"
     ]
     node [
         id 110587
-        size 5
         label "Ariel Zilber"
+        size 5
         color "red"
     ]
     node [
         id 61441
-        size 2
         label "Dirty Rotten Imbeciles"
+        size 2
         color "red"
     ]
     node [
         id 1830914
-        size 0
         label "Firehead Jerry"
+        size 0
         color "red"
     ]
     node [
         id 73046
-        size 29
         label "Before Their Eyes"
+        size 29
         color "red"
     ]
     node [
         id 171351
-        size 0
         label "Landscape"
+        size 0
         color "red"
     ]
     node [
         id 1847309
-        size 52
         label "Carcass"
+        size 52
         color "red"
     ]
     node [
         id 1880081
-        size 14
         label "Wurkt"
+        size 14
         color "red"
     ]
     node [
         id 3295235
-        size 1
         label "Die Streuner"
+        size 1
         color "red"
     ]
     node [
         id 12308
-        size 0
         label "Sil Austin"
+        size 0
         color "red"
     ]
     node [
         id 2453527
-        size 0
         label "The Moth & The Flame"
+        size 0
         color "red"
     ]
     node [
         id 45080
-        size 3
         label "Blue Foundation"
+        size 3
         color "red"
     ]
     node [
         id 520217
-        size 8
         label "Tenhi"
+        size 8
         color "red"
     ]
     node [
         id 1191964
-        size 10
         label "Wolverine"
+        size 10
         color "red"
     ]
     node [
         id 1042437
-        size 2
         label "Kontrust"
+        size 2
         color "red"
     ]
     node [
         id 3158051
-        size 1
         label "Black Map"
+        size 1
         color "red"
     ]
     node [
         id 602150
-        size 0
         label "Dark Pink Moon"
+        size 0
         color "red"
     ]
     node [
         id 202815
-        size 11
         label "Primus"
+        size 11
         color "red"
     ]
     node [
         id 12332
-        size 6
         label "Chris Tomlin"
+        size 6
         color "red"
     ]
     node [
         id 1585203
-        size 0
         label "Valter"
+        size 0
         color "red"
     ]
     node [
         id 171358
-        size 6
         label "Men At Work"
+        size 6
         color "red"
     ]
     node [
         id 1568822
-        size 0
         label "The Shake Ups"
+        size 0
         color "red"
     ]
     node [
         id 3354681
-        size 4
         label "Earth"
+        size 4
         color "red"
     ]
     node [
         id 3207226
-        size 4
         label "Shockwave-Sound"
+        size 4
         color "red"
     ]
     node [
         id 1208383
-        size 0
         label "Tokyo Rose"
+        size 0
         color "red"
     ]
     node [
         id 290884
-        size 1
         label "The Budos Band"
+        size 1
         color "red"
     ]
     node [
         id 12357
-        size 15
         label "Keane"
+        size 15
         color "red"
     ]
     node [
         id 602182
-        size 1
         label "The Steepwater Band"
+        size 1
         color "red"
     ]
     node [
         id 45127
-        size 16
         label "Matchbox Twenty"
+        size 16
         color "red"
     ]
     node [
         id 4747336
-        size 2
         label "Водопад имени Вахтанга Кикабидзе"
+        size 2
         color "red"
     ]
     node [
         id 12362
-        size 20
         label "Wolfmother"
+        size 20
         color "red"
     ]
     node [
         id 61515
-        size 0
         label "ISIS"
+        size 0
         color "red"
     ]
     node [
         id 1683534
-        size 1
         label "Revmatic"
+        size 1
         color "red"
     ]
     node [
         id 12367
-        size 36
         label "Nine Inch Nails"
+        size 36
         color "red"
     ]
     node [
         id 119480
-        size 0
         label "Tiger Army"
+        size 0
         color "red"
     ]
     node [
         id 823705
-        size 0
         label "Pera"
+        size 0
         color "red"
     ]
     node [
         id 320113
-        size 0
         label "Suicide Squad"
+        size 0
         color "red"
     ]
     node [
         id 2453592
-        size 0
         label "The Butcher Sisters"
+        size 0
         color "red"
     ]
     node [
         id 48484
-        size 0
         label "Chad Kroeger Feat. Josey Scott"
+        size 0
         color "red"
     ]
     node [
         id 1144462
-        size 1
         label "Blurt"
+        size 1
         color "red"
     ]
     node [
         id 1912931
-        size 8
         label "A New Decree"
+        size 8
         color "red"
     ]
     node [
         id 2830440
-        size 0
         label "Separations"
+        size 0
         color "red"
     ]
     node [
         id 1519721
-        size 4
         label "Wild Bob Burgos"
+        size 4
         color "red"
     ]
     node [
         id 1536106
-        size 1
         label "SQÜRL"
+        size 1
         color "red"
     ]
     node [
         id 137895
-        size 0
         label "The Riverboat Gamblers"
+        size 0
         color "red"
     ]
     node [
         id 815214
-        size 7
         label "It's A Cover Up"
+        size 7
         color "red"
     ]
     node [
         id 45167
-        size 1
         label "The Buzzhorn"
+        size 1
         color "red"
     ]
     node [
         id 1650800
-        size 0
         label "The Dose"
+        size 0
         color "red"
     ]
     node [
         id 48488
-        size 0
         label "Dommin"
+        size 0
         color "red"
     ]
     node [
         id 61555
-        size 1
         label "Charles Manson"
+        size 1
         color "red"
     ]
     node [
         id 4057205
-        size 0
         label "Метанойя"
+        size 0
         color "red"
     ]
     node [
         id 28791
-        size 0
         label "Bruce Hornsby"
+        size 0
         color "red"
     ]
     node [
         id 61563
-        size 3
         label "Lydia Lunch"
+        size 3
         color "red"
     ]
     node [
         id 19508
-        size 0
         label "Jake Holmes"
+        size 0
         color "red"
     ]
     node [
         id 1945731
-        size 3
         label "Black Owls"
+        size 3
         color "red"
     ]
     node [
         id 45192
-        size 2
         label "Project 86"
+        size 2
         color "red"
     ]
     node [
         id 45194
-        size 8
         label "The John Butler Trio"
+        size 8
         color "red"
     ]
     node [
         id 61580
-        size 0
         label "Hands"
+        size 0
         color "red"
     ]
     node [
         id 28815
-        size 2
         label "John Bonham"
+        size 2
         color "red"
     ]
     node [
         id 1486994
-        size 0
         label "Old Skool Rock Masters"
+        size 0
         color "red"
     ]
     node [
         id 45203
-        size 12
         label "Skindred"
+        size 12
         color "red"
     ]
     node [
         id 3420308
-        size 0
         label "Comet Kid"
+        size 0
         color "red"
     ]
     node [
         id 605550
-        size 2
         label "Modern Rock Heroes"
+        size 2
         color "red"
     ]
     node [
         id 12438
-        size 4
         label "Joan Osborne"
+        size 4
         color "red"
     ]
     node [
         id 4632727
-        size 6
         label "Джин-Тоник"
+        size 6
         color "red"
     ]
     node [
         id 12440
-        size 15
         label "Joseph Arthur"
+        size 15
         color "red"
     ]
     node [
         id 290971
-        size 4
         label "The House Of Usher"
+        size 4
         color "red"
     ]
     node [
         id 45212
-        size 19
         label "Porcupine Tree"
+        size 19
         color "red"
     ]
     node [
         id 45213
-        size 8
         label "Steven Wilson"
+        size 8
         color "red"
     ]
     node [
         id 1601696
-        size 3
         label "Parlour Bells"
+        size 3
         color "red"
     ]
     node [
         id 2109603
-        size 4
         label "Shaman's Harvest"
+        size 4
         color "red"
     ]
     node [
         id 94372
-        size 2
         label "Jack Irons"
+        size 2
         color "red"
     ]
     node [
         id 1484828
-        size 0
         label "Booker T & The M.G.'s"
+        size 0
         color "red"
     ]
     node [
         id 7507
-        size 16
         label "Sheryl Crow"
+        size 16
         color "red"
     ]
     node [
         id 28843
-        size 2
         label "Jimi Jamison"
+        size 2
         color "red"
     ]
     node [
         id 45228
-        size 1
         label "Steadman"
+        size 1
         color "red"
     ]
     node [
         id 171378
-        size 22
         label "Thompson Twins"
+        size 22
         color "red"
     ]
     node [
         id 171280
-        size 5
         label "Blood, Sweat & Tears"
+        size 5
         color "red"
     ]
     node [
         id 454832
-        size 0
         label "Flaming Wheels"
+        size 0
         color "red"
     ]
     node [
         id 340148
-        size 2
         label "Wihan Quartet"
+        size 2
         color "red"
     ]
     node [
         id 45237
-        size 1
         label "TAMIA"
+        size 1
         color "red"
     ]
     node [
         id 553144
-        size 6
         label "The Symphonic Rock All-Stars"
+        size 6
         color "red"
     ]
     node [
         id 1601723
-        size 3
         label "Number Station"
+        size 3
         color "red"
     ]
     node [
         id 848060
-        size 0
         label "Lies"
+        size 0
         color "red"
     ]
     node [
         id 2683069
-        size 0
         label "Me and the Rest"
+        size 0
         color "red"
     ]
     node [
         id 1945791
-        size 3
         label "Midnight Spin"
+        size 3
         color "red"
     ]
     node [
         id 45248
-        size 4
         label "The Academy Is..."
+        size 4
         color "red"
     ]
     node [
         id 45249
-        size 2
         label "William Beckett"
+        size 2
         color "red"
     ]
     node [
         id 3158210
-        size 0
         label "Radkey"
+        size 0
         color "red"
     ]
     node [
         id 127175
-        size 12
         label "Hopes Die Last"
+        size 12
         color "red"
     ]
     node [
         id 897224
-        size 0
         label "Precious Metal"
+        size 0
         color "red"
     ]
     node [
         id 45258
-        size 8
         label "Richard Barbieri"
+        size 8
         color "red"
     ]
     node [
         id 78029
-        size 0
         label "Frank Skinner"
+        size 0
         color "red"
     ]
     node [
         id 12964
-        size 0
         label "Lonnie Youngblood"
+        size 0
         color "red"
     ]
     node [
         id 2224340
-        size 2
         label "Oleg Izotov"
+        size 2
         color "red"
     ]
     node [
         id 1257686
-        size 0
         label "Ian Gillan Band"
+        size 0
         color "red"
     ]
     node [
         id 1257687
-        size 9
         label "Greenslade"
+        size 9
         color "red"
     ]
     node [
         id 1306846
-        size 1
         label "Stoic"
+        size 1
         color "red"
     ]
     node [
         id 127202
-        size 0
         label "Jim James"
+        size 0
         color "red"
     ]
     node [
         id 15739
-        size 0
         label "Barbara Keith"
+        size 0
         color "red"
     ]
     node [
         id 12518
-        size 0
         label "Martha Wainwright"
+        size 0
         color "red"
     ]
     node [
         id 12520
-        size 4
         label "Rufus Wainwright"
+        size 4
         color "red"
     ]
     node [
         id 12521
-        size 6
         label "Nick Cave"
+        size 6
         color "red"
     ]
     node [
         id 323819
-        size 8
         label "The Cinematics"
+        size 8
         color "red"
     ]
     node [
         id 94444
-        size 6
         label "LUKE"
+        size 6
         color "red"
     ]
     node [
         id 619218
-        size 0
         label "Various Artists - Led Zeppelin Tribute"
+        size 0
         color "red"
     ]
     node [
         id 155903
-        size 6
         label "Treat"
+        size 6
         color "red"
     ]
     node [
         id 1716465
-        size 0
         label "Ashestoangels"
+        size 0
         color "red"
     ]
     node [
         id 159989
-        size 19
         label "The Haunted"
+        size 19
         color "red"
     ]
     node [
         id 40789
-        size 2
         label "Frankie Goes To Hollywood"
+        size 2
         color "red"
     ]
     node [
         id 2175223
-        size 3
         label "The Rock Music"
+        size 3
         color "red"
     ]
     node [
         id 28920
-        size 4
         label "Southside Johnny & The Asbury Jukes"
+        size 4
         color "red"
     ]
     node [
         id 438522
-        size 16
         label "BlackRain"
+        size 16
         color "red"
     ]
     node [
         id 2093781
-        size 0
         label "The Ballroom Thieves"
+        size 0
         color "red"
     ]
     node [
         id 1437960
-        size 9
         label "Inquisition"
+        size 9
         color "red"
     ]
     node [
         id 28938
-        size 10
         label "Stevie Nicks"
+        size 10
         color "red"
     ]
     node [
         id 3682579
-        size 3
         label "Steve 'n' Seagulls"
+        size 3
         color "red"
     ]
     node [
         id 880919
-        size 1
         label "Josef k"
+        size 1
         color "red"
     ]
     node [
         id 291102
-        size 6
         label "Big One"
+        size 6
         color "red"
     ]
     node [
         id 28962
-        size 37
         label "Billy Idol"
+        size 37
         color "red"
     ]
     node [
         id 28965
-        size 5
         label "Wang Chung"
+        size 5
         color "red"
     ]
     node [
         id 4485415
-        size 13
         label "Иван Курнаев"
+        size 13
         color "red"
     ]
     node [
         id 209192
-        size 0
         label "Satarial"
+        size 0
         color "red"
     ]
     node [
         id 1962716
-        size 3
         label "Devilskin"
+        size 3
         color "red"
     ]
     node [
         id 1437994
-        size 6
         label "Kvelertak"
+        size 6
         color "red"
     ]
     node [
         id 586027
-        size 0
         label "Jamie N Commons"
+        size 0
         color "red"
     ]
     node [
         id 45356
-        size 6
         label "Aztec Camera"
+        size 6
         color "red"
     ]
     node [
         id 45358
-        size 29
         label "Van Halen"
+        size 29
         color "red"
     ]
     node [
         id 21213
-        size 40
         label "Accept"
+        size 40
         color "red"
     ]
     node [
         id 45363
-        size 3
         label "Little Feat"
+        size 3
         color "red"
     ]
     node [
         id 1061172
-        size 1
         label "4LYN"
+        size 1
         color "red"
     ]
     node [
         id 1225014
-        size 0
         label "Kreeps"
+        size 0
         color "red"
     ]
     node [
         id 1544914
-        size 1
         label "Sue Saad & the Next"
+        size 1
         color "red"
     ]
     node [
         id 2175292
-        size 7
         label "The Ambient Light"
+        size 7
         color "red"
     ]
     node [
         id 45378
-        size 5
         label "Firefall"
+        size 5
         color "red"
     ]
     node [
         id 2191686
-        size 0
         label "Madfish"
+        size 0
         color "red"
     ]
     node [
         id 12615
-        size 0
         label "Phil Manzanera"
+        size 0
         color "red"
     ]
     node [
         id 667980
-        size 7
         label "Touche Amore"
+        size 7
         color "red"
     ]
     node [
         id 58250
-        size 0
         label "Blake Mills"
+        size 0
         color "red"
     ]
     node [
         id 2388303
-        size 0
         label "All You Need is Love"
+        size 0
         color "red"
     ]
     node [
         id 635217
-        size 0
         label "Citadel"
+        size 0
         color "red"
     ]
     node [
         id 2306388
-        size 1
         label "Flies Are Spies from Hell"
+        size 1
         color "red"
     ]
     node [
         id 1236366
-        size 4
         label "Vowwow"
+        size 4
         color "red"
     ]
     node [
         id 61782
-        size 5
         label "Moby Grape"
+        size 5
         color "red"
     ]
     node [
         id 1257815
-        size 0
         label "Nobody's Business"
+        size 0
         color "red"
     ]
     node [
         id 1782104
-        size 0
         label "Altan urag"
+        size 0
         color "red"
     ]
     node [
         id 2126169
-        size 3
         label "Seven Year Riot"
+        size 3
         color "red"
     ]
     node [
         id 94554
-        size 2
         label "Myslovitz"
+        size 2
         color "red"
     ]
     node [
         id 717147
-        size 1
         label "Crimson Blue"
+        size 1
         color "red"
     ]
     node [
         id 61789
-        size 0
         label "Ghostland Observatory"
+        size 0
         color "red"
     ]
     node [
         id 707473
-        size 2
         label "Anakin"
+        size 2
         color "red"
     ]
     node [
         id 1076275
-        size 7
         label "Daylight Dies"
+        size 7
         color "red"
     ]
     node [
         id 61794
-        size 0
         label "Transmission"
+        size 0
         color "red"
     ]
     node [
         id 110951
-        size 0
         label "Stan Ridgway"
+        size 0
         color "red"
     ]
     node [
         id 356714
-        size 0
         label "ZEALOT"
+        size 0
         color "red"
     ]
     node [
         id 12651
-        size 1
         label "Blue Cheer"
+        size 1
         color "red"
     ]
     node [
         id 373101
-        size 0
         label "BigElf"
+        size 0
         color "red"
     ]
     node [
         id 78192
-        size 24
         label "Dokken"
+        size 24
         color "red"
     ]
     node [
         id 78193
-        size 11
         label "George Lynch"
+        size 11
         color "red"
     ]
     node [
         id 504178
-        size 0
         label "Viva"
+        size 0
         color "red"
     ]
     node [
         id 1814899
-        size 2
         label "Mike Corrado"
+        size 2
         color "red"
     ]
     node [
         id 78196
-        size 7
         label "Faster Pussycat"
+        size 7
         color "red"
     ]
     node [
         id 1345598
-        size 1
         label "exist†trace"
+        size 1
         color "red"
     ]
     node [
         id 45431
-        size 23
         label "Creed"
+        size 23
         color "red"
     ]
     node [
         id 45433
-        size 0
         label "Berlin"
+        size 0
         color "red"
     ]
     node [
         id 799099
-        size 3
         label "Negramaro"
+        size 3
         color "red"
     ]
     node [
         id 2765181
-        size 7
         label "5 Seconds Of Summer"
+        size 7
         color "red"
     ]
     node [
         id 242047
-        size 29
         label "Paradise Lost"
+        size 29
         color "red"
     ]
     node [
         id 12672
-        size 2
         label "Gavin Rossdale"
+        size 2
         color "red"
     ]
     node [
         id 78209
-        size 9
         label "Mike Tramp"
+        size 9
         color "red"
     ]
     node [
         id 29060
-        size 32
         label "The Doors"
+        size 32
         color "red"
     ]
     node [
         id 12678
-        size 0
         label "OST"
+        size 0
         color "red"
     ]
     node [
         id 12679
-        size 3
         label "Black Grape"
+        size 3
         color "red"
     ]
     node [
         id 12680
-        size 26
         label "Bush"
+        size 26
         color "red"
     ]
     node [
         id 117173
-        size 0
         label "Eddie Hodges"
+        size 0
         color "red"
     ]
     node [
         id 2027915
-        size 1
         label "Quiet Hollers"
+        size 1
         color "red"
     ]
     node [
         id 29068
-        size 6
         label "My Morning Jacket"
+        size 6
         color "red"
     ]
     node [
         id 1118285
-        size 10
         label "Soulhealer"
+        size 10
         color "red"
     ]
     node [
         id 29072
-        size 2
         label "Tommy Stinson"
+        size 2
         color "red"
     ]
     node [
         id 192915
-        size 3
         label "Autumn"
+        size 3
         color "red"
     ]
     node [
         id 12694
-        size 0
         label "Institute"
+        size 0
         color "red"
     ]
     node [
         id 2634135
-        size 0
         label "Neopoleon"
+        size 0
         color "red"
     ]
     node [
         id 78232
-        size 0
         label "Babes In Toyland"
+        size 0
         color "red"
     ]
     node [
         id 1618330
-        size 6
         label "SPLASHH"
+        size 6
         color "red"
     ]
     node [
         id 61851
-        size 4
         label "Zeromancer"
+        size 4
         color "red"
     ]
     node [
         id 77893
-        size 0
         label "Brute Force"
+        size 0
         color "red"
     ]
     node [
         id 782751
-        size 3
         label "Smokey Bastard"
+        size 3
         color "red"
     ]
     node [
         id 29088
-        size 13
         label "Danny And The Juniors"
+        size 13
         color "red"
     ]
     node [
         id 717220
-        size 6
         label "Skyharbor"
+        size 6
         color "red"
     ]
     node [
         id 493638
-        size 1
         label "Agate"
+        size 1
         color "red"
     ]
     node [
         id 643825
-        size 0
         label "The Californicators"
+        size 0
         color "red"
     ]
     node [
         id 2994601
-        size 0
         label "Ecliptyka"
+        size 0
         color "red"
     ]
     node [
         id 340394
-        size 0
         label "HIGH and MIGHTY COLOR"
+        size 0
         color "red"
     ]
     node [
         id 127403
-        size 2
         label "Velcra"
+        size 2
         color "red"
     ]
     node [
         id 586156
-        size 2
         label "Al Hendrix"
+        size 2
         color "red"
     ]
     node [
         id 225710
-        size 3
         label "Formula"
+        size 3
         color "red"
     ]
     node [
         id 127408
-        size 4
         label "Barón Rojo"
+        size 4
         color "red"
     ]
     node [
         id 831923
-        size 0
         label "Giorgio Canali & Rossofuoco"
+        size 0
         color "red"
     ]
     node [
         id 143796
-        size 4
         label "Jive Bunny"
+        size 4
         color "red"
     ]
     node [
         id 324021
-        size 1
         label "9MM"
+        size 1
         color "red"
     ]
     node [
         id 2437560
-        size 46
         label "I Am King"
+        size 46
         color "red"
     ]
     node [
         id 1077690
-        size 2
         label "The Black Watch"
+        size 2
         color "red"
     ]
     node [
         id 78269
-        size 0
         label "Edison"
+        size 0
         color "red"
     ]
     node [
         id 192959
-        size 0
         label "Steve Overland"
+        size 0
         color "red"
     ]
     node [
         id 2209417
-        size 18
         label "East Coast Tremors"
+        size 18
         color "red"
     ]
     node [
         id 291278
-        size 2
         label "Cem Karaca"
+        size 2
         color "red"
     ]
     node [
         id 291279
-        size 1
         label "Aylin Aslım"
+        size 1
         color "red"
     ]
     node [
         id 61905
-        size 1
         label "Charlie"
+        size 1
         color "red"
     ]
     node [
         id 1356243
-        size 19
         label "Hedged"
+        size 19
         color "red"
     ]
     node [
         id 2650580
-        size 1
         label "The Ringo Jets"
+        size 1
         color "red"
     ]
     node [
         id 1962454
-        size 2
         label "The Evidence"
+        size 2
         color "red"
     ]
     node [
         id 1864158
-        size 1
         label "The Fallacy"
+        size 1
         color "red"
     ]
     node [
         id 160224
-        size 1
         label "David Garrick"
+        size 1
         color "red"
     ]
     node [
         id 198736
-        size 8
         label "Puhdys"
+        size 8
         color "red"
     ]
     node [
         id 2617826
-        size 0
         label "Наталия Тащиян и Антон Иванов"
+        size 0
         color "red"
     ]
     node [
         id 1864163
-        size 1
         label "Phil Vincent"
+        size 1
         color "red"
     ]
     node [
         id 1470948
-        size 3
         label "Tijuana Panthers"
+        size 3
         color "red"
     ]
     node [
         id 296667
-        size 12
         label "Billy Sherwood"
+        size 12
         color "red"
     ]
     node [
         id 3049553
-        size 1
         label "Demon's Eye"
+        size 1
         color "red"
     ]
     node [
         id 340457
-        size 0
         label "The Storyteller"
+        size 0
         color "red"
     ]
     node [
         id 2617834
-        size 0
         label "Radio Я"
+        size 0
         color "red"
     ]
     node [
         id 1225198
-        size 1
         label "VyjakoMy"
+        size 1
         color "red"
     ]
     node [
         id 29169
-        size 2
         label "Photo Atlas"
+        size 2
         color "red"
     ]
     node [
         id 586226
-        size 1
         label "Jukebox Junction"
+        size 1
         color "red"
     ]
     node [
         id 1634804
-        size 18
         label "We Are The Ocean"
+        size 18
         color "red"
     ]
     node [
         id 586229
-        size 0
         label "Pop Mania"
+        size 0
         color "red"
     ]
     node [
         id 602615
-        size 5
         label "Chunk! No, Captain Chunk!"
+        size 5
         color "red"
     ]
     node [
         id 602616
-        size 10
         label "Pierce The Veil"
+        size 10
         color "red"
     ]
     node [
         id 2322938
-        size 0
         label "A Plea for Purging"
+        size 0
         color "red"
     ]
     node [
         id 1208830
-        size 3
         label "Bang Camaro"
+        size 3
         color "red"
     ]
     node [
         id 4551169
-        size 0
         label "Summer Moon"
+        size 0
         color "red"
     ]
     node [
         id 602627
-        size 42
         label "Rock Feast"
+        size 42
         color "red"
     ]
     node [
         id 881158
-        size 1
         label "Tane Cain"
+        size 1
         color "red"
     ]
     node [
         id 12809
-        size 2
         label "Judy Collins"
+        size 2
         color "red"
     ]
     node [
         id 288922
-        size 2
         label "Pigface"
+        size 2
         color "red"
     ]
     node [
         id 2454029
-        size 5
         label "Iron Claw"
+        size 5
         color "red"
     ]
     node [
         id 635407
-        size 5
         label "Vultures"
+        size 5
         color "red"
     ]
     node [
         id 3453456
-        size 2
         label "Josh Joplin Group"
+        size 2
         color "red"
     ]
     node [
         id 1634833
-        size 1
         label "Rusted"
+        size 1
         color "red"
     ]
     node [
         id 3732227
-        size 0
         label "Tribute to Bon Jovi"
+        size 0
         color "red"
     ]
     node [
         id 45588
-        size 1
         label "The Trammps"
+        size 1
         color "red"
     ]
     node [
         id 78357
-        size 0
         label "P.O.L."
+        size 0
         color "red"
     ]
     node [
         id 358863
-        size 0
         label "Mercy"
+        size 0
         color "red"
     ]
     node [
         id 45592
-        size 3
         label "Damn Yankees"
+        size 3
         color "red"
     ]
     node [
         id 1946137
-        size 11
         label "Ill Angelic"
+        size 11
         color "red"
     ]
     node [
         id 225818
-        size 3
         label "Teddybears Sthlm"
+        size 3
         color "red"
     ]
     node [
         id 356893
-        size 17
         label "At the Gates"
+        size 17
         color "red"
     ]
     node [
         id 356896
-        size 0
         label "Peter Green Splinter Group"
+        size 0
         color "red"
     ]
     node [
         id 422435
-        size 0
         label "Dazzle Dreams"
+        size 0
         color "red"
     ]
     node [
         id 2454052
-        size 1
         label "Jessica Hernandez & the Deltas"
+        size 1
         color "red"
     ]
     node [
         id 2748965
-        size 2
         label "Royal Blood"
+        size 2
         color "red"
     ]
     node [
         id 569894
-        size 4
         label "Vogelfrey"
+        size 4
         color "red"
     ]
     node [
         id 553514
-        size 1
         label "The Sheepdogs"
+        size 1
         color "red"
     ]
     node [
         id 160299
-        size 1
         label "Cancer Bats"
+        size 1
         color "red"
     ]
     node [
         id 291372
-        size 7
         label "Airiel"
+        size 7
         color "red"
     ]
     node [
         id 3142189
-        size 6
         label "сегодняночью"
+        size 6
         color "red"
     ]
     node [
         id 160303
-        size 3
         label "Bleeding Through"
+        size 3
         color "red"
     ]
     node [
         id 291376
-        size 15
         label "Samael"
+        size 15
         color "red"
     ]
     node [
         id 1159730
-        size 0
         label "Anal Cunt"
+        size 0
         color "red"
     ]
     node [
         id 1225267
-        size 0
         label "Bloodshot Bill"
+        size 0
         color "red"
     ]
     node [
         id 160308
-        size 6
         label "Shelter"
+        size 6
         color "red"
     ]
     node [
         id 3027512
-        size 0
         label "Drive by Wire"
+        size 0
         color "red"
     ]
     node [
         id 906066
-        size 1
         label "Krum Bums"
+        size 1
         color "red"
     ]
     node [
         id 29247
-        size 0
         label "Charles Hayward"
+        size 0
         color "red"
     ]
     node [
         id 307777
-        size 0
         label "Pigbag"
+        size 0
         color "red"
     ]
     node [
         id 307778
-        size 3
         label "Fatal Smile"
+        size 3
         color "red"
     ]
     node [
         id 3404355
-        size 0
         label "Ё"
+        size 0
         color "red"
     ]
     node [
         id 356935
-        size 7
         label "Crowbar"
+        size 7
         color "red"
     ]
     node [
         id 455240
-        size 0
         label "SuperHeavy"
+        size 0
         color "red"
     ]
     node [
         id 897612
-        size 0
         label "Excalibur"
+        size 0
         color "red"
     ]
     node [
         id 1569358
-        size 0
         label "Happy Ol'McWeasel"
+        size 0
         color "red"
     ]
     node [
         id 750160
-        size 1
         label "Perfect Strangers"
+        size 1
         color "red"
     ]
     node [
         id 1023417
-        size 1
         label "Last Dinosaurs"
+        size 1
         color "red"
     ]
     node [
         id 650197
-        size 0
         label "brokeNYCDE"
+        size 0
         color "red"
     ]
     node [
         id 537766
-        size 0
         label "The Loops"
+        size 0
         color "red"
     ]
     node [
         id 100453
-        size 9
         label "Terry Bozzio"
+        size 9
         color "red"
     ]
     node [
         id 1714943
-        size 2
         label "5'nizza"
+        size 2
         color "red"
     ]
     node [
         id 2421352
-        size 0
         label "БеZ DaтЫ"
+        size 0
         color "red"
     ]
     node [
         id 78444
-        size 26
         label "Duane Eddy"
+        size 26
         color "red"
     ]
     node [
         id 78610
-        size 1
         label "John Farnham"
+        size 1
         color "red"
     ]
     node [
         id 29294
-        size 0
         label "New Radicals"
+        size 0
         color "red"
     ]
     node [
         id 1061487
-        size 6
         label "Lionville"
+        size 6
         color "red"
     ]
     node [
         id 307825
-        size 6
         label "Tierra Santa"
+        size 6
         color "red"
     ]
     node [
         id 782967
-        size 4
         label "Signs of Betrayal"
+        size 4
         color "red"
     ]
     node [
         id 356988
-        size 1
         label "Undone"
+        size 1
         color "red"
     ]
     node [
         id 291455
-        size 5
         label "Edison Lighthouse"
+        size 5
         color "red"
     ]
     node [
         id 291456
-        size 3
         label "Paper Lace"
+        size 3
         color "red"
     ]
     node [
         id 1782403
-        size 5
         label "Overscene"
+        size 5
         color "red"
     ]
     node [
         id 160393
-        size 18
         label "letlive."
+        size 18
         color "red"
     ]
     node [
         id 258699
-        size 4
         label "War Babies"
+        size 4
         color "red"
     ]
     node [
         id 7618
-        size 28
         label "Beck"
+        size 28
         color "red"
     ]
     node [
         id 144018
-        size 49
         label "Vitamin String Quartet"
+        size 49
         color "red"
     ]
     node [
         id 766611
-        size 8
         label "PFM Premiata Forneria Marconi"
+        size 8
         color "red"
     ]
     node [
         id 668309
-        size 0
         label "Josh Ritter"
+        size 0
         color "red"
     ]
     node [
         id 4698774
-        size 0
         label "Yellow Days"
+        size 0
         color "red"
     ]
     node [
         id 1127063
-        size 6
         label "Fourteen Nights At Sea"
+        size 6
         color "red"
     ]
     node [
         id 29337
-        size 2
         label "Black Francis"
+        size 2
         color "red"
     ]
     node [
         id 1766042
-        size 34
         label "Followed By Ghosts"
+        size 34
         color "red"
     ]
     node [
         id 1110684
-        size 1
         label "The Bloodline"
+        size 1
         color "red"
     ]
     node [
         id 107362
-        size 0
         label "The Burn"
+        size 0
         color "red"
     ]
     node [
         id 80782
-        size 2
         label "April March"
+        size 2
         color "red"
     ]
     node [
         id 45737
-        size 7
         label "Guster"
+        size 7
         color "red"
     ]
     node [
         id 1159857
-        size 14
         label "Alleycat Scratch"
+        size 14
         color "red"
     ]
     node [
         id 537266
-        size 7
         label "Buffalo"
+        size 7
         color "red"
     ]
     node [
         id 209588
-        size 14
         label "My Bloody Valentine"
+        size 14
         color "red"
     ]
     node [
         id 41895
-        size 5
         label "Sleep"
+        size 5
         color "red"
     ]
     node [
         id 78518
-        size 0
         label "John Parr"
+        size 0
         color "red"
     ]
     node [
         id 193208
-        size 0
         label "Our Lady Peace"
+        size 0
         color "red"
     ]
     node [
         id 94905
-        size 3
         label "Ben Folds"
+        size 3
         color "red"
     ]
     node [
         id 14617
-        size 16
         label "Planet P Project"
+        size 16
         color "red"
     ]
     node [
         id 12991
-        size 22
         label "Ben Harper"
+        size 22
         color "red"
     ]
     node [
         id 12993
-        size 5
         label "Matt Costa"
+        size 5
         color "red"
     ]
     node [
         id 357058
-        size 1
         label "The Ides Of March"
+        size 1
         color "red"
     ]
     node [
         id 635588
-        size 3
         label "Mondo Generator"
+        size 3
         color "red"
     ]
     node [
         id 13000
-        size 0
         label "RICHARD Z. KRUSPE"
+        size 0
         color "red"
     ]
     node [
         id 242377
-        size 7
         label "Set It Off"
+        size 7
         color "red"
     ]
     node [
         id 897738
-        size 2
         label "Lucky 13"
+        size 2
         color "red"
     ]
     node [
         id 44386
-        size 0
         label "Brett Anderson"
+        size 0
         color "red"
     ]
     node [
         id 94927
-        size 1
         label "Future Of Forestry"
+        size 1
         color "red"
     ]
     node [
         id 160465
-        size 4
         label "Jet Black Stare"
+        size 4
         color "red"
     ]
     node [
         id 307922
-        size 8
         label "El Ray"
+        size 8
         color "red"
     ]
     node [
         id 62164
-        size 8
         label "Robin Foster"
+        size 8
         color "red"
     ]
     node [
         id 13013
-        size 3
         label "Noir Désir"
+        size 3
         color "red"
     ]
     node [
         id 1602264
-        size 2
         label "Mighty Mongo"
+        size 2
         color "red"
     ]
     node [
         id 13020
-        size 2
         label "Steve Earle"
+        size 2
         color "red"
     ]
     node [
         id 3699421
-        size 0
         label "The Divine Young Stars"
+        size 0
         color "red"
     ]
     node [
         id 1602272
-        size 1
         label "Real Friends"
+        size 1
         color "red"
     ]
     node [
         id 13025
-        size 0
         label "LIVE"
+        size 0
         color "red"
     ]
     node [
         id 2290402
-        size 9
         label "Hollywood Vampires"
+        size 9
         color "red"
     ]
     node [
         id 357092
-        size 2
         label "Vesania"
+        size 2
         color "red"
     ]
     node [
         id 13030
-        size 21
         label "Thrice"
+        size 21
         color "red"
     ]
     node [
         id 13032
-        size 0
         label "Dustin Kensrue"
+        size 0
         color "red"
     ]
     node [
         id 45801
-        size 1
         label "Candlebox"
+        size 1
         color "red"
     ]
     node [
         id 1525
-        size 20
         label "White Lies"
+        size 20
         color "red"
     ]
     node [
         id 226029
-        size 12
         label "Poets Of The Fall"
+        size 12
         color "red"
     ]
     node [
         id 307950
-        size 0
         label "Bobby Conn"
+        size 0
         color "red"
     ]
     node [
         id 258799
-        size 11
         label "Fallulah"
+        size 11
         color "red"
     ]
     node [
         id 668400
-        size 0
         label "Nokie Edwards (Ventures)"
+        size 0
         color "red"
     ]
     node [
         id 209650
-        size 1
         label "Livi"
+        size 1
         color "red"
     ]
     node [
         id 160499
-        size 2
         label "Bucks Fizz"
+        size 2
         color "red"
     ]
     node [
         id 1159927
-        size 5
         label "The Flatliners"
+        size 5
         color "red"
     ]
     node [
         id 586490
-        size 0
         label "The Candymen"
+        size 0
         color "red"
     ]
     node [
         id 242430
-        size 0
         label "King Harvest"
+        size 0
         color "red"
     ]
     node [
         id 1258240
-        size 5
         label "Pegasus Bridge"
+        size 5
         color "red"
     ]
     node [
         id 193283
-        size 12
         label "Lita Ford"
+        size 12
         color "red"
     ]
     node [
         id 78599
-        size 4
         label "Gómez"
+        size 4
         color "red"
     ]
     node [
         id 635658
-        size 3
         label "Think Floyd"
+        size 3
         color "red"
     ]
     node [
         id 701196
-        size 4
         label "The Saddest Landscape"
+        size 4
         color "red"
     ]
     node [
         id 1083522
-        size 1
         label "Red Sun Rising"
+        size 1
         color "red"
     ]
     node [
         id 4109073
-        size 0
         label "Bombardiers Z"
+        size 0
         color "red"
     ]
     node [
         id 29458
-        size 0
         label "Jackie DeShannon"
+        size 0
         color "red"
     ]
     node [
         id 652053
-        size 1
         label "Waz"
+        size 1
         color "red"
     ]
     node [
         id 701206
-        size 0
         label "Such Gold"
+        size 0
         color "red"
     ]
     node [
         id 1700631
-        size 2
         label "Bangups"
+        size 2
         color "red"
     ]
     node [
         id 422683
-        size 0
         label "Iko"
+        size 0
         color "red"
     ]
     node [
         id 291612
-        size 1
         label "Black Time"
+        size 1
         color "red"
     ]
     node [
         id 242461
-        size 5
         label "Songs:Ohia"
+        size 5
         color "red"
     ]
     node [
         id 1110814
-        size 0
         label "The Red Paintings"
+        size 0
         color "red"
     ]
     node [
         id 13089
-        size 14
         label "Paul Simon"
+        size 14
         color "red"
     ]
     node [
         id 1831716
-        size 2
         label "Crobot"
+        size 2
         color "red"
     ]
     node [
         id 1717029
-        size 5
         label "Ямайский и Островитяне"
+        size 5
         color "red"
     ]
     node [
         id 25292
-        size 1
         label "The Big Bopper"
+        size 1
         color "red"
     ]
     node [
         id 1028911
-        size 1
         label "Univeria Zekt"
+        size 1
         color "red"
     ]
     node [
         id 357169
-        size 0
         label "Wicked Vixen"
+        size 0
         color "red"
     ]
     node [
         id 455477
-        size 0
         label "Casino"
+        size 0
         color "red"
     ]
     node [
         id 717622
-        size 0
         label "The Highway To Hell Heroes"
+        size 0
         color "red"
     ]
     node [
         id 1127225
-        size 10
         label "Athletics"
+        size 10
         color "red"
     ]
     node [
         id 1624202
-        size 0
         label "Noesis"
+        size 0
         color "red"
     ]
     node [
         id 1127233
-        size 1
         label "Again For The Win"
+        size 1
         color "red"
     ]
     node [
         id 13122
-        size 1
         label "Bill Wyman"
+        size 1
         color "red"
     ]
     node [
         id 45891
-        size 2
         label "Ambrosia"
+        size 2
         color "red"
     ]
     node [
         id 308036
-        size 10
         label "Varg"
+        size 10
         color "red"
     ]
     node [
         id 13126
-        size 3
         label "The End"
+        size 3
         color "red"
     ]
     node [
         id 652103
-        size 2
         label "The Aristocrats"
+        size 2
         color "red"
     ]
     node [
         id 455496
-        size 11
         label "The Treatment"
+        size 11
         color "red"
     ]
     node [
         id 1848139
-        size 0
         label "The Deadlies"
+        size 0
         color "red"
     ]
     node [
         id 29516
-        size 5
         label "The Rocket Summer"
+        size 5
         color "red"
     ]
     node [
         id 2339667
-        size 15
         label "Down Monday"
+        size 15
         color "red"
     ]
     node [
         id 1222798
-        size 0
         label "Rollerball"
+        size 0
         color "red"
     ]
     node [
         id 1225559
-        size 2
         label "Davie Allan and the Arrows"
+        size 2
         color "red"
     ]
     node [
         id 2962264
-        size 9
         label "Сергей Бобунец"
+        size 9
         color "red"
     ]
     node [
         id 275291
-        size 7
         label "Madsen"
+        size 7
         color "red"
     ]
     node [
         id 160604
-        size 0
         label "Алексей Ревенко"
+        size 0
         color "red"
     ]
     node [
         id 29536
-        size 2
         label "Steve Stevens"
+        size 2
         color "red"
     ]
     node [
         id 29538
-        size 4
         label "Nada Surf"
+        size 4
         color "red"
     ]
     node [
         id 1831782
-        size 4
         label "Projected"
+        size 4
         color "red"
     ]
     node [
         id 1160039
-        size 2
         label "Tumbledown"
+        size 2
         color "red"
     ]
     node [
         id 1848172
-        size 1
         label "Steve Cone"
+        size 1
         color "red"
     ]
     node [
         id 1127278
-        size 9
         label "KEYTALK"
+        size 9
         color "red"
     ]
     node [
         id 1127229
-        size 11
         label "Lights & Motion"
+        size 11
         color "red"
     ]
     node [
         id 95088
-        size 13
         label "Sunrise Avenue"
+        size 13
         color "red"
     ]
     node [
         id 2159475
-        size 0
         label "Relevant Discord"
+        size 0
         color "red"
     ]
     node [
         id 3027829
-        size 4
         label "Sinbreed"
+        size 4
         color "red"
     ]
     node [
         id 979830
-        size 0
         label "Bohemian Rhapsody"
+        size 0
         color "red"
     ]
     node [
         id 2170345
-        size 2
         label "Be Forest"
+        size 2
         color "red"
     ]
     node [
         id 111482
-        size 7
         label "The Fortunes"
+        size 7
         color "red"
     ]
     node [
         id 193403
-        size 0
         label "Joan Jett & The Blackhearts"
+        size 0
         color "red"
     ]
     node [
         id 357246
-        size 1
         label "Firebird"
+        size 1
         color "red"
     ]
     node [
         id 193407
-        size 0
         label "Mad Season"
+        size 0
         color "red"
     ]
     node [
         id 111488
-        size 5
         label "Jan & Dean"
+        size 5
         color "red"
     ]
     node [
         id 2110338
-        size 5
         label "No Connection"
+        size 5
         color "red"
     ]
     node [
         id 103417
-        size 0
         label "Sky"
+        size 0
         color "red"
     ]
     node [
         id 45957
-        size 3
         label "Kimya Dawson"
+        size 3
         color "red"
     ]
     node [
         id 160577
-        size 3
         label "Pop Will Eat Itself"
+        size 3
         color "red"
     ]
     node [
         id 193417
-        size 10
         label "Toad"
+        size 10
         color "red"
     ]
     node [
         id 291722
-        size 3
         label "Berri Txarrak"
+        size 3
         color "red"
     ]
     node [
         id 2425476
-        size 1
         label "LUZBEL"
+        size 1
         color "red"
     ]
     node [
         id 258964
-        size 1
         label "The Teeth"
+        size 1
         color "red"
     ]
     node [
         id 338073
-        size 2
         label "Monolith"
+        size 2
         color "red"
     ]
     node [
         id 1307544
-        size 1
         label "Senser"
+        size 1
         color "red"
     ]
     node [
         id 21316
-        size 2
         label "Geddy Lee"
+        size 2
         color "red"
     ]
     node [
         id 537499
-        size 0
         label "Codec"
+        size 0
         color "red"
     ]
     node [
         id 144284
-        size 1
         label "The Professionals"
+        size 1
         color "red"
     ]
     node [
         id 10394
-        size 36
         label "Santana"
+        size 36
         color "red"
     ]
     node [
         id 78751
-        size 2
         label "Fish"
+        size 2
         color "red"
     ]
     node [
         id 29602
-        size 1
         label "Rare Earth"
+        size 1
         color "red"
     ]
     node [
         id 2356132
-        size 0
         label "This Blue Heaven"
+        size 0
         color "red"
     ]
     node [
         id 1160101
-        size 2
         label "Point Defiance"
+        size 2
         color "red"
     ]
     node [
         id 308136
-        size 4
         label "CRAZY LIXX"
+        size 4
         color "red"
     ]
     node [
         id 78763
-        size 2
         label "Seth"
+        size 2
         color "red"
     ]
     node [
         id 45998
-        size 2
         label "Patrick Moraz"
+        size 2
         color "red"
     ]
     node [
         id 45999
-        size 3
         label "Wakeman"
+        size 3
         color "red"
     ]
     node [
         id 160689
-        size 3
         label "The Bones"
+        size 3
         color "red"
     ]
     node [
         id 3912626
-        size 0
         label "Robert Wine"
+        size 0
         color "red"
     ]
     node [
         id 29620
-        size 8
         label "Rory Gallagher"
+        size 8
         color "red"
     ]
     node [
         id 1127349
-        size 2
         label "Homecomings"
+        size 2
         color "red"
     ]
     node [
         id 29624
-        size 13
         label "Buddy Holly & The Crickets"
+        size 13
         color "red"
     ]
     node [
         id 4486073
-        size 2
         label "Fancy"
+        size 2
         color "red"
     ]
     node [
         id 160698
-        size 8
         label "Mad Sin"
+        size 8
         color "red"
     ]
     node [
         id 29628
-        size 4
         label "Graham Nash"
+        size 4
         color "red"
     ]
     node [
         id 2724682
-        size 2
         label "Amber Run"
+        size 2
         color "red"
     ]
     node [
         id 160702
-        size 8
         label "Metro Station"
+        size 8
         color "red"
     ]
     node [
         id 881600
-        size 1
         label "Wicked Temptation"
+        size 1
         color "red"
     ]
     node [
         id 881601
-        size 17
         label "Hungryheart"
+        size 17
         color "red"
     ]
     node [
         id 3175368
-        size 7
         label "БоБРы"
+        size 7
         color "red"
     ]
     node [
         id 799690
-        size 0
         label "Agora fidelio"
+        size 0
         color "red"
     ]
     node [
         id 1766348
-        size 0
         label "Be Good"
+        size 0
         color "red"
     ]
     node [
         id 2222242
-        size 0
         label "Mark Lettieri"
+        size 0
         color "red"
     ]
     node [
         id 758605
-        size 5
         label "Toadies"
+        size 5
         color "red"
     ]
     node [
         id 1973752
-        size 2
         label "Nylon Jail"
+        size 2
         color "red"
     ]
     node [
         id 1067171
-        size 0
         label "Alabama Shakes"
+        size 0
         color "red"
     ]
     node [
         id 291796
-        size 1
         label "My Darkest Hate"
+        size 1
         color "red"
     ]
     node [
         id 291797
-        size 7
         label "Human Fortress"
+        size 7
         color "red"
     ]
     node [
         id 291798
-        size 2
         label "Dreamscape"
+        size 2
         color "red"
     ]
     node [
         id 13272
-        size 21
         label "Manfred Mann"
+        size 21
         color "red"
     ]
     node [
         id 643663
-        size 1
         label "Lymbyc Systym"
+        size 1
         color "red"
     ]
     node [
         id 1127387
-        size 0
         label "Federale"
+        size 0
         color "red"
     ]
     node [
         id 29660
-        size 2
         label "Livingston"
+        size 2
         color "red"
     ]
     node [
         id 4365818
-        size 0
         label "Изморозь"
+        size 0
         color "red"
     ]
     node [
         id 291809
-        size 23
         label "Darkseed"
+        size 23
         color "red"
     ]
     node [
         id 291812
-        size 2
         label "Balance Of Power"
+        size 2
         color "red"
     ]
     node [
         id 62437
-        size 6
         label "Band Of Skulls"
+        size 6
         color "red"
     ]
     node [
         id 46055
-        size 5
         label "The Afghan Whigs"
+        size 5
         color "red"
     ]
     node [
         id 13288
-        size 16
         label "Billy Fury"
+        size 16
         color "red"
     ]
     node [
         id 291817
-        size 3
         label "Totenmond"
+        size 3
         color "red"
     ]
     node [
         id 13290
-        size 4
         label "The New Seekers"
+        size 4
         color "red"
     ]
     node [
         id 291820
-        size 15
         label "Atargatis"
+        size 15
         color "red"
     ]
     node [
         id 545618
-        size 4
         label "Crystal Palace"
+        size 4
         color "red"
     ]
     node [
         id 111598
-        size 0
         label "Francis Dunnery"
+        size 0
         color "red"
     ]
     node [
         id 13296
-        size 11
         label "The Style Council"
+        size 11
         color "red"
     ]
     node [
         id 62450
-        size 0
         label "Osaka Popstar"
+        size 0
         color "red"
     ]
     node [
         id 3290099
-        size 4
         label "White Apple Tree"
+        size 4
         color "red"
     ]
     node [
         id 1962998
-        size 3
         label "Hammer Fight"
+        size 3
         color "red"
     ]
     node [
         id 291833
-        size 0
         label "RebellioN"
+        size 0
         color "red"
     ]
     node [
         id 291834
-        size 1
         label "Manticora"
+        size 1
         color "red"
     ]
     node [
         id 291835
-        size 7
         label "Mortal Love"
+        size 7
         color "red"
     ]
     node [
         id 1815548
-        size 8
         label "Burn Blue Sky"
+        size 8
         color "red"
     ]
     node [
         id 62462
-        size 3
         label "Prong"
+        size 3
         color "red"
     ]
     node [
         id 13312
-        size 10
         label "Wayne Fontana"
+        size 10
         color "red"
     ]
     node [
         id 749504
-        size 0
         label "Saving Grace"
+        size 0
         color "red"
     ]
     node [
         id 3253102
-        size 3
         label "Bijelo Dugme"
+        size 3
         color "red"
     ]
     node [
         id 291847
-        size 23
         label "Crematory"
+        size 23
         color "red"
     ]
     node [
         id 701451
-        size 6
         label "God Forbid"
+        size 6
         color "red"
     ]
     node [
         id 2372623
-        size 12
         label "Pet Slimmers of the Year"
+        size 12
         color "red"
     ]
     node [
         id 455696
-        size 2
         label "Cherri Bomb"
+        size 2
         color "red"
     ]
     node [
         id 488465
-        size 13
         label "Blowsight"
+        size 13
         color "red"
     ]
     node [
         id 144402
-        size 16
         label "Suede"
+        size 16
         color "red"
     ]
     node [
         id 3257363
-        size 1
         label "String Cheese Incident"
+        size 1
         color "red"
     ]
     node [
         id 29719
-        size 9
         label "Black Tide"
+        size 9
         color "red"
     ]
     node [
         id 89604
-        size 6
         label "Bowling For Soup"
+        size 6
         color "red"
     ]
     node [
         id 291867
-        size 0
         label "The Crest"
+        size 0
         color "red"
     ]
     node [
         id 668701
-        size 8
         label "Dyecrest"
+        size 8
         color "red"
     ]
     node [
         id 914462
-        size 7
         label "Bryan Beller"
+        size 7
         color "red"
     ]
     node [
         id 1651743
-        size 1
         label "Glasslands"
+        size 1
         color "red"
     ]
     node [
         id 357211
-        size 13
         label "Unshine"
+        size 13
         color "red"
     ]
     node [
         id 2651182
-        size 3
         label "Eye Eye"
+        size 3
         color "red"
     ]
     node [
         id 523096
-        size 1
         label "Autumnblaze"
+        size 1
         color "red"
     ]
     node [
         id 1356849
-        size 0
         label "Slow Children"
+        size 0
         color "red"
     ]
     node [
         id 1946675
-        size 1
         label "Forwardhead"
+        size 1
         color "red"
     ]
     node [
         id 29748
-        size 1
         label "Barbara Lewis"
+        size 1
         color "red"
     ]
     node [
         id 987998
-        size 3
         label "Blackchords"
+        size 3
         color "red"
     ]
     node [
         id 13373
-        size 1
         label "The Automatic"
+        size 1
         color "red"
     ]
     node [
         id 947262
-        size 6
         label "Hopelezz"
+        size 6
         color "red"
     ]
     node [
         id 947267
-        size 3
         label "Subsignal"
+        size 3
         color "red"
     ]
     node [
         id 357444
-        size 2
         label "1349"
+        size 2
         color "red"
     ]
     node [
         id 51382
-        size 3
         label "Mark Farner"
+        size 3
         color "red"
     ]
     node [
         id 2290758
-        size 1
         label "Ph8"
+        size 1
         color "red"
     ]
     node [
         id 13384
-        size 10
         label "David Sylvian"
+        size 10
         color "red"
     ]
     node [
         id 2809356
-        size 2
         label "The Trews"
+        size 2
         color "red"
     ]
     node [
         id 193610
-        size 2
         label "Mark Wood"
+        size 2
         color "red"
     ]
     node [
         id 930658
-        size 3
         label "ST 37"
+        size 3
         color "red"
     ]
     node [
         id 357454
-        size 6
         label "The Flower Kings"
+        size 6
         color "red"
     ]
     node [
         id 701520
-        size 9
         label "Otherwise"
+        size 9
         color "red"
     ]
     node [
         id 226386
-        size 17
         label "The Boxer Rebellion"
+        size 17
         color "red"
     ]
     node [
         id 2438227
-        size 2
         label "Cine"
+        size 2
         color "red"
     ]
     node [
         id 95318
-        size 4
         label "Matthew Ward"
+        size 4
         color "red"
     ]
     node [
         id 619608
-        size 14
         label "Kotebel"
+        size 14
         color "red"
     ]
     node [
         id 46173
-        size 3
         label "The Paul Butterfield Blues Band"
+        size 3
         color "red"
     ]
     node [
         id 1654054
-        size 0
         label "Death Alley"
+        size 0
         color "red"
     ]
     node [
         id 95078
-        size 2
         label "Polar."
+        size 2
         color "red"
     ]
     node [
         id 128102
-        size 17
         label "Framing Hanley"
+        size 17
         color "red"
     ]
     node [
         id 51388
-        size 5
         label "THE BLACK CROWES"
+        size 5
         color "red"
     ]
     node [
         id 701547
-        size 2
         label "Devin Townsend"
+        size 2
         color "red"
     ]
     node [
         id 701548
-        size 23
         label "Moonspell"
+        size 23
         color "red"
     ]
     node [
         id 1075500
-        size 1
         label "The Wanted"
+        size 1
         color "red"
     ]
     node [
         id 13423
-        size 0
         label "Hank Marvin"
+        size 0
         color "red"
     ]
     node [
         id 13425
-        size 7
         label "Cliff Richard"
+        size 7
         color "red"
     ]
     node [
         id 1154579
-        size 4
         label "Tyla Gang"
+        size 4
         color "red"
     ]
     node [
         id 668795
-        size 6
         label "Jody Grind"
+        size 6
         color "red"
     ]
     node [
         id 357502
-        size 0
         label "A.D.D."
+        size 0
         color "red"
     ]
     node [
         id 636032
-        size 6
         label "Not From There"
+        size 6
         color "red"
     ]
     node [
         id 714944
-        size 32
         label "Edie"
+        size 32
         color "red"
     ]
     node [
         id 2157066
-        size 2
         label "Dead Cult Diaries"
+        size 2
         color "red"
     ]
     node [
         id 388420
-        size 2
         label "Enrico Prandi"
+        size 2
         color "red"
     ]
     node [
         id 155388
-        size 20
         label "Kaipa"
+        size 20
         color "red"
     ]
     node [
         id 575681
-        size 0
         label "Beecher"
+        size 0
         color "red"
     ]
     node [
         id 1192812
-        size 3
         label "Family Fodder"
+        size 3
         color "red"
     ]
     node [
         id 13450
-        size 4
         label "The Swingle Singers"
+        size 4
         color "red"
     ]
     node [
         id 193676
-        size 0
         label "Del Paxton"
+        size 0
         color "red"
     ]
     node [
         id 1799309
-        size 22
         label "Edward Box"
+        size 22
         color "red"
     ]
     node [
         id 160912
-        size 0
         label "Aura Dione"
+        size 0
         color "red"
     ]
     node [
         id 89624
-        size 11
         label "The Chariot"
+        size 11
         color "red"
     ]
     node [
         id 4351262
-        size 2
         label "Gone Is Gone"
+        size 2
         color "red"
     ]
     node [
         id 13461
-        size 16
         label "Mud"
+        size 16
         color "red"
     ]
     node [
         id 308375
-        size 0
         label "Northern Lights"
+        size 0
         color "red"
     ]
     node [
         id 357528
-        size 2
         label "Gary Puckett"
+        size 2
         color "red"
     ]
     node [
         id 46233
-        size 4
         label "Booker T. & The MG's"
+        size 4
         color "red"
     ]
     node [
         id 13469
-        size 12
         label "Helmet"
+        size 12
         color "red"
     ]
     node [
         id 1897630
-        size 0
         label "Highly Suspect"
+        size 0
         color "red"
     ]
     node [
         id 291999
-        size 8
         label "16 Volt"
+        size 8
         color "red"
     ]
     node [
         id 2421285
-        size 0
         label "Dave Steffen Band"
+        size 0
         color "red"
     ]
     node [
         id 13473
-        size 2
         label "John Mellencamp"
+        size 2
         color "red"
     ]
     node [
         id 15899
-        size 5
         label "Leo Sayer"
+        size 5
         color "red"
     ]
     node [
         id 29862
-        size 4
         label "Brian Johnson"
+        size 4
         color "red"
     ]
     node [
         id 15901
-        size 4
         label "Three Dog Night"
+        size 4
         color "red"
     ]
     node [
         id 292016
-        size 7
         label "Psychopomps"
+        size 7
         color "red"
     ]
     node [
         id 29873
-        size 3
         label "Pete Shelley"
+        size 3
         color "red"
     ]
     node [
         id 46260
-        size 1
         label "Gold"
+        size 1
         color "red"
     ]
     node [
         id 439478
-        size 0
         label "Felony"
+        size 0
         color "red"
     ]
     node [
         id 128185
-        size 0
         label "Laurel"
+        size 0
         color "red"
     ]
     node [
         id 701626
-        size 22
         label "Architects"
+        size 22
         color "red"
     ]
     node [
         id 209258
-        size 10
         label "Danger Danger"
+        size 10
         color "red"
     ]
     node [
         id 128191
-        size 5
         label "Emarosa"
+        size 5
         color "red"
     ]
     node [
         id 46272
-        size 3
         label "Damien Jurado"
+        size 3
         color "red"
     ]
     node [
         id 4732097
-        size 0
         label "M.S. Art"
+        size 0
         color "red"
     ]
     node [
         id 29891
-        size 34
         label "Primal Scream"
+        size 34
         color "red"
     ]
     node [
         id 46276
-        size 0
         label "I Love You But I've Chosen Darkness"
+        size 0
         color "red"
     ]
     node [
         id 46277
-        size 3
         label "Early Day Miners"
+        size 3
         color "red"
     ]
     node [
         id 29895
-        size 2
         label "The Beloved"
+        size 2
         color "red"
     ]
     node [
         id 29899
-        size 15
         label "Everything But The Girl"
+        size 15
         color "red"
     ]
     node [
         id 46287
-        size 3
         label "Sister Hazel"
+        size 3
         color "red"
     ]
     node [
         id 46288
-        size 1
         label "The Ike Reilly Assassination"
+        size 1
         color "red"
     ]
     node [
         id 46289
-        size 0
         label "Sinch"
+        size 0
         color "red"
     ]
     node [
         id 1176786
-        size 1
         label "The Hoax"
+        size 1
         color "red"
     ]
     node [
         id 341205
-        size 0
         label "Kosmos"
+        size 0
         color "red"
     ]
     node [
         id 603350
-        size 5
         label "King Karma"
+        size 5
         color "red"
     ]
     node [
         id 357595
-        size 0
         label "The Mothers"
+        size 0
         color "red"
     ]
     node [
         id 881530
-        size 8
         label "Milan Polak"
+        size 8
         color "red"
     ]
     node [
         id 150481
-        size 63
         label "Joe Bonamassa"
+        size 63
         color "red"
     ]
     node [
         id 636132
-        size 5
         label "Weedeater"
+        size 5
         color "red"
     ]
     node [
         id 2733285
-        size 5
         label "Life On Repeat"
+        size 5
         color "red"
     ]
     node [
         id 2733288
-        size 6
         label "HRVRD"
+        size 6
         color "red"
     ]
     node [
         id 1146407
-        size 1
         label "Pointed Sticks"
+        size 1
         color "red"
     ]
     node [
         id 29936
-        size 7
         label "Richard Hawley"
+        size 7
         color "red"
     ]
     node [
         id 1324278
-        size 15
         label "Deez Nuts"
+        size 15
         color "red"
     ]
     node [
         id 292087
-        size 0
         label "Arrows"
+        size 0
         color "red"
     ]
     node [
         id 226552
-        size 21
         label "Subway To Sally"
+        size 21
         color "red"
     ]
     node [
         id 13563
-        size 0
         label "Bong"
+        size 0
         color "red"
     ]
     node [
         id 46334
-        size 2
         label "Miriam Makeba"
+        size 2
         color "red"
     ]
     node [
         id 13567
-        size 0
         label "Crosby"
+        size 0
         color "red"
     ]
     node [
         id 46338
-        size 4
         label "Push"
+        size 4
         color "red"
     ]
     node [
         id 1127689
-        size 5
         label "Ashes Remain"
+        size 5
         color "red"
     ]
     node [
         id 668938
-        size 10
         label "Monsters of Rock"
+        size 10
         color "red"
     ]
     node [
         id 1766667
-        size 16
         label "The Blinded"
+        size 16
         color "red"
     ]
     node [
         id 29570
-        size 38
         label "Bill Haley"
+        size 38
         color "red"
     ]
     node [
         id 1861848
-        size 1
         label "Ringtonefeeder"
+        size 1
         color "red"
     ]
     node [
         id 914707
-        size 10
         label "Scarlet Violet"
+        size 10
         color "red"
     ]
     node [
         id 816405
-        size 5
         label "Black bomb a"
+        size 5
         color "red"
     ]
     node [
         id 29974
-        size 24
         label "Leslie West"
+        size 24
         color "red"
     ]
     node [
         id 292119
-        size 1
         label "Koray Candemir"
+        size 1
         color "red"
     ]
     node [
         id 701722
-        size 3
         label "David T. Chastain"
+        size 3
         color "red"
     ]
     node [
         id 914716
-        size 10
         label "Confess"
+        size 10
         color "red"
     ]
     node [
         id 29982
-        size 3
         label "Whiskeytown"
+        size 3
         color "red"
     ]
     node [
         id 1154608
-        size 14
         label "Me First And The Gimme Gimmes"
+        size 14
         color "red"
     ]
     node [
         id 4306211
-        size 3
         label "Був'є"
+        size 3
         color "red"
     ]
     node [
         id 1930537
-        size 1
         label "Electrotype"
+        size 1
         color "red"
     ]
     node [
         id 304732
-        size 0
         label "Manticore"
+        size 0
         color "red"
     ]
     node [
         id 193415
-        size 10
         label "Toad The Wet Sprocket"
+        size 10
         color "red"
     ]
     node [
         id 128301
-        size 21
         label "Death Cab for Cutie"
+        size 21
         color "red"
     ]
     node [
         id 1652014
-        size 20
         label "Novelists"
+        size 20
         color "red"
     ]
     node [
         id 103565
-        size 1
         label "The Church"
+        size 1
         color "red"
     ]
     node [
         id 619825
-        size 0
         label "KINION"
+        size 0
         color "red"
     ]
     node [
         id 13618
-        size 12
         label "Bryan Ferry"
+        size 12
         color "red"
     ]
     node [
         id 292147
-        size 1
         label "ROCKFOUR"
+        size 1
         color "red"
     ]
     node [
         id 643129
-        size 7
         label "The Rosedales"
+        size 7
         color "red"
     ]
     node [
         id 21913
-        size 10
         label "Warren Zevon"
+        size 10
         color "red"
     ]
     node [
         id 930697
-        size 8
         label "Universal Totem Orchestra"
+        size 8
         color "red"
     ]
     node [
         id 587066
-        size 1
         label "Bahamas"
+        size 1
         color "red"
     ]
     node [
         id 2246879
-        size 5
         label "U137"
+        size 5
         color "red"
     ]
     node [
         id 1111356
-        size 1
         label "The World Is A Beautiful Place & I Am No Longer Afraid To Die"
+        size 1
         color "red"
     ]
     node [
         id 439614
-        size 14
         label "ASP"
+        size 14
         color "red"
     ]
     node [
         id 2110787
-        size 0
         label "Red Light Sound"
+        size 0
         color "red"
     ]
     node [
         id 30021
-        size 2
         label "Robert Earl Keen"
+        size 2
         color "red"
     ]
     node [
         id 800076
-        size 1
         label "Twilight Trio"
+        size 1
         color "red"
     ]
     node [
         id 832845
-        size 0
         label "Freddy Della"
+        size 0
         color "red"
     ]
     node [
         id 2692818
-        size 0
         label "Mega Tracks Karaoke Band"
+        size 0
         color "red"
     ]
     node [
         id 417338
-        size 10
         label "Blondrock"
+        size 10
         color "red"
     ]
     node [
         id 13664
-        size 1
         label "Roky Erickson"
+        size 1
         color "red"
     ]
     node [
         id 13665
-        size 0
         label "Julian Cope"
+        size 0
         color "red"
     ]
     node [
         id 1013090
-        size 2
         label "Diemonds"
+        size 2
         color "red"
     ]
     node [
         id 3143013
-        size 2
         label "Sienna Skies"
+        size 2
         color "red"
     ]
     node [
         id 30054
-        size 5
         label "Bruce Channel"
+        size 5
         color "red"
     ]
     node [
         id 4224360
-        size 4
         label "Skid Row"
+        size 4
         color "red"
     ]
     node [
         id 3700073
-        size 0
         label "Den of Ashes"
+        size 0
         color "red"
     ]
     node [
         id 1652074
-        size 5
         label "No Second Troy"
+        size 5
         color "red"
     ]
     node [
         id 272615
-        size 2
         label "The Seer"
+        size 2
         color "red"
     ]
     node [
         id 79215
-        size 58
         label "Queen"
+        size 58
         color "red"
     ]
     node [
         id 144752
-        size 8
         label "Bloodrock"
+        size 8
         color "red"
     ]
     node [
         id 587121
-        size 20
         label "Vinnie Moore"
+        size 20
         color "red"
     ]
     node [
         id 587122
-        size 11
         label "Crossfaith"
+        size 11
         color "red"
     ]
     node [
         id 86931
-        size 3
         label "Popeda"
+        size 3
         color "red"
     ]
     node [
         id 292212
-        size 2
         label "Doug Stapp"
+        size 2
         color "red"
     ]
     node [
         id 1176949
-        size 6
         label "Ty Segall"
+        size 6
         color "red"
     ]
     node [
         id 197366
-        size 0
         label "Escala"
+        size 0
         color "red"
     ]
     node [
         id 669050
-        size 3
         label "Jaws"
+        size 3
         color "red"
     ]
     node [
         id 1231082
-        size 3
         label "Arukara"
+        size 3
         color "red"
     ]
     node [
         id 1160576
-        size 4
         label "Mallory Knox"
+        size 4
         color "red"
     ]
     node [
         id 603524
-        size 0
         label "Six String Superstars"
+        size 0
         color "red"
     ]
     node [
         id 125164
-        size 2
         label "The Devil Makes Three"
+        size 2
         color "red"
     ]
     node [
         id 226699
-        size 9
         label "Sugarcult"
+        size 9
         color "red"
     ]
     node [
         id 701839
-        size 8
         label "Sleeping Giant"
+        size 8
         color "red"
     ]
     node [
         id 374160
-        size 0
         label "White Hinterland"
+        size 0
         color "red"
     ]
     node [
         id 292241
-        size 5
         label "Legion Of The Damned"
+        size 5
         color "red"
     ]
     node [
         id 1572419
-        size 1
         label "Buffalo Summer"
+        size 1
         color "red"
     ]
     node [
         id 292244
-        size 21
         label "Candlemass"
+        size 21
         color "red"
     ]
     node [
         id 226711
-        size 9
         label "The Chantays"
+        size 9
         color "red"
     ]
     node [
         id 30104
-        size 20
         label "Def Leppard"
+        size 20
         color "red"
     ]
     node [
         id 13721
-        size 0
         label "Larry Miller"
+        size 0
         color "red"
     ]
     node [
         id 1813915
-        size 1
         label "LowBuz"
+        size 1
         color "red"
     ]
     node [
         id 62887
-        size 0
         label "Bigbang"
+        size 0
         color "red"
     ]
     node [
         id 30122
-        size 0
         label "dEUS"
+        size 0
         color "red"
     ]
     node [
         id 112044
-        size 17
         label "Dick Dale & His Del-Tones"
+        size 17
         color "red"
     ]
     node [
         id 1181938
-        size 11
         label "Royal Thunder"
+        size 11
         color "red"
     ]
     node [
         id 832942
-        size 0
         label "Mr. Lova"
+        size 0
         color "red"
     ]
     node [
         id 832943
-        size 1
         label "Bebo Best"
+        size 1
         color "red"
     ]
     node [
         id 67562
-        size 2
         label "Loney, Dear"
+        size 2
         color "red"
     ]
     node [
         id 79284
-        size 0
         label "ELYSION"
+        size 0
         color "red"
     ]
     node [
         id 701877
-        size 10
         label "The Safety Fire"
+        size 10
         color "red"
     ]
     node [
         id 30136
-        size 2
         label "ASHES dIVIDE"
+        size 2
         color "red"
     ]
     node [
         id 79290
-        size 5
         label "Daniele Luppi"
+        size 5
         color "red"
     ]
     node [
         id 2670724
-        size 0
         label "The Damn Crystals"
+        size 0
         color "red"
     ]
     node [
         id 193982
-        size 0
         label "Joe Public"
+        size 0
         color "red"
     ]
     node [
         id 95681
-        size 15
         label "Oomph!"
+        size 15
         color "red"
     ]
     node [
         id 636355
-        size 2
         label "Travis Larson Band"
+        size 2
         color "red"
     ]
     node [
         id 308676
-        size 0
         label "Gene Vincent & the Blue Caps"
+        size 0
         color "red"
     ]
     node [
         id 3274182
-        size 1
         label "Alvin Lee Band"
+        size 1
         color "red"
     ]
     node [
         id 431009
-        size 15
         label "One Morning Left"
+        size 15
         color "red"
     ]
     node [
         id 30154
-        size 6
         label "From First To Last"
+        size 6
         color "red"
     ]
     node [
         id 31010
-        size 3
         label "Latte E Miele"
+        size 3
         color "red"
     ]
     node [
         id 1766306
-        size 5
         label "The Surf Zombies"
+        size 5
         color "red"
     ]
     node [
         id 30158
-        size 6
         label "Every Time I Die"
+        size 6
         color "red"
     ]
     node [
         id 30159
-        size 1
         label "Emery"
+        size 1
         color "red"
     ]
     node [
         id 30160
-        size 24
         label "Mayday Parade"
+        size 24
         color "red"
     ]
     node [
         id 636370
-        size 0
         label "The Malibooz"
+        size 0
         color "red"
     ]
     node [
         id 201635
-        size 0
         label "Clap Your Hands Say Yeah"
+        size 0
         color "red"
     ]
     node [
         id 30164
-        size 5
         label "Cute Is What We Aim For"
+        size 5
         color "red"
     ]
     node [
         id 308693
-        size 0
         label "Big Bopper"
+        size 0
         color "red"
     ]
     node [
         id 30166
-        size 1
         label "Every Avenue"
+        size 1
         color "red"
     ]
     node [
         id 2569687
-        size 1
         label "Les Pingouins"
+        size 1
         color "red"
     ]
     node [
         id 783835
-        size 6
         label "The Zen Circus"
+        size 6
         color "red"
     ]
     node [
         id 13788
-        size 2
         label "Pere Ubu"
+        size 2
         color "red"
     ]
     node [
         id 4060641
-        size 6
         label "Lemu"
+        size 6
         color "red"
     ]
     node [
         id 3667427
-        size 2
         label "Zabranjeno Pušenje"
+        size 2
         color "red"
     ]
     node [
         id 172858
-        size 0
         label "Amanda Jenssen"
+        size 0
         color "red"
     ]
     node [
         id 1488364
-        size 0
         label "Shahman"
+        size 0
         color "red"
     ]
     node [
         id 70569
-        size 2
         label "Nana"
+        size 2
         color "red"
     ]
     node [
         id 30204
-        size 12
         label "Brother Firetribe"
+        size 12
         color "red"
     ]
     node [
         id 226817
-        size 3
         label "Under The Influence of Giants"
+        size 3
         color "red"
     ]
     node [
         id 1155967
-        size 0
         label "Chuck Wiley"
+        size 0
         color "red"
     ]
     node [
         id 1308172
-        size 0
         label "The Riverboat Gamblers"
+        size 0
         color "red"
     ]
     node [
         id 112141
-        size 7
         label "The Letter Black"
+        size 7
         color "red"
     ]
     node [
         id 308752
-        size 1
         label "Nightmare"
+        size 1
         color "red"
     ]
     node [
         id 2160146
-        size 1
         label "Eversham"
+        size 1
         color "red"
     ]
     node [
         id 144916
-        size 1
         label "Roy Powell"
+        size 1
         color "red"
     ]
     node [
         id 292374
-        size 62
         label "Edguy"
+        size 62
         color "red"
     ]
     node [
         id 1801817
-        size 15
         label "Martin Cilia"
+        size 15
         color "red"
     ]
     node [
         id 800281
-        size 1
         label "Kayak"
+        size 1
         color "red"
     ]
     node [
         id 701978
-        size 5
         label "Diecast"
+        size 5
         color "red"
     ]
     node [
         id 144930
-        size 11
         label "Fuel"
+        size 11
         color "red"
     ]
     node [
         id 2045477
-        size 36
         label "Mike Campese"
+        size 36
         color "red"
     ]
     node [
         id 95782
-        size 16
         label "Manafest"
+        size 16
         color "red"
     ]
     node [
         id 144944
-        size 0
         label "Alex Band"
+        size 0
         color "red"
     ]
     node [
         id 144945
-        size 0
         label "The Calling"
+        size 0
         color "red"
     ]
     node [
         id 357938
-        size 12
         label "Siebenburgen"
+        size 12
         color "red"
     ]
     node [
         id 13877
-        size 3
         label "Gary Numan"
+        size 3
         color "red"
     ]
     node [
         id 13878
-        size 5
         label "Todd Rundgren"
+        size 5
         color "red"
     ]
     node [
         id 876127
-        size 34
         label "Echolyn"
+        size 34
         color "red"
     ]
     node [
         id 1324606
-        size 0
         label "The Malamondos"
+        size 0
         color "red"
     ]
     node [
         id 29621
-        size 1
         label "Taste"
+        size 1
         color "red"
     ]
     node [
         id 308801
-        size 2
         label "Cetu Javu"
+        size 2
         color "red"
     ]
     node [
         id 2815554
-        size 0
         label "The Corn On The Cob"
+        size 0
         color "red"
     ]
     node [
         id 144963
-        size 4
         label "Hawthorne Heights"
+        size 4
         color "red"
     ]
     node [
         id 144966
-        size 5
         label "The Dreaming"
+        size 5
         color "red"
     ]
     node [
         id 938289
-        size 2
         label "Big Bad Shakin'"
+        size 2
         color "red"
     ]
     node [
         id 13902
-        size 1
         label "Cornelius"
+        size 1
         color "red"
     ]
     node [
         id 1766996
-        size 3
         label "The Barbarellatones"
+        size 3
         color "red"
     ]
     node [
         id 1504853
-        size 0
         label "Blackthorne"
+        size 0
         color "red"
     ]
     node [
         id 357305
-        size 2
         label "Johnny Lima"
+        size 2
         color "red"
     ]
     node [
         id 144984
-        size 6
         label "Submersed"
+        size 6
         color "red"
     ]
     node [
         id 1144412
-        size 8
         label "Attacker"
+        size 8
         color "red"
     ]
     node [
         id 40549
-        size 0
         label "Vashti Bunyan"
+        size 0
         color "red"
     ]
     node [
         id 2537058
-        size 1
         label "I Am Abomination"
+        size 1
         color "red"
     ]
     node [
         id 1308259
-        size 0
         label "Percy Howard . Charles Hayward . Fred Frith. Bill Laswell"
+        size 0
         color "red"
     ]
     node [
         id 2242151
-        size 6
         label "Montage"
+        size 6
         color "red"
     ]
     node [
         id 46012
-        size 67
         label "ZZ Top"
+        size 67
         color "red"
     ]
     node [
         id 32652
-        size 8
         label "Butch Walker"
+        size 8
         color "red"
     ]
     node [
         id 48744
-        size 0
         label "Dark new Day"
+        size 0
         color "red"
     ]
     node [
         id 2160244
-        size 4
         label "Opus Däi"
+        size 4
         color "red"
     ]
     node [
         id 63093
-        size 3
         label "The Hold Steady"
+        size 3
         color "red"
     ]
     node [
         id 620150
-        size 0
         label "Highway 61 Revisited"
+        size 0
         color "red"
     ]
     node [
         id 30330
-        size 1
         label "Forever The Sickest Kids"
+        size 1
         color "red"
     ]
     node [
         id 35926
-        size 1
         label "The Donnas"
+        size 1
         color "red"
     ]
     node [
         id 620157
-        size 0
         label "Anand Clique"
+        size 0
         color "red"
     ]
     node [
         id 1750655
-        size 4
         label "Dopapod"
+        size 4
         color "red"
     ]
     node [
         id 302699
-        size 9
         label "Bodyslam"
+        size 9
         color "red"
     ]
     node [
         id 2553478
-        size 5
         label "Ken Hensley & Live Fire"
+        size 5
         color "red"
     ]
     node [
         id 160705
-        size 0
         label "Chris Holmes"
+        size 0
         color "red"
     ]
     node [
         id 32653
-        size 20
         label "Anberlin"
+        size 20
         color "red"
     ]
     node [
         id 1586825
-        size 3
         label "Rose Windows"
+        size 3
         color "red"
     ]
     node [
         id 358028
-        size 8
         label "Last Autumn's Dream"
+        size 8
         color "red"
     ]
     node [
         id 1226382
-        size 6
         label "Roxx Gang"
+        size 6
         color "red"
     ]
     node [
         id 13967
-        size 1
         label "Ginger Baker"
+        size 1
         color "red"
     ]
     node [
         id 1837928
-        size 2
         label "Floater"
+        size 2
         color "red"
     ]
     node [
         id 145043
-        size 1
         label "Breaking Point"
+        size 1
         color "red"
     ]
     node [
         id 2041424
-        size 0
         label "The Last Internationale"
+        size 0
         color "red"
     ]
     node [
         id 308889
-        size 1
         label "The Spacemen"
+        size 1
         color "red"
     ]
     node [
         id 226972
-        size 0
         label "Tahiti 80"
+        size 0
         color "red"
     ]
     node [
         id 616730
-        size 1
         label "The Slowhand Guitar Players"
+        size 1
         color "red"
     ]
     node [
         id 145056
-        size 4
         label "John 5"
+        size 4
         color "red"
     ]
     node [
         id 1160866
-        size 9
         label "Cavity"
+        size 9
         color "red"
     ]
     node [
         id 30376
-        size 2
         label "Celtic Frost"
+        size 2
         color "red"
     ]
     node [
         id 358058
-        size 3
         label "Ufomammut"
+        size 3
         color "red"
     ]
     node [
         id 1125421
-        size 1
         label "Beyond All Recognition"
+        size 1
         color "red"
     ]
     node [
         id 145074
-        size 0
         label "The Rockets"
+        size 0
         color "red"
     ]
     node [
         id 2143923
-        size 0
         label "Billy Sullivan"
+        size 0
         color "red"
     ]
     node [
         id 292537
-        size 10
         label "Dew-Scented"
+        size 10
         color "red"
     ]
     node [
         id 63163
-        size 6
         label "Titãs"
+        size 6
         color "red"
     ]
     node [
         id 227004
-        size 13
         label "New Years Day"
+        size 13
         color "red"
     ]
     node [
         id 292541
-        size 23
         label "Die Apokalyptischen Reiter"
+        size 23
         color "red"
     ]
     node [
         id 201675
-        size 2
         label "The Watson Twins"
+        size 2
         color "red"
     ]
     node [
         id 327286
-        size 2
         label "Hauschka"
+        size 2
         color "red"
     ]
     node [
         id 4290248
-        size 0
         label "Minus One"
+        size 0
         color "red"
     ]
     node [
         id 702153
-        size 2
         label "Fu Manchu"
+        size 2
         color "red"
     ]
     node [
         id 636619
-        size 4
         label "Believe"
+        size 4
         color "red"
     ]
     node [
         id 292556
-        size 3
         label "Illuminate"
+        size 3
         color "red"
     ]
     node [
         id 4290254
-        size 1
         label "Freddie"
+        size 1
         color "red"
     ]
     node [
         id 833232
-        size 0
         label "Leo Jiménez"
+        size 0
         color "red"
     ]
     node [
         id 1291986
-        size 1
         label "IAMDYNAMITE"
+        size 1
         color "red"
     ]
     node [
         id 30426
-        size 0
         label "Lyle Workman"
+        size 0
         color "red"
     ]
     node [
         id 669405
-        size 3
         label "The Minister Of Soundalikes"
+        size 3
         color "red"
     ]
     node [
         id 1963743
-        size 2
         label "Nick Riff"
+        size 2
         color "red"
     ]
     node [
         id 30434
-        size 2
         label "Frank Black"
+        size 2
         color "red"
     ]
     node [
         id 2717411
-        size 0
         label "NGe"
+        size 0
         color "red"
     ]
     node [
         id 308964
-        size 2
         label "The Crookes"
+        size 2
         color "red"
     ]
     node [
         id 881617
-        size 3
         label "Darkestrah"
+        size 3
         color "red"
     ]
     node [
         id 14057
-        size 5
         label "CKY"
+        size 5
         color "red"
     ]
     node [
         id 1537770
-        size 3
         label "Cardona"
+        size 3
         color "red"
     ]
     node [
         id 718571
-        size 0
         label "London Session Singers"
+        size 0
         color "red"
     ]
     node [
         id 30445
-        size 14
         label "Cake"
+        size 14
         color "red"
     ]
     node [
         id 2443560
-        size 2
         label "Dreams in the Witch House"
+        size 2
         color "red"
     ]
     node [
         id 1275636
-        size 0
         label "Cage9"
+        size 0
         color "red"
     ]
     node [
         id 718582
-        size 11
         label "Deadhorse"
+        size 11
         color "red"
     ]
     node [
         id 5496
-        size 3
         label "Os Mutantes"
+        size 3
         color "red"
     ]
     node [
         id 292602
-        size 28
         label "Mnemic"
+        size 28
         color "red"
     ]
     node [
         id 325373
-        size 3
         label "Gary Wilson"
+        size 3
         color "red"
     ]
     node [
         id 161535
-        size 5
         label "Faith And The Muse"
+        size 5
         color "red"
     ]
     node [
         id 161536
-        size 3
         label "PIG"
+        size 3
         color "red"
     ]
     node [
         id 1119804
-        size 2
         label "Sinew"
+        size 2
         color "red"
     ]
     node [
         id 2406146
-        size 14
         label "Eternity X"
+        size 14
         color "red"
     ]
     node [
         id 882438
-        size 1
         label "Nachtmystium"
+        size 1
         color "red"
     ]
     node [
         id 1210119
-        size 15
         label "Dimension Zero"
+        size 15
         color "red"
     ]
     node [
         id 161544
-        size 19
         label "Mindless Self Indulgence"
+        size 19
         color "red"
     ]
     node [
         id 161545
-        size 8
         label "Specimen"
+        size 8
         color "red"
     ]
     node [
         id 161550
-        size 7
         label "Rick Springfield"
+        size 7
         color "red"
     ]
     node [
         id 2340623
-        size 11
         label "Gravel Switch"
+        size 11
         color "red"
     ]
     node [
         id 227089
-        size 2
         label "Sportfreunde Stiller"
+        size 2
         color "red"
     ]
     node [
         id 266705
-        size 7
         label "Art Of Dying"
+        size 7
         color "red"
     ]
     node [
         id 718612
-        size 0
         label "Lionize"
+        size 0
         color "red"
     ]
     node [
         id 243480
-        size 0
         label "Only"
+        size 0
         color "red"
     ]
     node [
         id 243481
-        size 19
         label "Anathema"
+        size 19
         color "red"
     ]
     node [
         id 14107
-        size 0
         label "Christine McVie"
+        size 0
         color "red"
     ]
     node [
         id 3438365
-        size 1
         label "Shy shy shy"
+        size 1
         color "red"
     ]
     node [
         id 96030
-        size 3
         label "The Music"
+        size 3
         color "red"
     ]
     node [
         id 7813
-        size 0
         label "Gun"
+        size 0
         color "red"
     ]
     node [
         id 849698
-        size 1
         label "Acetate Zero"
+        size 1
         color "red"
     ]
     node [
         id 3094309
-        size 0
         label "Zoom Entertainments Limited"
+        size 0
         color "red"
     ]
     node [
         id 259882
-        size 0
         label "Messer Chups"
+        size 0
         color "red"
     ]
     node [
         id 358187
-        size 1
         label "Sex Slaves"
+        size 1
         color "red"
     ]
     node [
         id 1328921
-        size 0
         label "The Protest"
+        size 0
         color "red"
     ]
     node [
         id 259886
-        size 8
         label "Fun."
+        size 8
         color "red"
     ]
     node [
         id 1619761
-        size 3
         label "The Wanton Bishops"
+        size 3
         color "red"
     ]
     node [
         id 14132
-        size 11
         label "The Charlatans"
+        size 11
         color "red"
     ]
     node [
         id 14133
-        size 20
         label "Ryan Adams"
+        size 20
         color "red"
     ]
     node [
         id 1619766
-        size 5
         label "The Mayan Factor"
+        size 5
         color "red"
     ]
     node [
         id 14135
-        size 1
         label "Ron Sexsmith"
+        size 1
         color "red"
     ]
     node [
         id 14138
-        size 1
         label "Longpigs"
+        size 1
         color "red"
     ]
     node [
         id 30523
-        size 2
         label "Rosanne Cash"
+        size 2
         color "red"
     ]
     node [
         id 2422589
-        size 0
         label "Ohrenfeindt"
+        size 0
         color "red"
     ]
     node [
         id 26933
-        size 1
         label "Mick Taylor"
+        size 1
         color "red"
     ]
     node [
         id 309057
-        size 3
         label "Heaven & Earth"
+        size 3
         color "red"
     ]
     node [
         id 1820476
-        size 2
         label "Set for the Fall"
+        size 2
         color "red"
     ]
     node [
         id 1488712
-        size 3
         label "Minora"
+        size 3
         color "red"
     ]
     node [
         id 1980233
-        size 0
         label "Dire Strats"
+        size 0
         color "red"
     ]
     node [
         id 1570640
-        size 4
         label "The Physics House Band"
+        size 4
         color "red"
     ]
     node [
         id 292689
-        size 5
         label "Sinner"
+        size 5
         color "red"
     ]
     node [
         id 292691
-        size 16
         label "Tiamat"
+        size 16
         color "red"
     ]
     node [
         id 292693
-        size 3
         label "Pyogenesis"
+        size 3
         color "red"
     ]
     node [
         id 292694
-        size 1
         label "End Of Green"
+        size 1
         color "red"
     ]
     node [
         id 30551
-        size 18
         label "Tom Petty And The Heartbreakers"
+        size 18
         color "red"
     ]
     node [
         id 292700
-        size 7
         label "Love Like Blood"
+        size 7
         color "red"
     ]
     node [
         id 325470
-        size 1
         label "Swirlies"
+        size 1
         color "red"
     ]
     node [
         id 13285
-        size 0
         label "Billie Davis"
+        size 0
         color "red"
     ]
     node [
         id 309089
-        size 1
         label "Wig Wam"
+        size 1
         color "red"
     ]
     node [
         id 1157435
-        size 12
         label "Elf Project"
+        size 12
         color "red"
     ]
     node [
         id 2652079
-        size 0
         label "ManuSté&Co"
+        size 0
         color "red"
     ]
     node [
         id 112486
-        size 22
         label "Alice In Chains"
+        size 22
         color "red"
     ]
     node [
         id 96107
-        size 1
         label "Badly Drawn Boy"
+        size 1
         color "red"
     ]
     node [
         id 194412
-        size 2
         label "GALLERY"
+        size 2
         color "red"
     ]
     node [
         id 194413
-        size 7
         label "sub7even"
+        size 7
         color "red"
     ]
     node [
         id 46958
-        size 5
         label "El Tri"
+        size 5
         color "red"
     ]
     node [
         id 504808
-        size 25
         label "St. Vincent"
+        size 25
         color "red"
     ]
     node [
         id 851554
-        size 7
         label "Monkey3"
+        size 7
         color "red"
     ]
     node [
         id 309111
-        size 8
         label "Watain"
+        size 8
         color "red"
     ]
     node [
         id 46969
-        size 11
         label "Paul Young"
+        size 11
         color "red"
     ]
     node [
         id 340970
-        size 1
         label "P J Proby"
+        size 1
         color "red"
     ]
     node [
         id 1374078
-        size 5
         label "Soulcage"
+        size 5
         color "red"
     ]
     node [
         id 46975
-        size 0
         label "Keys"
+        size 0
         color "red"
     ]
     node [
         id 30594
-        size 5
         label "The Dodos"
+        size 5
         color "red"
     ]
     node [
         id 1346382
-        size 0
         label "How to count one to ten"
+        size 0
         color "red"
     ]
     node [
         id 30598
-        size 0
         label "Lisa Fischer"
+        size 0
         color "red"
     ]
     node [
         id 111596
-        size 2
         label "Dexy's Midnight Runners"
+        size 2
         color "red"
     ]
     node [
         id 292746
-        size 14
         label "Belphegor"
+        size 14
         color "red"
     ]
     node [
         id 96139
-        size 3
         label "High Tide"
+        size 3
         color "red"
     ]
     node [
         id 601686
-        size 0
         label "John York"
+        size 0
         color "red"
     ]
     node [
         id 14221
-        size 2
         label "Roger Hodgson"
+        size 2
         color "red"
     ]
     node [
         id 210830
-        size 0
         label "Noel Redding"
+        size 0
         color "red"
     ]
     node [
         id 292751
-        size 0
         label "Incantation"
+        size 0
         color "red"
     ]
     node [
         id 259984
-        size 0
         label "Sophie Hunger"
+        size 0
         color "red"
     ]
     node [
         id 1177492
-        size 0
         label "Joey Cape"
+        size 0
         color "red"
     ]
     node [
         id 309143
-        size 0
         label "The Young Veins"
+        size 0
         color "red"
     ]
     node [
         id 79770
-        size 13
         label "Brainstorm"
+        size 13
         color "red"
     ]
     node [
         id 1849246
-        size 0
         label "Dan Mumm"
+        size 0
         color "red"
     ]
     node [
         id 292768
-        size 6
         label "Narnia"
+        size 6
         color "red"
     ]
     node [
         id 168944
-        size 13
         label "Kaleidoscope"
+        size 13
         color "red"
     ]
     node [
         id 292770
-        size 0
         label "Orphanage"
+        size 0
         color "red"
     ]
     node [
         id 325539
-        size 5
         label "Family"
+        size 5
         color "red"
     ]
     node [
         id 751524
-        size 6
         label "Stoned Jesus"
+        size 6
         color "red"
     ]
     node [
         id 292774
-        size 15
         label "The Kovenant"
+        size 15
         color "red"
     ]
     node [
         id 2029480
-        size 2
         label "Scott Benson Band"
+        size 2
         color "red"
     ]
     node [
         id 532124
-        size 0
         label "The Retrosic"
+        size 0
         color "red"
     ]
     node [
         id 309162
-        size 2
         label "Brad Gillis"
+        size 2
         color "red"
     ]
     node [
         id 325550
-        size 11
         label "Revenge"
+        size 11
         color "red"
     ]
     node [
         id 30639
-        size 5
         label "Joss Stone"
+        size 5
         color "red"
     ]
     node [
         id 62451
-        size 2
         label "Richard Hell"
+        size 2
         color "red"
     ]
     node [
         id 1223086
-        size 2
         label "Plumerai"
+        size 2
         color "red"
     ]
     node [
         id 800697
-        size 2
         label "Grizz Rock"
+        size 2
         color "red"
     ]
     node [
         id 669628
-        size 1
         label "Joey Dee and the Starliters"
+        size 1
         color "red"
     ]
     node [
         id 767937
-        size 2
         label "Dexys"
+        size 2
         color "red"
     ]
     node [
         id 15751
-        size 9
         label "Sparklehorse"
+        size 9
         color "red"
     ]
     node [
         id 2110454
-        size 2
         label "The Medium"
+        size 2
         color "red"
     ]
     node [
         id 30664
-        size 1
         label "Guided By Voices"
+        size 1
         color "red"
     ]
     node [
         id 210889
-        size 0
         label "David Mead"
+        size 0
         color "red"
     ]
     node [
         id 538571
-        size 6
         label "Onslaught"
+        size 6
         color "red"
     ]
     node [
         id 538574
-        size 10
         label "Warbringer"
+        size 10
         color "red"
     ]
     node [
         id 35149
-        size 3
         label "Redd"
+        size 3
         color "red"
     ]
     node [
         id 30672
-        size 1
         label "The Courteeners"
+        size 1
         color "red"
     ]
     node [
         id 29689
-        size 3
         label "War"
+        size 3
         color "red"
     ]
     node [
         id 1179300
-        size 0
         label "Aqua Velvet"
+        size 0
         color "red"
     ]
     node [
         id 538587
-        size 2
         label "GWAR"
+        size 2
         color "red"
     ]
     node [
         id 1177567
-        size 3
         label "Cervello"
+        size 3
         color "red"
     ]
     node [
         id 2439136
-        size 0
         label "Black Mountain Prophet"
+        size 0
         color "red"
     ]
     node [
         id 538593
-        size 6
         label "Mob Rules"
+        size 6
         color "red"
     ]
     node [
         id 1406946
-        size 17
         label "Jonas Tamas"
+        size 17
         color "red"
     ]
     node [
         id 313085
-        size 6
         label "The Arrs"
+        size 6
         color "red"
     ]
     node [
         id 1046500
-        size 1
         label "20/20"
+        size 1
         color "red"
     ]
     node [
         id 29692
-        size 13
         label "Kasabian"
+        size 13
         color "red"
     ]
     node [
         id 1898480
-        size 4
         label "For The Wait"
+        size 4
         color "red"
     ]
     node [
         id 587761
-        size 3
         label "Noel Gallagher's High Flying Birds"
+        size 3
         color "red"
     ]
     node [
         id 2085886
-        size 0
         label "Venus Infers"
+        size 0
         color "red"
     ]
     node [
         id 3749879
-        size 0
         label "Fox"
+        size 0
         color "red"
     ]
     node [
         id 132012
-        size 1
         label "Wisdom"
+        size 1
         color "red"
     ]
     node [
         id 735230
-        size 2
         label "Tim Bowness"
+        size 2
         color "red"
     ]
     node [
         id 1652735
-        size 5
         label "Александр Кутиков"
+        size 5
         color "red"
     ]
     node [
         id 40619
-        size 32
         label "Duran Duran"
+        size 32
         color "red"
     ]
     node [
         id 423941
-        size 0
         label "Willie And The Poor Boys"
+        size 0
         color "red"
     ]
     node [
         id 1255105
-        size 0
         label "Abbey Road All-Stars"
+        size 0
         color "red"
     ]
     node [
         id 260109
-        size 15
         label "Kotiteollisuus"
+        size 15
         color "red"
     ]
     node [
         id 48813
-        size 9
         label "WAYNE STATIC"
+        size 9
         color "red"
     ]
     node [
         id 292880
-        size 2
         label "Squealer"
+        size 2
         color "red"
     ]
     node [
         id 538641
-        size 3
         label "Achtung Baby"
+        size 3
         color "red"
     ]
     node [
         id 26665
-        size 1
         label "Fair To Midland"
+        size 1
         color "red"
     ]
     node [
         id 47126
-        size 2
         label "M-Clan"
+        size 2
         color "red"
     ]
     node [
         id 30744
-        size 0
         label "Syd Barrett"
+        size 0
         color "red"
     ]
     node [
         id 79899
-        size 7
         label "Braid"
+        size 7
         color "red"
     ]
     node [
         id 79900
-        size 2
         label "American Football"
+        size 2
         color "red"
     ]
     node [
         id 79902
-        size 4
         label "Aloha"
+        size 4
         color "red"
     ]
     node [
         id 292895
-        size 34
         label "Ektomorf"
+        size 34
         color "red"
     ]
     node [
         id 292896
-        size 3
         label "Cathedral"
+        size 3
         color "red"
     ]
     node [
         id 292898
-        size 24
         label "Mystic Prophecy"
+        size 24
         color "red"
     ]
     node [
         id 292901
-        size 0
         label "Gun Barrel"
+        size 0
         color "red"
     ]
     node [
         id 48817
-        size 4
         label "House Of Heroes"
+        size 4
         color "red"
     ]
     node [
         id 346460
-        size 15
         label "Vanden Plas"
+        size 15
         color "red"
     ]
     node [
         id 79917
-        size 3
         label "31Knots"
+        size 3
         color "red"
     ]
     node [
         id 292911
-        size 28
         label "Death Angel"
+        size 28
         color "red"
     ]
     node [
         id 79920
-        size 4
         label "Someone Still Loves You Boris Yeltsin"
+        size 4
         color "red"
     ]
     node [
         id 30771
-        size 1
         label "The Pigeon Detectives"
+        size 1
         color "red"
     ]
     node [
         id 2160692
-        size 0
         label "Drumattica"
+        size 0
         color "red"
     ]
     node [
         id 79925
-        size 2
         label "Persephone's Dream"
+        size 2
         color "red"
     ]
     node [
         id 1325113
-        size 5
         label "Gamalon"
+        size 5
         color "red"
     ]
     node [
         id 73397
-        size 0
         label "Spain"
+        size 0
         color "red"
     ]
     node [
         id 358464
-        size 5
         label "Osi"
+        size 5
         color "red"
     ]
     node [
         id 1013825
-        size 5
         label "Hellebore"
+        size 5
         color "red"
     ]
     node [
         id 79939
-        size 3
         label "Cursive"
+        size 3
         color "red"
     ]
     node [
         id 587844
-        size 7
         label "The Atomic Bitchwax"
+        size 7
         color "red"
     ]
     node [
         id 587847
-        size 3
         label "Nebula"
+        size 3
         color "red"
     ]
     node [
         id 79946
-        size 0
         label "O+S"
+        size 0
         color "red"
     ]
     node [
         id 2678455
-        size 0
         label "Rainbow"
+        size 0
         color "red"
     ]
     node [
         id 1554511
-        size 4
         label "Manntra"
+        size 4
         color "red"
     ]
     node [
         id 30800
-        size 0
         label "Dusted"
+        size 0
         color "red"
     ]
     node [
         id 1813324
-        size 0
         label "Dulcesky"
+        size 0
         color "red"
     ]
     node [
         id 79957
-        size 0
         label "Ike Reilly"
+        size 0
         color "red"
     ]
     node [
         id 145494
-        size 2
         label "Secret & Whisper"
+        size 2
         color "red"
     ]
     node [
         id 142327
-        size 15
         label "Presto Ballet"
+        size 15
         color "red"
     ]
     node [
         id 292903
-        size 0
         label "Elakelaiset"
+        size 0
         color "red"
     ]
     node [
         id 79968
-        size 2
         label "Animal Collective"
+        size 2
         color "red"
     ]
     node [
         id 79969
-        size 9
         label "Ariel Pink's Haunted Graffiti"
+        size 9
         color "red"
     ]
     node [
         id 1177700
-        size 0
         label "Future Idiots"
+        size 0
         color "red"
     ]
     node [
         id 319849
-        size 0
         label "Criss Angel"
+        size 0
         color "red"
     ]
     node [
         id 227439
-        size 2
         label "Jackyl"
+        size 2
         color "red"
     ]
     node [
         id 260209
-        size 3
         label "The Storm"
+        size 3
         color "red"
     ]
     node [
         id 456818
-        size 18
         label "Tonight Alive"
+        size 18
         color "red"
     ]
     node [
         id 194675
-        size 1
         label "The Concretes"
+        size 1
         color "red"
     ]
     node [
         id 4618357
-        size 1
         label "Jan Cyrka"
+        size 1
         color "red"
     ]
     node [
         id 47222
-        size 1
         label "Ryker'S"
+        size 1
         color "red"
     ]
     node [
         id 260215
-        size 3
         label "DEV"
+        size 3
         color "red"
     ]
     node [
         id 342136
-        size 1
         label "Hard-Ons"
+        size 1
         color "red"
     ]
     node [
         id 292987
-        size 2
         label "Autograph"
+        size 2
         color "red"
     ]
     node [
         id 47228
-        size 3
         label "Girlschool"
+        size 3
         color "red"
     ]
     node [
         id 1767551
-        size 0
         label "Theatre of Sheep"
+        size 0
         color "red"
     ]
     node [
         id 1226880
-        size 8
         label "Glamour Of The Kill"
+        size 8
         color "red"
     ]
     node [
         id 1292421
-        size 4
         label "Velhas Virgens"
+        size 4
         color "red"
     ]
     node [
         id 30856
-        size 4
         label "John Waite"
+        size 4
         color "red"
     ]
     node [
         id 18796
-        size 0
         label "Tank"
+        size 0
         color "red"
     ]
     node [
         id 2046097
-        size 1
         label "Gerry Lane"
+        size 1
         color "red"
     ]
     node [
         id 358546
-        size 0
         label "Dol Ammad"
+        size 0
         color "red"
     ]
     node [
         id 833683
-        size 16
         label "Zior"
+        size 16
         color "red"
     ]
     node [
         id 391316
-        size 1
         label "Les Chats Sauvages"
+        size 1
         color "red"
     ]
     node [
         id 660505
-        size 2
         label "Suburban Legends"
+        size 2
         color "red"
     ]
     node [
         id 2554008
-        size 1
         label "Little India"
+        size 1
         color "red"
     ]
     node [
         id 227483
-        size 0
         label "Graham Bonnet"
+        size 0
         color "red"
     ]
     node [
         id 14493
-        size 0
         label "The Beautiful South"
+        size 0
         color "red"
     ]
     node [
         id 149872
-        size 15
         label "KMFDM"
+        size 15
         color "red"
     ]
     node [
         id 768165
-        size 3
         label "Arkells"
+        size 3
         color "red"
     ]
     node [
         id 1161386
-        size 2
         label "Dead Meadow"
+        size 2
         color "red"
     ]
     node [
         id 30891
-        size 7
         label "At The Drive-In"
+        size 7
         color "red"
     ]
     node [
         id 223602
-        size 10
         label "L'âme Immortelle"
+        size 10
         color "red"
     ]
     node [
         id 293040
-        size 10
         label "The Space Cossacks"
+        size 10
         color "red"
     ]
     node [
         id 145585
-        size 2
         label "Dwight Twilley"
+        size 2
         color "red"
     ]
     node [
         id 665971
-        size 0
         label "Rover"
+        size 0
         color "red"
     ]
     node [
         id 3651765
-        size 2
         label "ЗЬМЯЯ"
+        size 2
         color "red"
     ]
     node [
         id 1063096
-        size 8
         label "The Privateer"
+        size 8
         color "red"
     ]
     node [
         id 96441
-        size 0
         label "Acidman"
+        size 0
         color "red"
     ]
     node [
         id 358586
-        size 4
         label "Unruly Child"
+        size 4
         color "red"
     ]
     node [
         id 168991
-        size 6
         label "The Seeds"
+        size 6
         color "red"
     ]
     node [
         id 2685121
-        size 1
         label "Kraftklub"
+        size 1
         color "red"
     ]
     node [
         id 2029765
-        size 2
         label "Kettleblack"
+        size 2
         color "red"
     ]
     node [
         id 1734854
-        size 28
         label "Cyanide 4"
+        size 28
         color "red"
     ]
     node [
         id 1423560
-        size 3
         label "Reuben"
+        size 3
         color "red"
     ]
     node [
         id 2521289
-        size 2
         label "Andrew Judah"
+        size 2
         color "red"
     ]
     node [
         id 30922
-        size 9
         label "Johnny Kidd"
+        size 9
         color "red"
     ]
     node [
         id 9213
-        size 0
         label "Elvis Costello & The Imposters"
+        size 0
         color "red"
     ]
     node [
         id 80077
-        size 4
         label "GAS"
+        size 4
         color "red"
     ]
     node [
         id 1292496
-        size 5
         label "Purson"
+        size 5
         color "red"
     ]
     node [
         id 325842
-        size 1
         label "Johnny Guitar King"
+        size 1
         color "red"
     ]
     node [
         id 1751258
-        size 0
         label "Ikd-Sj"
+        size 0
         color "red"
     ]
     node [
         id 2963675
-        size 2
         label "Battle Of Mice"
+        size 2
         color "red"
     ]
     node [
         id 2750686
-        size 13
         label "Sigiriya"
+        size 13
         color "red"
     ]
     node [
         id 1620193
-        size 0
         label "Lifesmyth"
+        size 0
         color "red"
     ]
     node [
         id 3881186
-        size 11
         label "Интеллигенты"
+        size 11
         color "red"
     ]
     node [
         id 63715
-        size 2
         label "Skylark"
+        size 2
         color "red"
     ]
     node [
         id 1833189
-        size 0
         label "Flatsound"
+        size 0
         color "red"
     ]
     node [
         id 325863
-        size 2
         label "Replikas"
+        size 2
         color "red"
     ]
     node [
         id 168519
-        size 7
         label "The 13th Floor Elevators"
+        size 7
         color "red"
     ]
     node [
         id 96491
-        size 11
         label "Breaking Benjamin"
+        size 11
         color "red"
     ]
     node [
         id 162031
-        size 0
         label "The Mynabirds"
+        size 0
         color "red"
     ]
     node [
         id 30960
-        size 6
         label "Spiritualized"
+        size 6
         color "red"
     ]
     node [
         id 30962
-        size 5
         label "Strawbs"
+        size 5
         color "red"
     ]
     node [
         id 489715
-        size 0
         label "The New Merseysiders"
+        size 0
         color "red"
     ]
     node [
         id 604406
-        size 0
         label "The Kinetiks"
+        size 0
         color "red"
     ]
     node [
         id 588026
-        size 1
         label "Powersolo"
+        size 1
         color "red"
     ]
     node [
         id 30973
-        size 2
         label "Madrugada"
+        size 2
         color "red"
     ]
     node [
         id 325891
-        size 0
         label "Flock Of Seagulls"
+        size 0
         color "red"
     ]
     node [
         id 817413
-        size 0
         label "Bôa"
+        size 0
         color "red"
     ]
     node [
         id 3766535
-        size 0
         label "Lulu & the Luvvers"
+        size 0
         color "red"
     ]
     node [
         id 316460
-        size 3
         label "Lick"
+        size 3
         color "red"
     ]
     node [
         id 14603
-        size 4
         label "Joe Perry"
+        size 4
         color "red"
     ]
     node [
         id 1035791
-        size 0
         label "Studio Players"
+        size 0
         color "red"
     ]
     node [
         id 14606
-        size 40
         label "Aerosmith"
+        size 40
         color "red"
     ]
     node [
         id 719123
-        size 19
         label "Serianna"
+        size 19
         color "red"
     ]
     node [
         id 604441
-        size 2
         label "Electro Mode Inc."
+        size 2
         color "red"
     ]
     node [
         id 227610
-        size 1
         label "The Kalin Twins"
+        size 1
         color "red"
     ]
     node [
         id 309537
-        size 3
         label "8mm"
+        size 3
         color "red"
     ]
     node [
         id 14626
-        size 2
         label "Chris Montez"
+        size 2
         color "red"
     ]
     node [
         id 252538
-        size 2
         label "Onkel Tom"
+        size 2
         color "red"
     ]
     node [
         id 1210662
-        size 16
         label "The Nines"
+        size 16
         color "red"
     ]
     node [
         id 1160241
-        size 1
         label "Government Cheese"
+        size 1
         color "red"
     ]
     node [
         id 47400
-        size 0
         label "Triumph"
+        size 0
         color "red"
     ]
     node [
         id 1046831
-        size 14
         label "Smash Into Pieces"
+        size 14
         color "red"
     ]
     node [
         id 47413
-        size 5
         label "The Fitness"
+        size 5
         color "red"
     ]
     node [
         id 309558
-        size 3
         label "Latin Band"
+        size 3
         color "red"
     ]
     node [
         id 2046265
-        size 0
         label "Arcane Roots"
+        size 0
         color "red"
     ]
     node [
         id 1112382
-        size 4
         label "Devil"
+        size 4
         color "red"
     ]
     node [
         id 424256
-        size 13
         label "Amaranthe"
+        size 13
         color "red"
     ]
     node [
         id 228033
-        size 0
         label "Stereo Fuse"
+        size 0
         color "red"
     ]
     node [
         id 47432
-        size 2
         label "Green Jelly"
+        size 2
         color "red"
     ]
     node [
         id 424265
-        size 29
         label "Protest The Hero"
+        size 29
         color "red"
     ]
     node [
         id 2062666
-        size 0
         label "The New York Sports Band"
+        size 0
         color "red"
     ]
     node [
         id 1773029
-        size 2
         label "Gnarkill"
+        size 2
         color "red"
     ]
     node [
         id 1155995
-        size 0
         label "The Sunset Takeover"
+        size 0
         color "red"
     ]
     node [
         id 1112397
-        size 11
         label "Blut Aus Nord"
+        size 11
         color "red"
     ]
     node [
         id 1112398
-        size 3
         label "Urfaust"
+        size 3
         color "red"
     ]
     node [
         id 1112402
-        size 5
         label "The Devil's Blood"
+        size 5
         color "red"
     ]
     node [
         id 47443
-        size 10
         label "The Aqua Velvets"
+        size 10
         color "red"
     ]
     node [
         id 47444
-        size 2
         label "Miles Corbin"
+        size 2
         color "red"
     ]
     node [
         id 1112406
-        size 2
         label "Bolt Thrower"
+        size 2
         color "red"
     ]
     node [
         id 1161560
-        size 5
         label "Los Rogers"
+        size 5
         color "red"
     ]
     node [
         id 1620313
-        size 4
         label "Evile"
+        size 4
         color "red"
     ]
     node [
         id 63837
-        size 0
         label "Hootie & The Blowfish"
+        size 0
         color "red"
     ]
     node [
         id 745189
-        size 11
         label "Bass Drum Of Death"
+        size 11
         color "red"
     ]
     node [
         id 129378
-        size 2
         label "Throwing Muses"
+        size 2
         color "red"
     ]
     node [
         id 63850
-        size 12
         label "Ride"
+        size 12
         color "red"
     ]
     node [
         id 63851
-        size 15
         label "Rhino Bucket"
+        size 15
         color "red"
     ]
     node [
         id 63853
-        size 5
         label "Poison The Well"
+        size 5
         color "red"
     ]
     node [
         id 915822
-        size 1
         label "Godsend"
+        size 1
         color "red"
     ]
     node [
         id 145778
-        size 3
         label "Brandi Carlile"
+        size 3
         color "red"
     ]
     node [
         id 145779
-        size 14
         label "Mat Kearney"
+        size 14
         color "red"
     ]
     node [
         id 1079668
-        size 8
         label "The Word Alive"
+        size 8
         color "red"
     ]
     node [
         id 1079669
-        size 33
         label "Crown The Empire"
+        size 33
         color "red"
     ]
     node [
         id 845570
-        size 4
         label "L'esprit Du Clan"
+        size 4
         color "red"
     ]
     node [
         id 1046908
-        size 4
         label "The Family Rain"
+        size 4
         color "red"
     ]
     node [
         id 1014145
-        size 0
         label "My Diet Pill"
+        size 0
         color "red"
     ]
     node [
         id 964994
-        size 1
         label "The Qemists"
+        size 1
         color "red"
     ]
     node [
         id 63877
-        size 0
         label "Rowan Robertson"
+        size 0
         color "red"
     ]
     node [
         id 883080
-        size 7
         label "Dog Fashion Disco"
+        size 7
         color "red"
     ]
     node [
         id 211337
-        size 6
         label "Dangerous Toys"
+        size 6
         color "red"
     ]
     node [
         id 67991
-        size 8
         label "D'Molls"
+        size 8
         color "red"
     ]
     node [
         id 204525
-        size 1
         label "Charlotte Martin"
+        size 1
         color "red"
     ]
     node [
         id 63889
-        size 9
         label "The Replacements"
+        size 9
         color "red"
     ]
     node [
         id 357443
-        size 0
         label "The Reflections"
+        size 0
         color "red"
     ]
     node [
         id 4077974
-        size 0
         label "Buffalo Fuzz"
+        size 0
         color "red"
     ]
     node [
         id 80281
-        size 0
         label "Valient Thorr"
+        size 0
         color "red"
     ]
     node [
         id 1214627
-        size 1
         label "Metal Masters"
+        size 1
         color "red"
     ]
     node [
         id 168525
-        size 0
         label "Murder"
+        size 0
         color "red"
     ]
     node [
         id 54341
-        size 13
         label "Spoon"
+        size 13
         color "red"
     ]
     node [
         id 47520
-        size 1
         label "Lennon"
+        size 1
         color "red"
     ]
     node [
         id 5190
-        size 3
         label "Gary U.S. Bonds"
+        size 3
         color "red"
     ]
     node [
         id 1621745
-        size 2
         label "Skubas"
+        size 2
         color "red"
     ]
     node [
         id 63912
-        size 3
         label "Blindside"
+        size 3
         color "red"
     ]
     node [
         id 63914
-        size 3
         label "King's X"
+        size 3
         color "red"
     ]
     node [
         id 31148
-        size 14
         label "The Zombies"
+        size 14
         color "red"
     ]
     node [
         id 1192150
-        size 2
         label "The Faces Of Sarah"
+        size 2
         color "red"
     ]
     node [
         id 1718702
-        size 0
         label "Rock of Ages Band"
+        size 0
         color "red"
     ]
     node [
         id 25042
-        size 1
         label "M. Ward"
+        size 1
         color "red"
     ]
     node [
         id 1127496
-        size 28
         label "Goonies Never Say Die"
+        size 28
         color "red"
     ]
     node [
         id 1128883
-        size 2
         label "Dirty Looks"
+        size 2
         color "red"
     ]
     node [
         id 44137
-        size 36
         label "Shinedown"
+        size 36
         color "red"
     ]
     node [
         id 59807
-        size 0
         label "Manfred Krug"
+        size 0
         color "red"
     ]
     node [
         id 622693
-        size 4
         label "Vanishing Point"
+        size 4
         color "red"
     ]
     node [
         id 227775
-        size 1
         label "Matthew Good"
+        size 1
         color "red"
     ]
     node [
         id 58322
-        size 2
         label "The Clovers"
+        size 2
         color "red"
     ]
     node [
         id 702915
-        size 1
         label "Thera"
+        size 1
         color "red"
     ]
     node [
         id 477602
-        size 5
         label "Eden's Curse"
+        size 5
         color "red"
     ]
     node [
         id 226381
-        size 5
         label "Generationals"
+        size 5
         color "red"
     ]
     node [
         id 63953
-        size 6
         label "Steve Miller Band"
+        size 6
         color "red"
     ]
     node [
         id 473554
-        size 34
         label "Silent Force"
+        size 34
         color "red"
     ]
     node [
         id 10659
-        size 43
         label "Fats Domino"
+        size 43
         color "red"
     ]
     node [
         id 326103
-        size 0
         label "Is Tropical"
+        size 0
         color "red"
     ]
     node [
         id 2472410
-        size 0
         label "Greg Billings Band"
+        size 0
         color "red"
     ]
     node [
         id 604637
-        size 2
         label "Kings Of High Voltage"
+        size 2
         color "red"
     ]
     node [
         id 117157
-        size 0
         label "Jay Smith"
+        size 0
         color "red"
     ]
     node [
         id 162272
-        size 4
         label "Rosetta Stone"
+        size 4
         color "red"
     ]
     node [
         id 473569
-        size 20
         label "Elvenking"
+        size 20
         color "red"
     ]
     node [
         id 293346
-        size 5
         label "Television Personalities"
+        size 5
         color "red"
     ]
     node [
         id 473572
-        size 31
         label "At Vance"
+        size 31
         color "red"
     ]
     node [
         id 2554345
-        size 2
         label "Eliwagar"
+        size 2
         color "red"
     ]
     node [
         id 162282
-        size 1
         label "Ross The Boss"
+        size 1
         color "red"
     ]
     node [
         id 473579
-        size 17
         label "Eisbrecher"
+        size 17
         color "red"
     ]
     node [
         id 357458
-        size 0
         label "DarXtar"
+        size 0
         color "red"
     ]
     node [
         id 195055
-        size 0
         label "Anton Fig"
+        size 0
         color "red"
     ]
     node [
         id 1210867
-        size 4
         label "Pavic"
+        size 4
         color "red"
     ]
     node [
         id 1538549
-        size 0
         label "Rock Tragedy Masters"
+        size 0
         color "red"
     ]
     node [
         id 1206697
-        size 1
         label "Zyklon"
+        size 1
         color "red"
     ]
     node [
         id 1866232
-        size 0
         label "TWRP"
+        size 0
         color "red"
     ]
     node [
         id 473593
-        size 0
         label "Jim Harrison Band"
+        size 0
         color "red"
     ]
     node [
         id 162298
-        size 1
         label "Melissa Ferrick"
+        size 1
         color "red"
     ]
     node [
         id 289194
-        size 29
         label "House Of Lords"
+        size 29
         color "red"
     ]
     node [
         id 3729835
-        size 0
         label "Drab Majesty"
+        size 0
         color "red"
     ]
     node [
         id 445130
-        size 2
         label "Yellow"
+        size 2
         color "red"
     ]
     node [
         id 1161737
-        size 18
         label "Rock Masters"
+        size 18
         color "red"
     ]
     node [
         id 702987
-        size 8
         label "Carnal Forge"
+        size 8
         color "red"
     ]
     node [
         id 31245
-        size 6
         label "The Rascals"
+        size 6
         color "red"
     ]
     node [
         id 1473038
-        size 0
         label "Posthum"
+        size 0
         color "red"
     ]
     node [
         id 2144783
-        size 7
         label "Newbreed"
+        size 7
         color "red"
     ]
     node [
         id 2931216
-        size 4
         label "Dawn Golden"
+        size 4
         color "red"
     ]
     node [
         id 145939
-        size 4
         label "The Flys"
+        size 4
         color "red"
     ]
     node [
         id 1649070
-        size 3
         label "Dr Sin"
+        size 3
         color "red"
     ]
     node [
         id 2030105
-        size 4
         label "Q5"
+        size 4
         color "red"
     ]
     node [
         id 96796
-        size 10
         label "Survivor"
+        size 10
         color "red"
     ]
     node [
         id 408093
-        size 9
         label "Compulsive Gamblers"
+        size 9
         color "red"
     ]
     node [
         id 289200
-        size 6
         label "Tub Ring"
+        size 6
         color "red"
     ]
     node [
         id 96803
-        size 2
         label "John Cafferty"
+        size 2
         color "red"
     ]
     node [
         id 346545
-        size 4
         label "Flowing Tears"
+        size 4
         color "red"
     ]
     node [
         id 2832938
-        size 12
         label "Schlagwerk"
+        size 12
         color "red"
     ]
     node [
         id 3312621
-        size 1
         label "The Spiders"
+        size 1
         color "red"
     ]
     node [
         id 846258
-        size 2
         label "Beit Habubot"
+        size 2
         color "red"
     ]
     node [
         id 29232
-        size 9
         label "Velvet Revolver"
+        size 9
         color "red"
     ]
     node [
         id 14898
-        size 5
         label "American Hi-Fi"
+        size 5
         color "red"
     ]
     node [
         id 64054
-        size 0
         label "Simian"
+        size 0
         color "red"
     ]
     node [
         id 149940
-        size 7
         label "Death Before Dishonor"
+        size 7
         color "red"
     ]
     node [
         id 682421
-        size 0
         label "Icky Blossoms"
+        size 0
         color "red"
     ]
     node [
         id 64066
-        size 4
         label "Rainer Maria"
+        size 4
         color "red"
     ]
     node [
         id 302859
-        size 8
         label "The Brains"
+        size 8
         color "red"
     ]
     node [
         id 14917
-        size 6
         label "Oleander"
+        size 6
         color "red"
     ]
     node [
         id 703046
-        size 9
         label "Suidakra"
+        size 9
         color "red"
     ]
     node [
         id 1473097
-        size 1
         label "Avulsed"
+        size 1
         color "red"
     ]
     node [
         id 506442
-        size 3
         label "Altaria"
+        size 3
         color "red"
     ]
     node [
         id 14923
-        size 0
         label "Alien Ant Farm"
+        size 0
         color "red"
     ]
     node [
         id 4766289
-        size 0
         label "Jon Bon Jovi"
+        size 0
         color "red"
     ]
     node [
         id 277076
-        size 2
         label "Aquelarre"
+        size 2
         color "red"
     ]
     node [
         id 3694350
-        size 1
         label "Climax Blues"
+        size 1
         color "red"
     ]
     node [
         id 5953
-        size 10
         label "The Cardigans"
+        size 10
         color "red"
     ]
     node [
         id 1423967
-        size 2
         label "Union Square"
+        size 2
         color "red"
     ]
     node [
         id 7952
-        size 0
         label "Bob Seger"
+        size 0
         color "red"
     ]
     node [
         id 1141180
-        size 13
         label "The Seeking"
+        size 13
         color "red"
     ]
     node [
         id 749013
-        size 0
         label "X-Terra"
+        size 0
         color "red"
     ]
     node [
         id 326251
-        size 6
         label "Jungle Rot"
+        size 6
         color "red"
     ]
     node [
         id 342639
-        size 15
         label "Leprous"
+        size 15
         color "red"
     ]
     node [
         id 1407601
-        size 0
         label "Koudlam"
+        size 0
         color "red"
     ]
     node [
         id 1931894
-        size 2
         label "Burrrn"
+        size 2
         color "red"
     ]
     node [
         id 341097
-        size 52
         label "Memphis May Fire"
+        size 52
         color "red"
     ]
     node [
         id 342650
-        size 2
         label "Starfucker"
+        size 2
         color "red"
     ]
     node [
         id 1272756
-        size 9
         label "Blood Ceremony"
+        size 9
         color "red"
     ]
     node [
         id 2177663
-        size 0
         label "Shig and Buzz"
+        size 0
         color "red"
     ]
     node [
         id 100800
-        size 17
         label "Jolly"
+        size 17
         color "red"
     ]
     node [
         id 171806
-        size 1
         label "The Sutherland Brothers"
+        size 1
         color "red"
     ]
     node [
         id 64131
-        size 2
         label "Still Remains"
+        size 2
         color "red"
     ]
     node [
         id 375428
-        size 1
         label "Pong"
+        size 1
         color "red"
     ]
     node [
         id 64136
-        size 1
         label "3 Inches Of Blood"
+        size 1
         color "red"
     ]
     node [
         id 1407625
-        size 14
         label "Empty Handed"
+        size 14
         color "red"
     ]
     node [
         id 47754
-        size 3
         label "The Lawrence Arms"
+        size 3
         color "red"
     ]
     node [
         id 47757
-        size 0
         label "The Peacocks"
+        size 0
         color "red"
     ]
     node [
         id 2112145
-        size 4
         label "The Rationales"
+        size 4
         color "red"
     ]
     node [
         id 4068232
-        size 3
         label "Morokh"
+        size 3
         color "red"
     ]
     node [
         id 300142
-        size 0
         label "Osíris"
+        size 0
         color "red"
     ]
     node [
         id 10865
-        size 3
         label "Nils Lofgren"
+        size 3
         color "red"
     ]
     node [
         id 768667
-        size 0
         label "Concorde"
+        size 0
         color "red"
     ]
     node [
         id 64156
-        size 5
         label "BB Brunes"
+        size 5
         color "red"
     ]
     node [
         id 457373
-        size 0
         label "Пётр Елфимов"
+        size 0
         color "red"
     ]
     node [
         id 477638
-        size 7
         label "Voices Of Rock"
+        size 7
         color "red"
     ]
     node [
         id 64166
-        size 11
         label "The Autumn Offering"
+        size 11
         color "red"
     ]
     node [
         id 701553
-        size 5
         label "Krisiun"
+        size 5
         color "red"
     ]
     node [
         id 96936
-        size 0
         label "B.E.F."
+        size 0
         color "red"
     ]
     node [
         id 1194665
-        size 1
         label "3 Quarters Dead"
+        size 1
         color "red"
     ]
     node [
         id 1276587
-        size 0
         label "Willie Logan"
+        size 0
         color "red"
     ]
     node [
         id 797025
-        size 0
         label "EMA"
+        size 0
         color "red"
     ]
     node [
         id 195250
-        size 0
         label "The Traveling Wilburys"
+        size 0
         color "red"
     ]
     node [
         id 64179
-        size 11
         label "Converge"
+        size 11
         color "red"
     ]
     node [
         id 64180
-        size 6
         label "Hot Water Music"
+        size 6
         color "red"
     ]
     node [
         id 15029
-        size 8
         label "The Police"
+        size 8
         color "red"
     ]
     node [
         id 64182
-        size 9
         label "Pennywise"
+        size 9
         color "red"
     ]
     node [
         id 64183
-        size 5
         label "Pulley"
+        size 5
         color "red"
     ]
     node [
         id 64186
-        size 0
         label "Vanna"
+        size 0
         color "red"
     ]
     node [
         id 64189
-        size 0
         label "Marc Rizzo"
+        size 0
         color "red"
     ]
     node [
         id 359104
-        size 6
         label "Praying Mantis"
+        size 6
         color "red"
     ]
     node [
         id 64193
-        size 0
         label "The (International) Noise Conspiracy"
+        size 0
         color "red"
     ]
     node [
         id 64194
-        size 6
         label "Raised Fist"
+        size 6
         color "red"
     ]
     node [
         id 4700867
-        size 1
         label "Nessy Muhr"
+        size 1
         color "red"
     ]
     node [
         id 96965
-        size 0
         label "Serena Ryder"
+        size 0
         color "red"
     ]
     node [
         id 362462
-        size 1
         label "Foxboro Hot Tubs"
+        size 1
         color "red"
     ]
     node [
         id 64204
-        size 7
         label "The Fireballs"
+        size 7
         color "red"
     ]
     node [
         id 47823
-        size 0
         label "The Thrills"
+        size 0
         color "red"
     ]
     node [
         id 54392
-        size 0
         label "Lords Of The New Church"
+        size 0
         color "red"
     ]
     node [
         id 656816
-        size 0
         label "Autopilot"
+        size 0
         color "red"
     ]
     node [
         id 80597
-        size 2
         label "SUBWAY"
+        size 2
         color "red"
     ]
     node [
         id 54394
-        size 3
         label "Galactic"
+        size 3
         color "red"
     ]
     node [
         id 107978
-        size 7
         label "Hey"
+        size 7
         color "red"
     ]
     node [
         id 572129
-        size 0
         label "Bürdel King"
+        size 0
         color "red"
     ]
     node [
         id 2233467
-        size 1
         label "Ever Since"
+        size 1
         color "red"
     ]
     node [
         id 162532
-        size 3
         label "The Mermen"
+        size 3
         color "red"
     ]
     node [
         id 457446
-        size 3
         label "D.J. Rock 90's"
+        size 3
         color "red"
     ]
     node [
         id 522983
-        size 0
         label "Calvin Russell"
+        size 0
         color "red"
     ]
     node [
         id 47851
-        size 2
         label "Stereophonic Space Sound Unlimited"
+        size 2
         color "red"
     ]
     node [
         id 1178351
-        size 1
         label "Devastations"
+        size 1
         color "red"
     ]
     node [
         id 588528
-        size 9
         label "Rival Sons"
+        size 9
         color "red"
     ]
     node [
         id 4063016
-        size 0
         label "The Mute Gods"
+        size 0
         color "red"
     ]
     node [
         id 47860
-        size 6
         label "Christie Front Drive"
+        size 6
         color "red"
     ]
     node [
         id 1178357
-        size 6
         label "Forest Stream"
+        size 6
         color "red"
     ]
     node [
         id 735991
-        size 0
         label "Восемь с половиной"
+        size 0
         color "red"
     ]
     node [
         id 1911252
-        size 9
         label "The Browning"
+        size 9
         color "red"
     ]
     node [
         id 857215
-        size 0
         label "Overhead"
+        size 0
         color "red"
     ]
     node [
         id 555772
-        size 1
         label "Mike D"
+        size 1
         color "red"
     ]
     node [
         id 64253
-        size 3
         label "Esthetic Education"
+        size 3
         color "red"
     ]
     node [
         id 359166
-        size 5
         label "It Dies Today"
+        size 5
         color "red"
     ]
     node [
         id 1751808
-        size 5
         label "Breaking Through"
+        size 5
         color "red"
     ]
     node [
         id 195330
-        size 8
         label "Decyfer Down"
+        size 8
         color "red"
     ]
     node [
         id 744108
-        size 0
         label "Virgin Suicide"
+        size 0
         color "red"
     ]
     node [
         id 47877
-        size 2
         label "The Jazz June"
+        size 2
         color "red"
     ]
     node [
         id 47878
-        size 1
         label "Walls of Jericho"
+        size 1
         color "red"
     ]
     node [
         id 162570
-        size 8
         label "Air Supply"
+        size 8
         color "red"
     ]
     node [
         id 97035
-        size 1
         label "Anggun"
+        size 1
         color "red"
     ]
     node [
         id 1430658
-        size 7
         label "Raventale"
+        size 7
         color "red"
     ]
     node [
         id 1866510
-        size 2
         label "Bad Karma Boy"
+        size 2
         color "red"
     ]
     node [
         id 1473295
-        size 13
         label "The Hit Co."
+        size 13
         color "red"
     ]
     node [
         id 195355
-        size 3
         label "Ranger"
+        size 3
         color "red"
     ]
     node [
         id 47900
-        size 2
         label "Planes Mistaken For Stars"
+        size 2
         color "red"
     ]
     node [
         id 1176742
-        size 2
         label "The Prime Movers"
+        size 2
         color "red"
     ]
     node [
         id 408359
-        size 2
         label "Danielia Cotton"
+        size 2
         color "red"
     ]
     node [
         id 15144
-        size 4
         label "Silvertide"
+        size 4
         color "red"
     ]
     node [
         id 228137
-        size 14
         label "Naildown"
+        size 14
         color "red"
     ]
     node [
         id 64298
-        size 0
         label "Winters"
+        size 0
         color "red"
     ]
     node [
         id 523052
-        size 7
         label "Secrets Of The Moon"
+        size 7
         color "red"
     ]
     node [
         id 76253
-        size 0
         label "Dalbello"
+        size 0
         color "red"
     ]
     node [
         id 523057
-        size 10
         label "Helrunar"
+        size 10
         color "red"
     ]
     node [
         id 703282
-        size 1
         label "Terrorizer"
+        size 1
         color "red"
     ]
     node [
         id 1112885
-        size 4
         label "Mothership"
+        size 4
         color "red"
     ]
     node [
         id 1604406
-        size 10
         label "Thomas Giles"
+        size 10
         color "red"
     ]
     node [
         id 310076
-        size 6
         label "The Tornadoes"
+        size 6
         color "red"
     ]
     node [
         id 310077
-        size 0
         label "The Rebels"
+        size 0
         color "red"
     ]
     node [
         id 2014021
-        size 4
         label "Mermaid Kiss"
+        size 4
         color "red"
     ]
     node [
         id 1178438
-        size 0
         label "Kim Lenz and the Jaguars"
+        size 0
         color "red"
     ]
     node [
         id 523081
-        size 3
         label "Farsot"
+        size 3
         color "red"
     ]
     node [
         id 523087
-        size 7
         label "Negura Bunget"
+        size 7
         color "red"
     ]
     node [
         id 834385
-        size 0
         label "Demure"
+        size 0
         color "red"
     ]
     node [
         id 392020
-        size 0
         label "VAN GOGH"
+        size 0
         color "red"
     ]
     node [
         id 523093
-        size 14
         label "Empyrium"
+        size 14
         color "red"
     ]
     node [
         id 301112
-        size 10
         label "The Litter"
+        size 10
         color "red"
     ]
     node [
         id 162648
-        size 8
         label "Kenny Wayne Shepherd Band"
+        size 8
         color "red"
     ]
     node [
         id 326490
-        size 2
         label "Wakey!Wakey!"
+        size 2
         color "red"
     ]
     node [
         id 768861
-        size 4
         label "Dead End"
+        size 4
         color "red"
     ]
     node [
         id 2374498
-        size 1
         label "Diamondog"
+        size 1
         color "red"
     ]
     node [
         id 15209
-        size 6
         label "Nina Hagen"
+        size 6
         color "red"
     ]
     node [
         id 523118
-        size 6
         label "Ewigheim"
+        size 6
         color "red"
     ]
     node [
         id 80754
-        size 51
         label "Meshuggah"
+        size 51
         color "red"
     ]
     node [
         id 408435
-        size 0
         label "Sparzanza"
+        size 0
         color "red"
     ]
     node [
         id 2689
-        size 1
         label "Caesar Palace"
+        size 1
         color "red"
     ]
     node [
         id 310138
-        size 2
         label "Helia"
+        size 2
         color "red"
     ]
     node [
         id 1851199
-        size 1
         label "The Basics"
+        size 1
         color "red"
     ]
     node [
         id 64380
-        size 3
         label "Dreadnaught"
+        size 3
         color "red"
     ]
     node [
         id 146301
-        size 1
         label "Soler"
+        size 1
         color "red"
     ]
     node [
         id 668821
-        size 2
         label "Will Johnson"
+        size 2
         color "red"
     ]
     node [
         id 523137
-        size 3
         label "Dark Suns"
+        size 3
         color "red"
     ]
     node [
         id 64386
-        size 7
         label "Black Label Society"
+        size 7
         color "red"
     ]
     node [
         id 523140
-        size 3
         label "Klimt 1918"
+        size 3
         color "red"
     ]
     node [
         id 129929
-        size 1
         label "B-Movie"
+        size 1
         color "red"
     ]
     node [
         id 80781
-        size 8
         label "Martyr"
+        size 8
         color "red"
     ]
     node [
         id 523150
-        size 1
         label "Nucleus Torn"
+        size 1
         color "red"
     ]
     node [
         id 523152
-        size 20
         label "Alcest"
+        size 20
         color "red"
     ]
     node [
         id 637842
-        size 0
         label "Brian Wiltsey"
+        size 0
         color "red"
     ]
     node [
         id 457619
-        size 5
         label "The Strawbs"
+        size 5
         color "red"
     ]
     node [
         id 677554
-        size 5
         label "This Mortal Coil"
+        size 5
         color "red"
     ]
     node [
         id 1653657
-        size 0
         label "Geologist"
+        size 0
         color "red"
     ]
     node [
         id 15258
-        size 7
         label "The Jam"
+        size 7
         color "red"
     ]
     node [
         id 211871
-        size 4
         label "stellastarr*"
+        size 4
         color "red"
     ]
     node [
         id 64416
-        size 2
         label "Betzefer"
+        size 2
         color "red"
     ]
     node [
         id 359329
-        size 0
         label "Rudy Guess"
+        size 0
         color "red"
     ]
     node [
         id 2292642
-        size 4
         label "Stitched Up Heart"
+        size 4
         color "red"
     ]
     node [
         id 1244071
-        size 0
         label "Sound City - Real to Reel"
+        size 0
         color "red"
     ]
     node [
         id 64425
-        size 6
         label "Roadrunner United"
+        size 6
         color "red"
     ]
     node [
         id 228268
-        size 7
         label "Veto"
+        size 7
         color "red"
     ]
     node [
         id 2227119
-        size 0
         label "Fear Of Flying"
+        size 0
         color "red"
     ]
     node [
         id 2809672
-        size 1
         label "Se Delan"
+        size 1
         color "red"
     ]
     node [
         id 2000700
-        size 0
         label "Surface 2 Air"
+        size 0
         color "red"
     ]
     node [
         id 1014710
-        size 5
         label "Papadosio"
+        size 5
         color "red"
     ]
     node [
         id 64439
-        size 4
         label "Corvus Corax"
+        size 4
         color "red"
     ]
     node [
         id 2194361
-        size 3
         label "Dj Mixmasters"
+        size 3
         color "red"
     ]
     node [
         id 1045663
-        size 0
         label "You Entertain"
+        size 0
         color "red"
     ]
     node [
         id 663370
-        size 1
         label "The Hushpuppies"
+        size 1
         color "red"
     ]
     node [
         id 736191
-        size 3
         label "Galactic Cowboys"
+        size 3
         color "red"
     ]
     node [
         id 801733
-        size 0
         label "Dz deathrays"
+        size 0
         color "red"
     ]
     node [
         id 211234
-        size 0
         label "Third Ear Band"
+        size 0
         color "red"
     ]
     node [
         id 1479841
-        size 0
         label "SHADE"
+        size 0
         color "red"
     ]
     node [
         id 97225
-        size 0
         label "Ursula 1000"
+        size 0
         color "red"
     ]
     node [
         id 211914
-        size 2
         label "Hot Tuna"
+        size 2
         color "red"
     ]
     node [
         id 3800016
-        size 0
         label "Buddy Holly &The Crickets"
+        size 0
         color "red"
     ]
     node [
         id 3800017
-        size 0
         label "Buddy Holly &The Crickets, The Crickets"
+        size 0
         color "red"
     ]
     node [
         id 64466
-        size 4
         label "The Agony Scene"
+        size 4
         color "red"
     ]
     node [
         id 374357
-        size 4
         label "Tocotronic"
+        size 4
         color "red"
     ]
     node [
         id 1162197
-        size 1
         label "Laura a její tygři"
+        size 1
         color "red"
     ]
     node [
         id 48088
-        size 22
         label "Hard-Fi"
+        size 22
         color "red"
     ]
     node [
         id 80857
-        size 1
         label "Guitar Wolf"
+        size 1
         color "red"
     ]
     node [
         id 146395
-        size 1
         label "Soul Asylum"
+        size 1
         color "red"
     ]
     node [
         id 1119397
-        size 1
         label "Simeon Soul Charger"
+        size 1
         color "red"
     ]
     node [
         id 2980832
-        size 1
         label "We Are Harlot"
+        size 1
         color "red"
     ]
     node [
         id 2980834
-        size 3
         label "PVRIS"
+        size 3
         color "red"
     ]
     node [
         id 146404
-        size 0
         label "The Connells"
+        size 0
         color "red"
     ]
     node [
         id 1242278
-        size 0
         label "Biplan"
+        size 0
         color "red"
     ]
     node [
         id 703462
-        size 1
         label "Svinkels"
+        size 1
         color "red"
     ]
     node [
         id 65361
-        size 4
         label "Brownsville Station"
+        size 4
         color "red"
     ]
     node [
         id 1833962
-        size 8
         label "Hypnogaja"
+        size 8
         color "red"
     ]
     node [
         id 801771
-        size 4
         label "Coven"
+        size 4
         color "red"
     ]
     node [
         id 15344
-        size 1
         label "Dennis DeYoung"
+        size 1
         color "red"
     ]
     node [
         id 48114
-        size 0
         label "The Sun"
+        size 0
         color "red"
     ]
     node [
         id 2440183
-        size 3
         label "Fantastic Negrito"
+        size 3
         color "red"
     ]
     node [
         id 1059327
-        size 0
         label "Crushed Out"
+        size 0
         color "red"
     ]
     node [
         id 1014783
-        size 13
         label "Terry Malts"
+        size 13
         color "red"
     ]
     node [
         id 51712
-        size 1
         label "Molly Sanden"
+        size 1
         color "red"
     ]
     node [
         id 293890
-        size 9
         label "Gehenna"
+        size 9
         color "red"
     ]
     node [
         id 293892
-        size 24
         label "Vader"
+        size 24
         color "red"
     ]
     node [
         id 293893
-        size 4
         label "Keep Of Kalessin"
+        size 4
         color "red"
     ]
     node [
         id 48134
-        size 1
         label "Man"
+        size 1
         color "red"
     ]
     node [
         id 1195015
-        size 0
         label "My Jerusalem"
+        size 0
         color "red"
     ]
     node [
         id 1342472
-        size 10
         label "Lost Autumn"
+        size 10
         color "red"
     ]
     node [
         id 1916759
-        size 1
         label "Desert Storm"
+        size 1
         color "red"
     ]
     node [
         id 97297
-        size 1
         label "Mitch Ryder"
+        size 1
         color "red"
     ]
     node [
         id 113684
-        size 19
         label "Toto"
+        size 19
         color "red"
     ]
     node [
         id 719898
-        size 4
         label "The Blue Caps"
+        size 4
         color "red"
     ]
     node [
         id 2014236
-        size 1
         label "Vertigo Steps"
+        size 1
         color "red"
     ]
     node [
         id 81754
-        size 3
         label "Troll"
+        size 3
         color "red"
     ]
     node [
         id 64544
-        size 5
         label "Karma To Burn"
+        size 5
         color "red"
     ]
     node [
         id 110171
-        size 2
         label "Scott Stapp"
+        size 2
         color "red"
     ]
     node [
         id 1899555
-        size 2
         label "The Los Angeles Sports Band"
+        size 2
         color "red"
     ]
     node [
         id 48164
-        size 2
         label "Life Of Agony"
+        size 2
         color "red"
     ]
     node [
         id 2931751
-        size 5
         label "Sunn 0)))"
+        size 5
         color "red"
     ]
     node [
         id 48168
-        size 1
         label "Keith Caputo"
+        size 1
         color "red"
     ]
     node [
         id 2538539
-        size 9
         label "Chinawoman"
+        size 9
         color "red"
     ]
     node [
         id 48174
-        size 8
         label "Madball"
+        size 8
         color "red"
     ]
     node [
         id 113716
-        size 7
         label "The Bangles"
+        size 7
         color "red"
     ]
     node [
         id 630622
-        size 1
         label "OMP Allstars"
+        size 1
         color "red"
     ]
     node [
         id 736310
-        size 4
         label "The White Buffalo"
+        size 4
         color "red"
     ]
     node [
         id 64567
-        size 2
         label "Nailbomb"
+        size 2
         color "red"
     ]
     node [
         id 48184
-        size 19
         label "New York Dolls"
+        size 19
         color "red"
     ]
     node [
         id 769081
-        size 9
         label "Ez3kiel"
+        size 9
         color "red"
     ]
     node [
         id 1162298
-        size 0
         label "Kim Jung Mi"
+        size 0
         color "red"
     ]
     node [
         id 89951
-        size 1
         label "Ralf Gyllenhammar"
+        size 1
         color "red"
     ]
     node [
         id 21821
-        size 2
         label "Tomoyasu Hotei"
+        size 2
         color "red"
     ]
     node [
         id 1588285
-        size 1
         label "The Western"
+        size 1
         color "red"
     ]
     node [
         id 588862
-        size 3
         label "The Fab Four Cover Band"
+        size 3
         color "red"
     ]
     node [
         id 64575
-        size 12
         label "Suffocation"
+        size 12
         color "red"
     ]
     node [
         id 64576
-        size 14
         label "Front Line Assembly"
+        size 14
         color "red"
     ]
     node [
         id 408641
-        size 4
         label "16Volt"
+        size 4
         color "red"
     ]
     node [
         id 2411019
-        size 8
         label "Dangerkids"
+        size 8
         color "red"
     ]
     node [
         id 2940018
-        size 0
         label "Hangover"
+        size 0
         color "red"
     ]
     node [
         id 1178694
-        size 0
         label "Jozef van Wissem"
+        size 0
         color "red"
     ]
     node [
         id 48201
-        size 7
         label "The Dresden Dolls"
+        size 7
         color "red"
     ]
     node [
         id 48202
-        size 10
         label "Amanda Palmer"
+        size 10
         color "red"
     ]
     node [
         id 556107
-        size 7
         label "Spiritual Front"
+        size 7
         color "red"
     ]
     node [
         id 556109
-        size 34
         label "Schwarzer Engel"
+        size 34
         color "red"
     ]
     node [
         id 48207
-        size 16
         label "Type O Negative"
+        size 16
         color "red"
     ]
     node [
         id 48209
-        size 10
         label "Black Stone Cherry"
+        size 10
         color "red"
     ]
     node [
         id 147299
-        size 2
         label "Nico Vega"
+        size 2
         color "red"
     ]
     node [
         id 1911310
-        size 2
         label "Vektor"
+        size 2
         color "red"
     ]
     node [
         id 64598
-        size 5
         label "The Bouncing Souls"
+        size 5
         color "red"
     ]
     node [
         id 64599
-        size 6
         label "Zeke"
+        size 6
         color "red"
     ]
     node [
         id 64604
-        size 36
         label "Bad Religion"
+        size 36
         color "red"
     ]
     node [
         id 64607
-        size 4
         label "Dwarves"
+        size 4
         color "red"
     ]
     node [
         id 15456
-        size 0
         label "Young"
+        size 0
         color "red"
     ]
     node [
         id 48225
-        size 24
         label "A Day To Remember"
+        size 24
         color "red"
     ]
     node [
         id 48226
-        size 3
         label "Beatsteaks"
+        size 3
         color "red"
     ]
     node [
         id 2178148
-        size 13
         label "DC Slater"
+        size 13
         color "red"
     ]
     node [
         id 1588325
-        size 1
         label "Scelerata"
+        size 1
         color "red"
     ]
     node [
         id 1981542
-        size 0
         label "Sonic X"
+        size 0
         color "red"
     ]
     node [
         id 18961
-        size 1
         label "Buddy Miles Express"
+        size 1
         color "red"
     ]
     node [
         id 15245
-        size 6
         label "Joe Jackson"
+        size 6
         color "red"
     ]
     node [
         id 64617
-        size 0
         label "Greg Graffin"
+        size 0
         color "red"
     ]
     node [
         id 64618
-        size 0
         label "Brian Baker"
+        size 0
         color "red"
     ]
     node [
         id 1574470
-        size 0
         label "Negativo"
+        size 0
         color "red"
     ]
     node [
         id 1719409
-        size 2
         label "Night Verses"
+        size 2
         color "red"
     ]
     node [
         id 611518
-        size 7
         label "Manes"
+        size 7
         color "red"
     ]
     node [
         id 1911316
-        size 4
         label "Merciless Death"
+        size 4
         color "red"
     ]
     node [
         id 1080642
-        size 0
         label "Donnie & Joe Emerson"
+        size 0
         color "red"
     ]
     node [
         id 1571966
-        size 3
         label "Sink Tapes"
+        size 3
         color "red"
     ]
     node [
         id 343167
-        size 2
         label "Teho Teardo"
+        size 2
         color "red"
     ]
     node [
         id 130176
-        size 1
         label "Jobriath"
+        size 1
         color "red"
     ]
     node [
         id 48257
-        size 16
         label "Tegan And Sara"
+        size 16
         color "red"
     ]
     node [
         id 1861438
-        size 0
         label "Ned Hoper"
+        size 0
         color "red"
     ]
     node [
         id 48260
-        size 4
         label "Spooky Tooth"
+        size 4
         color "red"
     ]
     node [
         id 1195141
-        size 5
         label "The Arcs"
+        size 5
         color "red"
     ]
     node [
         id 3472519
-        size 3
         label "Endo"
+        size 3
         color "red"
     ]
     node [
         id 588936
-        size 0
         label "Southern Rock Kings"
+        size 0
         color "red"
     ]
     node [
         id 556169
-        size 0
         label "Le Fly"
+        size 0
         color "red"
     ]
     node [
         id 15498
-        size 1
         label "Peer Gunt"
+        size 1
         color "red"
     ]
     node [
         id 359567
-        size 3
         label "Revenko Band"
+        size 3
         color "red"
     ]
     node [
         id 15504
-        size 0
         label "Casey"
+        size 0
         color "red"
     ]
     node [
         id 2718865
-        size 1
         label "Shadow Shadow"
+        size 1
         color "red"
     ]
     node [
         id 343188
-        size 16
         label "Within The Ruins"
+        size 16
         color "red"
     ]
     node [
         id 1211541
-        size 0
         label "The Rock And Rollers"
+        size 0
         color "red"
     ]
     node [
         id 1932444
-        size 1
         label "Votchi"
+        size 1
         color "red"
     ]
     node [
         id 343199
-        size 2
         label "Kiko Loureiro"
+        size 2
         color "red"
     ]
     node [
         id 48289
-        size 6
         label "Buckcherry"
+        size 6
         color "red"
     ]
     node [
         id 48292
-        size 15
         label "Down"
+        size 15
         color "red"
     ]
     node [
         id 1430726
-        size 10
         label "Vredehammer"
+        size 10
         color "red"
     ]
     node [
         id 48296
-        size 4
         label "A Static Lullaby"
+        size 4
         color "red"
     ]
     node [
         id 64681
-        size 11
         label "blessthefall"
+        size 11
         color "red"
     ]
     node [
         id 359596
-        size 15
         label "Mechanical poet"
+        size 15
         color "red"
     ]
     node [
         id 59934
-        size 6
         label "D"
+        size 6
         color "red"
     ]
     node [
         id 326838
-        size 5
         label "Ceremony"
+        size 5
         color "red"
     ]
     node [
         id 359607
-        size 8
         label "Inside You"
+        size 8
         color "red"
     ]
     node [
         id 1195192
-        size 0
         label "Forever Never"
+        size 0
         color "red"
     ]
     node [
         id 1747487
-        size 3
         label "Ewan Dobson"
+        size 3
         color "red"
     ]
     node [
         id 359612
-        size 12
         label "Фактор страха"
+        size 12
         color "red"
     ]
     node [
         id 2784449
-        size 3
         label "Steel Mill"
+        size 3
         color "red"
     ]
     node [
         id 64706
-        size 0
         label "The Honorary Title"
+        size 0
         color "red"
     ]
     node [
         id 359619
-        size 3
         label "Hieronymus Bosch"
+        size 3
         color "red"
     ]
     node [
         id 64708
-        size 0
         label "Armor For Sleep"
+        size 0
         color "red"
     ]
     node [
         id 1427716
-        size 1
         label "Convoy"
+        size 1
         color "red"
     ]
     node [
         id 589000
-        size 17
         label "The Popettes"
+        size 17
         color "red"
     ]
     node [
         id 589001
-        size 49
         label "The Academy Allstars"
+        size 49
         color "red"
     ]
     node [
         id 326858
-        size 1
         label "Lana Lane"
+        size 1
         color "red"
     ]
     node [
         id 15563
-        size 2
         label "Sterling"
+        size 2
         color "red"
     ]
     node [
         id 48332
-        size 28
         label "The Jesus and Mary Chain"
+        size 28
         color "red"
     ]
     node [
         id 301670
-        size 0
         label "Pedestrian"
+        size 0
         color "red"
     ]
     node [
         id 48334
-        size 20
         label "Biffy Clyro"
+        size 20
         color "red"
     ]
     node [
         id 359632
-        size 7
         label "Arida Vortex"
+        size 7
         color "red"
     ]
     node [
         id 867539
-        size 2
         label "Lady Lake"
+        size 2
         color "red"
     ]
     node [
         id 359638
-        size 3
         label "Алик Грановский"
+        size 3
         color "red"
     ]
     node [
         id 523479
-        size 0
         label "Redeem"
+        size 0
         color "red"
     ]
     node [
         id 674340
-        size 25
         label "Артур Беркут"
+        size 25
         color "red"
     ]
     node [
         id 359642
-        size 9
         label "Гран-Куражъ"
+        size 9
         color "red"
     ]
     node [
         id 1991831
-        size 0
         label "The Water"
+        size 0
         color "red"
     ]
     node [
         id 785630
-        size 0
         label "Core"
+        size 0
         color "red"
     ]
     node [
         id 2391265
-        size 2
         label "Malpas"
+        size 2
         color "red"
     ]
     node [
         id 3652834
-        size 6
         label "Константин Ступин"
+        size 6
         color "red"
     ]
     node [
         id 1482619
-        size 6
         label "Warfect"
+        size 6
         color "red"
     ]
     node [
         id 457959
-        size 1
         label "Day of Vengeance"
+        size 1
         color "red"
     ]
     node [
         id 457963
-        size 2
         label "Righteous Vendetta"
+        size 2
         color "red"
     ]
     node [
         id 2833645
-        size 10
         label "Mainstream Machine"
+        size 10
         color "red"
     ]
     node [
         id 201939
-        size 0
         label "Gotye"
+        size 0
         color "red"
     ]
     node [
         id 1031413
-        size 4
         label "Deap Vally"
+        size 4
         color "red"
     ]
     node [
         id 2375551
-        size 0
         label "Blaenavon"
+        size 0
         color "red"
     ]
     node [
         id 71245
-        size 11
         label "From Autumn to Ashes"
+        size 11
         color "red"
     ]
     node [
         id 69261
-        size 5
         label "Montrose"
+        size 5
         color "red"
     ]
     node [
         id 3341570
-        size 11
         label "Blind Ego"
+        size 11
         color "red"
     ]
     node [
         id 851206
-        size 0
         label "Tracenine"
+        size 0
         color "red"
     ]
     node [
         id 2817293
-        size 5
         label "Guitar Gods Forever"
+        size 5
         color "red"
     ]
     node [
         id 638223
-        size 7
         label "Biting Elbows"
+        size 7
         color "red"
     ]
     node [
         id 48403
-        size 8
         label "Serj Tankian"
+        size 8
         color "red"
     ]
     node [
         id 48404
-        size 1
         label "Baustelle"
+        size 1
         color "red"
     ]
     node [
         id 48407
-        size 0
         label "Missy Higgins"
+        size 0
         color "red"
     ]
     node [
         id 310553
-        size 25
         label "Anubis Gate"
+        size 25
         color "red"
     ]
     node [
         id 851227
-        size 0
         label "Rauschhardt"
+        size 0
         color "red"
     ]
     node [
         id 4652316
-        size 0
         label "The Hatters"
+        size 0
         color "red"
     ]
     node [
         id 2899229
-        size 0
         label "SingLike"
+        size 0
         color "red"
     ]
     node [
         id 326943
-        size 0
         label ":Of The Wand And The Moon:"
+        size 0
         color "red"
     ]
     node [
         id 48416
-        size 5
         label "The Number Twelve Looks Like You"
+        size 5
         color "red"
     ]
     node [
         id 586971
-        size 1
         label "Небослов"
+        size 1
         color "red"
     ]
     node [
         id 260210
-        size 6
         label "Nicke Borg Homeland"
+        size 6
         color "red"
     ]
     node [
         id 539942
-        size 5
         label "Megaherz"
+        size 5
         color "red"
     ]
     node [
         id 195879
-        size 0
         label "Duncan Lloyd"
+        size 0
         color "red"
     ]
     node [
         id 2276648
-        size 14
         label "Shreddy Krueger"
+        size 14
         color "red"
     ]
     node [
         id 326953
-        size 2
         label "The Builders and the Butchers"
+        size 2
         color "red"
     ]
     node [
         id 94904
-        size 1
         label "Ben Folds Five"
+        size 1
         color "red"
     ]
     node [
         id 3538224
-        size 0
         label "Fire from the Gods"
+        size 0
         color "red"
     ]
     node [
         id 408883
-        size 1
         label "Party Hit Kings"
+        size 1
         color "red"
     ]
     node [
         id 1178933
-        size 3
         label "Mos Generator"
+        size 3
         color "red"
     ]
     node [
         id 188297
-        size 5
         label "Fastway"
+        size 5
         color "red"
     ]
     node [
         id 48444
-        size 29
         label "Theory Of A Deadman"
+        size 29
         color "red"
     ]
     node [
         id 11561
-        size 1
         label "Cosmos"
+        size 1
         color "red"
     ]
     node [
         id 97598
-        size 3
         label "Penetration"
+        size 3
         color "red"
     ]
     node [
         id 89449
-        size 0
         label "Kyoji Yamamoto"
+        size 0
         color "red"
     ]
     node [
         id 48448
-        size 15
         label "Jerry Cantrell"
+        size 15
         color "red"
     ]
     node [
         id 97602
-        size 9
         label "The Vibrators"
+        size 9
         color "red"
     ]
     node [
         id 48454
-        size 0
         label "Uebermutter"
+        size 0
         color "red"
     ]
     node [
         id 408905
-        size 5
         label "Lunatic Soul"
+        size 5
         color "red"
     ]
     node [
         id 48458
-        size 5
         label "Kids In Glass Houses"
+        size 5
         color "red"
     ]
     node [
         id 3685707
-        size 0
         label "Fufanu"
+        size 0
         color "red"
     ]
     node [
         id 48460
-        size 15
         label "Funeral For A Friend"
+        size 15
         color "red"
     ]
     node [
         id 360333
-        size 7
         label "Нитро"
+        size 7
         color "red"
     ]
     node [
         id 1637712
-        size 10
         label "Scorpion Child"
+        size 10
         color "red"
     ]
     node [
         id 1637713
-        size 26
         label "Black Star Riders"
+        size 26
         color "red"
     ]
     node [
         id 1031507
-        size 1
         label "Beverley Skeete"
+        size 1
         color "red"
     ]
     node [
         id 2733284
-        size 10
         label "I the Mighty"
+        size 10
         color "red"
     ]
     node [
         id 523610
-        size 0
         label "SKAI"
+        size 0
         color "red"
     ]
     node [
         id 29925
-        size 0
         label "Guy Garvey"
+        size 0
         color "red"
     ]
     node [
         id 2112865
-        size 1
         label "Not To Reason Why"
+        size 1
         color "red"
     ]
     node [
         id 654692
-        size 1
         label "Black Widow"
+        size 1
         color "red"
     ]
     node [
         id 64397
-        size 18
         label "Illdisposed"
+        size 18
         color "red"
     ]
     node [
         id 1375592
-        size 2
         label "Pianos Become The Teeth"
+        size 2
         color "red"
     ]
     node [
         id 802157
-        size 2
         label "Poni Hoax"
+        size 2
         color "red"
     ]
     node [
         id 48494
-        size 0
         label "The Parlor Mob"
+        size 0
         color "red"
     ]
     node [
         id 1059389
-        size 0
         label "LOVELORN DOLLS"
+        size 0
         color "red"
     ]
     node [
         id 15728
-        size 0
         label "Johnny Madara"
+        size 0
         color "red"
     ]
     node [
         id 292072
-        size 1
         label "Blue Sky Black Death"
+        size 1
         color "red"
     ]
     node [
         id 146802
-        size 3
         label "Parachute"
+        size 3
         color "red"
     ]
     node [
         id 48501
-        size 21
         label "Sammy Hagar"
+        size 21
         color "red"
     ]
     node [
         id 408951
-        size 4
         label "Cardio Workout Crew"
+        size 4
         color "red"
     ]
     node [
         id 48507
-        size 3
         label "Negative"
+        size 3
         color "red"
     ]
     node [
         id 15741
-        size 25
         label "Wanda Jackson"
+        size 25
         color "red"
     ]
     node [
         id 1211774
-        size 4
         label "Dunderbeist"
+        size 4
         color "red"
     ]
     node [
         id 64895
-        size 1
         label "AM Radio"
+        size 1
         color "red"
     ]
     node [
         id 343424
-        size 12
         label "Enochian Theory"
+        size 12
         color "red"
     ]
     node [
         id 1059392
-        size 1
         label "KRYSTAL SYSTEM"
+        size 1
         color "red"
     ]
     node [
         id 294275
-        size 2
         label "Mojo Nixon"
+        size 2
         color "red"
     ]
     node [
         id 15748
-        size 0
         label "Dan McCafferty"
+        size 0
         color "red"
     ]
     node [
         id 15749
-        size 50
         label "The Sweet"
+        size 50
         color "red"
     ]
     node [
         id 998791
-        size 0
         label "Stringtime"
+        size 0
         color "red"
     ]
     node [
         id 15753
-        size 25
         label "Rise Against"
+        size 25
         color "red"
     ]
     node [
         id 3849611
-        size 0
         label "Sasanomaly"
+        size 0
         color "red"
     ]
     node [
         id 15756
-        size 1
         label "Foghat"
+        size 1
         color "red"
     ]
     node [
         id 15757
-        size 14
         label "Social Distortion"
+        size 14
         color "red"
     ]
     node [
         id 4406671
-        size 13
         label "The Warlocks"
+        size 13
         color "red"
     ]
     node [
         id 1277328
-        size 2
         label "Bend Sinister"
+        size 2
         color "red"
     ]
     node [
         id 48529
-        size 3
         label "Neal Schon"
+        size 3
         color "red"
     ]
     node [
         id 2817427
-        size 5
         label "Red Line Chemistry"
+        size 5
         color "red"
     ]
     node [
         id 48532
-        size 15
         label "Staind"
+        size 15
         color "red"
     ]
     node [
         id 48537
-        size 3
         label "Soziedad Alkoholika"
+        size 3
         color "red"
     ]
     node [
         id 146842
-        size 13
         label "Shadow Gallery"
+        size 13
         color "red"
     ]
     node [
         id 2315503
-        size 0
         label "The Trap"
+        size 0
         color "red"
     ]
     node [
         id 589212
-        size 5
         label "Tonight Is Glory"
+        size 5
         color "red"
     ]
     node [
         id 1198661
-        size 1
         label "Gorky’s Zygotic Mynci"
+        size 1
         color "red"
     ]
     node [
         id 146848
-        size 14
         label "Biohazard"
+        size 14
         color "red"
     ]
     node [
         id 425883
-        size 0
         label "Nicole Estill"
+        size 0
         color "red"
     ]
     node [
         id 702122
-        size 0
         label "Mosaic"
+        size 0
         color "red"
     ]
     node [
         id 327080
-        size 16
         label "Andy James"
+        size 16
         color "red"
     ]
     node [
         id 327081
-        size 9
         label "Coffin Nails"
+        size 9
         color "red"
     ]
     node [
         id 264579
-        size 0
         label "Callejon"
+        size 0
         color "red"
     ]
     node [
         id 146862
-        size 2
         label "Wipers"
+        size 2
         color "red"
     ]
     node [
         id 64944
-        size 4
         label "Mr. Bungle"
+        size 4
         color "red"
     ]
     node [
         id 2309555
-        size 0
         label "Oedipus"
+        size 0
         color "red"
     ]
     node [
         id 64954
-        size 2
         label "PATRICK SIMMONS"
+        size 2
         color "red"
     ]
     node [
         id 1594613
-        size 1
         label "The Pigott Brothers"
+        size 1
         color "red"
     ]
     node [
         id 1048001
-        size 9
         label "Sydonia"
+        size 9
         color "red"
     ]
     node [
         id 1310146
-        size 2
         label "Langhorns"
+        size 2
         color "red"
     ]
     node [
         id 32673
-        size 1
         label "Mickey Thomas"
+        size 1
         color "red"
     ]
     node [
         id 589256
-        size 9
         label "Sir Reg"
+        size 9
         color "red"
     ]
     node [
         id 81826
-        size 0
         label "Tears"
+        size 0
         color "red"
     ]
     node [
         id 2571727
-        size 4
         label "Brandon Belsky"
+        size 4
         color "red"
     ]
     node [
         id 701688
-        size 14
         label "Despised Icon"
+        size 14
         color "red"
     ]
     node [
         id 867796
-        size 4
         label "Strings 24"
+        size 4
         color "red"
     ]
     node [
         id 867798
-        size 11
         label "Andy Timmons"
+        size 11
         color "red"
     ]
     node [
         id 867800
-        size 4
         label "Mattias Ia Eklundh"
+        size 4
         color "red"
     ]
     node [
         id 310746
-        size 0
         label "New Duncan Imperials"
+        size 0
         color "red"
     ]
     node [
         id 114139
-        size 1
         label "Mark Slaughter"
+        size 1
         color "red"
     ]
     node [
         id 2817500
-        size 0
         label "New Beat Fund"
+        size 0
         color "red"
     ]
     node [
         id 474589
-        size 1
         label "Electric Light Orchestra Part 2 / ELO"
+        size 1
         color "red"
     ]
     node [
         id 294367
-        size 4
         label "Dornenreich"
+        size 4
         color "red"
     ]
     node [
         id 1113570
-        size 2
         label "Leander Rising"
+        size 2
         color "red"
     ]
     node [
         id 185595
-        size 4
         label "Newton Faulkner"
+        size 4
         color "red"
     ]
     node [
         id 294380
-        size 0
         label "Ghost Brigade"
+        size 0
         color "red"
     ]
     node [
         id 294382
-        size 4
         label "Lizzy Mercier Descloux"
+        size 4
         color "red"
     ]
     node [
         id 1431545
-        size 4
         label "Argine"
+        size 4
         color "red"
     ]
     node [
         id 196084
-        size 6
         label "Empyr"
+        size 6
         color "red"
     ]
     node [
         id 392698
-        size 11
         label "Twin Atlantic"
+        size 11
         color "red"
     ]
     node [
         id 1637883
-        size 17
         label "Enemies"
+        size 17
         color "red"
     ]
     node [
         id 2981373
-        size 3
         label "Fitspo"
+        size 3
         color "red"
     ]
     node [
         id 1834498
-        size 0
         label "Ray Gilman"
+        size 0
         color "red"
     ]
     node [
         id 851461
-        size 2
         label "Girls In Hawaii"
+        size 2
         color "red"
     ]
     node [
         id 1261067
-        size 7
         label "Snakecharmer"
+        size 7
         color "red"
     ]
     node [
         id 1130003
-        size 1
         label "Mouse On The Keys"
+        size 1
         color "red"
     ]
     node [
         id 966165
-        size 29
         label "Adept"
+        size 29
         color "red"
     ]
     node [
         id 376345
-        size 2
         label "Lustra"
+        size 2
         color "red"
     ]
     node [
         id 294426
-        size 0
         label "Last Laugh"
+        size 0
         color "red"
     ]
     node [
         id 1588763
-        size 0
         label "The War I Survived"
+        size 0
         color "red"
     ]
     node [
         id 1146397
-        size 2
         label "Electric Guitars"
+        size 2
         color "red"
     ]
     node [
         id 540190
-        size 9
         label "Paysage D'hiver"
+        size 9
         color "red"
     ]
     node [
         id 5985
-        size 0
         label "Carl Palmer"
+        size 0
         color "red"
     ]
     node [
         id 2014753
-        size 0
         label "Elise Major"
+        size 0
         color "red"
     ]
     node [
         id 15906
-        size 15
         label "Harry Nilsson"
+        size 15
         color "red"
     ]
     node [
         id 84571
-        size 5
         label "Mano Negra"
+        size 5
         color "red"
     ]
     node [
         id 1113638
-        size 4
         label "From Beyond"
+        size 4
         color "red"
     ]
     node [
         id 15911
-        size 3
         label "Steve Lukather"
+        size 3
         color "red"
     ]
     node [
         id 146985
-        size 7
         label "Glenn Tipton"
+        size 7
         color "red"
     ]
     node [
         id 130604
-        size 1
         label "Code Blue"
+        size 1
         color "red"
     ]
     node [
         id 310830
-        size 4
         label "Threat Signal"
+        size 4
         color "red"
     ]
     node [
         id 48690
-        size 16
         label "Taking Back Sunday"
+        size 16
         color "red"
     ]
     node [
         id 48691
-        size 17
         label "Chad Smith"
+        size 17
         color "red"
     ]
     node [
         id 2178612
-        size 1
         label "Sakara"
+        size 1
         color "red"
     ]
     node [
         id 310840
-        size 1
         label "Lobos Negros"
+        size 1
         color "red"
     ]
     node [
         id 262947
-        size 2
         label "Özlem Tekin"
+        size 2
         color "red"
     ]
     node [
         id 2768442
-        size 0
         label "Blind Channel"
+        size 0
         color "red"
     ]
     node [
         id 664483
-        size 1
         label "Endeverafter"
+        size 1
         color "red"
     ]
     node [
         id 2096702
-        size 1
         label "Dzyan"
+        size 1
         color "red"
     ]
     node [
         id 130626
-        size 12
         label "Curved Air"
+        size 12
         color "red"
     ]
     node [
         id 333067
-        size 1
         label "Noekk"
+        size 1
         color "red"
     ]
     node [
         id 343621
-        size 3
         label "Rulo y la contrabanda"
+        size 3
         color "red"
     ]
     node [
         id 130630
-        size 0
         label "Darryl Way"
+        size 0
         color "red"
     ]
     node [
         id 1195593
-        size 4
         label "Stonegard"
+        size 4
         color "red"
     ]
     node [
         id 81482
-        size 0
         label "The Pack"
+        size 0
         color "red"
     ]
     node [
         id 48715
-        size 26
         label "The Flaming Lips"
+        size 26
         color "red"
     ]
     node [
         id 540237
-        size 6
         label "Frei.Wild"
+        size 6
         color "red"
     ]
     node [
         id 513293
-        size 8
         label "Feared"
+        size 8
         color "red"
     ]
     node [
         id 48726
-        size 0
         label "Head Automatica"
+        size 0
         color "red"
     ]
     node [
         id 327257
-        size 3
         label "Frightened Rabbit"
+        size 3
         color "red"
     ]
     node [
         id 48734
-        size 1
         label "The Walkmen"
+        size 1
         color "red"
     ]
     node [
         id 343650
-        size 6
         label "Scarlett O'Hara"
+        size 6
         color "red"
     ]
     node [
         id 622179
-        size 5
         label "The Revolver Road Band"
+        size 5
         color "red"
     ]
     node [
         id 310888
-        size 11
         label "Imperial State Electric"
+        size 11
         color "red"
     ]
     node [
         id 48746
-        size 27
         label "The Used"
+        size 27
         color "red"
     ]
     node [
         id 81515
-        size 9
         label "Throw The Fight"
+        size 9
         color "red"
     ]
     node [
         id 360046
-        size 0
         label "Whitford"
+        size 0
         color "red"
     ]
     node [
         id 81519
-        size 4
         label "Jupiter One"
+        size 4
         color "red"
     ]
     node [
         id 48752
-        size 14
         label "Hot Hot Heat"
+        size 14
         color "red"
     ]
     node [
         id 171294
-        size 47
         label "Electric Light Orchestra"
+        size 47
         color "red"
     ]
     node [
         id 333075
-        size 5
         label "Darkwell"
+        size 5
         color "red"
     ]
     node [
         id 343670
-        size 0
         label "Smoking Popes"
+        size 0
         color "red"
     ]
     node [
         id 48762
-        size 4
         label "Kenny Wayne Shepherd"
+        size 4
         color "red"
     ]
     node [
         id 48765
-        size 20
         label "Barenaked Ladies"
+        size 20
         color "red"
     ]
     node [
         id 58045
-        size 5
         label "The Pirates"
+        size 5
         color "red"
     ]
     node [
         id 16001
-        size 0
         label "Bob Geldof"
+        size 0
         color "red"
     ]
     node [
         id 48771
-        size 0
         label "Robert Randolph & The Family Band"
+        size 0
         color "red"
     ]
     node [
         id 130699
-        size 6
         label "Failure"
+        size 6
         color "red"
     ]
     node [
         id 310924
-        size 2
         label "The Pineapple Thief"
+        size 2
         color "red"
     ]
     node [
         id 1174125
-        size 0
         label "The December People"
+        size 0
         color "red"
     ]
     node [
         id 753298
-        size 4
         label "Misser"
+        size 4
         color "red"
     ]
     node [
         id 114328
-        size 21
         label "Pillar"
+        size 21
         color "red"
     ]
     node [
         id 4587164
-        size 1
         label "Pamela Hute"
+        size 1
         color "red"
     ]
     node [
         id 4466529
-        size 0
         label "Death Spells"
+        size 0
         color "red"
     ]
     node [
         id 1321584
-        size 0
         label "Shishamo"
+        size 0
         color "red"
     ]
     node [
         id 48804
-        size 2
         label "Cavo"
+        size 2
         color "red"
     ]
     node [
         id 605861
-        size 2
         label "Abbey Road Players"
+        size 2
         color "red"
     ]
     node [
         id 48807
-        size 7
         label "Chris Isaak"
+        size 7
         color "red"
     ]
     node [
         id 1375912
-        size 1
         label "Los Twangs"
+        size 1
         color "red"
     ]
     node [
         id 29980
-        size 0
         label "Scott Matthews"
+        size 0
         color "red"
     ]
     node [
         id 48811
-        size 23
         label "Static-X"
+        size 23
         color "red"
     ]
     node [
         id 343725
-        size 12
         label "Fields of the Nephilim"
+        size 12
         color "red"
     ]
     node [
         id 425646
-        size 11
         label "Мои Ракеты Вверх"
+        size 11
         color "red"
     ]
     node [
         id 3233007
-        size 0
         label "Schmutzki"
+        size 0
         color "red"
     ]
     node [
         id 294577
-        size 2
         label "Doogie White"
+        size 2
         color "red"
     ]
     node [
         id 884404
-        size 7
         label "Gravy Train"
+        size 7
         color "red"
     ]
     node [
         id 327350
-        size 18
         label "Renegade Five"
+        size 18
         color "red"
     ]
     node [
         id 245431
-        size 1
         label "Nirvana"
+        size 1
         color "red"
     ]
     node [
         id 229048
-        size 4
         label "Default"
+        size 4
         color "red"
     ]
     node [
         id 330356
-        size 2
         label "Neutral Milk Hotel"
+        size 2
         color "red"
     ]
     node [
         id 851642
-        size 0
         label "Killing Floor"
+        size 0
         color "red"
     ]
     node [
         id 48827
-        size 25
         label "Disturbed"
+        size 25
         color "red"
     ]
     node [
         id 32445
-        size 0
         label "The Faint"
+        size 0
         color "red"
     ]
     node [
         id 2962833
-        size 0
         label "Espécimen"
+        size 0
         color "red"
     ]
     node [
         id 97984
-        size 6
         label "As Cities Burn"
+        size 6
         color "red"
     ]
     node [
         id 48842
-        size 15
         label "Mudcrutch"
+        size 15
         color "red"
     ]
     node [
         id 48843
-        size 6
         label "HIM"
+        size 6
         color "red"
     ]
     node [
         id 48844
-        size 3
         label "Valo"
+        size 3
         color "red"
     ]
     node [
         id 638670
-        size 6
         label "Carnival in Coal"
+        size 6
         color "red"
     ]
     node [
         id 2064079
-        size 12
         label "King 810"
+        size 12
         color "red"
     ]
     node [
         id 638672
-        size 1
         label "Bitter"
+        size 1
         color "red"
     ]
     node [
         id 305784
-        size 0
         label "Marco Mendoza"
+        size 0
         color "red"
     ]
     node [
         id 81623
-        size 5
         label "Stray From The Path"
+        size 5
         color "red"
     ]
     node [
         id 1244888
-        size 4
         label "The Cumshots"
+        size 4
         color "red"
     ]
     node [
         id 905628
-        size 22
         label "Devin Townsend Project"
+        size 22
         color "red"
     ]
     node [
         id 81628
-        size 28
         label "I See Stars"
+        size 28
         color "red"
     ]
     node [
         id 851681
-        size 3
         label "Sirs"
+        size 3
         color "red"
     ]
     node [
         id 2490082
-        size 3
         label "Teenager"
+        size 3
         color "red"
     ]
     node [
         id 360166
-        size 0
         label "Chrysalis"
+        size 0
         color "red"
     ]
     node [
         id 2695121
-        size 0
         label "OVER9000!"
+        size 0
         color "red"
     ]
     node [
         id 786152
-        size 3
         label "Eve to Adam"
+        size 3
         color "red"
     ]
     node [
         id 32491
-        size 30
         label "The Dandy Warhols"
+        size 30
         color "red"
     ]
     node [
         id 278252
-        size 2
         label "Derby"
+        size 2
         color "red"
     ]
     node [
         id 1195758
-        size 10
         label "Dr Feelgood"
+        size 10
         color "red"
     ]
     node [
         id 376561
-        size 2
         label "Rose Tattoo"
+        size 2
         color "red"
     ]
     node [
         id 81650
-        size 10
         label "Motionless In White"
+        size 10
         color "red"
     ]
     node [
         id 605940
-        size 0
         label "Synth Pop Future Stars"
+        size 0
         color "red"
     ]
     node [
         id 29997
-        size 17
         label "One Night Only"
+        size 17
         color "red"
     ]
     node [
         id 1742121
-        size 0
         label "De Profundis"
+        size 0
         color "red"
     ]
     node [
         id 98040
-        size 4
         label "The Band"
+        size 4
         color "red"
     ]
     node [
         id 343801
-        size 3
         label "Section 25"
+        size 3
         color "red"
     ]
     node [
         id 343805
-        size 3
         label "Crispy Ambulance"
+        size 3
         color "red"
     ]
     node [
         id 1389867
-        size 11
         label "Kaos Krew"
+        size 11
         color "red"
     ]
     node [
         id 1818375
-        size 0
         label "Reimuda"
+        size 0
         color "red"
     ]
     node [
         id 16139
-        size 3
         label "Denny Laine"
+        size 3
         color "red"
     ]
     node [
         id 5421
-        size 0
         label "The Pioneers"
+        size 0
         color "red"
     ]
     node [
         id 2692
-        size 3
         label "Freddie Hubbard"
+        size 3
         color "red"
     ]
     node [
         id 65311
-        size 44
         label "The Drifters"
+        size 44
         color "red"
     ]
     node [
         id 1113892
-        size 1
         label "Cry Excess"
+        size 1
         color "red"
     ]
     node [
         id 2146085
-        size 7
         label "Pray for Sound"
+        size 7
         color "red"
     ]
     node [
         id 81704
-        size 3
         label "Ross Copperman"
+        size 3
         color "red"
     ]
     node [
         id 65321
-        size 3
         label "Back Street Crawler"
+        size 3
         color "red"
     ]
     node [
         id 1179437
-        size 3
         label "Acid Bath"
+        size 3
         color "red"
     ]
     node [
         id 1589039
-        size 2
         label "Renata Przemyk"
+        size 2
         color "red"
     ]
     node [
         id 65328
-        size 14
         label "Grateful Dead"
+        size 14
         color "red"
     ]
     node [
         id 48249
-        size 8
         label "Mates of State"
+        size 8
         color "red"
     ]
     node [
         id 65330
-        size 4
         label "Bob Weir"
+        size 4
         color "red"
     ]
     node [
         id 25089
-        size 0
         label "Brian Poole"
+        size 0
         color "red"
     ]
     node [
         id 327646
-        size 2
         label "Whitehorse"
+        size 2
         color "red"
     ]
     node [
         id 121004
-        size 0
         label "Jr. James & the Late Guitar"
+        size 0
         color "red"
     ]
     node [
         id 2850615
-        size 0
         label "Deep Purple With The Royal Philharmonic Orchestra"
+        size 0
         color "red"
     ]
     node [
         id 292149
-        size 6
         label "Beyond Twilight"
+        size 6
         color "red"
     ]
     node [
         id 720706
-        size 4
         label "Psyclon Nine"
+        size 4
         color "red"
     ]
     node [
         id 2359109
-        size 1
         label "Superfloor"
+        size 1
         color "red"
     ]
     node [
         id 261958
-        size 2
         label "Turn"
+        size 2
         color "red"
     ]
     node [
         id 3850056
-        size 5
         label "WANIMA"
+        size 5
         color "red"
     ]
     node [
         id 196425
-        size 16
         label "Tenacious D"
+        size 16
         color "red"
     ]
     node [
         id 67430
-        size 1
         label "Blow Up Hollywood"
+        size 1
         color "red"
     ]
     node [
         id 343885
-        size 10
         label "Fireal"
+        size 10
         color "red"
     ]
     node [
         id 300344
-        size 5
         label "Project Pitchfork"
+        size 5
         color "red"
     ]
     node [
         id 3102009
-        size 2
         label "Knuckle Puck"
+        size 2
         color "red"
     ]
     node [
         id 311128
-        size 40
         label "Brand New Rockers"
+        size 40
         color "red"
     ]
     node [
         id 786266
-        size 0
         label "Truck"
+        size 0
         color "red"
     ]
     node [
         id 21817
-        size 28
         label "Jefferson Airplane"
+        size 28
         color "red"
     ]
     node [
         id 65374
-        size 18
         label "Canned Heat"
+        size 18
         color "red"
     ]
     node [
         id 2424671
-        size 0
         label "The Beatmakers"
+        size 0
         color "red"
     ]
     node [
         id 32608
-        size 0
         label "Frankie Ford"
+        size 0
         color "red"
     ]
     node [
         id 21819
-        size 35
         label "The Yardbirds"
+        size 35
         color "red"
     ]
     node [
         id 868196
-        size 0
         label "Small Jackets"
+        size 0
         color "red"
     ]
     node [
         id 16229
-        size 2
         label "Aimee Mann"
+        size 2
         color "red"
     ]
     node [
         id 16232
-        size 1
         label "Rhett Miller"
+        size 1
         color "red"
     ]
     node [
         id 982889
-        size 7
         label "Prawn"
+        size 7
         color "red"
     ]
     node [
         id 1294187
-        size 0
         label "Alberto Rigoni"
+        size 0
         color "red"
     ]
     node [
         id 589678
-        size 3
         label "Temple Of The Dog"
+        size 3
         color "red"
     ]
     node [
         id 1933167
-        size 2
         label "Careless Juja"
+        size 2
         color "red"
     ]
     node [
         id 32625
-        size 3
         label "Randy Crawford"
+        size 3
         color "red"
     ]
     node [
         id 360307
-        size 12
         label "Городская Культура"
+        size 12
         color "red"
     ]
     node [
         id 1029438
-        size 0
         label "Deep End"
+        size 0
         color "red"
     ]
     node [
         id 147321
-        size 10
         label "The Black Angels"
+        size 10
         color "red"
     ]
     node [
         id 3325819
-        size 0
         label "ColdWorld"
+        size 0
         color "red"
     ]
     node [
         id 294780
-        size 0
         label "Teddy Pat"
+        size 0
         color "red"
     ]
     node [
         id 294781
-        size 1
         label "Ted Williams"
+        size 1
         color "red"
     ]
     node [
         id 1452693
-        size 4
         label "Alternative 4"
+        size 4
         color "red"
     ]
     node [
         id 3374978
-        size 0
         label "Fast Free Frogs Under the Rain"
+        size 0
         color "red"
     ]
     node [
         id 884611
-        size 1
         label "Cherry vanilla"
+        size 1
         color "red"
     ]
     node [
         id 130949
-        size 1
         label "Burn"
+        size 1
         color "red"
     ]
     node [
         id 425863
-        size 4
         label "Straight Line Stitch"
+        size 4
         color "red"
     ]
     node [
         id 737160
-        size 2
         label "Frankel"
+        size 2
         color "red"
     ]
     node [
         id 1277836
-        size 3
         label "The Australian Pink Floyd Show"
+        size 3
         color "red"
     ]
     node [
         id 2981773
-        size 0
         label "Daniel LeBlanc"
+        size 0
         color "red"
     ]
     node [
         id 360334
-        size 25
         label "СадЪ"
+        size 25
         color "red"
     ]
     node [
         id 1064850
-        size 13
         label "Revolution Within"
+        size 13
         color "red"
     ]
     node [
         id 409492
-        size 6
         label "Pinhani"
+        size 6
         color "red"
     ]
     node [
         id 1130390
-        size 0
         label "M.O.B"
+        size 0
         color "red"
     ]
     node [
         id 720791
-        size 2
         label "Senseless Beauty"
+        size 2
         color "red"
     ]
     node [
         id 2178968
-        size 0
         label "Brett Newski"
+        size 0
         color "red"
     ]
     node [
         id 425882
-        size 5
         label "True Widow"
+        size 5
         color "red"
     ]
     node [
         id 802715
-        size 24
         label "Tokyo Blade"
+        size 24
         color "red"
     ]
     node [
         id 425884
-        size 1
         label "Dan Phillips"
+        size 1
         color "red"
     ]
     node [
         id 2326430
-        size 6
         label "Maschine"
+        size 6
         color "red"
     ]
     node [
         id 4390817
-        size 0
         label "Iris"
+        size 0
         color "red"
     ]
     node [
         id 2621346
-        size 1
         label "Youth in Revolt"
+        size 1
         color "red"
     ]
     node [
         id 188401
-        size 2
         label "Sandi Thom"
+        size 2
         color "red"
     ]
     node [
         id 638889
-        size 0
         label "Eliot Lewis"
+        size 0
         color "red"
     ]
     node [
         id 1834926
-        size 3
         label "Louden Swain"
+        size 3
         color "red"
     ]
     node [
         id 1327027
-        size 0
         label "Madame Guillotine"
+        size 0
         color "red"
     ]
     node [
         id 30549
-        size 1
         label "Christian Chevallier"
+        size 1
         color "red"
     ]
     node [
         id 491450
-        size 1
         label "The World"
+        size 1
         color "red"
     ]
     node [
         id 297631
-        size 3
         label "Ikon"
+        size 3
         color "red"
     ]
     node [
         id 65468
-        size 0
         label "Big Daddy"
+        size 0
         color "red"
     ]
     node [
         id 737213
-        size 0
         label "cirKus"
+        size 0
         color "red"
     ]
     node [
         id 103755
-        size 4
         label "Peter and Gordon"
+        size 4
         color "red"
     ]
     node [
         id 393157
-        size 2
         label "Melville"
+        size 2
         color "red"
     ]
     node [
         id 81862
-        size 27
         label "Mungo Jerry"
+        size 27
         color "red"
     ]
     node [
         id 671687
-        size 0
         label "Voxhaul Broadcast"
+        size 0
         color "red"
     ]
     node [
         id 65481
-        size 8
         label "Vanilla Fudge"
+        size 8
         color "red"
     ]
     node [
         id 131018
-        size 3
         label "The Dictators"
+        size 3
         color "red"
     ]
     node [
         id 28913
-        size 0
         label "Allen Ginsberg"
+        size 0
         color "red"
     ]
     node [
         id 1048524
-        size 8
         label "Deafheaven"
+        size 8
         color "red"
     ]
     node [
         id 98258
-        size 0
         label "The Rutles"
+        size 0
         color "red"
     ]
     node [
         id 98259
-        size 5
         label "Inspiral Carpets"
+        size 5
         color "red"
     ]
     node [
         id 98260
-        size 2
         label "Boon"
+        size 2
         color "red"
     ]
     node [
         id 1048533
-        size 0
         label "Silver Apples"
+        size 0
         color "red"
     ]
     node [
         id 2047963
-        size 1
         label "Juke Baritone"
+        size 1
         color "red"
     ]
     node [
         id 65502
-        size 2
         label "NRBQ"
+        size 2
         color "red"
     ]
     node [
         id 155643
-        size 5
         label "Paragon"
+        size 5
         color "red"
     ]
     node [
         id 98278
-        size 0
         label "David Baddiel"
+        size 0
         color "red"
     ]
     node [
         id 3227628
-        size 7
         label "Devilment"
+        size 7
         color "red"
     ]
     node [
         id 81903
-        size 16
         label "Dick Dale"
+        size 16
         color "red"
     ]
     node [
         id 163825
-        size 0
         label "Freddie Fender"
+        size 0
         color "red"
     ]
     node [
         id 2561363
-        size 0
         label "Кейн"
+        size 0
         color "red"
     ]
     node [
         id 1212405
-        size 4
         label "Audrey Horne"
+        size 4
         color "red"
     ]
     node [
         id 999416
-        size 7
         label "Upon This Dawning"
+        size 7
         color "red"
     ]
     node [
         id 2113530
-        size 0
         label "Herod"
+        size 0
         color "red"
     ]
     node [
         id 674474
-        size 3
         label "Torche"
+        size 3
         color "red"
     ]
     edge [

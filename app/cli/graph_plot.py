@@ -10,7 +10,7 @@ from igraph.drawing.text import TextDrawer
 import cairocffi
 
 from app.cli import cache_name, graph_path, gml_name, plot_name, graph_index
-from app.config import PLOT_LAYOUT, PROCESS_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE, ROCK_AND_METAL_GENRE, \
+from app.config import PLOT_LAYOUT, ROCK_GENRES, METAL_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE, ROCK_AND_METAL_GENRE, \
     EXPORT_FILE_CUSTOM
 
 
@@ -30,7 +30,7 @@ PLOT_OPTIONS_PNG = {
 
     'summary-full-basic': dict(bbox=(3000, 3000), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3,
                                edge_width=0.1, vertex_frame_width=0.2),
-    'summary-full-weight-preview': dict(bbox=(5000, 5000), edge_arrow_size=0.2, edge_arrow_width=0.2, edge_width=0.1,
+    'summary-full-weight-preview': dict(bbox=(5000, 5000), edge_arrow_size=0.1, edge_arrow_width=0.1, edge_width=0.07,
                                         vertex_frame_width=0.2),
     'summary-full-weight-big': dict(bbox=(22000, 22000), edge_arrow_size=0.2, edge_arrow_width=0.2, edge_width=0.1,
                                     vertex_frame_width=0.3, vertex_label_size=9),
@@ -107,9 +107,10 @@ def plot(graph, source_path, index, result_path=None, compute_closeness=True, sa
                 pass
 
     if size_factor != 1.:
+        m = max(G.vs['size'])
         for i in G.vs:
             try:
-                i['size'] *= size_factor
+                i['size'] = i['size'] / m * size_factor
             except IndexError:
                 pass
 
@@ -153,7 +154,7 @@ def task():
         logging.info('plot full')
 
     logging.info('plot genres')
-    for genre_name in PROCESS_GENRES - {'rock', 'metal'} | {ALL_ROCK_GENRE, ALL_METAL_GENRE}:
+    for genre_name in ROCK_GENRES | METAL_GENRES - {'rock', 'metal'} | {ALL_ROCK_GENRE, ALL_METAL_GENRE}:
         _plot_all(genre_name)
 
     def plot_custom(source):
@@ -163,20 +164,20 @@ def task():
         graph = igraph.Graph.Read_GML(gml_name(gml_file_path))
         logging.info('loaded %d %d', graph.vcount(), graph.ecount())
 
-        basic_index = EXPORT_FILE_CUSTOM % (index, 'basic')
-        plot(graph, gml_file_path, basic_index, graph_path(basic_index), False, save_svg=False)
-        logging.info('plot basic')
+        # basic_index = EXPORT_FILE_CUSTOM % (index, 'basic')
+        # plot(graph, gml_file_path, basic_index, graph_path(basic_index), False, save_svg=False)
+        # logging.info('plot basic')
 
         weight_index = EXPORT_FILE_CUSTOM % (index, 'weight-preview')
         plot(graph, gml_file_path, weight_index, graph_path(weight_index), False, save_svg=False, add_legend=False,
-             size_factor=0.4)
+             size_factor=100)
         logging.info('plot w/ weight preview')
 
         for border in range(35, 10, -5):
             index_result = EXPORT_FILE_CUSTOM % (index, 'weight-big-%s' % border)
             index_props = EXPORT_FILE_CUSTOM % (index, 'weight-big')
             plot(graph, gml_file_path, index_props, graph_path(index_result), False, save_svg=False,
-                 print_label_size_min=float(border), add_legend=False)
+                 print_label_size_min=float(border), add_legend=False, size_factor=185)
             logging.info('plot w/ weight big %s' % border)
 
     plot_custom(ROCK_AND_METAL_GENRE)

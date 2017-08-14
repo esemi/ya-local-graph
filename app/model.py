@@ -3,7 +3,7 @@
 from peewee import PostgresqlDatabase, Model, CharField, IntegerField, IntegrityError, BooleanField, CompositeKey, \
     RawQuery
 
-from app.config import DB_USER, DB_PSWD, DB_NAME, EXPORT_LIMIT
+from app.config import DB_USER, DB_PSWD, DB_NAME, EXPORT_LIMIT, COLOR_BOTH, COLOR_METAL, COLOR_ROCK
 
 db = PostgresqlDatabase(DB_NAME, user=DB_USER, password=DB_PSWD, autorollback=True)
 db.connect()
@@ -108,6 +108,19 @@ def update_artist_genres(artist_id, genres_id):
         ArtistGenre.create(artist_id=artist_id, genre_id=g)
 
 
+def fetch_top_by_genre(genre_ids=None, limit=10):
+    where = ''
+    if genre_ids:
+        where = 'WHERE id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id IN (%s)) ' \
+                % (','.join([str(i) for i in genre_ids]))
+    rq = RawQuery(Similar,
+                  'SELECT name, degree_input '
+                  'FROM "artist" %s '
+                  'ORDER BY degree_input DESC '
+                  'LIMIT %d' % (where, limit))
+    return [(i.name, i.degree_input) for i in rq.execute()]
+
+
 def fetch_graph_custom(rock_ids, metal_ids, max_position=100, primary=True):
     rock_in = ','.join([str(i) for i in rock_ids])
     metal_in = ','.join([str(i) for i in metal_ids])
@@ -134,11 +147,11 @@ def fetch_graph_custom(rock_ids, metal_ids, max_position=100, primary=True):
 
     def select_color(is_rock, is_metal):
         if is_rock and is_metal:
-            return 'purple'
+            return COLOR_BOTH
         elif is_rock:
-            return 'red'
+            return COLOR_ROCK
         elif is_metal:
-            return 'blue'
+            return COLOR_METAL
         else:
             return 'grey'
 
@@ -151,7 +164,7 @@ def fetch_graph_custom(rock_ids, metal_ids, max_position=100, primary=True):
     return nodes, edges
 
 
-def fetch_graph_primary(genre_ids, max_position=100):
+def fetch_graph_primary(genre_ids, max_position=100, color='red'):
     """Return primary genre graph w/o single nodes"""
 
     in_ = ','.join([str(i) for i in genre_ids])
@@ -167,8 +180,8 @@ def fetch_graph_primary(genre_ids, max_position=100):
     nodes = {}
     edges = []
     for obj in rq.execute():
-        nodes[obj.from_id] = {'label': obj.from_label, 'color': 'red', 'size': obj.from_degree}
-        nodes[obj.to_id] = {'label': obj.to_label, 'color': 'red', 'size': obj.to_degree}
+        nodes[obj.from_id] = {'label': obj.from_label, 'color': color, 'size': obj.from_degree}
+        nodes[obj.to_id] = {'label': obj.to_label, 'color': color, 'size': obj.to_degree}
         edges.append((obj.from_id, obj.to_id))
     return nodes, edges
 

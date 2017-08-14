@@ -2,338 +2,338 @@ graph [
     directed 1
     node [
         id 64257
-        size 13
         label "Брати Гадюкіни"
+        size 13
         color "red"
     ]
     node [
         id 4307202
-        size 0
         label "Оркестр Че"
+        size 0
         color "red"
     ]
     node [
         id 4647683
-        size 0
         label "Les Gendarmes"
+        size 0
         color "red"
     ]
     node [
         id 64260
-        size 23
         label "С.К.А.Й."
+        size 23
         color "red"
     ]
     node [
         id 428038
-        size 3
         label "Нервы"
+        size 3
         color "red"
     ]
     node [
         id 64262
-        size 12
         label "Мандри"
+        size 12
         color "red"
     ]
     node [
         id 81801
-        size 17
         label "Гайдамаки"
+        size 17
         color "red"
     ]
     node [
         id 3793163
-        size 0
         label "Гараж Ньютона"
+        size 0
         color "red"
     ]
     node [
         id 64250
-        size 5
         label "Platina"
+        size 5
         color "red"
     ]
     node [
         id 2921360
-        size 0
         label "Freddy Marx Street"
+        size 0
         color "red"
     ]
     node [
         id 64273
-        size 12
         label "Друга ріка"
+        size 12
         color "red"
     ]
     node [
         id 2573586
-        size 10
         label "Мотор'ролла"
+        size 10
         color "red"
     ]
     node [
         id 4052630
-        size 1
         label "Крихітка"
+        size 1
         color "red"
     ]
     node [
         id 4732183
-        size 0
         label "Табула Раса"
+        size 0
         color "red"
     ]
     node [
         id 751640
-        size 3
         label "Механічний Апельсин"
+        size 3
         color "red"
     ]
     node [
         id 2648216
-        size 0
         label "Национальный заслуженный академический симфонический оркестр Украины"
+        size 0
         color "red"
     ]
     node [
         id 2574639
-        size 6
         label "Горгішелі"
+        size 6
         color "red"
     ]
     node [
         id 838746
-        size 2
         label "Mad Heads XL"
+        size 2
         color "red"
     ]
     node [
         id 422406
-        size 6
         label "НеДіля"
+        size 6
         color "red"
     ]
     node [
         id 751527
-        size 16
         label "Антитіла"
+        size 16
         color "red"
     ]
     node [
         id 1159464
-        size 7
         label "Haydamaky"
+        size 7
         color "red"
     ]
     node [
         id 422439
-        size 5
         label "Riffmaster"
+        size 5
         color "red"
     ]
     node [
         id 1583069
-        size 11
         label "Сергей Бабкин"
+        size 11
         color "red"
     ]
     node [
         id 41133
-        size 13
         label "Бумбокс"
+        size 13
         color "red"
     ]
     node [
         id 2557359
-        size 5
         label "Біла Вежа"
+        size 5
         color "red"
     ]
     node [
         id 594738
-        size 17
         label "ТІК"
+        size 17
         color "red"
     ]
     node [
         id 594739
-        size 3
         label "Холодне Сонце"
+        size 3
         color "red"
     ]
     node [
         id 919697
-        size 9
         label "O.Torvald"
+        size 9
         color "red"
     ]
     node [
         id 1865781
-        size 0
         label "Perkalaba"
+        size 0
         color "red"
     ]
     node [
         id 3437878
-        size 11
         label "Веремій"
+        size 11
         color "red"
     ]
     node [
         id 595322
-        size 9
         label "Трансформер"
+        size 9
         color "red"
     ]
     node [
         id 1607864
-        size 6
         label "Марія Бурмака"
+        size 6
         color "red"
     ]
     node [
         id 1590458
-        size 10
         label "Bahroma"
+        size 10
         color "red"
     ]
     node [
         id 4766325
-        size 0
         label "БЕЗ ОБМЕЖЕНЬ"
+        size 0
         color "red"
     ]
     node [
         id 2942686
-        size 0
         label "Гич Оркестр"
+        size 0
         color "red"
     ]
     node [
         id 594376
-        size 2
         label "Skinhate"
+        size 2
         color "red"
     ]
     node [
         id 2429770
-        size 3
         label "Нумер 482"
+        size 3
         color "red"
     ]
     node [
         id 4029003
-        size 8
         label "Тартак"
+        size 8
         color "red"
     ]
     node [
         id 218068
-        size 14
         label "Океан Ельзи"
+        size 14
         color "red"
     ]
     node [
         id 595801
-        size 2
         label "Мертвий Півень"
+        size 2
         color "red"
     ]
     node [
         id 3315162
-        size 11
         label "Epolets"
+        size 11
         color "red"
     ]
     node [
         id 218077
-        size 18
         label "Воплі Відоплясова"
+        size 18
         color "red"
     ]
     node [
         id 2259678
-        size 1
         label "Rock-H (Рокаш)"
+        size 1
         color "red"
     ]
     node [
         id 81890
-        size 11
         label "Таліта Кум"
+        size 11
         color "red"
     ]
     node [
         id 1536871
-        size 4
         label "Серце Дженніфер"
+        size 4
         color "red"
     ]
     node [
         id 1591719
-        size 23
         label "Kozak System"
+        size 23
         color "red"
     ]
     node [
         id 1228562
-        size 7
         label "Klooch"
+        size 7
         color "red"
     ]
     node [
         id 676392
-        size 6
         label "Kofei.IN"
+        size 6
         color "red"
     ]
     node [
         id 2420980
-        size 3
         label "Нерозгадані"
+        size 3
         color "red"
     ]
     node [
         id 64254
-        size 36
         label "Скрябін"
+        size 36
         color "red"
     ]
     node [
         id 218103
-        size 0
         label "Святослав Вакарчук"
+        size 0
         color "red"
     ]
     node [
         id 594426
-        size 7
         label "Ot Vinta"
+        size 7
         color "red"
     ]
     node [
         id 594427
-        size 9
         label "Green Grey"
+        size 9
         color "red"
     ]
     node [
         id 81788
-        size 20
         label "Mad Heads"
+        size 20
         color "red"
     ]
     node [
         id 2573565
-        size 4
         label "Юркеш"
+        size 4
         color "red"
     ]
     node [
         id 599422
-        size 0
         label "Qarpa"
+        size 0
         color "red"
     ]
     edge [
