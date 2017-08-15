@@ -108,11 +108,13 @@ def update_artist_genres(artist_id, genres_id):
         ArtistGenre.create(artist_id=artist_id, genre_id=g)
 
 
-def fetch_top_by_genre(genre_ids=None, limit=10):
+def fetch_top_by_genre(genre_ids=None, reverse=False, limit=10):
     where = ''
     if genre_ids:
-        where = 'WHERE id IN (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id IN (%s)) ' \
-                % (','.join([str(i) for i in genre_ids]))
+        in_ = 'NOT IN' if reverse else 'IN'
+        where = 'WHERE id %s (SELECT DISTINCT artist_id FROM artist_genre WHERE genre_id IN (%s)) ' \
+                % (in_, ','.join([str(i) for i in genre_ids]))
+
     rq = RawQuery(Similar,
                   'SELECT name, degree_input '
                   'FROM "artist" %s '

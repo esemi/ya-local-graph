@@ -93,6 +93,8 @@ def task():
     save_csv('metal-top', metal_top)
     summary_top = fetch_top_by_genre(rock_ids + metal_ids)
     save_csv('summary-top', summary_top)
+    outside_top = fetch_top_by_genre(rock_ids + metal_ids, True)
+    save_csv('outside-top', outside_top)
     logging.info('end')
 
 

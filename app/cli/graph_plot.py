@@ -164,9 +164,9 @@ def task():
         graph = igraph.Graph.Read_GML(gml_name(gml_file_path))
         logging.info('loaded %d %d', graph.vcount(), graph.ecount())
 
-        # basic_index = EXPORT_FILE_CUSTOM % (index, 'basic')
-        # plot(graph, gml_file_path, basic_index, graph_path(basic_index), False, save_svg=False)
-        # logging.info('plot basic')
+        basic_index = EXPORT_FILE_CUSTOM % (index, 'basic')
+        plot(graph, gml_file_path, basic_index, graph_path(basic_index), False, save_svg=False)
+        logging.info('plot basic')
 
         weight_index = EXPORT_FILE_CUSTOM % (index, 'weight-preview')
         plot(graph, gml_file_path, weight_index, graph_path(weight_index), False, save_svg=False, add_legend=False,
