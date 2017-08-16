@@ -4,8 +4,8 @@ import logging
 
 from app.cli import graph_path, gml_name, graph_index
 from app.cli.graph_plot import clear_cache
-from app.config import ALL_ROCK_GENRE, ROCK_GENRES, ALL_METAL_GENRE, METAL_GENRES, \
-    ROCK_AND_METAL_GENRE, COLOR_METAL, COLOR_ROCK
+from app.config import ALL_ROCK_GENRE, ROCK_GENRES, ALL_METAL_GENRE, METAL_GENRES, ROCK_AND_METAL_GENRE, COLOR_METAL, \
+    COLOR_ROCK
 from app.model import fetch_graph_primary, fetch_graph_full, get_genres, fetch_graph_custom, update_degree, \
     fetch_top_by_genre
 
@@ -17,9 +17,7 @@ def save_gml(genre_name, nodes, edges, full=False):
     f_name = gml_name(g_name)
     f = open(f_name, 'w+')
 
-    content = ['graph [']
-    content.append('    directed 1')
-
+    content = ['graph [', '    directed 1']
     for id, attrs in nodes.items():
         content.append('    node [')
         content.append('        id %d' % id)
@@ -64,7 +62,8 @@ def task():
         save_gml(genre_name, nodes, edges, full=True)
         logging.info('end')
 
-    logging.info('')
+    update_degree()
+    logging.info('update degree')
 
     for genre_name in METAL_GENRES:
         genre_ids = [genres[genre_name]]
@@ -96,7 +95,6 @@ def task():
     outside_top = fetch_top_by_genre(rock_ids + metal_ids, True)
     save_csv('outside-top', outside_top)
     logging.info('end')
-
 
 
 if __name__ == '__main__':

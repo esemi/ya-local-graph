@@ -181,5 +181,3 @@ def task(genre, page=0):
         if not config.DEBUG:
             m.close()
         raise e
-
-

@@ -70,7 +70,7 @@ def clear_similar_edges(from_id):
 
 
 def get_similar(from_id):
-    return Similar.select().where(Similar.from_id == id)
+    return Similar.select().where(Similar.from_id == from_id)
 
 
 def save_similar_edge(from_id, to_id, pos):
@@ -129,7 +129,8 @@ def fetch_graph_custom(rock_ids, metal_ids, max_position=100, primary=True):
     all_in_ = ','.join([rock_in, metal_in])
     primary_condition = 'a1.is_primary = True AND a2.is_primary = True AND' if primary else ''
 
-    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, a1.degree_input as from_degree, a2.degree_input as to_degree, '
+    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, '
+                           'a1.degree_input as from_degree, a2.degree_input as to_degree, '
                            'CASE WHEN (SELECT COUNT(*) FROM artist_genre WHERE genre_id IN (%s) AND artist_id = from_id) > 0 '
                            'THEN 1 ELSE 0 END AS from_is_rock, '
                            'CASE WHEN (SELECT COUNT(*) FROM artist_genre WHERE genre_id IN (%s) AND artist_id = from_id) > 0 '
@@ -171,7 +172,8 @@ def fetch_graph_primary(genre_ids, max_position=100, color='red'):
 
     in_ = ','.join([str(i) for i in genre_ids])
 
-    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, a1.degree_input as from_degree, a2.degree_input as to_degree '
+    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, '
+                           'a1.degree_input as from_degree, a2.degree_input as to_degree '
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
@@ -193,7 +195,8 @@ def fetch_graph_full(genre_ids, color='red', max_position=100):
 
     in_ = ','.join([str(i) for i in genre_ids])
 
-    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, a1.degree_input as from_degree, a2.degree_input as to_degree '
+    rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, '
+                           'a1.degree_input as from_degree, a2.degree_input as to_degree '
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
                            'JOIN "artist" a2 ON (to_id = a2.id) '
