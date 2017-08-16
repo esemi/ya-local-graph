@@ -36,26 +36,6 @@ PLOT_OPTIONS_PNG = {
                                     vertex_frame_width=0.3, vertex_label_size=9),
 }
 
-PLOT_OPTIONS_SVG = {
-    'rock-primary': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
-                         edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
-
-    'rock-all-primary': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
-                             edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
-    'rock-all-full': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
-                          edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
-
-    'metal-all-primary': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
-                              edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
-    'metal-all-full': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
-                           edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
-
-    'summary-full-basic': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
-                               edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
-    'summary-full-weight': dict(bbox=(5000, 5000), vertex_size=2, vertex_label_size=3, edge_arrow_size=0.15,
-                                edge_arrow_width=0.3, edge_width=0.15, vertex_frame_width=0.2),
-}
-
 
 def clear_cache(name):
     cache_path = cache_name(name)
@@ -76,8 +56,8 @@ def save_cache(name, l):
     pickle.dump(l, f)
 
 
-def plot(graph, source_path, index, result_path=None, compute_closeness=True, save_png=True, save_svg=True,
-         print_label_size_min=None, add_legend=True, size_factor=1.):
+def plot(graph, source_path, index, result_path=None, compute_closeness=True, save_png=True, print_label_size_min=None,
+         add_legend=True, size_factor=None):
     G = deepcopy(graph)
     l = read_cache(source_path)
     if not l:
@@ -90,11 +70,6 @@ def plot(graph, source_path, index, result_path=None, compute_closeness=True, sa
 
     png_opt = dict(bbox=(1500, 1500), vertex_size=7, edge_arrow_size=0.2, edge_arrow_width=0.9, edge_width=0.3,
                    vertex_frame_width=0.4) if index not in PLOT_OPTIONS_PNG else PLOT_OPTIONS_PNG[index]
-    svg_opt = dict(bbox=(3000, 3000), vertex_size=3, vertex_label_size=7, edge_arrow_size=0.15,
-                   edge_arrow_width=0.7, edge_width=0.2, vertex_frame_width=0.3) if index not in PLOT_OPTIONS_SVG else PLOT_OPTIONS_SVG[index]
-    if save_svg:
-        igraph.plot(G, plot_name(result_path, 'svg'), layout=l, **svg_opt)
-        logging.info('save svg')
 
     if print_label_size_min is None:
         G.vs['label'] = ['']
@@ -106,7 +81,7 @@ def plot(graph, source_path, index, result_path=None, compute_closeness=True, sa
             except IndexError:
                 pass
 
-    if size_factor != 1.:
+    if size_factor:
         m = max(G.vs['size'])
         for i in G.vs:
             try:
@@ -138,13 +113,14 @@ def task():
     logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
     logging.info('start')
 
-    def _plot_all(genre_name):
-        name = graph_path(graph_index(genre_name, False))
-        logging.info('start %s', graph_index(genre_name, False))
-        graph = igraph.Graph.Read_GML(gml_name(name))
-        logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-        plot(graph, name, graph_index(genre_name, False))
-        logging.info('plot primary')
+    def plot_all(genre_name, full_only=False):
+        if not full_only:
+            name = graph_path(graph_index(genre_name, False))
+            logging.info('start %s', graph_index(genre_name, False))
+            graph = igraph.Graph.Read_GML(gml_name(name))
+            logging.info('loaded %d %d', graph.vcount(), graph.ecount())
+            plot(graph, name, graph_index(genre_name, False))
+            logging.info('plot primary')
 
         name = graph_path(graph_index(genre_name, True))
         logging.info('start %s', graph_index(genre_name, True))
@@ -154,8 +130,12 @@ def task():
         logging.info('plot full')
 
     logging.info('plot genres')
-    for genre_name in ROCK_GENRES | METAL_GENRES - {'rock', 'metal'} | {ALL_ROCK_GENRE, ALL_METAL_GENRE}:
-        _plot_all(genre_name)
+    for genre_name in ROCK_GENRES | METAL_GENRES - {'rock', 'metal'}:
+        plot_all(genre_name, True)
+
+    logging.info('plot genres full')
+    for genre_name in {ALL_ROCK_GENRE, ALL_METAL_GENRE}:
+        plot_all(genre_name)
 
     def plot_custom(source):
         index = graph_index(source, True)
@@ -165,19 +145,19 @@ def task():
         logging.info('loaded %d %d', graph.vcount(), graph.ecount())
 
         basic_index = EXPORT_FILE_CUSTOM % (index, 'basic')
-        plot(graph, gml_file_path, basic_index, graph_path(basic_index), False, save_svg=False)
+        plot(graph, gml_file_path, basic_index, graph_path(basic_index), False)
         logging.info('plot basic')
 
         weight_index = EXPORT_FILE_CUSTOM % (index, 'weight-preview')
-        plot(graph, gml_file_path, weight_index, graph_path(weight_index), False, save_svg=False, add_legend=False,
-             size_factor=100)
+        plot(graph, gml_file_path, weight_index, graph_path(weight_index), False, add_legend=False, size_factor=100)
         logging.info('plot w/ weight preview')
 
-        for border in range(35, 10, -5):
+        for border in range(35, 15, -5):
             index_result = EXPORT_FILE_CUSTOM % (index, 'weight-big-%s' % border)
             index_props = EXPORT_FILE_CUSTOM % (index, 'weight-big')
-            plot(graph, gml_file_path, index_props, graph_path(index_result), False, save_svg=False,
-                 print_label_size_min=float(border), add_legend=False, size_factor=185)
+            plot(graph, gml_file_path, index_props, graph_path(index_result), False, print_label_size_min=float(border),
+                 add_legend=False, size_factor=185)
             logging.info('plot w/ weight big %s' % border)
 
+    logging.info('plot summary custom')
     plot_custom(ROCK_AND_METAL_GENRE)
