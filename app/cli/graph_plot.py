@@ -32,8 +32,8 @@ PLOT_OPTIONS_PNG = {
                                edge_width=0.1, vertex_frame_width=0.2),
     'summary-full-weight-preview': dict(bbox=(5000, 5000), edge_arrow_size=0.1, edge_arrow_width=0.1, edge_width=0.07,
                                         vertex_frame_width=0.2),
-    'summary-full-weight-big': dict(bbox=(22000, 22000), edge_arrow_size=0.2, edge_arrow_width=0.2, edge_width=0.1,
-                                    vertex_frame_width=0.3, vertex_label_size=9),
+    'summary-full-weight-big': dict(bbox=(32000, 32000), edge_arrow_size=0.2, edge_arrow_width=0.2, edge_width=0.1,
+                                    vertex_frame_width=0.3, vertex_label_size=10),
 }
 
 
@@ -56,7 +56,7 @@ def save_cache(name, l):
     pickle.dump(l, f)
 
 
-def plot(graph, source_path, index, result_path=None, compute_closeness=True, save_png=True, print_label_size_min=None,
+def plot(graph, source_path, index, result_path=None, compute_closeness=True, print_label_size_min=None,
          add_legend=True, size_factor=None):
     G = deepcopy(graph)
     l = read_cache(source_path)
@@ -89,24 +89,22 @@ def plot(graph, source_path, index, result_path=None, compute_closeness=True, sa
             except IndexError:
                 pass
 
-    if save_png:
-        p = igraph.plot(G, plot_name(result_path, 'png'), layout=l, **png_opt)
-        logging.info('plot graph')
-
-        if add_legend:
-            legend = '%s: %d x %d\nclustering coef. %.4f\n' % (index, G.vcount(), G.ecount(),
-                                                               G.transitivity_undirected(mode="zero"))
-            if compute_closeness:
-                legend += 'closeness %.4f' % (sum(G.closeness()) / G.vcount())
-            logging.info('compute legend %s' % legend)
-            p.redraw()
-            ctx = cairocffi.Context(p.surface)
-            ctx.set_font_size(36)
-            drawer = TextDrawer(ctx, legend, halign=TextDrawer.LEFT)
-            drawer.draw_at(150, 50, width=500)
-
-        p.save()
-        logging.info('save png')
+    p = igraph.plot(G, plot_name(result_path, 'png'), layout=l, **png_opt)
+    logging.info('plot graph')
+    if add_legend:
+        legend = '%s: %d x %d\nclustering coef. %.4f\n' % (index, G.vcount(), G.ecount(),
+                                                           G.transitivity_undirected(mode="zero"))
+        if compute_closeness:
+            legend += 'closeness %.4f' % (sum(G.closeness()) / G.vcount())
+        logging.info('compute legend %s' % legend)
+        p.redraw()
+        ctx = cairocffi.Context(p.surface)
+        ctx.set_font_size(36)
+        # todo Use ctx.scale() for big image
+        drawer = TextDrawer(ctx, legend, halign=TextDrawer.LEFT)
+        drawer.draw_at(150, 50, width=500)
+    p.save()
+    logging.info('save png')
 
 
 def task():
