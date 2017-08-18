@@ -9,7 +9,7 @@ import igraph
 from igraph.drawing.text import TextDrawer
 import cairocffi
 
-from app.cli import cache_name, graph_path, gml_name, plot_name, graph_index
+from app.cli import graph_path, gml_name, graph_index
 from app.config import PLOT_LAYOUT, ROCK_GENRES, METAL_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE, ROCK_AND_METAL_GENRE, \
     EXPORT_FILE_CUSTOM
 
@@ -49,6 +49,14 @@ def read_cache(name):
             return pickle.load(f)
     except:
         return None
+
+
+def cache_name(name):
+    return '%s.layout' % name
+
+
+def plot_name(name, extension):
+    return '%s.%s' % (name, extension)
 
 
 def save_cache(name, l):

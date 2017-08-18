@@ -5,16 +5,8 @@ import os
 from app.config import DATA_FOLDER_PATH, EXPORT_FILE_PRIMARY, EXPORT_FILE_FULL
 
 
-def cache_name(name):
-    return '%s.layout' % name
-
-
 def gml_name(name):
     return '%s.gml' % name
-
-
-def plot_name(name, extension):
-    return '%s.%s' % (name, extension)
 
 
 def graph_index(genre, full):
