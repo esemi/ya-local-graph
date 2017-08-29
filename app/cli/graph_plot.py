@@ -8,6 +8,7 @@ from copy import deepcopy
 import igraph
 from igraph.drawing.text import TextDrawer
 import cairocffi
+from PIL import Image
 
 from app.cli import graph_path, gml_name, graph_index
 from app.config import PLOT_LAYOUT, ROCK_GENRES, METAL_GENRES, ALL_METAL_GENRE, ALL_ROCK_GENRE, ROCK_AND_METAL_GENRE, \
@@ -32,8 +33,8 @@ PLOT_OPTIONS_PNG = {
                                edge_width=0.1, vertex_frame_width=0.2),
     'summary-full-weight-preview': dict(bbox=(5000, 5000), edge_arrow_size=0.1, edge_arrow_width=0.1, edge_width=0.07,
                                         vertex_frame_width=0.2),
-    'summary-full-weight-big': dict(bbox=(32000, 32000), edge_arrow_size=0.2, edge_arrow_width=0.2, edge_width=0.1,
-                                    vertex_frame_width=0.3, vertex_label_size=10),
+    'summary-full-weight-big': dict(bbox=(20000, 20000), edge_arrow_size=0.15, edge_arrow_width=0.15, edge_width=0.1,
+                                    vertex_frame_width=0.4, vertex_label_size=12),
 }
 
 
@@ -119,29 +120,47 @@ def task():
     logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
     logging.info('start')
 
-    def plot_all(genre_name, full_only=False):
+    def preview(index, gml_file_path, preview_size):
+        preview_index = EXPORT_FILE_CUSTOM % (index, 'preview')
+        im = Image.open(plot_name(gml_file_path, 'png'))
+        im.thumbnail((preview_size, preview_size))
+        im.save(plot_name(graph_path(preview_index), 'png'))
+        logging.info('plot full preview %s' % preview_index)
+
+    def plot_all(genre_name, full_only=False, preview_size=None):
+
         if not full_only:
-            name = graph_path(graph_index(genre_name, False))
-            logging.info('start %s', graph_index(genre_name, False))
-            graph = igraph.Graph.Read_GML(gml_name(name))
+            index = graph_index(genre_name, False)
+            gml_file_path = graph_path(index)
+            logging.info('start %s', index)
+            graph = igraph.Graph.Read_GML(gml_name(gml_file_path))
+
             logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-            plot(graph, name, graph_index(genre_name, False))
+            plot(graph, gml_file_path, index)
             logging.info('plot primary')
 
-        name = graph_path(graph_index(genre_name, True))
-        logging.info('start %s', graph_index(genre_name, True))
-        graph = igraph.Graph.Read_GML(gml_name(name))
+            if preview_size:
+                preview(index, gml_file_path, preview_size)
+
+        index = graph_index(genre_name, True)
+        gml_file_path = graph_path(index)
+        logging.info('start %s', index)
+        graph = igraph.Graph.Read_GML(gml_name(gml_file_path))
+
         logging.info('loaded %d %d', graph.vcount(), graph.ecount())
-        plot(graph, name, graph_index(genre_name, True))
+        plot(graph, gml_file_path, index)
         logging.info('plot full')
 
+        if preview_size:
+            preview(index, gml_file_path, preview_size)
+
     logging.info('plot genres')
-    for genre_name in ROCK_GENRES | METAL_GENRES - {'rock', 'metal'}:
-        plot_all(genre_name, True)
+    for genre_name in (ROCK_GENRES | METAL_GENRES) - {'rock', 'metal'}:
+        plot_all(genre_name, True, 350)
 
     logging.info('plot genres full')
     for genre_name in {ALL_ROCK_GENRE, ALL_METAL_GENRE}:
-        plot_all(genre_name)
+        plot_all(genre_name, preview_size=700)
 
     def plot_custom(source):
         index = graph_index(source, True)
