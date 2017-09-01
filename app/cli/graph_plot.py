@@ -31,9 +31,9 @@ PLOT_OPTIONS_PNG = {
 
     'summary-full-basic': dict(bbox=(3000, 3000), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3,
                                edge_width=0.1, vertex_frame_width=0.2),
-    'summary-full-weight-preview': dict(bbox=(5000, 5000), edge_arrow_size=0.1, edge_arrow_width=0.1, edge_width=0.07,
+    'summary-full-weight': dict(bbox=(5000, 5000), edge_arrow_size=0.1, edge_arrow_width=0.1, edge_width=0.07,
                                         vertex_frame_width=0.2),
-    'summary-full-weight-big': dict(bbox=(20000, 20000), edge_arrow_size=0.15, edge_arrow_width=0.15, edge_width=0.1,
+    'summary-full-weight-big': dict(bbox=(32000, 32000), edge_arrow_size=0.15, edge_arrow_width=0.15, edge_width=0.1,
                                     vertex_frame_width=0.4, vertex_label_size=12),
 }
 
@@ -66,7 +66,7 @@ def save_cache(name, l):
 
 
 def plot(graph, source_path, index, result_path=None, compute_closeness=True, print_label_size_min=None,
-         add_legend=True, size_factor=None):
+         add_legend=True, size_factor=None, bbox_size=None):
     G = deepcopy(graph)
     l = read_cache(source_path)
     if not l:
@@ -79,6 +79,9 @@ def plot(graph, source_path, index, result_path=None, compute_closeness=True, pr
 
     png_opt = dict(bbox=(1500, 1500), vertex_size=7, edge_arrow_size=0.2, edge_arrow_width=0.9, edge_width=0.3,
                    vertex_frame_width=0.4) if index not in PLOT_OPTIONS_PNG else PLOT_OPTIONS_PNG[index]
+
+    if bbox_size:
+        png_opt['bbox'] = (bbox_size, bbox_size)
 
     if print_label_size_min is None:
         G.vs['label'] = ['']
@@ -108,7 +111,7 @@ def plot(graph, source_path, index, result_path=None, compute_closeness=True, pr
         logging.info('compute legend %s' % legend)
         p.redraw()
         ctx = cairocffi.Context(p.surface)
-        ctx.set_font_size(36)
+        ctx.set_font_size(40)
         # todo Use ctx.scale() for big image
         drawer = TextDrawer(ctx, legend, halign=TextDrawer.LEFT)
         drawer.draw_at(150, 50, width=500)
@@ -172,17 +175,20 @@ def task():
         basic_index = EXPORT_FILE_CUSTOM % (index, 'basic')
         plot(graph, gml_file_path, basic_index, graph_path(basic_index), False)
         logging.info('plot basic')
+        preview(basic_index, graph_path(basic_index), 1920)
 
-        weight_index = EXPORT_FILE_CUSTOM % (index, 'weight-preview')
+        weight_index = EXPORT_FILE_CUSTOM % (index, 'weight')
         plot(graph, gml_file_path, weight_index, graph_path(weight_index), False, add_legend=False, size_factor=100)
-        logging.info('plot w/ weight preview')
+        logging.info('plot w/ weight')
+        preview(weight_index, graph_path(weight_index), 1920)
 
         for border in range(35, 15, -5):
-            index_result = EXPORT_FILE_CUSTOM % (index, 'weight-big-%s' % border)
-            index_props = EXPORT_FILE_CUSTOM % (index, 'weight-big')
-            plot(graph, gml_file_path, index_props, graph_path(index_result), False, print_label_size_min=float(border),
-                 add_legend=False, size_factor=185)
-            logging.info('plot w/ weight big %s' % border)
+            for size in {10, 20}:
+                index_result = EXPORT_FILE_CUSTOM % (index, 'weight-%dk-%s' % (size, border))
+                logging.info('plot w/ weight big %s' % index_result)
+                index_props = EXPORT_FILE_CUSTOM % (index, 'weight-big')
+                plot(graph, gml_file_path, index_props, graph_path(index_result), False, print_label_size_min=float(border),
+                     add_legend=False, size_factor=185, bbox_size=size * 1000)
 
     logging.info('plot summary custom')
     plot_custom(ROCK_AND_METAL_GENRE)
