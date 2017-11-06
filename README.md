@@ -7,6 +7,12 @@
 - исследуем полученный граф
 
 
+## TODO
+- result img
+- link to habrapost
+- remove imgs from data
+
+
 ## Usage
 
 ```
