@@ -32,7 +32,7 @@ PLOT_OPTIONS_PNG = {
     'summary-full-basic': dict(bbox=(3000, 3000), vertex_size=3, edge_arrow_size=0.2, edge_arrow_width=0.3,
                                edge_width=0.1, vertex_frame_width=0.2),
     'summary-full-weight': dict(bbox=(5000, 5000), edge_arrow_size=0.1, edge_arrow_width=0.1, edge_width=0.07,
-                                        vertex_frame_width=0.2),
+                                vertex_frame_width=0.2),
     'summary-full-weight-big': dict(bbox=(32000, 32000), edge_arrow_size=0.15, edge_arrow_width=0.15, edge_width=0.1,
                                     vertex_frame_width=0.4, vertex_label_size=12),
 }
@@ -48,7 +48,7 @@ def read_cache(name):
     try:
         with open(cache_name(name), 'rb') as f:
             return pickle.load(f)
-    except:
+    except Exception as e:
         return None
 
 
@@ -67,10 +67,10 @@ def save_cache(name, l):
 
 def plot(graph, source_path, index, result_path=None, compute_closeness=True, print_label_size_min=None,
          add_legend=True, size_factor=None, bbox_size=None):
-    G = deepcopy(graph)
+    graph_object = deepcopy(graph)
     l = read_cache(source_path)
     if not l:
-        l = G.layout(PLOT_LAYOUT)
+        l = graph_object.layout(PLOT_LAYOUT)
         save_cache(source_path, l)
     logging.info('complete layout')
 
@@ -84,9 +84,9 @@ def plot(graph, source_path, index, result_path=None, compute_closeness=True, pr
         png_opt['bbox'] = (bbox_size, bbox_size)
 
     if print_label_size_min is None:
-        G.vs['label'] = ['']
+        graph_object.vs['label'] = ['']
     else:
-        for i in G.vs:
+        for i in graph_object.vs:
             try:
                 if i['size'] < print_label_size_min:
                     i['label'] = ''
@@ -94,20 +94,20 @@ def plot(graph, source_path, index, result_path=None, compute_closeness=True, pr
                 pass
 
     if size_factor:
-        m = max(G.vs['size'])
-        for i in G.vs:
+        m = max(graph_object.vs['size'])
+        for i in graph_object.vs:
             try:
                 i['size'] = i['size'] / m * size_factor
             except IndexError:
                 pass
 
-    p = igraph.plot(G, plot_name(result_path, 'png'), layout=l, **png_opt)
+    p = igraph.plot(graph_object, plot_name(result_path, 'png'), layout=l, **png_opt)
     logging.info('plot graph')
     if add_legend:
-        legend = '%s: %d x %d\nclustering coef. %.4f\n' % (index, G.vcount(), G.ecount(),
-                                                           G.transitivity_undirected(mode="zero"))
+        legend = '%s: %d x %d\nclustering coef. %.4f\n' % (index, graph_object.vcount(), graph_object.ecount(),
+                                                           graph_object.transitivity_undirected(mode="zero"))
         if compute_closeness:
-            legend += 'closeness %.4f' % (sum(G.closeness()) / G.vcount())
+            legend += 'closeness %.4f' % (sum(graph_object.closeness()) / graph_object.vcount())
         logging.info('compute legend %s' % legend)
         p.redraw()
         ctx = cairocffi.Context(p.surface)
@@ -120,7 +120,8 @@ def plot(graph, source_path, index, result_path=None, compute_closeness=True, pr
 
 
 def task():
-    logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
+    logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO,
+                        datefmt='%Y-%m-%d %H:%M:%S')
     logging.info('start')
 
     def preview(index, gml_file_path, preview_size):
@@ -187,8 +188,8 @@ def task():
                 index_result = EXPORT_FILE_CUSTOM % (index, 'weight-%dk-%s' % (size, border))
                 logging.info('plot w/ weight big %s' % index_result)
                 index_props = EXPORT_FILE_CUSTOM % (index, 'weight-big')
-                plot(graph, gml_file_path, index_props, graph_path(index_result), False, print_label_size_min=float(border),
-                     add_legend=False, size_factor=185, bbox_size=size * 1000)
+                plot(graph, gml_file_path, index_props, graph_path(index_result), False,
+                     print_label_size_min=float(border), add_legend=False, size_factor=185, bbox_size=size * 1000)
 
     logging.info('plot summary custom')
     plot_custom(ROCK_AND_METAL_GENRE)

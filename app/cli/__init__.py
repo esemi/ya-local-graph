@@ -16,4 +16,3 @@ def graph_index(genre, full):
 
 def graph_path(index):
     return os.path.sep.join([DATA_FOLDER_PATH, index])
-

@@ -14,4 +14,3 @@ if __name__ == '__main__':
         raise Exception('Select task name')
     except ImportError:
         raise Exception('Not found task')
-

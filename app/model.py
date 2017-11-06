@@ -55,13 +55,13 @@ def get_artists_for_crawling_similar():
         Artist.is_primary.desc())
 
 
-def save_new_artist(id, name, is_primary=False):
+def save_new_artist(artist_id, name, is_primary=False):
     try:
-        Artist.create(id=id, name=name, similar_crawled=False, is_primary=is_primary)
+        Artist.create(id=artist_id, name=name, similar_crawled=False, is_primary=is_primary)
         return True
     except IntegrityError:
         if is_primary:
-            Artist.update(is_primary=True).where(Artist.id == id).execute()
+            Artist.update(is_primary=True).where(Artist.id == artist_id).execute()
         return False
 
 
@@ -88,8 +88,8 @@ def set_to_crawling_similar(genres):
     q.execute()
 
 
-def update_crawled_similar_state(id, state):
-    q = Artist.update(similar_crawled=state).where(Artist.id == id)
+def update_crawled_similar_state(artist_id, state):
+    q = Artist.update(similar_crawled=state).where(Artist.id == artist_id)
     q.execute()
 
 
@@ -131,13 +131,17 @@ def fetch_graph_custom(rock_ids, metal_ids, max_position=100, primary=True):
 
     rq = RawQuery(Similar, 'SELECT from_id, a1.name as from_label, to_id, a2.name as to_label, '
                            'a1.degree_input as from_degree, a2.degree_input as to_degree, '
-                           'CASE WHEN (SELECT COUNT(*) FROM artist_genre WHERE genre_id IN (%s) AND artist_id = from_id) > 0 '
+                           'CASE WHEN (SELECT COUNT(*) FROM artist_genre '
+                           'WHERE genre_id IN (%s) AND artist_id = from_id) > 0 '
                            'THEN 1 ELSE 0 END AS from_is_rock, '
-                           'CASE WHEN (SELECT COUNT(*) FROM artist_genre WHERE genre_id IN (%s) AND artist_id = from_id) > 0 '
+                           'CASE WHEN (SELECT COUNT(*) FROM artist_genre '
+                           'WHERE genre_id IN (%s) AND artist_id = from_id) > 0 '
                            'THEN 1 ELSE 0 END AS from_is_metal, '
-                           'CASE WHEN (SELECT COUNT(*) FROM artist_genre WHERE genre_id IN (%s) AND artist_id = to_id) > 0 '
+                           'CASE WHEN (SELECT COUNT(*) FROM artist_genre '
+                           'WHERE genre_id IN (%s) AND artist_id = to_id) > 0 '
                            'THEN 1 ELSE 0 END AS to_is_rock, '
-                           'CASE WHEN (SELECT COUNT(*) FROM artist_genre WHERE genre_id IN (%s) AND artist_id = to_id) > 0 '
+                           'CASE WHEN (SELECT COUNT(*) FROM artist_genre '
+                           'WHERE genre_id IN (%s) AND artist_id = to_id) > 0 '
                            'THEN 1 ELSE 0 END AS to_is_metal '
                            'FROM "similar" '
                            'JOIN "artist" a1 ON (from_id = a1.id) '
@@ -161,8 +165,10 @@ def fetch_graph_custom(rock_ids, metal_ids, max_position=100, primary=True):
     nodes = {}
     edges = []
     for obj in rq.execute():
-        nodes[obj.from_id] = {'label': obj.from_label, 'color': select_color(obj.from_is_rock, obj.from_is_metal), 'size': obj.from_degree}
-        nodes[obj.to_id] = {'label': obj.to_label, 'color': select_color(obj.to_is_rock, obj.to_is_metal), 'size': obj.to_degree}
+        nodes[obj.from_id] = {'label': obj.from_label, 'color': select_color(obj.from_is_rock, obj.from_is_metal),
+                              'size': obj.from_degree}
+        nodes[obj.to_id] = {'label': obj.to_label, 'color': select_color(obj.to_is_rock, obj.to_is_metal),
+                            'size': obj.to_degree}
         edges.append((obj.from_id, obj.to_id))
     return nodes, edges
 

@@ -18,9 +18,9 @@ def save_gml(genre_name, nodes, edges, full=False):
     f = open(f_name, 'w+')
 
     content = ['graph [', '    directed 1']
-    for id, attrs in nodes.items():
+    for node_id, attrs in nodes.items():
         content.append('    node [')
-        content.append('        id %d' % id)
+        content.append('        id %d' % node_id)
         for name, val in attrs.items():
             if isinstance(val, str):
                 content.append('        %s "%s"' % (name, val.replace('"', '\'')))

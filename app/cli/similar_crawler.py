@@ -7,7 +7,8 @@ from .artists_crawler import Manager
 
 
 def task(genre):
-    logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
+    logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO,
+                        datefmt='%Y-%m-%d %H:%M:%S')
     m = Manager()
     try:
         m.similar_crawling(genre)
@@ -17,5 +18,3 @@ def task(genre):
         if not config.DEBUG:
             m.close()
         raise e
-
-

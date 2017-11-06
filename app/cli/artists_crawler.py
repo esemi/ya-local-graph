@@ -141,7 +141,8 @@ class Manager(object):
 
     def __fetch_all_artists(self):
         res = []
-        slots = self.driver.find_elements_by_xpath('//div[@class="page-genre__artists" or @class="page-artist__artists"]'
+        slots = self.driver.find_elements_by_xpath('//div[@class="page-genre__artists" or '
+                                                   '@class="page-artist__artists"]'
                                                    '//div[@class="artist__content"]')
         for item in slots:
             try:
@@ -151,12 +152,12 @@ class Manager(object):
                 genre_ids = []
                 for g in genre_names:
                     try:
-                        id = self._genres[g]
+                        genre_id = self._genres[g]
                     except KeyError:
                         logging.info('add genre %s', g)
-                        id = add_genre(g)
-                        self._genres[g] = id
-                    genre_ids.append(id)
+                        genre_id = add_genre(g)
+                        self._genres[g] = genre_id
+                    genre_ids.append(genre_id)
 
                 artist = {
                     'name': link_elem.get_attribute('title').strip(),
@@ -171,7 +172,8 @@ class Manager(object):
 
 
 def task(genre, page=0):
-    logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO, datefmt='%Y-%m-%d %H:%M:%S')
+    logging.basicConfig(format='%(asctime)s %(levelname)s: %(message)s', level=logging.INFO,
+                        datefmt='%Y-%m-%d %H:%M:%S')
     m = Manager()
     try:
         m.artist_crawling(genre, int(page))
