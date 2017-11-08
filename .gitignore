@@ -2,3 +2,5 @@
 *.pyc
 venv
 data/*.png
+app/__pycache__/
+app/cli/__pycache__/
