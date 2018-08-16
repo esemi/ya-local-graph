@@ -10,7 +10,7 @@ ecdsa==0.13
 gunicorn==19.6.0
 itsdangerous==0.24
 lxml==3.6.4
-paramiko==1.17.2
+paramiko
 peewee==2.8.8
 psycopg2==2.7
 pycparser==2.17
