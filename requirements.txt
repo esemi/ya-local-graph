@@ -1,4 +1,4 @@
-Fabric==1.12.0
+Fabric==2.3.0
 Flask==0.11.1
 Jinja2==2.8
 MarkupSafe==0.23
