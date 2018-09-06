@@ -11,7 +11,7 @@ gunicorn==19.8.1
 itsdangerous==0.24
 lxml==4.2.4
 paramiko==2.4.1
-peewee==3.6.4
+peewee==3.7.0
 psycopg2==2.7.5
 pycparser==2.18
 pycrypto==2.6.1
