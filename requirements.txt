@@ -18,4 +18,4 @@ pycrypto==2.6.1
 python-igraph==0.7.1.post6
 requests==2.19.1
 selenium==3.14.0
-pillow==5.2.0
+pillow==5.3.0
