@@ -1,5 +1,5 @@
 Fabric==2.3.0
-Flask==1.0.2
+Flask==1.1.1
 Jinja2==2.10
 MarkupSafe==1.1.0
 Werkzeug==0.14.1
