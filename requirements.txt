@@ -12,7 +12,7 @@ itsdangerous==1.1.0
 lxml==4.2.4
 paramiko==2.4.2
 peewee==3.6.4
-psycopg2==2.7.6.1
+psycopg2==2.8.4
 pycparser==2.18
 pycrypto==2.6.1
 python-igraph==0.7.1.post6
