@@ -7,7 +7,7 @@ cairocffi==0.9.0
 cffi==1.11.5
 click==6.7
 ecdsa==0.13
-gunicorn==19.8.1
+gunicorn==20.0.2
 itsdangerous==1.1.0
 lxml==4.2.4
 paramiko==2.4.2
