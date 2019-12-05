@@ -1,5 +1,4 @@
 # Локал граф яндекс музыки
-[![Updates](https://pyup.io/repos/github/esemi/ya-local-graph/shield.svg)](https://pyup.io/repos/github/esemi/ya-local-graph/)
 
 https://habrahabr.ru/company/semrush/blog/337216/
 
